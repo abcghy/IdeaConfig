@@ -1,4 +1,8 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateMessagesToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="alt button1" />
   </action>
