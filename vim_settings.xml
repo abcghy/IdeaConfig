@@ -161,7 +161,23 @@
     <jumps />
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>!=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y2xhc3MgU2hpdCgpIHsK</text>
+      </register>
+      <register name="-" type="4">
+        <text>!=</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
