@@ -101,11 +101,17 @@
       <file name="/masterserver.transmission_entity_path" timestamp="1587790994549">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1587791056786">
-        <mark key="[" line="79" column="42" />
-        <mark key="]" line="80" column="53" />
-        <mark key="^" line="80" column="53" />
-        <mark key="." line="80" column="52" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1587793230255">
+        <mark key="[" line="131" column="50" />
+        <mark key="]" line="131" column="72" />
+        <mark key="^" line="131" column="72" />
+        <mark key="." line="131" column="71" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionRepository.java" timestamp="1587793191095">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/api/trans.js" timestamp="1587789944530">
         <mark key="[" line="2" column="0" />
@@ -115,12 +121,6 @@
       </file>
       <file name="/" timestamp="1587788108879">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1587787908433">
-        <mark key="[" line="52" column="5" />
-        <mark key="]" line="54" column="45" />
-        <mark key="^" line="54" column="45" />
-        <mark key="." line="54" column="44" />
       </file>
       <file name="/foo.bar" timestamp="1587790994558">
         <mark key="[" line="0" column="0" />
@@ -155,7 +155,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXE6ICcgKyBKU09OLnN0cmluZ2lmeShyZXEpKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>req</text>
+        <text>setUserInfoById</text>
       </register>
       <register name="2" type="4">
         <text>{
@@ -183,7 +183,7 @@
         <text encoding="base64">ICAgICAgICB0cmFuc21pc3Npb24ucGF0aAo=</text>
       </register>
       <register name="-" type="4">
-        <text>req</text>
+        <text>setUserInfoById</text>
       </register>
     </registers>
   </component>
