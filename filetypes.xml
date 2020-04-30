@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="activity_people_arrange_small" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="licence" type="PLAIN_TEXT" />
     </extensionMap>
