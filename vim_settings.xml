@@ -67,9 +67,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/node_entity [MySQL - @localhost]" timestamp="1587894847397">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588488984234">
         <mark key="[" line="141" column="28" />
         <mark key="]" line="141" column="32" />
@@ -85,11 +82,17 @@
       <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1587895175156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/api/trans.js" timestamp="1587799773308">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="14" />
-        <mark key="^" line="6" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/Test.kt" timestamp="1588523614254">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="20" />
+        <mark key="^" line="19" column="28" />
+        <mark key="." line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Sort/build.gradle" timestamp="1588523245802">
+        <mark key="[" line="16" column="62" />
+        <mark key="]" line="19" column="56" />
+        <mark key="^" line="19" column="56" />
+        <mark key="." line="19" column="55" />
       </file>
       <file name="/masterserver.node_entity" timestamp="1587894847462">
         <mark key="[" line="0" column="0" />
@@ -156,7 +159,7 @@
         <text encoding="base64">Ly8gICAgQFRyYW5zYWN0aW9uYWwKLy8gICAgQE1vZGlmeWluZwovLyAgICBAUXVlcnkoInVwZGF0ZSBUcmFuc21pc3Npb25FbnRpdHkgdCBzZXQgdC5ub2RlSW5mb0xpc3QgPSA/MiB3aGVyZSB0LmlkID0gPzEiKQovLyAgICB2b2lkIHVwZGF0ZU5vZGVJbmZvTGlzdChsb25nIHRJZCwgTm9kZUluZm9MaXN0IG5vZGVJbmZvTGlzdCk7CgovLyAgICBMaXN0PE5vZGVFbnRpdHk+IGZpbmRBbGxCeVVzZXJJc0FuZElkTm90SW4oVXNlciB1c2VyLCBDb2xsZWN0aW9uPE5vZGVFbnRpdHk+IHN0YXJ0QW5kRW5kTm9kZUxpc3QpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>.query()</text>
       </register>
       <register name="2" type="2">
         <text>39</text>
@@ -183,7 +186,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>.query()</text>
       </register>
     </registers>
   </component>
