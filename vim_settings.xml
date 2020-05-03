@@ -70,11 +70,11 @@
       <file name="/node_entity [MySQL - @localhost]" timestamp="1587894847397">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588488201089">
-        <mark key="[" line="140" column="9" />
-        <mark key="]" line="141" column="54" />
-        <mark key="^" line="141" column="54" />
-        <mark key="." line="141" column="53" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588488984234">
+        <mark key="[" line="141" column="28" />
+        <mark key="]" line="141" column="32" />
+        <mark key="^" line="141" column="32" />
+        <mark key="." line="141" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1588483539518">
         <mark key="[" line="0" column="0" />
@@ -105,11 +105,11 @@
       <file name="/transmission_entity [MySQL - @localhost]" timestamp="1587894888981">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/NodeInfo.java" timestamp="1588487276317">
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="41" column="5" />
-        <mark key="^" line="41" column="5" />
-        <mark key="." line="41" column="4" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/NodeInfo.java" timestamp="1588488972465">
+        <mark key="[" line="88" column="5" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="22" />
       </file>
       <file name="/default" timestamp="1587798384748">
         <mark key="[" line="0" column="0" />
@@ -145,8 +145,8 @@
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgQFRyYW5zYWN0aW9uYWwKLy8gICAgQE1vZGlmeWluZwovLyAgICBAUXVlcnkoInVwZGF0ZSBUcmFuc21pc3Npb25FbnRpdHkgdCBzZXQgdC5ub2RlSW5mb0xpc3QgPSA/MiB3aGVyZSB0LmlkID0gPzEiKQovLyAgICB2b2lkIHVwZGF0ZU5vZGVJbmZvTGlzdChsb25nIHRJZCwgTm9kZUluZm9MaXN0IG5vZGVJbmZvTGlzdCk7CgovLyAgICBMaXN0PE5vZGVFbnRpdHk+IGZpbmRBbGxCeVVzZXJJc0FuZElkTm90SW4oVXNlciB1c2VyLCBDb2xsZWN0aW9uPE5vZGVFbnRpdHk+IHN0YXJ0QW5kRW5kTm9kZUxpc3QpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgQFRyYW5zYWN0aW9uYWwKLy8gICAgQE1vZGlmeWluZwovLyAgICBAUXVlcnkoInVwZGF0ZSBUcmFuc21pc3Npb25FbnRpdHkgdCBzZXQgdC5ub2RlSW5mb0xpc3QgPSA/MiB3aGVyZSB0LmlkID0gPzEiKQovLyAgICB2b2lkIHVwZGF0ZU5vZGVJbmZvTGlzdChsb25nIHRJZCwgTm9kZUluZm9MaXN0IG5vZGVJbmZvTGlzdCk7CgovLyAgICBMaXN0PE5vZGVFbnRpdHk+IGZpbmRBbGxCeVVzZXJJc0FuZElkTm90SW4oVXNlciB1c2VyLCBDb2xsZWN0aW9uPE5vZGVFbnRpdHk+IHN0YXJ0QW5kRW5kTm9kZUxpc3QpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="2">
         <text>39</text>
@@ -173,7 +173,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>NodeEntity</text>
+        <text>.</text>
       </register>
     </registers>
   </component>
