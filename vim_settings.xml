@@ -70,7 +70,7 @@
       <file name="/node_entity [MySQL - @localhost]" timestamp="1587894847397">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1587926747803">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588487031835">
         <mark key="[" line="73" column="89" />
         <mark key="]" line="74" column="17" />
         <mark key="^" line="74" column="17" />
@@ -92,12 +92,7 @@
         <mark key="^" line="6" column="15" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/common/index.vue" timestamp="1588486927004" />
-      <file name="/masterserver.user" timestamp="1587798354395">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/user [MySQL - @localhost]" timestamp="1587798354386">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/RetrofitInstance.kt" timestamp="1588486955687" />
       <file name="/masterserver.node_entity" timestamp="1587894847462">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,6 +104,12 @@
       </file>
       <file name="/transmission_entity [MySQL - @localhost]" timestamp="1587894888981">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/NodeInfo.java" timestamp="1588487276317">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="41" column="5" />
+        <mark key="^" line="41" column="5" />
+        <mark key="." line="41" column="4" />
       </file>
       <file name="/default" timestamp="1587798384748">
         <mark key="[" line="0" column="0" />
