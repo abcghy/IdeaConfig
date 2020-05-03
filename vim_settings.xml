@@ -14,7 +14,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -91,12 +91,7 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/common/index.vue" timestamp="1588486927004" />
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/RetrofitInstance.kt" timestamp="1588486955687" />
       <file name="/masterserver.node_entity" timestamp="1587894847462">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1587798383632">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1587895175175">
@@ -105,17 +100,32 @@
       <file name="/transmission_entity [MySQL - @localhost]" timestamp="1587894888981">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/JavaUnitTest/src/main/java/OkHttpUrl.kt" timestamp="1588523164021">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/JavaUnitTest/src/main/java/Main.java" timestamp="1588523126719">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="5" />
+        <mark key="^" line="31" column="5" />
+        <mark key="." line="31" column="4" />
+      </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/NodeInfo.java" timestamp="1588488972465">
         <mark key="[" line="88" column="5" />
         <mark key="]" line="15" column="23" />
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="22" />
       </file>
-      <file name="/default" timestamp="1587798384748">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/masterserver.saasentity" timestamp="1587894855392">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/JavaUnitTest/build.gradle" timestamp="1588523044665">
+        <mark key="[" line="25" column="55" />
+        <mark key="]" line="28" column="56" />
+        <mark key="." line="28" column="55" />
+        <mark key="^" line="28" column="56" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeRepository.java" timestamp="1587900482792">
         <mark key="[" line="14" column="0" />
@@ -187,28 +197,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed J</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
