@@ -67,11 +67,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588488984234">
-        <mark key="[" line="141" column="28" />
-        <mark key="]" line="141" column="32" />
-        <mark key="^" line="141" column="32" />
-        <mark key="." line="141" column="31" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588684112902">
+        <mark key="'" line="55" column="47" />
+        <mark key="[" line="140" column="9" />
+        <mark key="]" line="141" column="37" />
+        <mark key="^" line="141" column="37" />
+        <mark key="." line="141" column="36" />
       </file>
       <file name="/Dummy.txt" timestamp="1588483539518">
         <mark key="[" line="0" column="0" />
@@ -112,11 +113,12 @@
         <mark key="^" line="31" column="5" />
         <mark key="." line="31" column="4" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/NodeInfo.java" timestamp="1588488972465">
-        <mark key="[" line="88" column="5" />
-        <mark key="]" line="15" column="23" />
-        <mark key="^" line="15" column="23" />
-        <mark key="." line="15" column="22" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/NodeInfo.java" timestamp="1588684080421">
+        <mark key="'" line="91" column="35" />
+        <mark key="[" line="15" column="59" />
+        <mark key="]" line="15" column="59" />
+        <mark key="^" line="15" column="59" />
+        <mark key="." line="15" column="58" />
       </file>
       <file name="/masterserver.saasentity" timestamp="1587894855392">
         <mark key="[" line="0" column="0" />
@@ -145,7 +147,11 @@
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="55" column="47" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" />
+      <jump line="90" column="26" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/NodeInfo.java" />
+      <jump line="91" column="35" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/NodeInfo.java" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
