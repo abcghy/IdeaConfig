@@ -67,12 +67,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588684112902">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588685073744">
         <mark key="'" line="55" column="47" />
-        <mark key="[" line="140" column="9" />
-        <mark key="]" line="141" column="37" />
-        <mark key="^" line="141" column="37" />
-        <mark key="." line="141" column="36" />
+        <mark key="[" line="145" column="77" />
+        <mark key="]" line="146" column="30" />
+        <mark key="^" line="146" column="30" />
+        <mark key="." line="146" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1588483539518">
         <mark key="[" line="0" column="0" />
