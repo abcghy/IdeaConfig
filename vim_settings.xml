@@ -79,12 +79,6 @@
       <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1588771747995">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/Test.kt" timestamp="1588705923077">
-        <mark key="[" line="57" column="22" />
-        <mark key="]" line="57" column="25" />
-        <mark key="." line="57" column="24" />
-        <mark key="^" line="57" column="25" />
-      </file>
       <file name="/transmission_entity [MySQL - @localhost]" timestamp="1588771633200">
         <mark key="[" line="0" column="0" />
       </file>
@@ -94,11 +88,11 @@
         <mark key="^" line="13" column="58" />
         <mark key="." line="13" column="57" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588771764658">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="12" column="4" />
-        <mark key="^" line="12" column="4" />
-        <mark key="." line="12" column="3" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588775005075">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="35" />
+        <mark key="." line="27" column="34" />
+        <mark key="^" line="27" column="35" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1588771614064">
         <mark key="[" line="0" column="0" />
@@ -108,6 +102,12 @@
       </file>
       <file name="/masterserver.transmission_entity_path" timestamp="1588771748004">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/backend/pom.xml" timestamp="1588773962865">
+        <mark key="[" line="236" column="21" />
+        <mark key="]" line="242" column="21" />
+        <mark key="^" line="242" column="21" />
+        <mark key="." line="242" column="20" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588770119000">
         <mark key="'" line="55" column="47" />
@@ -119,7 +119,12 @@
       <file name="/Dummy.txt" timestamp="1588705931631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.1.6.RELEASE/spring-context-support-5.1.6.RELEASE-sources.jar!/org/springframework/scheduling/quartz/MethodInvokingJobDetailFactoryBean.java" timestamp="1588705896152" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionRepository.java" timestamp="1588772121149">
+        <mark key="[" line="19" column="46" />
+        <mark key="]" line="19" column="46" />
+        <mark key="^" line="19" column="48" />
+        <mark key="." line="19" column="46" />
+      </file>
       <file name="/saasentity [MySQL - @localhost]" timestamp="1588769938677">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,12 +133,6 @@
         <mark key="]" line="5" column="24" />
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/JobService.kt" timestamp="1588705716220">
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="20" column="30" />
-        <mark key="^" line="20" column="30" />
-        <mark key="." line="20" column="29" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1588771575392">
         <mark key="[" line="25" column="0" />
@@ -144,6 +143,7 @@
       <file name="/foo.bar" timestamp="1588771748013">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.10.6/joda-time-2.10.6.jar!/org/joda/time/Period.class" timestamp="1588774686956" />
       <file name="/masterserver.saasentity" timestamp="1588769938788">
         <mark key="[" line="0" column="0" />
       </file>
@@ -169,10 +169,10 @@
         <text encoding="base64">ICAgIHVybC5sYXN0SW5kZXhPZignLicpLmxldCB7IGxhc3REb3QgLT4KICAgICAgICBpZiAobGFzdERvdCA+IHVybC5sZW5ndGggfHwgbGFzdERvdCA9PSAtMSkgewogICAgICAgICAgICByZXR1cm4gInRtcCIKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gdXJsLnN1YnN0cmluZyh1cmwubGVuZ3RoICsgMSwgdXJsLmxlbmd0aCkKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIE5vZGVJbmZvTGlzdCBnZXROb2RlSW5mb0xpc3QoKSB7Ci8vICAgICAgICByZXR1cm4gbm9kZUluZm9MaXN0OwovLyAgICB9Ci8vCi8vICAgIHB1YmxpYyB2b2lkIHNldE5vZGVJbmZvTGlzdChOb2RlSW5mb0xpc3Qgbm9kZUluZm9MaXN0KSB7Ci8vICAgICAgICB0aGlzLm5vZGVJbmZvTGlzdCA9IG5vZGVJbmZvTGlzdDsKLy8gICAgfQoKLy8gICAgQENvbnZlcnQoY29udmVydGVyID0gU3RyaW5nTGlzdENvbnZlcnRlci5jbGFzcykKLy8gICAgcHJpdmF0ZSBMaXN0PFN0cmluZz4gbmFtZXM7Ci8vCi8vICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0TmFtZXMoKSB7Ci8vICAgICAgICByZXR1cm4gbmFtZXM7Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIHZvaWQgc2V0TmFtZXMoTGlzdDxTdHJpbmc+IG5hbWVzKSB7Ci8vICAgICAgICB0aGlzLm5hbWVzID0gbmFtZXM7Ci8vICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm93Lm1pbnVzKG5vdykK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIE5vZGVJbmZvTGlzdCBnZXROb2RlSW5mb0xpc3QoKSB7Ci8vICAgICAgICByZXR1cm4gbm9kZUluZm9MaXN0OwovLyAgICB9Ci8vCi8vICAgIHB1YmxpYyB2b2lkIHNldE5vZGVJbmZvTGlzdChOb2RlSW5mb0xpc3Qgbm9kZUluZm9MaXN0KSB7Ci8vICAgICAgICB0aGlzLm5vZGVJbmZvTGlzdCA9IG5vZGVJbmZvTGlzdDsKLy8gICAgfQoKLy8gICAgQENvbnZlcnQoY29udmVydGVyID0gU3RyaW5nTGlzdENvbnZlcnRlci5jbGFzcykKLy8gICAgcHJpdmF0ZSBMaXN0PFN0cmluZz4gbmFtZXM7Ci8vCi8vICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0TmFtZXMoKSB7Ci8vICAgICAgICByZXR1cm4gbmFtZXM7Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIHZvaWQgc2V0TmFtZXMoTGlzdDxTdHJpbmc+IG5hbWVzKSB7Ci8vICAgICAgICB0aGlzLm5hbWVzID0gbmFtZXM7Ci8vICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>minutes</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -181,16 +181,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQuc3RhcnREYXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm93IC0gaXQuc3RhcnREYXRlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBKdm1TdGF0aWMKICAgIHByaXZhdGUgdmFyIGNvdW50ID0gMAo=</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIE5vZGVJbmZvTGlzdCBnZXROb2RlSW5mb0xpc3QoKSB7Ci8vICAgICAgICByZXR1cm4gbm9kZUluZm9MaXN0OwovLyAgICB9Ci8vCi8vICAgIHB1YmxpYyB2b2lkIHNldE5vZGVJbmZvTGlzdChOb2RlSW5mb0xpc3Qgbm9kZUluZm9MaXN0KSB7Ci8vICAgICAgICB0aGlzLm5vZGVJbmZvTGlzdCA9IG5vZGVJbmZvTGlzdDsKLy8gICAgfQoKLy8gICAgQENvbnZlcnQoY29udmVydGVyID0gU3RyaW5nTGlzdENvbnZlcnRlci5jbGFzcykKLy8gICAgcHJpdmF0ZSBMaXN0PFN0cmluZz4gbmFtZXM7Ci8vCi8vICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0TmFtZXMoKSB7Ci8vICAgICAgICByZXR1cm4gbmFtZXM7Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIHZvaWQgc2V0TmFtZXMoTGlzdDxTdHJpbmc+IG5hbWVzKSB7Ci8vICAgICAgICB0aGlzLm5hbWVzID0gbmFtZXM7Ci8vICAgIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -199,7 +199,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>minutes</text>
       </register>
     </registers>
   </component>
