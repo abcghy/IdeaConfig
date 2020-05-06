@@ -88,11 +88,11 @@
         <mark key="^" line="13" column="58" />
         <mark key="." line="13" column="57" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588775005075">
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="27" column="35" />
-        <mark key="." line="27" column="34" />
-        <mark key="^" line="27" column="35" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588776095259">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="35" column="18" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1588771614064">
         <mark key="[" line="0" column="0" />
@@ -116,15 +116,13 @@
         <mark key="^" line="146" column="30" />
         <mark key="." line="146" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588705931631">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionRepository.java" timestamp="1588772121149">
         <mark key="[" line="19" column="46" />
         <mark key="]" line="19" column="46" />
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="46" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.10.6/joda-time-2.10.6-sources.jar!/org/joda/time/Minutes.java" timestamp="1588775019511" />
       <file name="/saasentity [MySQL - @localhost]" timestamp="1588769938677">
         <mark key="[" line="0" column="0" />
       </file>
@@ -166,31 +164,35 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybC5sYXN0SW5kZXhPZignLicpLmxldCB7IGxhc3REb3QgLT4KICAgICAgICBpZiAobGFzdERvdCA+IHVybC5sZW5ndGggfHwgbGFzdERvdCA9PSAtMSkgewogICAgICAgICAgICByZXR1cm4gInRtcCIKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gdXJsLnN1YnN0cmluZyh1cmwubGVuZ3RoICsgMSwgdXJsLmxlbmd0aCkKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0YXJ0RGF0ZVRpbWUgPSBEYXRlVGltZShpdC5zdGFydERhdGUpCiAgICAgICAgICAgIHZhbCBtaW51dGVzID0gTWludXRlcy5taW51dGVzQmV0d2VlbihzdGFydERhdGVUaW1lLCBub3cpCiAgICAgICAgICAgIG1pbnV0ZXMuaXNHcmVhdGVyVGhhbihNaW51dGVzLm1pbnV0ZXMoMzApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm93Lm1pbnVzKG5vdykK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgc3RhcnREYXRlVGltZSA9IERhdGVUaW1lKGl0LnN0YXJ0RGF0ZSkKLy8gICAgICAgICAgICB2YWwgbWludXRlcyA9IE1pbnV0ZXMubWludXRlc0JldHdlZW4oc3RhcnREYXRlVGltZSwgbm93KQovLyAgICAgICAgICAgIG1pbnV0ZXMuaXNHcmVhdGVyVGhhbihNaW51dGVzLm1pbnV0ZXMoMzApKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>minutes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgc3RhcnREYXRlVGltZSA9IERhdGVUaW1lKGl0LnN0YXJ0RGF0ZSkKLy8gICAgICAgICAgICB2YWwgbWludXRlcyA9IE1pbnV0ZXMubWludXRlc0JldHdlZW4oc3RhcnREYXRlVGltZSwgbm93KQovLyAgICAgICAgICAgIG1pbnV0ZXMuaXNHcmVhdGVyVGhhbihNaW51dGVzLm1pbnV0ZXMoMzApKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>val startDateTime = DateTime(it.startDate)
+            val minutes = Minutes.minutesBetween(startDateTime, now)
+            minutes.isGreaterThan(Minutes.minutes(30))</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuc3RhcnREYXRlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm93IC0gaXQuc3RhcnREYXRlCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm5AZmlsdGVyIHRydWUK</text>
+      </register>
+      <register name="6" type="4">
+        <text>if () {
+                
+            }</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIE5vZGVJbmZvTGlzdCBnZXROb2RlSW5mb0xpc3QoKSB7Ci8vICAgICAgICByZXR1cm4gbm9kZUluZm9MaXN0OwovLyAgICB9Ci8vCi8vICAgIHB1YmxpYyB2b2lkIHNldE5vZGVJbmZvTGlzdChOb2RlSW5mb0xpc3Qgbm9kZUluZm9MaXN0KSB7Ci8vICAgICAgICB0aGlzLm5vZGVJbmZvTGlzdCA9IG5vZGVJbmZvTGlzdDsKLy8gICAgfQoKLy8gICAgQENvbnZlcnQoY29udmVydGVyID0gU3RyaW5nTGlzdENvbnZlcnRlci5jbGFzcykKLy8gICAgcHJpdmF0ZSBMaXN0PFN0cmluZz4gbmFtZXM7Ci8vCi8vICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0TmFtZXMoKSB7Ci8vICAgICAgICByZXR1cm4gbmFtZXM7Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIHZvaWQgc2V0TmFtZXMoTGlzdDxTdHJpbmc+IG5hbWVzKSB7Ci8vICAgICAgICB0aGlzLm5hbWVzID0gbmFtZXM7Ci8vICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm93Lm1pbnVzKG5vdykK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -199,7 +201,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>minutes</text>
+        <text>running</text>
       </register>
     </registers>
   </component>
