@@ -67,17 +67,41 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/TestJob.kt" timestamp="1588706069229">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="9" column="31" />
+        <mark key="." line="21" column="22" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.1/quartz-2.3.1-sources.jar!/org/quartz/DisallowConcurrentExecution.java" timestamp="1588705682304" />
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/Test.kt" timestamp="1588705923077">
+        <mark key="[" line="57" column="22" />
+        <mark key="]" line="57" column="25" />
+        <mark key="." line="57" column="24" />
+        <mark key="^" line="57" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/JavaUnitTest/src/main/java/Main.java" timestamp="1588523126719">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="5" />
+        <mark key="^" line="31" column="5" />
+        <mark key="." line="31" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588706338995">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="6" column="27" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1587899790624">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/backend/pom.xml" timestamp="1588695944054">
         <mark key="[" line="232" column="0" />
         <mark key="]" line="236" column="21" />
         <mark key="^" line="236" column="21" />
         <mark key="." line="236" column="20" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/TestJob.kt" timestamp="1588705418254">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="76" />
-        <mark key="^" line="10" column="76" />
-        <mark key="." line="10" column="75" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588685073744">
         <mark key="'" line="55" column="47" />
@@ -86,10 +110,16 @@
         <mark key="^" line="146" column="30" />
         <mark key="." line="146" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588483539518">
+      <file name="/Dummy.txt" timestamp="1588705931631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.1/quartz-2.3.1-sources.jar!/org/quartz/DisallowConcurrentExecution.java" timestamp="1588705682304" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.1.6.RELEASE/spring-context-support-5.1.6.RELEASE-sources.jar!/org/springframework/scheduling/quartz/MethodInvokingJobDetailFactoryBean.java" timestamp="1588705896152" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTranstionJob.kt" timestamp="1588706326312">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="24" />
+      </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/JobService.kt" timestamp="1588705716220">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="20" column="30" />
@@ -98,15 +128,6 @@
       </file>
       <file name="$USER_HOME$/code/backend/src/main/resources/application.properties" timestamp="1588705526928">
         <mark key="[" line="26" column="64" />
-      </file>
-      <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1587895175156">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/Test.kt" timestamp="1588691080299">
-        <mark key="[" line="53" column="5" />
-        <mark key="]" line="54" column="4" />
-        <mark key="." line="54" column="3" />
-        <mark key="^" line="54" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Sort/build.gradle" timestamp="1588689294323">
         <mark key="[" line="21" column="4" />
@@ -122,12 +143,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/JavaUnitTest/src/main/java/Main.java" timestamp="1588523126719">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="31" column="5" />
-        <mark key="^" line="31" column="5" />
-        <mark key="." line="31" column="4" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/NodeInfo.java" timestamp="1588684080421">
         <mark key="'" line="91" column="35" />
@@ -154,17 +169,6 @@
         <mark key="^" line="14" column="66" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/masterserver.transmission_entity" timestamp="1587894888990">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1587899790624">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/masterserver.transmission_entity_path" timestamp="1587895175164">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="55" column="47" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" />
@@ -180,8 +184,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>QuartzJobBean</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -190,10 +194,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBKdm1TdGF0aWMKICAgIHByaXZhdGUgdmFyIGNvdW50ID0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKdm1TdGF0aWMKICAgIHByaXZhdGUgdmFyIGNvdW50ID0gMAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -205,10 +209,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgQFRyYW5zYWN0aW9uYWwKLy8gICAgQE1vZGlmeWluZwovLyAgICBAUXVlcnkoInVwZGF0ZSBUcmFuc21pc3Npb25FbnRpdHkgdCBzZXQgdC5ub2RlSW5mb0xpc3QgPSA/MiB3aGVyZSB0LmlkID0gPzEiKQovLyAgICB2b2lkIHVwZGF0ZU5vZGVJbmZvTGlzdChsb25nIHRJZCwgTm9kZUluZm9MaXN0IG5vZGVJbmZvTGlzdCk7CgovLyAgICBMaXN0PE5vZGVFbnRpdHk+IGZpbmRBbGxCeVVzZXJJc0FuZElkTm90SW4oVXNlciB1c2VyLCBDb2xsZWN0aW9uPE5vZGVFbnRpdHk+IHN0YXJ0QW5kRW5kTm9kZUxpc3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>QuartzJobBean</text>
+        <text>TODO(&quot;Not yet implemented&quot;)</text>
       </register>
     </registers>
   </component>
