@@ -67,7 +67,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/TestJob.kt" timestamp="1588706069229">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/TestJob.kt" timestamp="1588769699971">
         <mark key="[" line="21" column="21" />
         <mark key="]" line="21" column="22" />
         <mark key="^" line="9" column="31" />
@@ -80,22 +80,14 @@
         <mark key="." line="57" column="24" />
         <mark key="^" line="57" column="25" />
       </file>
-      <file name="$USER_HOME$/code/JavaUnitTest/src/main/java/Main.java" timestamp="1588523126719">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="31" column="5" />
-        <mark key="^" line="31" column="5" />
-        <mark key="." line="31" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588706338995">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="28" />
-        <mark key="^" line="6" column="28" />
-        <mark key="." line="6" column="27" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1587899790624">
+      <file name="/transmission_entity [MySQL - @localhost]" timestamp="1588770192005">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588770171013">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="10" column="8" />
+        <mark key="^" line="10" column="8" />
+        <mark key="." line="10" column="7" />
       </file>
       <file name="$USER_HOME$/code/backend/pom.xml" timestamp="1588695944054">
         <mark key="[" line="232" column="0" />
@@ -103,7 +95,7 @@
         <mark key="^" line="236" column="21" />
         <mark key="." line="236" column="20" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588685073744">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588770119000">
         <mark key="'" line="55" column="47" />
         <mark key="[" line="145" column="77" />
         <mark key="]" line="146" column="30" />
@@ -114,6 +106,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.1.6.RELEASE/spring-context-support-5.1.6.RELEASE-sources.jar!/org/springframework/scheduling/quartz/MethodInvokingJobDetailFactoryBean.java" timestamp="1588705896152" />
+      <file name="/saasentity [MySQL - @localhost]" timestamp="1588769938677">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTranstionJob.kt" timestamp="1588706326312">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="24" />
@@ -129,27 +124,23 @@
       <file name="$USER_HOME$/code/backend/src/main/resources/application.properties" timestamp="1588705526928">
         <mark key="[" line="26" column="64" />
       </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1588770022912">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="56" column="43" />
+        <mark key="^" line="56" column="43" />
+        <mark key="." line="56" column="42" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Sort/build.gradle" timestamp="1588689294323">
         <mark key="[" line="21" column="4" />
         <mark key="]" line="21" column="18" />
         <mark key="." line="21" column="17" />
         <mark key="^" line="21" column="18" />
       </file>
-      <file name="/foo.bar" timestamp="1587895175175">
+      <file name="/foo.bar" timestamp="1588770192029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/JavaUnitTest/src/main/java/OkHttpUrl.kt" timestamp="1588523164021">
+      <file name="/masterserver.saasentity" timestamp="1588769938788">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/NodeInfo.java" timestamp="1588684080421">
-        <mark key="'" line="91" column="35" />
-        <mark key="[" line="15" column="59" />
-        <mark key="]" line="15" column="59" />
-        <mark key="^" line="15" column="59" />
-        <mark key="." line="15" column="58" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/CommandLineRunner1.kt" timestamp="1588703458016">
         <mark key="[" line="15" column="50" />
@@ -157,17 +148,14 @@
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/code/JavaUnitTest/build.gradle" timestamp="1588523044665">
-        <mark key="[" line="25" column="55" />
-        <mark key="]" line="28" column="56" />
-        <mark key="." line="28" column="55" />
-        <mark key="^" line="28" column="56" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionStatus.java" timestamp="1588769842880">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeRepository.java" timestamp="1587900482792">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="66" />
-        <mark key="." line="14" column="0" />
+      <file name="/masterserver.transmission_entity" timestamp="1588770192018">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -182,10 +170,10 @@
         <text encoding="base64">ICAgIHVybC5sYXN0SW5kZXhPZignLicpLmxldCB7IGxhc3REb3QgLT4KICAgICAgICBpZiAobGFzdERvdCA+IHVybC5sZW5ndGggfHwgbGFzdERvdCA9PSAtMSkgewogICAgICAgICAgICByZXR1cm4gInRtcCIKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gdXJsLnN1YnN0cmluZyh1cmwubGVuZ3RoICsgMSwgdXJsLmxlbmd0aCkKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIE5vZGVJbmZvTGlzdCBnZXROb2RlSW5mb0xpc3QoKSB7Ci8vICAgICAgICByZXR1cm4gbm9kZUluZm9MaXN0OwovLyAgICB9Ci8vCi8vICAgIHB1YmxpYyB2b2lkIHNldE5vZGVJbmZvTGlzdChOb2RlSW5mb0xpc3Qgbm9kZUluZm9MaXN0KSB7Ci8vICAgICAgICB0aGlzLm5vZGVJbmZvTGlzdCA9IG5vZGVJbmZvTGlzdDsKLy8gICAgfQoKLy8gICAgQENvbnZlcnQoY29udmVydGVyID0gU3RyaW5nTGlzdENvbnZlcnRlci5jbGFzcykKLy8gICAgcHJpdmF0ZSBMaXN0PFN0cmluZz4gbmFtZXM7Ci8vCi8vICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0TmFtZXMoKSB7Ci8vICAgICAgICByZXR1cm4gbmFtZXM7Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIHZvaWQgc2V0TmFtZXMoTGlzdDxTdHJpbmc+IG5hbWVzKSB7Ci8vICAgICAgICB0aGlzLm5hbWVzID0gbmFtZXM7Ci8vICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIE5vZGVJbmZvTGlzdCBnZXROb2RlSW5mb0xpc3QoKSB7Ci8vICAgICAgICByZXR1cm4gbm9kZUluZm9MaXN0OwovLyAgICB9Ci8vCi8vICAgIHB1YmxpYyB2b2lkIHNldE5vZGVJbmZvTGlzdChOb2RlSW5mb0xpc3Qgbm9kZUluZm9MaXN0KSB7Ci8vICAgICAgICB0aGlzLm5vZGVJbmZvTGlzdCA9IG5vZGVJbmZvTGlzdDsKLy8gICAgfQoKLy8gICAgQENvbnZlcnQoY29udmVydGVyID0gU3RyaW5nTGlzdENvbnZlcnRlci5jbGFzcykKLy8gICAgcHJpdmF0ZSBMaXN0PFN0cmluZz4gbmFtZXM7Ci8vCi8vICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0TmFtZXMoKSB7Ci8vICAgICAgICByZXR1cm4gbmFtZXM7Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIHZvaWQgc2V0TmFtZXMoTGlzdDxTdHJpbmc+IG5hbWVzKSB7Ci8vICAgICAgICB0aGlzLm5hbWVzID0gbmFtZXM7Ci8vICAgIH0K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -197,13 +185,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBKdm1TdGF0aWMKICAgIHByaXZhdGUgdmFyIGNvdW50ID0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKdm1TdGF0aWMKICAgIHByaXZhdGUgdmFyIGNvdW50ID0gMAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -212,7 +200,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>TODO(&quot;Not yet implemented&quot;)</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
   </component>
