@@ -7,6 +7,9 @@
   <component name="VimHistorySettings">
     <history>
       <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -67,12 +70,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/TestJob.kt" timestamp="1588769699971">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="22" />
-        <mark key="^" line="9" column="31" />
-        <mark key="." line="21" column="22" />
-      </file>
       <file name="/console" timestamp="1588771665886">
         <mark key="[" line="0" column="0" />
       </file>
@@ -88,11 +85,18 @@
         <mark key="^" line="13" column="58" />
         <mark key="." line="13" column="57" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588776095259">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="35" column="18" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588779886420">
+        <mark key="'" line="107" column="31" />
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+        <mark key="^" line="50" column="55" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/BaseService.kt" timestamp="1588779154655">
+        <mark key="[" line="24" column="114" />
+        <mark key="]" line="24" column="114" />
+        <mark key="." line="24" column="114" />
+        <mark key="^" line="24" column="115" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1588771614064">
         <mark key="[" line="0" column="0" />
@@ -109,13 +113,6 @@
         <mark key="^" line="242" column="21" />
         <mark key="." line="242" column="20" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588770119000">
-        <mark key="'" line="55" column="47" />
-        <mark key="[" line="145" column="77" />
-        <mark key="]" line="146" column="30" />
-        <mark key="^" line="146" column="30" />
-        <mark key="." line="146" column="29" />
-      </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionRepository.java" timestamp="1588772121149">
         <mark key="[" line="19" column="46" />
         <mark key="]" line="19" column="46" />
@@ -123,34 +120,23 @@
         <mark key="." line="19" column="46" />
       </file>
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.10.6/joda-time-2.10.6-sources.jar!/org/joda/time/Minutes.java" timestamp="1588775019511" />
-      <file name="/saasentity [MySQL - @localhost]" timestamp="1588769938677">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/JobService.kt" timestamp="1588779962707">
+        <mark key="[" line="20" column="56" />
+        <mark key="]" line="20" column="30" />
+        <mark key="^" line="20" column="30" />
+        <mark key="." line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTranstionJob.kt" timestamp="1588706326312">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="24" />
-        <mark key="^" line="5" column="23" />
-        <mark key="." line="5" column="24" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1588777605130">
+        <mark key="[" line="63" column="5" />
+        <mark key="]" line="65" column="24" />
+        <mark key="^" line="65" column="24" />
+        <mark key="." line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1588771575392">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="9" />
-        <mark key="^" line="26" column="9" />
-        <mark key="." line="26" column="8" />
-      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/RetrofitInstance.kt" timestamp="1588778843564" />
       <file name="/foo.bar" timestamp="1588771748013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.10.6/joda-time-2.10.6.jar!/org/joda/time/Period.class" timestamp="1588774686956" />
-      <file name="/masterserver.saasentity" timestamp="1588769938788">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionStatus.java" timestamp="1588771599537">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="14" />
-        <mark key="^" line="5" column="15" />
-      </file>
       <file name="/masterserver.transmission_entity" timestamp="1588771633209">
         <mark key="[" line="0" column="0" />
       </file>
@@ -159,6 +145,7 @@
       <jump line="55" column="47" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" />
       <jump line="90" column="26" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/NodeInfo.java" />
       <jump line="91" column="35" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/NodeInfo.java" />
+      <jump line="101" column="31" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -167,41 +154,38 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0YXJ0RGF0ZVRpbWUgPSBEYXRlVGltZShpdC5zdGFydERhdGUpCiAgICAgICAgICAgIHZhbCBtaW51dGVzID0gTWludXRlcy5taW51dGVzQmV0d2VlbihzdGFydERhdGVUaW1lLCBub3cpCiAgICAgICAgICAgIG1pbnV0ZXMuaXNHcmVhdGVyVGhhbihNaW51dGVzLm1pbnV0ZXMoMzApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgc3RhcnREYXRlVGltZSA9IERhdGVUaW1lKGl0LnN0YXJ0RGF0ZSkKLy8gICAgICAgICAgICB2YWwgbWludXRlcyA9IE1pbnV0ZXMubWludXRlc0JldHdlZW4oc3RhcnREYXRlVGltZSwgbm93KQovLyAgICAgICAgICAgIG1pbnV0ZXMuaXNHcmVhdGVyVGhhbihNaW51dGVzLm1pbnV0ZXMoMzApKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgc3RhcnREYXRlVGltZSA9IERhdGVUaW1lKGl0LnN0YXJ0RGF0ZSkKLy8gICAgICAgICAgICB2YWwgbWludXRlcyA9IE1pbnV0ZXMubWludXRlc0JldHdlZW4oc3RhcnREYXRlVGltZSwgbm93KQovLyAgICAgICAgICAgIG1pbnV0ZXMuaXNHcmVhdGVyVGhhbihNaW51dGVzLm1pbnV0ZXMoMzApKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>val startDateTime = DateTime(it.startDate)
-            val minutes = Minutes.minutesBetween(startDateTime, now)
-            minutes.isGreaterThan(Minutes.minutes(30))</text>
+        <text>?.let {
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0LmVuZCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICByZXR1cm5AbGV0CiAgICAgICAgICAgIH0KICAgICAgICAgICAgdmFsIGVuZFNhYVNMaXN0ID0gaXQuZW5kCiAgICAgICAgICAgIGVuZFNhYVNMaXN0LnNhYXMuZm9yRWFjaCB7IHNhYXMgLT4KICAgICAgICAgICAgICAgIHdoZW4gKHNhYXMpIHsKICAgICAgICAgICAgICAgICAgICBpcyBHaXRodWIgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAvLyDmn6Xmib4KICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBnaXRodWJHaXN0ID0gUmV0cm9maXRJbnN0YW5jZS5naXRodWJTZXJ2aWNlLmdldFNpbmdsZUdpc3Qoc2Fhcy5pZCwgInRva2VuICR7c2Fhcy50b2tlbn0iKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGdpdGh1Ykdpc3QuZmlsZXM/LnNpemUgIT0gbnVsbCAmJiBnaXRodWJHaXN0LmZpbGVzLmlzTm90RW1wdHkoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuQGZvckVhY2gKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBpcyBLbG91ZG5lc3MgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAvLyDmn6Xmib4ga2xvdWRsbmVzcyDkuK0g5paH5Lu25ZCN5Li6IFtlbmRTYWFTTGlzdC5uYW1lXSDnmoTmlofku7YKICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCByZXMgPSBSZXRyb2ZpdEluc3RhbmNlLmtsb3VkbGVzc1NlcnZpY2Uuc2VhcmNoRmlsZXNCeUZpbGVOYW1lKGVuZFNhYVNMaXN0Lm5hbWUsICJCZWFyZXIgJHtzYWFzLnRva2VufSIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwga2xvdWRsZXNzID0gcmVzLm9iamVjdHMuZmluZCB7IGtsb3VkbGVzcyAtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtsb3VkbGVzcy5uYW1lID09IGVuZFNhYVNMaXN0Lm5hbWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gPzogcmV0dXJuQGZvckVhY2gKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHRvZG86IGdoeSDliKDpmaQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBmYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm5AZmlsdGVyIHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0LmVuZCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICByZXR1cm5AbGV0CiAgICAgICAgICAgIH0KICAgICAgICAgICAgdmFsIGVuZFNhYVNMaXN0ID0gaXQuZW5kCiAgICAgICAgICAgIGVuZFNhYVNMaXN0LnNhYXMuZm9yRWFjaCB7IHNhYXMgLT4KICAgICAgICAgICAgICAgIHdoZW4gKHNhYXMpIHsKICAgICAgICAgICAgICAgICAgICBpcyBHaXRodWIgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAvLyDmn6Xmib4KICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBnaXRodWJHaXN0ID0gUmV0cm9maXRJbnN0YW5jZS5naXRodWJTZXJ2aWNlLmdldFNpbmdsZUdpc3Qoc2Fhcy5pZCwgInRva2VuICR7c2Fhcy50b2tlbn0iKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGdpdGh1Ykdpc3QuZmlsZXM/LnNpemUgIT0gbnVsbCAmJiBnaXRodWJHaXN0LmZpbGVzLmlzTm90RW1wdHkoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuQGZvckVhY2gKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBpcyBLbG91ZG5lc3MgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAvLyDmn6Xmib4ga2xvdWRsbmVzcyDkuK0g5paH5Lu25ZCN5Li6IFtlbmRTYWFTTGlzdC5uYW1lXSDnmoTmlofku7YKICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCByZXMgPSBSZXRyb2ZpdEluc3RhbmNlLmtsb3VkbGVzc1NlcnZpY2Uuc2VhcmNoRmlsZXNCeUZpbGVOYW1lKGVuZFNhYVNMaXN0Lm5hbWUsICJCZWFyZXIgJHtzYWFzLnRva2VufSIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwga2xvdWRsZXNzID0gcmVzLm9iamVjdHMuZmluZCB7IGtsb3VkbGVzcyAtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtsb3VkbGVzcy5uYW1lID09IGVuZFNhYVNMaXN0Lm5hbWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gPzogcmV0dXJuQGZvckVhY2gKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHRvZG86IGdoeSDliKDpmaQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBmYWxzZQogICAgICAgIH0gPzogcmV0dXJuIGZhbHNlCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>if () {
-                
-            }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChnaXRodWJHaXN0ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm93Lm1pbnVzKG5vdykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUmV0cm9maXRJbnN0YW5jZS5naXRodWJTZXJ2aWNlLmdldFNpbmdsZUdpc3Qoc2Fhcy5pZCwgInRva2VuICR7c2Fhcy50b2tlbn0iKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>running</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
     </registers>
   </component>
