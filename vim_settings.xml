@@ -83,11 +83,17 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="16" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1588861533692" />
       <file name="/transmission_entity [MySQL - @localhost]" timestamp="1588870955484">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/bean/NodeEntity.java" timestamp="1588870497977" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588873596997">
+        <mark key="'" line="118" column="31" />
+        <mark key="[" line="60" column="46" />
+        <mark key="]" line="60" column="58" />
+        <mark key="." line="60" column="57" />
+        <mark key="^" line="60" column="58" />
+      </file>
       <file name="/masterserver.transmission_entity_path" timestamp="1588870958628">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,18 +108,17 @@
         <mark key="^" line="206" column="34" />
         <mark key="." line="206" column="33" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/bean/NodeUserSerializer.java" timestamp="1588862934850" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionRepository.java" timestamp="1588873621081">
+        <mark key="[" line="24" column="57" />
+        <mark key="]" line="24" column="74" />
+        <mark key="^" line="24" column="74" />
+        <mark key="." line="24" column="73" />
+      </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/api/trans.js" timestamp="1588866016334">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="14" column="17" />
         <mark key="^" line="14" column="17" />
         <mark key="." line="14" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionNodeInfoSerializer.kt" timestamp="1588862890641">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="8" column="4" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1588870955557">
         <mark key="[" line="20" column="56" />
@@ -130,6 +135,12 @@
         <mark key="]" line="11" column="8" />
         <mark key="^" line="11" column="8" />
         <mark key="." line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/CommandLineRunner1.kt" timestamp="1588873358977">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="51" />
+        <mark key="^" line="17" column="51" />
+        <mark key="." line="17" column="50" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/trans.js" timestamp="1588866158340">
         <mark key="[" line="18" column="13" />
@@ -202,7 +213,7 @@
       <last-offset />
       <last-pattern>downloadkey</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
