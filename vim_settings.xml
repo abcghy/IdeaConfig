@@ -70,22 +70,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/permission/index.vue" timestamp="1588785716791">
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/permission/index.vue" timestamp="1588867359265">
         <mark key="'" line="59" column="6" />
       </file>
-      <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1588786146767">
+      <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1588869352983">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/common/index.vue" timestamp="1588866169014" />
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1588861533692" />
-      <file name="/transmission_entity [MySQL - @localhost]" timestamp="1588786138035">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/Test.kt" timestamp="1588869262357">
+        <mark key="[" line="52" column="12" />
+        <mark key="]" line="52" column="16" />
+        <mark key="." line="52" column="15" />
+        <mark key="^" line="52" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ad86fd6b-c661-4c3a-89a4-ad98d39a0987/console.sql" timestamp="1588782762596">
-        <mark key="[" line="13" column="54" />
-        <mark key="]" line="13" column="57" />
-        <mark key="^" line="13" column="57" />
-        <mark key="." line="13" column="56" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1588861533692" />
+      <file name="/transmission_entity [MySQL - @localhost]" timestamp="1588869347618">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/bean/NodeEntity.java" timestamp="1588862730714" />
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588785195137">
@@ -95,10 +95,10 @@
         <mark key="." line="53" column="57" />
         <mark key="^" line="53" column="58" />
       </file>
-      <file name="/masterserver.transmission_entity_path" timestamp="1588786146780">
+      <file name="/masterserver.transmission_entity_path" timestamp="1588869352993">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588863869433">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588869024903">
         <mark key="[" line="204" column="63" />
         <mark key="]" line="206" column="34" />
         <mark key="^" line="206" column="34" />
@@ -117,13 +117,13 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1588863898311">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1588869498692">
         <mark key="[" line="71" column="5" />
-        <mark key="]" line="19" column="52" />
-        <mark key="^" line="19" column="52" />
-        <mark key="." line="19" column="51" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+        <mark key="." line="13" column="12" />
       </file>
-      <file name="/foo.bar" timestamp="1588786146791">
+      <file name="/foo.bar" timestamp="1588869353008">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/user/UserNodeListSerializer.java" timestamp="1588863005397" />
@@ -138,14 +138,14 @@
         <mark key="]" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" timestamp="1588866240566">
-        <mark key="'" line="40" column="2" />
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="47" column="26" />
-        <mark key="^" line="47" column="26" />
-        <mark key="." line="47" column="25" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" timestamp="1588868832072">
+        <mark key="'" line="54" column="2" />
+        <mark key="[" line="75" column="18" />
+        <mark key="]" line="75" column="33" />
+        <mark key="^" line="75" column="33" />
+        <mark key="." line="75" column="32" />
       </file>
-      <file name="/masterserver.transmission_entity" timestamp="1588786138055">
+      <file name="/masterserver.transmission_entity" timestamp="1588869347629">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -163,38 +163,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgIDpsYWJlbD0i5o6l5Y+X6IqC54K5Ij4KICAgICAgPC9lbC10YWJsZS1jb2x1bW4+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LmNhdGNoKGVycm9yID0+IHsKICAgICAgcmVqZWN0KGVycm9yKQogICAgfSk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>mission</text>
+        <text encoding="base64">Pg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+      <register name="2" type="4">
+        <text encoding="base64">LmNhdGNoKGVycm9yID0+IHsKICAgICAgcmVqZWN0KGVycm9yKQogICAgfSk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS2xvdWRuZXNzIGtsb3VkbmVzcyA9IG5ldyBLbG91ZG5lc3MoanNvbk9iamVjdC5nZXQoInRva2VuIikuZ2V0QXNTdHJpbmcoKSk7CiAgICAgICAgICAgIHJldHVybiBrbG91ZG5lc3M7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSnNvbkVsZW1lbnQgdG9rZW4gPSBqc29uT2JqZWN0LmdldCgidG9rZW4iKTsKICAgICAgICAgICAgSnNvbkVsZW1lbnQgaWQgPSBqc29uT2JqZWN0LmdldCgiaWQiKTsK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgS2xvdWRuZXNzIGtsb3VkbmVzcyA9IG5ldyBLbG91ZG5lc3MoanNvbk9iamVjdC5nZXQoInRva2VuIikuZ2V0QXNTdHJpbmcoKSk7CiAgICAgICAgICAgIHJldHVybiBrbG91ZG5lc3M7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSnNvbkVsZW1lbnQgdG9rZW4gPSBqc29uT2JqZWN0LmdldCgidG9rZW4iKTsKICAgICAgICAgICAgSnNvbkVsZW1lbnQgaWQgPSBqc29uT2JqZWN0LmdldCgiaWQiKTsK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vICAgIEBBdXRvd2lyZWQKLy8gICAgbGF0ZWluaXQgdmFyIHRyYW5zbWlzc2lvblJlcG9zaXRvcnk6IFRyYW5zbWlzc2lvblJlcG9zaXRvcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>mission</text>
+        <text encoding="base64">Pg==</text>
       </register>
     </registers>
   </component>
