@@ -73,7 +73,7 @@
       <file name="$USER_HOME$/code/vue-admin-template/src/views/permission/index.vue" timestamp="1588867359265">
         <mark key="'" line="59" column="6" />
       </file>
-      <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1588869352983">
+      <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1588870958618">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/common/index.vue" timestamp="1588866169014" />
@@ -84,19 +84,17 @@
         <mark key="^" line="52" column="16" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1588861533692" />
-      <file name="/transmission_entity [MySQL - @localhost]" timestamp="1588869347618">
+      <file name="/transmission_entity [MySQL - @localhost]" timestamp="1588870955484">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/bean/NodeEntity.java" timestamp="1588870497977" />
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588785195137">
-        <mark key="'" line="117" column="31" />
-        <mark key="[" line="52" column="58" />
-        <mark key="]" line="53" column="58" />
-        <mark key="." line="53" column="57" />
-        <mark key="^" line="53" column="58" />
-      </file>
-      <file name="/masterserver.transmission_entity_path" timestamp="1588869352993">
+      <file name="/masterserver.transmission_entity_path" timestamp="1588870958628">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1588870989718">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588869024903">
         <mark key="[" line="204" column="63" />
@@ -117,13 +115,13 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1588870931358">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1588870955557">
         <mark key="[" line="20" column="56" />
         <mark key="]" line="21" column="35" />
         <mark key="^" line="21" column="35" />
         <mark key="." line="21" column="34" />
       </file>
-      <file name="/foo.bar" timestamp="1588869353008">
+      <file name="/foo.bar" timestamp="1588870958638">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/user/UserNodeListSerializer.java" timestamp="1588863005397" />
@@ -138,14 +136,14 @@
         <mark key="]" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" timestamp="1588868832072">
-        <mark key="'" line="54" column="2" />
-        <mark key="[" line="75" column="18" />
-        <mark key="]" line="75" column="33" />
-        <mark key="^" line="75" column="33" />
-        <mark key="." line="75" column="32" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" timestamp="1588872955998">
+        <mark key="'" line="61" column="2" />
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="26" />
+        <mark key="^" line="46" column="26" />
+        <mark key="." line="46" column="25" />
       </file>
-      <file name="/masterserver.transmission_entity" timestamp="1588869347629">
+      <file name="/masterserver.transmission_entity" timestamp="1588870955495">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -167,7 +165,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>OneToMany</text>
+        <text>getEnd</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">LmNhdGNoKGVycm9yID0+IHsKICAgICAgcmVqZWN0KGVycm9yKQogICAgfSk=</text>
@@ -194,7 +192,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>OneToMany</text>
+        <text>getEnd</text>
       </register>
     </registers>
   </component>
@@ -204,7 +202,7 @@
       <last-offset />
       <last-pattern>downloadkey</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
