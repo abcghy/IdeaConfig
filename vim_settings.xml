@@ -70,12 +70,40 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/permission/index.vue" timestamp="1588785716791">
+        <mark key="'" line="59" column="6" />
+      </file>
+      <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1588786146767">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1588861533692" />
+      <file name="/transmission_entity [MySQL - @localhost]" timestamp="1588786138035">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ad86fd6b-c661-4c3a-89a4-ad98d39a0987/console.sql" timestamp="1588782762596">
+        <mark key="[" line="13" column="54" />
+        <mark key="]" line="13" column="57" />
+        <mark key="^" line="13" column="57" />
+        <mark key="." line="13" column="56" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/bean/NodeEntity.java" timestamp="1588862730714" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588785195137">
+        <mark key="'" line="117" column="31" />
+        <mark key="[" line="52" column="58" />
+        <mark key="]" line="53" column="58" />
+        <mark key="." line="53" column="57" />
+        <mark key="^" line="53" column="58" />
+      </file>
+      <file name="/masterserver.transmission_entity_path" timestamp="1588786146780">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588861598418">
         <mark key="[" line="205" column="36" />
         <mark key="]" line="205" column="52" />
         <mark key="^" line="205" column="37" />
         <mark key="." line="205" column="36" />
       </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/bean/NodeUserSerializer.java" timestamp="1588862934850" />
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionRepository.java" timestamp="1588782613784">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="18" />
@@ -88,17 +116,11 @@
         <mark key="^" line="12" column="73" />
         <mark key="." line="12" column="72" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/permission/index.vue" timestamp="1588785716791">
-        <mark key="'" line="59" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/JobService.kt" timestamp="1588780624295">
-        <mark key="[" line="28" column="39" />
-        <mark key="]" line="28" column="42" />
-        <mark key="^" line="28" column="42" />
-        <mark key="." line="28" column="41" />
-      </file>
-      <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1588786146767">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionNodeInfoSerializer.kt" timestamp="1588862890641">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/SaaSDeserializer.java" timestamp="1588782169468">
         <mark key="[" line="15" column="26" />
@@ -106,31 +128,21 @@
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="43" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1588861533692" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1588863008729">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="19" column="52" />
+        <mark key="^" line="19" column="52" />
+        <mark key="." line="19" column="51" />
+      </file>
       <file name="/foo.bar" timestamp="1588786146791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/transmission_entity [MySQL - @localhost]" timestamp="1588786138035">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ad86fd6b-c661-4c3a-89a4-ad98d39a0987/console.sql" timestamp="1588782762596">
-        <mark key="[" line="13" column="54" />
-        <mark key="]" line="13" column="57" />
-        <mark key="^" line="13" column="57" />
-        <mark key="." line="13" column="56" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/bean/NodeEntity.java" timestamp="1588786183103" />
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/utils/NodeInfoStringConverter.kt" timestamp="1588781254928">
-        <mark key="[" line="11" column="74" />
-        <mark key="]" line="11" column="74" />
-        <mark key="^" line="11" column="74" />
-        <mark key="." line="11" column="73" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/CommandLineRunner1.kt" timestamp="1588780751629">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="17" column="51" />
-        <mark key="^" line="17" column="51" />
-        <mark key="." line="17" column="50" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/user/UserNodeListSerializer.java" timestamp="1588863005397" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionNodeEntitySerializer.kt" timestamp="1588862969335">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="8" />
+        <mark key="^" line="11" column="8" />
+        <mark key="." line="11" column="7" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" timestamp="1588785790763">
         <mark key="'" line="40" column="2" />
@@ -139,23 +151,7 @@
         <mark key="^" line="24" column="21" />
         <mark key="." line="24" column="20" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588785195137">
-        <mark key="'" line="117" column="31" />
-        <mark key="[" line="52" column="58" />
-        <mark key="]" line="53" column="58" />
-        <mark key="." line="53" column="57" />
-        <mark key="^" line="53" column="58" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/BaseService.kt" timestamp="1588779154655">
-        <mark key="[" line="24" column="114" />
-        <mark key="]" line="24" column="114" />
-        <mark key="." line="24" column="114" />
-        <mark key="^" line="24" column="115" />
-      </file>
       <file name="/masterserver.transmission_entity" timestamp="1588786138055">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/masterserver.transmission_entity_path" timestamp="1588786146780">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -174,38 +170,37 @@
         <text encoding="base64">ICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgIDpsYWJlbD0i5o6l5Y+X6IqC54K5Ij4KICAgICAgPC9lbC10YWJsZS1jb2x1bW4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>transmissionList</text>
+        <text>p0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS2xvdWRuZXNzIGtsb3VkbmVzcyA9IG5ldyBLbG91ZG5lc3MoanNvbk9iamVjdC5nZXQoInRva2VuIikuZ2V0QXNTdHJpbmcoKSk7CiAgICAgICAgICAgIHJldHVybiBrbG91ZG5lc3M7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSnNvbkVsZW1lbnQgdG9rZW4gPSBqc29uT2JqZWN0LmdldCgidG9rZW4iKTsKICAgICAgICAgICAgSnNvbkVsZW1lbnQgaWQgPSBqc29uT2JqZWN0LmdldCgiaWQiKTsK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ci8vICAgIEBBdXRvd2lyZWQKLy8gICAgbGF0ZWluaXQgdmFyIHRyYW5zbWlzc2lvblJlcG9zaXRvcnk6IFRyYW5zbWlzc2lvblJlcG9zaXRvcnkK</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgS2xvdWRuZXNzIGtsb3VkbmVzcyA9IG5ldyBLbG91ZG5lc3MoanNvbk9iamVjdC5nZXQoInRva2VuIikuZ2V0QXNTdHJpbmcoKSk7CiAgICAgICAgICAgIHJldHVybiBrbG91ZG5lc3M7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSnNvbkVsZW1lbnQgdG9rZW4gPSBqc29uT2JqZWN0LmdldCgidG9rZW4iKTsKICAgICAgICAgICAgSnNvbkVsZW1lbnQgaWQgPSBqc29uT2JqZWN0LmdldCgiaWQiKTsK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">Ci8vICAgIEBBdXRvd2lyZWQKLy8gICAgbGF0ZWluaXQgdmFyIHRyYW5zbWlzc2lvblJlcG9zaXRvcnk6IFRyYW5zbWlzc2lvblJlcG9zaXRvcnkK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>?.let {
-        }</text>
-      </register>
       <register name="-" type="4">
-        <text>transmissionList</text>
+        <text>p0</text>
       </register>
     </registers>
   </component>
