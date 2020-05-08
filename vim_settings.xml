@@ -87,12 +87,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/bean/NodeEntity.java" timestamp="1588870497977" />
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588955022518">
-        <mark key="'" line="119" column="31" />
-        <mark key="[" line="113" column="27" />
-        <mark key="]" line="113" column="29" />
-        <mark key="." line="113" column="28" />
-        <mark key="^" line="113" column="29" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588957253324">
+        <mark key="'" line="120" column="31" />
+        <mark key="[" line="123" column="46" />
+        <mark key="]" line="123" column="53" />
+        <mark key="." line="123" column="52" />
+        <mark key="^" line="123" column="53" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/BaseService.kt" timestamp="1588954987761">
         <mark key="[" line="43" column="4" />
@@ -141,11 +141,11 @@
       <file name="/foo.bar" timestamp="1588873728946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/CommandLineRunner1.kt" timestamp="1588950808760">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="17" column="51" />
-        <mark key="^" line="17" column="51" />
-        <mark key="." line="17" column="50" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/CommandLineRunner1.kt" timestamp="1588957276277">
+        <mark key="[" line="17" column="63" />
+        <mark key="]" line="17" column="66" />
+        <mark key="^" line="17" column="66" />
+        <mark key="." line="17" column="65" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/trans.js" timestamp="1588866158340">
         <mark key="[" line="18" column="13" />
@@ -180,35 +180,35 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>thub</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">LmNhdGNoKGVycm9yID0+IHsKICAgICAgcmVqZWN0KGVycm9yKQogICAgfSk=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>thub</text>
+        <text>gist</text>
       </register>
     </registers>
   </component>
