@@ -114,6 +114,12 @@
         <mark key="^" line="24" column="74" />
         <mark key="." line="24" column="73" />
       </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/JobService.kt" timestamp="1588949342073">
+        <mark key="[" line="35" column="52" />
+        <mark key="]" line="35" column="74" />
+        <mark key="^" line="35" column="74" />
+        <mark key="." line="35" column="73" />
+      </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/api/trans.js" timestamp="1588866016334">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="14" column="17" />
@@ -130,13 +136,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/user/UserNodeListSerializer.java" timestamp="1588863005397" />
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionNodeEntitySerializer.kt" timestamp="1588862969335">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="8" />
-        <mark key="^" line="11" column="8" />
-        <mark key="." line="11" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/CommandLineRunner1.kt" timestamp="1588873358977">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/CommandLineRunner1.kt" timestamp="1588949302004">
         <mark key="[" line="17" column="26" />
         <mark key="]" line="17" column="51" />
         <mark key="^" line="17" column="51" />
@@ -176,7 +176,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>getEnd</text>
+        <text>repeatSecondlyForever</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">LmNhdGNoKGVycm9yID0+IHsKICAgICAgcmVqZWN0KGVycm9yKQogICAgfSk=</text>
@@ -203,7 +203,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getEnd</text>
+        <text>repeatSecondlyForever</text>
       </register>
     </registers>
   </component>
