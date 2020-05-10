@@ -70,20 +70,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/permission/index.vue" timestamp="1588867359265">
-        <mark key="'" line="59" column="6" />
-      </file>
       <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1589093141123">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/transmission_entity [MySQL - @localhost]" timestamp="1589093195634">
+      <file name="/transmission_entity [MySQL - @localhost]" timestamp="1589097103019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588961927036">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1589097541692">
         <mark key="'" line="120" column="31" />
-        <mark key="[" line="98" column="49" />
-        <mark key="]" line="98" column="62" />
-        <mark key="." line="98" column="61" />
+        <mark key="[" line="68" column="50" />
+        <mark key="]" line="68" column="51" />
+        <mark key="." line="68" column="51" />
         <mark key="^" line="98" column="62" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/BaseService.kt" timestamp="1588960403807">
@@ -93,6 +90,9 @@
         <mark key="^" line="43" column="4" />
       </file>
       <file name="/masterserver.transmission_entity_path" timestamp="1589093141142">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1589097110113">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/common.kt" timestamp="1588960474781">
@@ -107,7 +107,7 @@
         <mark key="^" line="24" column="74" />
         <mark key="." line="24" column="73" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/utils/GsonUtils.java" timestamp="1588961504186">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/utils/GsonUtils.java" timestamp="1589096832790">
         <mark key="[" line="13" column="22" />
         <mark key="]" line="15" column="63" />
         <mark key="^" line="15" column="63" />
@@ -119,11 +119,11 @@
         <mark key="^" line="35" column="88" />
         <mark key="." line="35" column="87" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/SaaSDeserializer.java" timestamp="1588961824715">
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="42" column="27" />
-        <mark key="." line="42" column="26" />
-        <mark key="^" line="42" column="27" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/SaaSDeserializer.java" timestamp="1589096203998">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="38" column="51" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/OnGithubGistListener.kt" timestamp="1588960741151">
         <mark key="'" line="115" column="0" />
@@ -132,13 +132,13 @@
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1588870955557">
-        <mark key="[" line="20" column="56" />
-        <mark key="]" line="21" column="35" />
-        <mark key="^" line="21" column="35" />
-        <mark key="." line="21" column="34" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1589096855089">
+        <mark key="[" line="32" column="37" />
+        <mark key="]" line="32" column="66" />
+        <mark key="^" line="32" column="66" />
+        <mark key="." line="32" column="65" />
       </file>
-      <file name="/foo.bar" timestamp="1589093195657">
+      <file name="/foo.bar" timestamp="1589097103050">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/CommandLineRunner1.kt" timestamp="1588957276277">
@@ -154,7 +154,7 @@
         <mark key="^" line="46" column="26" />
         <mark key="." line="46" column="25" />
       </file>
-      <file name="/masterserver.transmission_entity" timestamp="1589093195646">
+      <file name="/masterserver.transmission_entity" timestamp="1589097103035">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -163,40 +163,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybC5sYXN0SW5kZXhPZignLicpLmxldCB7IGxhc3REb3QgLT4KICAgICAgICBpZiAobGFzdERvdCA+IHVybC5sZW5ndGggfHwgbGFzdERvdCA9PSAtMSkgewogICAgICAgICAgICByZXR1cm4gInRtcCIKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gdXJsLnN1YnN0cmluZyh1cmwubGVuZ3RoICsgMSwgdXJsLmxlbmd0aCkKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbnRleHQuc2VyaWFsaXplKHNyYywgR2l0aHViLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgQFRyYW5zYWN0aW9uYWwKLy8gICAgQE1vZGlmeWluZwovLyAgICBAUXVlcnkoInVwZGF0ZSBUcmFuc21pc3Npb25FbnRpdHkgdCBzZXQgdC5ub2RlSW5mb0xpc3QgPSA/MiB3aGVyZSB0LmlkID0gPzEiKQovLyAgICB2b2lkIHVwZGF0ZU5vZGVJbmZvTGlzdChsb25nIHRJZCwgTm9kZUluZm9MaXN0IG5vZGVJbmZvTGlzdCk7CgovLyAgICBMaXN0PE5vZGVFbnRpdHk+IGZpbmRBbGxCeVVzZXJJc0FuZElkTm90SW4oVXNlciB1c2VyLCBDb2xsZWN0aW9uPE5vZGVFbnRpdHk+IHN0YXJ0QW5kRW5kTm9kZUxpc3QpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXMgPSBHc29uVXRpbHMubm9ybWFsR3Nvbi50b0pzb24oKEtsb3VkbmVzcykgc3JjKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>url.length + 1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXMgPSBHc29uVXRpbHMubm9ybWFsR3Nvbi50b0pzb24oKEtsb3VkbmVzcykgc3JjKTsK</text>
       </register>
       <register name="2" type="2">
-        <text>39</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyByZXMgPSBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXMgPSBHc29uVXRpbHMubm9ybWFsR3Nvbi50b0pzb24oKEdpdGh1Yikgc3JjKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChyZXMgIT0gbnVsbCkgewovLyAgICAgICAgICAgIG5ldyBKc29uT2JqZWN0KCk7Ci8vICAgICAgICAgICAgcmV0dXJuIG5ldyBKc29uUHJpbWl0aXZlKHJlcyk7Ci8vICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgQFRyYW5zYWN0aW9uYWwKLy8gICAgQE1vZGlmeWluZwovLyAgICBAUXVlcnkoInVwZGF0ZSBUcmFuc21pc3Npb25FbnRpdHkgdCBzZXQgdC5ub2RlSW5mb0xpc3QgPSA/MiB3aGVyZSB0LmlkID0gPzEiKQovLyAgICB2b2lkIHVwZGF0ZU5vZGVJbmZvTGlzdChsb25nIHRJZCwgTm9kZUluZm9MaXN0IG5vZGVJbmZvTGlzdCk7CgovLyAgICBMaXN0PE5vZGVFbnRpdHk+IGZpbmRBbGxCeVVzZXJJc0FuZElkTm90SW4oVXNlciB1c2VyLCBDb2xsZWN0aW9uPE5vZGVFbnRpdHk+IHN0YXJ0QW5kRW5kTm9kZUxpc3QpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpCg==</text>
+        <text>39</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0Tm9kZUluZm9MaXN0KCkgewogICAgICAgIHJldHVybiBub2RlSW5mb0xpc3Q7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Tm9kZUluZm9MaXN0KExpc3Q8U3RyaW5nPiBub2RlSW5mb0xpc3QpIHsKICAgICAgICB0aGlzLm5vZGVJbmZvTGlzdCA9IG5vZGVJbmZvTGlzdDsKICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="-" type="4">
-        <text>url.length + 1</text>
+        <text>Github</text>
       </register>
     </registers>
   </component>
