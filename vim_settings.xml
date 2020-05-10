@@ -76,12 +76,12 @@
       <file name="/transmission_entity [MySQL - @localhost]" timestamp="1589097103019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1589097541692">
-        <mark key="'" line="120" column="31" />
-        <mark key="[" line="68" column="50" />
-        <mark key="]" line="68" column="51" />
-        <mark key="." line="68" column="51" />
-        <mark key="^" line="98" column="62" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1589097682425">
+        <mark key="'" line="121" column="31" />
+        <mark key="[" line="68" column="10" />
+        <mark key="]" line="68" column="16" />
+        <mark key="." line="68" column="15" />
+        <mark key="^" line="68" column="16" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/BaseService.kt" timestamp="1588960403807">
         <mark key="[" line="30" column="4" />
@@ -168,8 +168,8 @@
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICByZXMgPSBHc29uVXRpbHMubm9ybWFsR3Nvbi50b0pzb24oKEtsb3VkbmVzcykgc3JjKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICByZXMgPSBHc29uVXRpbHMubm9ybWFsR3Nvbi50b0pzb24oKEtsb3VkbmVzcykgc3JjKTsK</text>
+      <register name="&quot;" type="4">
+        <text>电</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Ly8gICAgICAgIFN0cmluZyByZXMgPSBudWxsOwo=</text>
@@ -196,7 +196,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Github</text>
+        <text>电</text>
       </register>
     </registers>
   </component>
