@@ -7,6 +7,9 @@
   <component name="VimHistorySettings">
     <history>
       <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -14,7 +17,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -67,81 +70,91 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588488984234">
-        <mark key="[" line="141" column="28" />
-        <mark key="]" line="141" column="32" />
-        <mark key="^" line="141" column="32" />
-        <mark key="." line="141" column="31" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/permission/index.vue" timestamp="1588867359265">
+        <mark key="'" line="59" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588483539518">
+      <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1589092489387">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/saasentity [MySQL - @localhost]" timestamp="1587894855384">
+      <file name="/transmission_entity [MySQL - @localhost]" timestamp="1589092489371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1587895175156">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588961927036">
+        <mark key="'" line="120" column="31" />
+        <mark key="[" line="98" column="49" />
+        <mark key="]" line="98" column="62" />
+        <mark key="." line="98" column="61" />
+        <mark key="^" line="98" column="62" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/BaseService.kt" timestamp="1588960403807">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="4" />
+        <mark key="." line="30" column="4" />
+        <mark key="^" line="43" column="4" />
+      </file>
+      <file name="/masterserver.transmission_entity_path" timestamp="1589092489390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/Test.kt" timestamp="1588525783369">
-        <mark key="[" line="23" column="41" />
-        <mark key="]" line="23" column="45" />
-        <mark key="^" line="23" column="45" />
-        <mark key="." line="23" column="44" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/common.kt" timestamp="1588960474781">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="55" />
+        <mark key="^" line="4" column="55" />
+        <mark key="." line="4" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Sort/build.gradle" timestamp="1588523245802">
-        <mark key="[" line="16" column="62" />
-        <mark key="]" line="19" column="56" />
-        <mark key="^" line="19" column="56" />
-        <mark key="." line="19" column="55" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionRepository.java" timestamp="1588873621081">
+        <mark key="[" line="24" column="57" />
+        <mark key="]" line="24" column="74" />
+        <mark key="^" line="24" column="74" />
+        <mark key="." line="24" column="73" />
       </file>
-      <file name="/foo.bar" timestamp="1587895175175">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/utils/GsonUtils.java" timestamp="1588961504186">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="15" column="63" />
+        <mark key="^" line="15" column="63" />
+        <mark key="." line="15" column="62" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/JobService.kt" timestamp="1588950558490">
+        <mark key="[" line="35" column="74" />
+        <mark key="]" line="35" column="88" />
+        <mark key="^" line="35" column="88" />
+        <mark key="." line="35" column="87" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/SaaSDeserializer.java" timestamp="1588961824715">
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="42" column="27" />
+        <mark key="." line="42" column="26" />
+        <mark key="^" line="42" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/OnGithubGistListener.kt" timestamp="1588960741151">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="19" />
+        <mark key="^" line="31" column="19" />
+        <mark key="." line="31" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1588870955557">
+        <mark key="[" line="20" column="56" />
+        <mark key="]" line="21" column="35" />
+        <mark key="^" line="21" column="35" />
+        <mark key="." line="21" column="34" />
+      </file>
+      <file name="/foo.bar" timestamp="1589092489393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/transmission_entity [MySQL - @localhost]" timestamp="1587894888981">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/CommandLineRunner1.kt" timestamp="1588957276277">
+        <mark key="[" line="17" column="63" />
+        <mark key="]" line="17" column="66" />
+        <mark key="^" line="17" column="66" />
+        <mark key="." line="17" column="65" />
       </file>
-      <file name="$USER_HOME$/code/JavaUnitTest/src/main/java/OkHttpUrl.kt" timestamp="1588523164021">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" timestamp="1588872955998">
+        <mark key="'" line="61" column="2" />
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="26" />
+        <mark key="^" line="46" column="26" />
+        <mark key="." line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/code/JavaUnitTest/src/main/java/Main.java" timestamp="1588523126719">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="31" column="5" />
-        <mark key="^" line="31" column="5" />
-        <mark key="." line="31" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/NodeInfo.java" timestamp="1588488972465">
-        <mark key="[" line="88" column="5" />
-        <mark key="]" line="15" column="23" />
-        <mark key="^" line="15" column="23" />
-        <mark key="." line="15" column="22" />
-      </file>
-      <file name="/masterserver.saasentity" timestamp="1587894855392">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/JavaUnitTest/build.gradle" timestamp="1588523044665">
-        <mark key="[" line="25" column="55" />
-        <mark key="]" line="28" column="56" />
-        <mark key="." line="28" column="55" />
-        <mark key="^" line="28" column="56" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeRepository.java" timestamp="1587900482792">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="66" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="/masterserver.transmission_entity" timestamp="1587894888990">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1587899790624">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/masterserver.transmission_entity_path" timestamp="1587895175164">
+      <file name="/masterserver.transmission_entity" timestamp="1589092489382">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -197,28 +210,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
