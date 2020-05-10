@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -17,7 +14,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -70,150 +67,123 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1588962636950">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588488984234">
+        <mark key="[" line="141" column="28" />
+        <mark key="]" line="141" column="32" />
+        <mark key="^" line="141" column="32" />
+        <mark key="." line="141" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588483539518">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/transmission_entity [MySQL - @localhost]" timestamp="1588962117795">
+      <file name="/saasentity [MySQL - @localhost]" timestamp="1587894855384">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/Github.java" timestamp="1588961007451" />
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" timestamp="1588961927036">
-        <mark key="'" line="120" column="31" />
-        <mark key="[" line="98" column="49" />
-        <mark key="]" line="98" column="62" />
-        <mark key="." line="98" column="61" />
-        <mark key="^" line="98" column="62" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/BaseService.kt" timestamp="1588960403807">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="30" column="4" />
-        <mark key="^" line="43" column="4" />
-      </file>
-      <file name="/masterserver.transmission_entity_path" timestamp="1588962636983">
+      <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1587895175156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1588873731030">
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/Test.kt" timestamp="1588525783369">
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="23" column="45" />
+        <mark key="^" line="23" column="45" />
+        <mark key="." line="23" column="44" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Sort/build.gradle" timestamp="1588523245802">
+        <mark key="[" line="16" column="62" />
+        <mark key="]" line="19" column="56" />
+        <mark key="^" line="19" column="56" />
+        <mark key="." line="19" column="55" />
+      </file>
+      <file name="/foo.bar" timestamp="1587895175175">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/transmission_entity [MySQL - @localhost]" timestamp="1587894888981">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/JavaUnitTest/src/main/java/OkHttpUrl.kt" timestamp="1588523164021">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/JavaUnitTest/src/main/java/Main.java" timestamp="1588523126719">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="5" />
+        <mark key="^" line="31" column="5" />
+        <mark key="." line="31" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/NodeInfo.java" timestamp="1588488972465">
+        <mark key="[" line="88" column="5" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="22" />
+      </file>
+      <file name="/masterserver.saasentity" timestamp="1587894855392">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/JavaUnitTest/build.gradle" timestamp="1588523044665">
+        <mark key="[" line="25" column="55" />
+        <mark key="]" line="28" column="56" />
+        <mark key="." line="28" column="55" />
+        <mark key="^" line="28" column="56" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeRepository.java" timestamp="1587900482792">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="66" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="/masterserver.transmission_entity" timestamp="1587894888990">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1587899790624">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1588961239869">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/common.kt" timestamp="1588960474781">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="55" />
-        <mark key="^" line="4" column="55" />
-        <mark key="." line="4" column="54" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/UploadService.kt" timestamp="1588959913696" />
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionRepository.java" timestamp="1588873621081">
-        <mark key="[" line="24" column="57" />
-        <mark key="]" line="24" column="74" />
-        <mark key="^" line="24" column="74" />
-        <mark key="." line="24" column="73" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/utils/GsonUtils.java" timestamp="1588961504186">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="15" column="63" />
-        <mark key="^" line="15" column="63" />
-        <mark key="." line="15" column="62" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/JobService.kt" timestamp="1588950558490">
-        <mark key="[" line="35" column="74" />
-        <mark key="]" line="35" column="88" />
-        <mark key="^" line="35" column="88" />
-        <mark key="." line="35" column="87" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/SaaSDeserializer.java" timestamp="1588961824715">
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="42" column="27" />
-        <mark key="." line="42" column="26" />
-        <mark key="^" line="42" column="27" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/OnGithubGistListener.kt" timestamp="1588960741151">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="19" />
-        <mark key="^" line="31" column="19" />
-        <mark key="." line="31" column="18" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1588870955557">
-        <mark key="[" line="20" column="56" />
-        <mark key="]" line="21" column="35" />
-        <mark key="^" line="21" column="35" />
-        <mark key="." line="21" column="34" />
-      </file>
-      <file name="/foo.bar" timestamp="1588962637006">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/CommandLineRunner1.kt" timestamp="1588957276277">
-        <mark key="[" line="17" column="63" />
-        <mark key="]" line="17" column="66" />
-        <mark key="^" line="17" column="66" />
-        <mark key="." line="17" column="65" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" timestamp="1588872955998">
-        <mark key="'" line="61" column="2" />
-        <mark key="[" line="46" column="17" />
-        <mark key="]" line="46" column="26" />
-        <mark key="^" line="46" column="26" />
-        <mark key="." line="46" column="25" />
-      </file>
-      <file name="/masterserver.transmission_entity" timestamp="1588962117804">
+      <file name="/masterserver.transmission_entity_path" timestamp="1587895175164">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="55" column="47" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" />
-      <jump line="90" column="26" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/NodeInfo.java" />
-      <jump line="91" column="35" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/NodeInfo.java" />
-      <jump line="101" column="31" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" />
-      <jump line="40" column="2" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
-      <jump line="59" column="6" filename="$USER_HOME$/code/vue-admin-template/src/views/permission/index.vue" />
-      <jump line="110" column="0" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/net/OnGithubGistListener.kt" />
-    </jumps>
+    <jumps />
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR3NvblV0aWxzLm5vcm1hbEdzb24udG9Kc29uKChHaXRodWIpIHNyYyk7Cg==</text>
+        <text encoding="base64">ICAgIHVybC5sYXN0SW5kZXhPZignLicpLmxldCB7IGxhc3REb3QgLT4KICAgICAgICBpZiAobGFzdERvdCA+IHVybC5sZW5ndGggfHwgbGFzdERvdCA9PSAtMSkgewogICAgICAgICAgICByZXR1cm4gInRtcCIKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gdXJsLnN1YnN0cmluZyh1cmwubGVuZ3RoICsgMSwgdXJsLmxlbmd0aCkKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgQFRyYW5zYWN0aW9uYWwKLy8gICAgQE1vZGlmeWluZwovLyAgICBAUXVlcnkoInVwZGF0ZSBUcmFuc21pc3Npb25FbnRpdHkgdCBzZXQgdC5ub2RlSW5mb0xpc3QgPSA/MiB3aGVyZSB0LmlkID0gPzEiKQovLyAgICB2b2lkIHVwZGF0ZU5vZGVJbmZvTGlzdChsb25nIHRJZCwgTm9kZUluZm9MaXN0IG5vZGVJbmZvTGlzdCk7CgovLyAgICBMaXN0PE5vZGVFbnRpdHk+IGZpbmRBbGxCeVVzZXJJc0FuZElkTm90SW4oVXNlciB1c2VyLCBDb2xsZWN0aW9uPE5vZGVFbnRpdHk+IHN0YXJ0QW5kRW5kTm9kZUxpc3QpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>gistFile.rawUrl</text>
+        <text>url.length + 1</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>39</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlsIYgZW5kIOS4reeahCBnaXN0IOeUn+aIkOWHuuadpT8K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBub2RlSW5mb1NhYVNPYmplY3RGb3JFbmQgPSBzYWFzTGlzdEZvckVuZC5tYXAgewovLyAgICAgICAgICAgIHZhbCBub2RlSW5mb1NhYVNPYmplY3RMaXN0ID0gaXQubWFwTm90TnVsbCB7IHNhYXMgLT4KLy8gICAgICAgICAgICAgICAgU2FhU09iamVjdC5jb252ZXJ0KHNhYXMpCi8vICAgICAgICAgICAgfQovLyAgICAgICAgICAgIE5vZGVJbmZvLk5vZGVJbmZvU2FhU0xpc3QoKS5hbHNvIHsKLy8gICAgICAgICAgICAgICAgaXQubmFtZSA9IHNhYXNOYW1lTGlzdFtpbmRleF0KLy8gICAgICAgICAgICAgICAgaXQuc2FhcyA9IG5vZGVJbmZvU2FhU09iamVjdExpc3QKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0Tm9kZUluZm9MaXN0KCkgewogICAgICAgIHJldHVybiBub2RlSW5mb0xpc3Q7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Tm9kZUluZm9MaXN0KExpc3Q8U3RyaW5nPiBub2RlSW5mb0xpc3QpIHsKICAgICAgICB0aGlzLm5vZGVJbmZvTGlzdCA9IG5vZGVJbmZvTGlzdDsKICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="-" type="4">
-        <text>gistFile.rawUrl</text>
+        <text>url.length + 1</text>
       </register>
     </registers>
   </component>
@@ -227,7 +197,28 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="5" enabled="true" />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
