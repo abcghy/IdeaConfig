@@ -111,11 +111,11 @@
       <file name="/console_1" timestamp="1589616002930">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ad86fd6b-c661-4c3a-89a4-ad98d39a0987/console.sql" timestamp="1589616150833">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="17" />
-        <mark key="^" line="15" column="24" />
-        <mark key="." line="15" column="17" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ad86fd6b-c661-4c3a-89a4-ad98d39a0987/console.sql" timestamp="1589616183312">
+        <mark key="[" line="13" column="59" />
+        <mark key="]" line="15" column="62" />
+        <mark key="^" line="15" column="62" />
+        <mark key="." line="15" column="61" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/.env.production" timestamp="1589292842486">
         <mark key="[" line="4" column="27" />
@@ -157,7 +157,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>http://</text>
+        <text encoding="base64">aWQsIA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGtsb3VkbGVzcyA9IHJlcy5vYmplY3RzLmZpbmQgeyBrbG91ZGxlc3MgLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtsb3VkbGVzcy5uYW1lID09IGVuZFNhYVNMaXN0Lm5hbWUKICAgICAgICAgICAgICAgICAgICAgICAgfSA/OiByZXR1cm5AZm9yRWFjaAogICAgICAgICAgICAgICAgICAgICAgICBkZWxldGVLbG91ZGxlc3Moa2xvdWRsZXNzLmlkLCBzYWFzLnRva2VuKQogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZQo=</text>
@@ -184,7 +184,7 @@
         <text>39</text>
       </register>
       <register name="-" type="4">
-        <text>http://</text>
+        <text encoding="base64">aWQsIA==</text>
       </register>
     </registers>
   </component>
