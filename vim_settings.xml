@@ -102,11 +102,11 @@
       <file name="/node_entity [MySQL - @localhost]" timestamp="1589619638914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/router/index.js" timestamp="1589625037683">
-        <mark key="[" line="96" column="6" />
-        <mark key="]" line="97" column="6" />
-        <mark key="." line="97" column="5" />
-        <mark key="^" line="97" column="6" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/router/index.js" timestamp="1589625746182">
+        <mark key="[" line="98" column="23" />
+        <mark key="]" line="99" column="20" />
+        <mark key="." line="99" column="19" />
+        <mark key="^" line="99" column="20" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/user/UserService.kt" timestamp="1589621115426" />
       <file name="$USER_HOME$/code/vue-admin-template/src/api/user.js" timestamp="1589622512892">
