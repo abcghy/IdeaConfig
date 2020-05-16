@@ -74,7 +74,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/utils/request.js" timestamp="1589622318901" />
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/user/UserController.kt" timestamp="1589620755675" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/user/UserController.kt" timestamp="1589623769798">
+        <mark key="[" line="73" column="20" />
+        <mark key="]" line="73" column="29" />
+        <mark key="^" line="73" column="29" />
+        <mark key="." line="73" column="28" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ad86fd6b-c661-4c3a-89a4-ad98d39a0987/console.sql" timestamp="1589620149112">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -97,12 +102,23 @@
       <file name="/node_entity [MySQL - @localhost]" timestamp="1589619638914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/router/index.js" timestamp="1589622726767" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/router/index.js" timestamp="1589625037683">
+        <mark key="[" line="96" column="6" />
+        <mark key="]" line="97" column="6" />
+        <mark key="." line="97" column="5" />
+        <mark key="^" line="97" column="6" />
+      </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/user/UserService.kt" timestamp="1589621115426" />
       <file name="$USER_HOME$/code/vue-admin-template/src/api/user.js" timestamp="1589622512892">
         <mark key="[" line="63" column="11" />
         <mark key="]" line="63" column="11" />
         <mark key="." line="63" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/permission.js" timestamp="1589624423592">
+        <mark key="[" line="59" column="6" />
+        <mark key="]" line="59" column="12" />
+        <mark key="^" line="59" column="12" />
+        <mark key="." line="59" column="11" />
       </file>
       <file name="/masterserver.user" timestamp="1589621135694">
         <mark key="[" line="0" column="0" />
@@ -116,10 +132,7 @@
       <file name="/masterserver.node_entity" timestamp="1589619638923">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_1" timestamp="1589616002930">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/user.js" timestamp="1589622767753">
+      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/user.js" timestamp="1589623596296">
         <mark key="[" line="161" column="0" />
         <mark key="]" line="162" column="35" />
         <mark key="^" line="162" column="35" />
@@ -139,7 +152,7 @@
         <text>1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>vue-admin-template/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -166,7 +179,7 @@
         <text encoding="base64">Ly8gICAgICAgIFN0cmluZyByZXMgPSBudWxsOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>vue-admin-template/</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
   </component>
