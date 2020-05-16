@@ -90,9 +90,9 @@
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/permission.js" timestamp="1589638709066">
         <mark key="[" line="29" column="76" />
-        <mark key="]" line="30" column="49" />
-        <mark key="^" line="30" column="49" />
-        <mark key="." line="30" column="48" />
+        <mark key="]" line="29" column="49" />
+        <mark key="^" line="29" column="49" />
+        <mark key="." line="29" column="48" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1589621146113">
         <mark key="[" line="0" column="0" />
@@ -107,11 +107,11 @@
         <mark key="^" line="95" column="26" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/user/UserService.kt" timestamp="1589621115426" />
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/index/index.vue" timestamp="1589640295264">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="11" column="44" />
-        <mark key="^" line="11" column="45" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/index/index.vue" timestamp="1589653800636">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="13" column="5" />
+        <mark key="." line="13" column="5" />
+        <mark key="^" line="10" column="45" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/api/user.js" timestamp="1589622512892">
         <mark key="[" line="63" column="11" />
@@ -119,10 +119,17 @@
         <mark key="." line="63" column="11" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/permission.js" timestamp="1589624423592">
-        <mark key="[" line="59" column="6" />
-        <mark key="]" line="59" column="12" />
-        <mark key="^" line="59" column="12" />
-        <mark key="." line="59" column="11" />
+        <mark key="[" line="58" column="6" />
+        <mark key="]" line="58" column="12" />
+        <mark key="^" line="58" column="12" />
+        <mark key="." line="58" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/vue-admin-template/src/layout/components/Navbar.vue" timestamp="1589653719092">
+        <mark key="'" line="118" column="13" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/masterserver.user" timestamp="1589621135694">
         <mark key="[" line="0" column="0" />
@@ -133,11 +140,8 @@
       <file name="/foo.bar" timestamp="1589621135703">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/user.js" timestamp="1589623596296">
+      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/user.js" timestamp="1589653534812">
         <mark key="[" line="161" column="0" />
-        <mark key="]" line="162" column="35" />
-        <mark key="^" line="162" column="35" />
-        <mark key="." line="162" column="34" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/views/index/index.js" timestamp="1589638564595">
         <mark key="[" line="0" column="0" />
@@ -152,6 +156,7 @@
     <jumps>
       <jump line="87" column="12" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/job/UnfinishedTransmissionJob.kt" />
       <jump line="139" column="32" filename="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" />
+      <jump line="118" column="13" filename="$USER_HOME$/code/vue-admin-template/src/layout/components/Navbar.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -159,40 +164,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy4kcm91dGVyLnB1c2goJy9kYXNoYm9hcmQnKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICBjb25zb2xlLmxvZyhyb2xlKQogICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Permission</text>
+        <text encoding="base64">IGVsc2UgewogICAgICBjb25zb2xlLmxvZyhyb2xlKQogICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gZm9yIChjb25zdCBybyBpbiBtYXRjaGVkKSB7CiAgICAgIC8vICAgY29uc29sZS5sb2coJ3JvdXRlOicgKyByby5tZXRhKQogICAgICAvLyB9CiAgICAgIC8vIGNvbnNvbGUubG9nKCdyb3V0ZTogJyArIGZpcnN0KQogICAgICAvLyBjb25zb2xlLmxvZyhmaXJzdCkKICAgICAgY29uc29sZS5sb2cobWF0Y2hlZCkK</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICA8aW1nIDpzcmM9ImF2YXRhcisnP2ltYWdlVmlldzIvMS93LzgwL2gvODAnIiBjbGFzcz0idXNlci1hdmF0YXIiPi0tPgo8IS0tICAgICAgICAgIDxkaXY+e3sgYXZhdGFyIH19PC9kaXY+LS0+Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLy8gZm9yIChjb25zdCBybyBpbiBtYXRjaGVkKSB7CiAgICAgIC8vICAgY29uc29sZS5sb2coJ3JvdXRlOicgKyByby5tZXRhKQogICAgICAvLyB9CiAgICAgIC8vIGNvbnNvbGUubG9nKCdyb3V0ZTogJyArIGZpcnN0KQogICAgICAvLyBjb25zb2xlLmxvZyhmaXJzdCkKICAgICAgY29uc29sZS5sb2cobWF0Y2hlZCkK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNoaWxkcmVuOiBbCiAgICAgIHsKICAgICAgICBwYXRoOiAnZGFzaGJvYXJkJywKICAgICAgICBuYW1lOiAnRGFzaGJvYXJkJywKICAgICAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnQC92aWV3cy9kYXNoYm9hcmQvaW5kZXgnKSwKICAgICAgICBtZXRhOiB7IHRpdGxlOiAnRGFzaGJvYXJkJywgaWNvbjogJ2Rhc2hib2FyZCcgfQogICAgICB9XQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>{
         
       }</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ewogICAgcGF0aDogJy90cmFuc2ZlcicsCiAgICBjb21wb25lbnQ6IExheW91dCwKICAgIHJlZGlyZWN0OiAnL3RyYW5zZmVyL25vcm1hbCcsCiAgICBuYW1lOiAn5Lyg6L6T5qih5Z2XJywKICAgIG1ldGE6IHsKICAgICAgdGl0bGU6ICfkvKDovpMnLAogICAgICBpY29uOiAnbmVzdGVkJywKICAgICAgcm9sZXM6IFsnVVNFUiddCiAgICB9LAogICAgY2hpbGRyZW46IFsKICAgICAgewogICAgICAgIHBhdGg6ICdub3JtYWwnLAogICAgICAgIGNvbXBvbmVudDogKCkgPT4gaW1wb3J0KCdAL3ZpZXdzL3RyYW5zZmVyL25vcm1hbC9pbmRleCcpLAogICAgICAgIG5hbWU6ICfmraPluLjmqKHlvI8nLAogICAgICAgIG1ldGE6IHsgdGl0bGU6ICfmraPluLjmqKHlvI8nLCByb2xlczogWydVU0VSJ10gfQogICAgICB9LAoKICAgICAgewogICAgICAgIHBhdGg6ICd0cmFuc2l0JywKICAgICAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnQC92aWV3cy90cmFuc2Zlci90cmFuc2l0L2luZGV4JyksCiAgICAgICAgbmFtZTogJ+S4rei9rOaooeW8jycsCiAgICAgICAgbWV0YTogeyB0aXRsZTogJ+S4rei9rOaooeW8jycsIHJvbGVzOiBbJ1VTRVInXSB9CiAgICAgIH0sCgogICAgICB7CiAgICAgICAgcGF0aDogJ3Byb2dyZXNzJywKICAgICAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnQC92aWV3cy90cmFuc2Zlci9wcm9ncmVzcy9pbmRleCcpLAogICAgICAgIG5hbWU6ICfkvKDovpPov5vluqYnLAogICAgICAgIG1ldGE6IHsgdGl0bGU6ICfkvKDovpPov5vluqYnLCByb2xlczogWydVU0VSJ10gfQogICAgICB9CiAgICBdCiAgfSw=</text>
       </register>
-      <register name="8" type="2">
-        <text>1</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>Permission</text>
+        <text>avatar</text>
       </register>
     </registers>
   </component>
