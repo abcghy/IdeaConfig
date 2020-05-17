@@ -119,12 +119,12 @@
         <mark key="^" line="58" column="12" />
         <mark key="." line="58" column="11" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/login/index.vue" timestamp="1589700505221">
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/login/index.vue" timestamp="1589704465200">
         <mark key="'" line="120" column="18" />
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="5" column="30" />
-        <mark key="^" line="5" column="30" />
-        <mark key="." line="5" column="29" />
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+        <mark key="." line="5" column="44" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/layout/components/Navbar.vue" timestamp="1589653719092">
         <mark key="'" line="118" column="13" />
