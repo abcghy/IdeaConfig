@@ -98,6 +98,12 @@
         <mark key="^" line="58" column="12" />
         <mark key="." line="58" column="11" />
       </file>
+      <file name="$USER_HOME$/code/backend/src/main/resources/application.properties" timestamp="1589737439424">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="27" />
+      </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/views/login/index.vue" timestamp="1589723978751">
         <mark key="'" line="120" column="18" />
         <mark key="[" line="5" column="28" />
@@ -160,7 +166,7 @@
         <text encoding="base64">Ly8gICAgQFRyYW5zYWN0aW9uYWwKLy8gICAgQE1vZGlmeWluZwovLyAgICBAUXVlcnkoInVwZGF0ZSBUcmFuc21pc3Npb25FbnRpdHkgdCBzZXQgdC5ub2RlSW5mb0xpc3QgPSA/MiB3aGVyZSB0LmlkID0gPzEiKQovLyAgICB2b2lkIHVwZGF0ZU5vZGVJbmZvTGlzdChsb25nIHRJZCwgTm9kZUluZm9MaXN0IG5vZGVJbmZvTGlzdCk7CgovLyAgICBMaXN0PE5vZGVFbnRpdHk+IGZpbmRBbGxCeVVzZXJJc0FuZElkTm90SW4oVXNlciB1c2VyLCBDb2xsZWN0aW9uPE5vZGVFbnRpdHk+IHN0YXJ0QW5kRW5kTm9kZUxpc3QpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>修改 multiple times</text>
+        <text>dev</text>
       </register>
       <register name="2" type="2">
         <text>39</text>
@@ -187,7 +193,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>修改 multiple times</text>
+        <text>dev</text>
       </register>
     </registers>
   </component>
