@@ -106,6 +106,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaaSEntity.java" timestamp="1589814626186">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="46" />
+        <mark key="^" line="20" column="46" />
+        <mark key="." line="20" column="45" />
+      </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/views/login/index.vue" timestamp="1589723978751">
         <mark key="'" line="120" column="18" />
         <mark key="[" line="5" column="28" />
@@ -129,9 +135,6 @@
         <mark key="^" line="73" column="29" />
         <mark key="." line="73" column="28" />
       </file>
-      <file name="/user [MySQL - @localhost]" timestamp="1589621135684">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/user.js" timestamp="1589653534812">
         <mark key="[" line="161" column="0" />
       </file>
@@ -151,12 +154,12 @@
       <file name="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" timestamp="1589638761556">
         <mark key="'" line="139" column="32" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" timestamp="1589811647510">
-        <mark key="'" line="193" column="16" />
-        <mark key="[" line="106" column="14" />
-        <mark key="]" line="106" column="19" />
-        <mark key="^" line="106" column="19" />
-        <mark key="." line="106" column="18" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" timestamp="1589814429595">
+        <mark key="'" line="194" column="16" />
+        <mark key="[" line="60" column="23" />
+        <mark key="]" line="61" column="18" />
+        <mark key="^" line="61" column="18" />
+        <mark key="." line="61" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1589621146113">
         <mark key="[" line="0" column="0" />
