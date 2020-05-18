@@ -70,34 +70,56 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/vue-admin-template/src/router/index.js" timestamp="1589651935166">
-        <mark key="[" line="95" column="22" />
-        <mark key="]" line="95" column="26" />
-        <mark key="." line="95" column="25" />
-        <mark key="^" line="95" column="26" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasController.kt" timestamp="1589822781541">
+        <mark key="[" line="33" column="58" />
+        <mark key="]" line="33" column="65" />
+        <mark key="." line="33" column="64" />
+        <mark key="^" line="33" column="65" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/index/index.vue" timestamp="1589653800636">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="13" column="5" />
-        <mark key="." line="13" column="5" />
-        <mark key="^" line="10" column="45" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/dto/PageWrapper.java" timestamp="1589816458859">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/api/user.js" timestamp="1589622512892">
-        <mark key="[" line="63" column="11" />
-        <mark key="]" line="63" column="11" />
-        <mark key="." line="63" column="11" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/components/Pagination/index.vue" timestamp="1589811594391" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" timestamp="1589821620232">
+        <mark key="'" line="186" column="16" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="29" />
+        <mark key="^" line="250" column="32" />
+        <mark key="." line="192" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/vue-admin-template/src/api/saas.js" timestamp="1589817182554">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="11" />
+        <mark key="^" line="14" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasRepository.java" timestamp="1589823180807">
+        <mark key="'" line="19" column="21" />
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="33" />
+        <mark key="." line="19" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1589822102136">
+        <mark key="[" line="224" column="90" />
+        <mark key="]" line="225" column="51" />
+        <mark key="." line="225" column="50" />
+        <mark key="^" line="225" column="51" />
+      </file>
+      <file name="$USER_HOME$/code/vue-admin-template/src/App.vue" timestamp="1589818884038">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/code/vue-element-admin/src/components/Pagination/index.vue" timestamp="1589809880397" />
-      <file name="$USER_HOME$/code/vue-admin-template/src/components/Breadcrumb/index.vue" timestamp="1589651303747">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/permission.js" timestamp="1589624423592">
-        <mark key="[" line="58" column="6" />
-        <mark key="]" line="58" column="12" />
-        <mark key="^" line="58" column="12" />
-        <mark key="." line="58" column="11" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionRepository.java" timestamp="1589821718909">
+        <mark key="[" line="14" column="88" />
+        <mark key="]" line="14" column="133" />
+        <mark key="^" line="14" column="133" />
+        <mark key="." line="14" column="132" />
       </file>
       <file name="$USER_HOME$/code/vue-element-admin/src/views/table/complex-table.vue" timestamp="1589811235534" />
       <file name="$USER_HOME$/code/backend/src/main/resources/application.properties" timestamp="1589737439424">
@@ -106,7 +128,7 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaaSEntity.java" timestamp="1589814626186">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaaSEntity.java" timestamp="1589822332341">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="46" />
         <mark key="^" line="20" column="46" />
@@ -119,97 +141,93 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/layout/components/Navbar.vue" timestamp="1589653719092">
-        <mark key="'" line="118" column="13" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/api/trans.js" timestamp="1589821957203">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="16" />
+        <mark key="^" line="15" column="16" />
+        <mark key="." line="15" column="15" />
       </file>
-      <file name="/masterserver.user" timestamp="1589621135694">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1589822167459">
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="24" column="46" />
+        <mark key="^" line="24" column="46" />
+        <mark key="." line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/user/UserController.kt" timestamp="1589623769798">
-        <mark key="[" line="73" column="20" />
-        <mark key="]" line="73" column="29" />
-        <mark key="^" line="73" column="29" />
-        <mark key="." line="73" column="28" />
+      <file name="$USER_HOME$/code/vue-admin-template/node_modules/element-ui/packages/divider/src/main.vue" timestamp="1589820422181" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/saas.js" timestamp="1589817248386">
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="24" />
+        <mark key="^" line="23" column="24" />
+        <mark key="." line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/user.js" timestamp="1589653534812">
-        <mark key="[" line="161" column="0" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/trans.js" timestamp="1589821947324">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="20" />
+        <mark key="^" line="24" column="20" />
+        <mark key="." line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/components/Pagination/index.vue" timestamp="1589811594391" />
-      <file name="$USER_HOME$/code/vue-admin-template/src/permission.js" timestamp="1589638709066">
-        <mark key="[" line="29" column="76" />
-        <mark key="]" line="29" column="49" />
-        <mark key="^" line="29" column="49" />
-        <mark key="." line="29" column="48" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/index/index.js" timestamp="1589638564595">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" timestamp="1589638761556">
-        <mark key="'" line="139" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" timestamp="1589814429595">
-        <mark key="'" line="194" column="16" />
-        <mark key="[" line="60" column="23" />
-        <mark key="]" line="61" column="18" />
-        <mark key="^" line="61" column="18" />
-        <mark key="." line="61" column="17" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1589621146113">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="1" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" timestamp="1589821981504">
+        <mark key="'" line="3" column="17" />
+        <mark key="[" line="86" column="41" />
+        <mark key="]" line="87" column="31" />
+        <mark key="^" line="87" column="31" />
+        <mark key="." line="87" column="30" />
       </file>
     </filemarks>
     <jumps>
       <jump line="180" column="23" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
       <jump line="193" column="16" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
+      <jump line="50" column="17" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
+      <jump line="304" column="14" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
+      <jump line="102" column="10" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
+      <jump line="103" column="13" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
+      <jump line="101" column="0" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
+      <jump line="2" column="9" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
+      <jump line="99" column="0" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
+      <jump line="3" column="17" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
+      <jump line="245" column="28" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
+      <jump line="186" column="16" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
+      <jump line="19" column="21" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasRepository.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybC5sYXN0SW5kZXhPZignLicpLmxldCB7IGxhc3REb3QgLT4KICAgICAgICBpZiAobGFzdERvdCA+IHVybC5sZW5ndGggfHwgbGFzdERvdCA9PSAtMSkgewogICAgICAgICAgICByZXR1cm4gInRtcCIKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gdXJsLnN1YnN0cmluZyh1cmwubGVuZ3RoICsgMSwgdXJsLmxlbmd0aCkKICAgICAgICB9CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>saasRepository.findAll(null, pageRequest)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgQFRyYW5zYWN0aW9uYWwKLy8gICAgQE1vZGlmeWluZwovLyAgICBAUXVlcnkoInVwZGF0ZSBUcmFuc21pc3Npb25FbnRpdHkgdCBzZXQgdC5ub2RlSW5mb0xpc3QgPSA/MiB3aGVyZSB0LmlkID0gPzEiKQovLyAgICB2b2lkIHVwZGF0ZU5vZGVJbmZvTGlzdChsb25nIHRJZCwgTm9kZUluZm9MaXN0IG5vZGVJbmZvTGlzdCk7CgovLyAgICBMaXN0PE5vZGVFbnRpdHk+IGZpbmRBbGxCeVVzZXJJc0FuZElkTm90SW4oVXNlciB1c2VyLCBDb2xsZWN0aW9uPE5vZGVFbnRpdHk+IHN0YXJ0QW5kRW5kTm9kZUxpc3QpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">b2JqZWN0IDogU3BlY2lmaWNhdGlvbjxTYWFTRW50aXR5PiB7CiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biB0b1ByZWRpY2F0ZShyb290OiBSb290PFNhYVNFbnRpdHk+LCBxdWVyeTogQ3JpdGVyaWFRdWVyeTwqPiwgY3JpdGVyaWFCdWlsZGVyOiBDcml0ZXJpYUJ1aWxkZXIpOiBQcmVkaWNhdGU/IHsKICAgICAgICAgICAgfQoKICAgICAgICB9</text>
       </register>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text>findAllByNodeUserId(Long userId, Pageable pageable);</text>
       </register>
       <register name="2" type="2">
-        <text>39</text>
+        <text encoding="base64">CiAgICBkaXNwbGF5OiBmbGV4OwogICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgLmhlYWRlciB7CiAgICBoZWlnaHQ6IDEwcHg7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpCg==</text>
+        <text encoding="base64">CjxzdHlsZT4KPC9zdHlsZT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0Tm9kZUluZm9MaXN0KCkgewogICAgICAgIHJldHVybiBub2RlSW5mb0xpc3Q7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Tm9kZUluZm9MaXN0KExpc3Q8U3RyaW5nPiBub2RlSW5mb0xpc3QpIHsKICAgICAgICB0aGlzLm5vZGVJbmZvTGlzdCA9IG5vZGVJbmZvTGlzdDsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>findAllByNodeUserId(Long userId, Pageable pageable);</text>
       </register>
     </registers>
   </component>
