@@ -107,12 +107,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/bean/NodeEntity.java" timestamp="1589828060596" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ad86fd6b-c661-4c3a-89a4-ad98d39a0987/console.sql" timestamp="1589902864904">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ad86fd6b-c661-4c3a-89a4-ad98d39a0987/console.sql" timestamp="1589906784329">
         <mark key="'" line="38" column="61" />
-        <mark key="[" line="49" column="7" />
-        <mark key="]" line="49" column="7" />
-        <mark key="." line="49" column="7" />
-        <mark key="^" line="51" column="4" />
+        <mark key="[" line="56" column="5" />
+        <mark key="]" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+        <mark key="^" line="56" column="5" />
       </file>
       <file name="/masterserver.transmission_entity_path" timestamp="1589827981500">
         <mark key="[" line="0" column="0" />
@@ -171,7 +171,7 @@
         <text encoding="base64">U0VMRUNUICoKRlJPTSB0cmFuc21pc3Npb25fZW50aXR5IGFzIHQgbGVmdCBvdXRlciBqb2luIHRyYW5zbWlzc2lvbl9lbnRpdHlfcGF0aCBhcyB0cApPTiB0LmlkID0gdHAudHJhbnNtaXNzaW9uX2VudGl0eV9pZDsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>;</text>
       </register>
       <register name="2" type="2">
         <text />
@@ -198,7 +198,7 @@
         <text encoding="base64">CiAgLmhlYWRlciB7CiAgICBoZWlnaHQ6IDEwcHg7CiAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>;</text>
       </register>
     </registers>
   </component>
