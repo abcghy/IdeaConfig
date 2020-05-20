@@ -70,130 +70,138 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/vue-admin-template/src/router/index.js" timestamp="1589651935166">
-        <mark key="[" line="95" column="22" />
-        <mark key="]" line="95" column="26" />
-        <mark key="." line="95" column="25" />
-        <mark key="^" line="95" column="26" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/index/index.vue" timestamp="1589653800636">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="13" column="5" />
-        <mark key="." line="13" column="5" />
-        <mark key="^" line="10" column="45" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/api/user.js" timestamp="1589622512892">
-        <mark key="[" line="63" column="11" />
-        <mark key="]" line="63" column="11" />
-        <mark key="." line="63" column="11" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/components/Breadcrumb/index.vue" timestamp="1589651303747">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/permission.js" timestamp="1589624423592">
-        <mark key="[" line="58" column="6" />
-        <mark key="]" line="58" column="12" />
-        <mark key="^" line="58" column="12" />
-        <mark key="." line="58" column="11" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/resources/application.properties" timestamp="1589737439424">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="27" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/login/index.vue" timestamp="1589723978751">
-        <mark key="'" line="120" column="18" />
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="33" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/layout/components/Navbar.vue" timestamp="1589653719092">
-        <mark key="'" line="118" column="13" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="/masterserver.user" timestamp="1589621135694">
+      <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1589827981486">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/user/UserController.kt" timestamp="1589623769798">
-        <mark key="[" line="73" column="20" />
-        <mark key="]" line="73" column="29" />
-        <mark key="^" line="73" column="29" />
-        <mark key="." line="73" column="28" />
-      </file>
-      <file name="/user [MySQL - @localhost]" timestamp="1589621135684">
+      <file name="/transmission_entity [MySQL - @localhost]" timestamp="1589910350052">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/user.js" timestamp="1589653534812">
-        <mark key="[" line="161" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/permission.js" timestamp="1589638709066">
-        <mark key="[" line="29" column="76" />
-        <mark key="]" line="29" column="49" />
-        <mark key="^" line="29" column="49" />
-        <mark key="." line="29" column="48" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/index/index.js" timestamp="1589638564595">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1589827451232">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" timestamp="1589638761556">
-        <mark key="'" line="139" column="32" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1589621146113">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionRepository.java" timestamp="1589911095489">
+        <mark key="[" line="30" column="29" />
+        <mark key="]" line="30" column="77" />
+        <mark key="^" line="30" column="77" />
+        <mark key="." line="30" column="76" />
+      </file>
+      <file name="/saasentity [MySQL - @localhost]" timestamp="1589827268586">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1589827578600">
+        <mark key="[" line="49" column="26" />
+        <mark key="]" line="49" column="30" />
+        <mark key="^" line="49" column="30" />
+        <mark key="." line="49" column="29" />
+      </file>
+      <file name="/user [MySQL - @localhost]" timestamp="1589823454388">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/masterserver.node_entity" timestamp="1589902779410">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1589827707687">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/bean/NodeEntity.java" timestamp="1589828060596" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ad86fd6b-c661-4c3a-89a4-ad98d39a0987/console.sql" timestamp="1589910411568">
+        <mark key="'" line="38" column="61" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="61" column="49" />
+        <mark key="." line="61" column="48" />
+        <mark key="^" line="61" column="49" />
+      </file>
+      <file name="/masterserver.transmission_entity_path" timestamp="1589827981500">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/node_entity [MySQL - @localhost]" timestamp="1589902779397">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1589911206067">
+        <mark key="'" line="42" column="49" />
+        <mark key="[" line="232" column="79" />
+        <mark key="]" line="232" column="105" />
+        <mark key="^" line="232" column="79" />
+        <mark key="." line="232" column="79" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589827707710">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2-sources.jar!/javax/persistence/Column.java" timestamp="1589827424286" />
+      <file name="/masterserver.user" timestamp="1589823454400">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1589910350070">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/masterserver.saasentity" timestamp="1589827268597">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/masterserver.transmission_entity" timestamp="1589910350061">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="180" column="23" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
+      <jump line="193" column="16" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
+      <jump line="50" column="17" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
+      <jump line="304" column="14" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
+      <jump line="102" column="10" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
+      <jump line="103" column="13" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
+      <jump line="101" column="0" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
+      <jump line="2" column="9" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
+      <jump line="99" column="0" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
+      <jump line="3" column="17" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
+      <jump line="245" column="28" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
+      <jump line="186" column="16" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
+      <jump line="19" column="21" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasRepository.java" />
+      <jump line="43" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ad86fd6b-c661-4c3a-89a4-ad98d39a0987/console.sql" />
+      <jump line="38" column="61" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ad86fd6b-c661-4c3a-89a4-ad98d39a0987/console.sql" />
+      <jump line="91" column="19" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" />
+      <jump line="40" column="49" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybC5sYXN0SW5kZXhPZignLicpLmxldCB7IGxhc3REb3QgLT4KICAgICAgICBpZiAobGFzdERvdCA+IHVybC5sZW5ndGggfHwgbGFzdERvdCA9PSAtMSkgewogICAgICAgICAgICByZXR1cm4gInRtcCIKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gdXJsLnN1YnN0cmluZyh1cmwubGVuZ3RoICsgMSwgdXJsLmxlbmd0aCkKICAgICAgICB9CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>PageRequest.of(page, size)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgQFRyYW5zYWN0aW9uYWwKLy8gICAgQE1vZGlmeWluZwovLyAgICBAUXVlcnkoInVwZGF0ZSBUcmFuc21pc3Npb25FbnRpdHkgdCBzZXQgdC5ub2RlSW5mb0xpc3QgPSA/MiB3aGVyZSB0LmlkID0gPzEiKQovLyAgICB2b2lkIHVwZGF0ZU5vZGVJbmZvTGlzdChsb25nIHRJZCwgTm9kZUluZm9MaXN0IG5vZGVJbmZvTGlzdCk7CgovLyAgICBMaXN0PE5vZGVFbnRpdHk+IGZpbmRBbGxCeVVzZXJJc0FuZElkTm90SW4oVXNlciB1c2VyLCBDb2xsZWN0aW9uPE5vZGVFbnRpdHk+IHN0YXJ0QW5kRW5kTm9kZUxpc3QpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">dHJhbnNtaXNzaW9uX2VudGl0eSBhcyB0CiAgICBJTk5FUiBKT0lOIA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>PageRequest.of(page, size)</text>
       </register>
       <register name="2" type="2">
-        <text>39</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUICoKRlJPTSB0cmFuc21pc3Npb25fZW50aXR5IGFzIHQgbGVmdCBvdXRlciBqb2luIHRyYW5zbWlzc2lvbl9lbnRpdHlfcGF0aCBhcyB0cApPTiB0LmlkID0gdHAudHJhbnNtaXNzaW9uX2VudGl0eV9pZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text />
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>0</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpCg==</text>
+        <text>0</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0Tm9kZUluZm9MaXN0KCkgewogICAgICAgIHJldHVybiBub2RlSW5mb0xpc3Q7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Tm9kZUluZm9MaXN0KExpc3Q8U3RyaW5nPiBub2RlSW5mb0xpc3QpIHsKICAgICAgICB0aGlzLm5vZGVJbmZvTGlzdCA9IG5vZGVJbmZvTGlzdDsKICAgIH0K</text>
+        <text>0</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">b2JqZWN0IDogU3BlY2lmaWNhdGlvbjxTYWFTRW50aXR5PiB7CiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biB0b1ByZWRpY2F0ZShyb290OiBSb290PFNhYVNFbnRpdHk+LCBxdWVyeTogQ3JpdGVyaWFRdWVyeTwqPiwgY3JpdGVyaWFCdWlsZGVyOiBDcml0ZXJpYUJ1aWxkZXIpOiBQcmVkaWNhdGU/IHsKICAgICAgICAgICAgfQoKICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>ON</text>
       </register>
     </registers>
   </component>
