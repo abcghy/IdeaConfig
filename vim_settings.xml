@@ -70,11 +70,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/maintenance/index.vue" timestamp="1589992687965">
-        <mark key="[" line="58" column="7" />
-        <mark key="]" line="58" column="8" />
-        <mark key="^" line="58" column="8" />
-        <mark key="." line="58" column="7" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/api/node.js" timestamp="1589993632359">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="31" column="16" />
+        <mark key="^" line="31" column="16" />
+        <mark key="." line="31" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/maintenance/index.vue" timestamp="1589993615964">
+        <mark key="[" line="158" column="15" />
+        <mark key="]" line="51" column="51" />
+        <mark key="^" line="51" column="51" />
+        <mark key="." line="51" column="50" />
       </file>
       <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1589827981486">
         <mark key="[" line="0" column="0" />
@@ -100,15 +106,9 @@
         <mark key="." line="61" column="48" />
         <mark key="^" line="61" column="49" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" timestamp="1589992702802">
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" timestamp="1589993507335">
         <mark key="[" line="191" column="6" />
         <mark key="]" line="194" column="6" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1589827451232">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="1" />
       </file>
       <file name="/masterserver.transmission_entity_path" timestamp="1589827981500">
         <mark key="[" line="0" column="0" />
@@ -133,12 +133,6 @@
         <mark key="." line="30" column="76" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaaSEntity.java" timestamp="1589989904583" />
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1589827578600">
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="49" column="30" />
-        <mark key="^" line="49" column="30" />
-        <mark key="." line="49" column="29" />
-      </file>
       <file name="/masterserver.node_entity" timestamp="1589988201951">
         <mark key="[" line="0" column="0" />
       </file>
@@ -153,6 +147,12 @@
       </file>
       <file name="/masterserver.transmission_entity" timestamp="1589910350061">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/node.js" timestamp="1589993666642">
+        <mark key="[" line="77" column="25" />
+        <mark key="]" line="77" column="32" />
+        <mark key="^" line="77" column="32" />
+        <mark key="." line="77" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -189,10 +189,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>listQuery: {
-        page: 0,
-        size: 10
-      }</text>
+        <text>data</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIHBhZ2UgPSBQYWdlUmVxdWVzdC5vZihwYWdlLCBzaXplKQo=</text>
@@ -219,7 +216,7 @@
         <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>page</text>
+        <text>data</text>
       </register>
     </registers>
   </component>
