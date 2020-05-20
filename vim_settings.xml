@@ -76,14 +76,29 @@
         <mark key="^" line="31" column="16" />
         <mark key="." line="31" column="15" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/maintenance/index.vue" timestamp="1589993615964">
-        <mark key="[" line="158" column="15" />
-        <mark key="]" line="51" column="51" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/maintenance/index.vue" timestamp="1589995006006">
+        <mark key="[" line="56" column="6" />
+        <mark key="]" line="59" column="7" />
         <mark key="^" line="51" column="51" />
         <mark key="." line="51" column="50" />
       </file>
-      <file name="/transmission_entity_path [MySQL - @localhost]" timestamp="1589827981486">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/permission/index.vue" timestamp="1589995307344">
+        <mark key="[" line="104" column="43" />
+        <mark key="]" line="104" column="59" />
+        <mark key="." line="104" column="58" />
+        <mark key="^" line="104" column="59" />
+      </file>
+      <file name="$USER_HOME$/code/vue-admin-template/src/api/account.js" timestamp="1589995345571">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/account/AccountController.kt" timestamp="1589994791598">
+        <mark key="[" line="37" column="53" />
+        <mark key="]" line="37" column="57" />
+        <mark key="." line="37" column="56" />
+        <mark key="^" line="37" column="57" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1589991027086">
         <mark key="'" line="163" column="30" />
@@ -91,12 +106,6 @@
         <mark key="]" line="189" column="59" />
         <mark key="^" line="189" column="59" />
         <mark key="." line="189" column="58" />
-      </file>
-      <file name="/a.sql" timestamp="1589827707687">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/transmission_entity [MySQL - @localhost]" timestamp="1589910350052">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/bean/NodeEntity.java" timestamp="1589989915974" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ad86fd6b-c661-4c3a-89a4-ad98d39a0987/console.sql" timestamp="1589910411568">
@@ -110,9 +119,6 @@
         <mark key="[" line="191" column="6" />
         <mark key="]" line="194" column="6" />
       </file>
-      <file name="/masterserver.transmission_entity_path" timestamp="1589827981500">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/node_entity [MySQL - @localhost]" timestamp="1589988201684">
         <mark key="[" line="0" column="0" />
       </file>
@@ -123,14 +129,17 @@
         <mark key="^" line="232" column="79" />
         <mark key="." line="232" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589827707710">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionRepository.java" timestamp="1589990822191">
         <mark key="[" line="30" column="29" />
         <mark key="]" line="30" column="77" />
         <mark key="^" line="30" column="77" />
         <mark key="." line="30" column="76" />
+      </file>
+      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/account.js" timestamp="1589995335423">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="10" column="27" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaaSEntity.java" timestamp="1589989904583" />
       <file name="/masterserver.node_entity" timestamp="1589988201951">
@@ -138,6 +147,12 @@
       </file>
       <file name="/foo.bar" timestamp="1589988202012">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/user/UserRepository.java" timestamp="1589994743534">
+        <mark key="[" line="6" column="66" />
+        <mark key="]" line="6" column="97" />
+        <mark key="^" line="6" column="97" />
+        <mark key="." line="6" column="96" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeRepository.java" timestamp="1589990932933">
         <mark key="[" line="18" column="4" />
@@ -148,7 +163,7 @@
       <file name="/masterserver.transmission_entity" timestamp="1589910350061">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/node.js" timestamp="1589993666642">
+      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/node.js" timestamp="1589994857199">
         <mark key="[" line="77" column="25" />
         <mark key="]" line="77" column="32" />
         <mark key="^" line="77" column="32" />
@@ -183,40 +198,40 @@
         <text>listQuery: {
         page: 0,
         size: 10
-      }</text>
+      },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBhZ2UgPSBQYWdlUmVxdWVzdC5vZihwYWdlLCBzaXplKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgPSBub2RlUmVwb3NpdG9yeS5maW5kQWxsKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">dHJhbnNtaXNzaW9uX2VudGl0eSBhcyB0CiAgICBJTk5FUiBKT0lOIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbShyZXF1aXJlZCA9IGZhbHNlLCBkZWZhdWx0VmFsdWUgPSAiMTAiKSBwYWdlOiBJbnQsCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSB0cmFuc21pc3Npb25fZW50aXR5IGFzIHQgbGVmdCBvdXRlciBqb2luIHRyYW5zbWlzc2lvbl9lbnRpdHlfcGF0aCBhcyB0cApPTiB0LmlkID0gdHAudHJhbnNtaXNzaW9uX2VudGl0eV9pZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBhZ2UgPSBQYWdlUmVxdWVzdC5vZihwYWdlLCBzaXplKQo=</text>
       </register>
       <register name="8" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>0</text>
+        <text encoding="base64">ICAgICAgICAgPSBub2RlUmVwb3NpdG9yeS5maW5kQWxsKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>userRepository.findAll()</text>
       </register>
     </registers>
   </component>
