@@ -70,11 +70,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/vue-admin-template/src/api/node.js" timestamp="1590339524996">
-        <mark key="[" line="53" column="16" />
-        <mark key="]" line="53" column="27" />
-        <mark key="." line="53" column="26" />
-        <mark key="^" line="53" column="27" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/api/node.js" timestamp="1590342454042">
+        <mark key="[" line="56" column="8" />
+        <mark key="]" line="57" column="23" />
+        <mark key="." line="57" column="22" />
+        <mark key="^" line="57" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1590340976515" />
       <file name="$USER_HOME$/code/vue-admin-template/src/components/NodeCard/index.vue" timestamp="1590339398809">
@@ -102,24 +102,21 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/common/index.vue" timestamp="1590340736342">
-        <mark key="[" line="221" column="62" />
-        <mark key="]" line="221" column="51" />
-        <mark key="^" line="221" column="51" />
-        <mark key="." line="221" column="50" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/common/index.vue" timestamp="1590342654756">
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="228" column="0" />
+        <mark key="^" line="227" column="9" />
+        <mark key="." line="228" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/account/AccountController.kt" timestamp="1589994791598">
-        <mark key="[" line="37" column="53" />
-        <mark key="]" line="37" column="57" />
-        <mark key="." line="37" column="56" />
-        <mark key="^" line="37" column="57" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/utils/request.js" timestamp="1590342359474">
+        <mark key="[" line="10" column="2" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1590341238919">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1590341309033">
         <mark key="'" line="164" column="30" />
         <mark key="[" line="296" column="51" />
-        <mark key="]" line="296" column="57" />
+        <mark key="]" line="296" column="51" />
         <mark key="^" line="296" column="57" />
-        <mark key="." line="296" column="56" />
+        <mark key="." line="296" column="51" />
       </file>
       <file name="$USER_HOME$/code/backend/.gitignore" timestamp="1590329933773">
         <mark key="[" line="30" column="0" />
@@ -163,7 +160,7 @@
         <mark key="^" line="39" column="22" />
         <mark key="." line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/node.js" timestamp="1590339552481">
+      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/node.js" timestamp="1590342522038">
         <mark key="'" line="107" column="13" />
         <mark key="[" line="1" column="105" />
         <mark key="]" line="1" column="118" />
@@ -205,35 +202,35 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>downloadApkReq.nodeId</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGVtcEFwa0ZpbGUgPT0gbnVsbCkgewogICAgICAgICAgICByZXNwb25zZS5zdGF0dXMgPSA0MDQKICAgICAgICAgICAgLy8g5Yig6Zmk5Li05pe25paH5Lu2CiAgICAgICAgICAgIHJldHVybgogICAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodGVtcEFwa0ZpbGUgPT0gbnVsbCkgewogICAgICAgICAgICByZXNwb25zZS5zdGF0dXMgPSA0MDQKICAgICAgICAgICAgLy8g5Yig6Zmk5Li05pe25paH5Lu2CiAgICAgICAgICAgIHJldHVybgogICAgICAgIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjaGFubmVsSW5mby5leHRyYUluZm8K</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>.let {
         }</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGNoYW5uZWxJbmZvID0gUGFja01vZGVsLkNoYW5uZWxJbmZvKCkKICAgICAgICAgICAgY2hhbm5lbEluZm8uY2hhbm5lbCA9ICIke25vZGUuaWR9X25vZGUiCiAgICAgICAgICAgIGNoYW5uZWxJbmZvLmFsaWFzID0gIiR7bm9kZS5pZH0iCiAgICAgICAgICAgIGNoYW5uZWxJbmZvLmV4dHJhSW5mbwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBwaWNrTW9kZWwgPSBQaWNrTW9kZWwoKQo=</text>
-      </register>
       <register name="-" type="4">
-        <text>downloadApkReq.nodeId</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
     </registers>
   </component>
