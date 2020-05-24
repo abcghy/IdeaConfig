@@ -76,6 +76,7 @@
         <mark key="." line="53" column="26" />
         <mark key="^" line="53" column="27" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1590340976515" />
       <file name="$USER_HOME$/code/vue-admin-template/src/components/NodeCard/index.vue" timestamp="1590339398809">
         <mark key="'" line="17" column="53" />
         <mark key="[" line="21" column="68" />
@@ -101,11 +102,11 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/common/index.vue" timestamp="1590339902827">
-        <mark key="[" line="221" column="57" />
-        <mark key="]" line="221" column="61" />
-        <mark key="^" line="225" column="54" />
-        <mark key="." line="221" column="57" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/common/index.vue" timestamp="1590340736342">
+        <mark key="[" line="221" column="62" />
+        <mark key="]" line="221" column="51" />
+        <mark key="^" line="221" column="51" />
+        <mark key="." line="221" column="50" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/account/AccountController.kt" timestamp="1589994791598">
         <mark key="[" line="37" column="53" />
@@ -113,12 +114,12 @@
         <mark key="." line="37" column="56" />
         <mark key="^" line="37" column="57" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1590339727246">
-        <mark key="'" line="163" column="30" />
-        <mark key="[" line="358" column="46" />
-        <mark key="]" line="358" column="56" />
-        <mark key="^" line="358" column="56" />
-        <mark key="." line="358" column="55" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1590341238919">
+        <mark key="'" line="164" column="30" />
+        <mark key="[" line="296" column="51" />
+        <mark key="]" line="296" column="57" />
+        <mark key="^" line="296" column="57" />
+        <mark key="." line="296" column="56" />
       </file>
       <file name="$USER_HOME$/code/backend/.gitignore" timestamp="1590329933773">
         <mark key="[" line="30" column="0" />
@@ -154,12 +155,6 @@
       </file>
       <file name="/foo.bar" timestamp="1590330103687">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/user/UserRepository.java" timestamp="1589994743534">
-        <mark key="[" line="6" column="66" />
-        <mark key="]" line="6" column="97" />
-        <mark key="^" line="6" column="97" />
-        <mark key="." line="6" column="96" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" timestamp="1590323717187">
         <mark key="'" line="135" column="4" />
@@ -210,7 +205,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>JSON.stringify()</text>
+        <text>downloadApkReq.nodeId</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -238,7 +233,7 @@
         <text encoding="base64">Ly8gICAgICAgIHZhbCBwaWNrTW9kZWwgPSBQaWNrTW9kZWwoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>JSON.stringify()</text>
+        <text>downloadApkReq.nodeId</text>
       </register>
     </registers>
   </component>
