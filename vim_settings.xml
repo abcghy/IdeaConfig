@@ -79,18 +79,18 @@
         <mark key="^" line="31" column="16" />
         <mark key="." line="31" column="15" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1589911206067">
-        <mark key="'" line="42" column="49" />
-        <mark key="[" line="232" column="79" />
-        <mark key="]" line="232" column="105" />
-        <mark key="^" line="232" column="79" />
-        <mark key="." line="232" column="79" />
-      </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionRepository.java" timestamp="1589990822191">
         <mark key="[" line="30" column="29" />
         <mark key="]" line="30" column="77" />
         <mark key="^" line="30" column="77" />
         <mark key="." line="30" column="76" />
+      </file>
+      <file name="$USER_HOME$/code/vue-admin-template/src/components/NodeCard/index.vue" timestamp="1590320985946">
+        <mark key="'" line="17" column="53" />
+        <mark key="[" line="79" column="27" />
+        <mark key="]" line="79" column="28" />
+        <mark key="^" line="79" column="27" />
+        <mark key="." line="79" column="28" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/account.js" timestamp="1589995335423">
         <mark key="[" line="10" column="20" />
@@ -116,6 +116,7 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="15" />
       </file>
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/common/index.vue" timestamp="1590321378948" />
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/account/AccountController.kt" timestamp="1589994791598">
         <mark key="[" line="37" column="53" />
         <mark key="]" line="37" column="57" />
@@ -135,13 +136,6 @@
       <file name="/foo.bar" timestamp="1590247664893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ad86fd6b-c661-4c3a-89a4-ad98d39a0987/console.sql" timestamp="1589910411568">
-        <mark key="'" line="38" column="61" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="61" column="49" />
-        <mark key="." line="61" column="48" />
-        <mark key="^" line="61" column="49" />
-      </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/user/UserRepository.java" timestamp="1589994743534">
         <mark key="[" line="6" column="66" />
         <mark key="]" line="6" column="97" />
@@ -152,14 +146,17 @@
         <mark key="[" line="191" column="6" />
         <mark key="]" line="194" column="6" />
       </file>
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" timestamp="1590321531526">
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="39" column="23" />
+        <mark key="^" line="39" column="22" />
+        <mark key="." line="39" column="23" />
+      </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeRepository.java" timestamp="1589990932933">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="19" column="8" />
         <mark key="^" line="19" column="8" />
         <mark key="." line="19" column="7" />
-      </file>
-      <file name="/masterserver.transmission_entity" timestamp="1589910350061">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/node.js" timestamp="1589994857199">
         <mark key="[" line="77" column="25" />
@@ -188,6 +185,7 @@
       <jump line="91" column="19" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" />
       <jump line="40" column="49" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" />
       <jump line="163" column="30" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" />
+      <jump line="17" column="53" filename="$USER_HOME$/code/vue-admin-template/src/components/NodeCard/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -199,37 +197,37 @@
       },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbShyZXF1aXJlZCA9IGZhbHNlLCBkZWZhdWx0VmFsdWUgPSAiMTAiKSBwYWdlOiBJbnQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBhZ2UgPSBQYWdlUmVxdWVzdC5vZihwYWdlLCBzaXplKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbShyZXF1aXJlZCA9IGZhbHNlLCBkZWZhdWx0VmFsdWUgPSAiMTAiKSBwYWdlOiBJbnQsCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgPSBub2RlUmVwb3NpdG9yeS5maW5kQWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBhZ2UgPSBQYWdlUmVxdWVzdC5vZihwYWdlLCBzaXplKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>userRepository.findAll()</text>
+        <text>)</text>
       </register>
     </registers>
   </component>
