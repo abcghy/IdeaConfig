@@ -85,12 +85,12 @@
         <mark key="^" line="30" column="77" />
         <mark key="." line="30" column="76" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/components/NodeCard/index.vue" timestamp="1590320985946">
+      <file name="$USER_HOME$/code/vue-admin-template/src/components/NodeCard/index.vue" timestamp="1590323317142">
         <mark key="'" line="17" column="53" />
-        <mark key="[" line="79" column="27" />
-        <mark key="]" line="79" column="28" />
-        <mark key="^" line="79" column="27" />
-        <mark key="." line="79" column="28" />
+        <mark key="[" line="75" column="3" />
+        <mark key="]" line="75" column="3" />
+        <mark key="^" line="17" column="73" />
+        <mark key="." line="75" column="3" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/account.js" timestamp="1589995335423">
         <mark key="[" line="10" column="20" />
@@ -116,7 +116,12 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/common/index.vue" timestamp="1590321378948" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/common/index.vue" timestamp="1590323579215">
+        <mark key="[" line="74" column="23" />
+        <mark key="]" line="74" column="24" />
+        <mark key="^" line="164" column="4" />
+        <mark key="." line="74" column="24" />
+      </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/account/AccountController.kt" timestamp="1589994791598">
         <mark key="[" line="37" column="53" />
         <mark key="]" line="37" column="57" />
@@ -146,11 +151,12 @@
         <mark key="[" line="191" column="6" />
         <mark key="]" line="194" column="6" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" timestamp="1590321531526">
-        <mark key="[" line="39" column="22" />
-        <mark key="]" line="39" column="23" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" timestamp="1590323561432">
+        <mark key="'" line="135" column="4" />
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="22" />
         <mark key="^" line="39" column="22" />
-        <mark key="." line="39" column="23" />
+        <mark key="." line="39" column="21" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeRepository.java" timestamp="1589990932933">
         <mark key="[" line="18" column="4" />
@@ -186,48 +192,58 @@
       <jump line="40" column="49" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" />
       <jump line="163" column="30" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" />
       <jump line="17" column="53" filename="$USER_HOME$/code/vue-admin-template/src/components/NodeCard/index.vue" />
+      <jump line="135" column="4" filename="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="4">
-        <text>listQuery: {
-        page: 0,
-        size: 10
-      },</text>
+        <text encoding="base64">ZG93bmxvYWRLZXkoaWQpIHsKICAgICAgY29uc29sZS5sb2coJ2Rvd25sb2FkJykKICAgICAgdGhpcy4kc3RvcmUuZGlzcGF0Y2goJ25vZGUvZG93bmxvYWRQcml2YXRlS2V5JywgeyAnbm9kZUlkJzogaWQgfSkudGhlbihkYXRhID0+IHsKICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQogICAgICAgIGlmICghZGF0YSkgewogICAgICAgICAgLy8gdGhpcy4kTWVzc2FnZS5lcnJvcign5LiL6L295YaF5a655Li656m6JykKICAgICAgICAgIGNvbnNvbGUubG9nKCdkb3dubG9hZCBmaWxlIGVycm9yJykKICAgICAgICAgIHJldHVybgogICAgICAgIH0KICAgICAgICBjb25zdCB1cmwgPSB3aW5kb3cuVVJMLmNyZWF0ZU9iamVjdFVSTChuZXcgQmxvYihbZGF0YV0pKQogICAgICAgIGNvbnN0IGxpbmsgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdhJykKICAgICAgICBsaW5rLnN0eWxlLmRpc3BsYXkgPSAnbm9uZScKICAgICAgICBsaW5rLmhyZWYgPSB1cmwKICAgICAgICBsaW5rLnNldEF0dHJpYnV0ZSgnZG93bmxvYWQnLCBpZCArICcucGVtJykKCiAgICAgICAgZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChsaW5rKQogICAgICAgIGxpbmsuY2xpY2soKQogICAgICAgIC8vIOmHiuaUvlVSTOWvueixoeaJgOWNoOi1hOa6kAogICAgICAgIHdpbmRvdy5VUkwucmV2b2tlT2JqZWN0VVJMKHVybCkKICAgICAgICAvLyDnlKjlrozljbPliKAKICAgICAgICBkb2N1bWVudC5ib2R5LnJlbW92ZUNoaWxkKGxpbmspCiAgICAgIH0pLmNhdGNoKGVycm9yID0+IHsKICAgICAgICBjb25zb2xlLmxvZyhlcnJvcikKICAgICAgfSkKICAgIH0=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="1" type="4">
+        <text>,
+  methods: {
+    downloadKey() {
+      console.log('shit')
+      this.$emit('download-key')
+    }
+  }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>-</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7Cg==</text>
+      <register name="2" type="4">
+        <text>,
+  methods: {
+    downloadKey() {
+      console.log('shit')
+      this.$emit('download-key')
+    }
+  }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbShyZXF1aXJlZCA9IGZhbHNlLCBkZWZhdWx0VmFsdWUgPSAiMTAiKSBwYWdlOiBJbnQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBhZ2UgPSBQYWdlUmVxdWVzdC5vZihwYWdlLCBzaXplKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbShyZXF1aXJlZCA9IGZhbHNlLCBkZWZhdWx0VmFsdWUgPSAiMTAiKSBwYWdlOiBJbnQsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>-</text>
       </register>
     </registers>
   </component>
