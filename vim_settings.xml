@@ -113,12 +113,12 @@
         <mark key="." line="37" column="56" />
         <mark key="^" line="37" column="57" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1590330748080">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1590333236372">
         <mark key="'" line="163" column="30" />
-        <mark key="[" line="308" column="40" />
-        <mark key="]" line="310" column="0" />
-        <mark key="^" line="315" column="22" />
-        <mark key="." line="310" column="0" />
+        <mark key="[" line="313" column="0" />
+        <mark key="]" line="313" column="0" />
+        <mark key="^" line="312" column="12" />
+        <mark key="." line="313" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend/.gitignore" timestamp="1590329933773">
         <mark key="[" line="30" column="0" />
@@ -199,9 +199,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="4">
-        <text>response.status = 404
-            return</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2FhU09iamVjdC5jb252ZXJ0KGl0KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -212,7 +211,13 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>,
   methods: {
     downloadKey() {
@@ -221,7 +226,7 @@
     }
   }</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>,
   methods: {
     downloadKey() {
@@ -229,21 +234,15 @@
       this.$emit('download-key')
     }
   }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>SaaS</text>
