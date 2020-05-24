@@ -113,12 +113,12 @@
         <mark key="." line="37" column="56" />
         <mark key="^" line="37" column="57" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1590337273361">
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1590337854589">
         <mark key="'" line="163" column="30" />
-        <mark key="[" line="354" column="25" />
-        <mark key="]" line="354" column="25" />
-        <mark key="." line="354" column="24" />
-        <mark key="^" line="354" column="25" />
+        <mark key="[" line="367" column="29" />
+        <mark key="]" line="368" column="35" />
+        <mark key="." line="368" column="34" />
+        <mark key="^" line="368" column="35" />
       </file>
       <file name="$USER_HOME$/code/backend/.gitignore" timestamp="1590329933773">
         <mark key="[" line="30" column="0" />
@@ -207,36 +207,36 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>File</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGVtcEFwa0ZpbGUgPT0gbnVsbCkgewogICAgICAgICAgICByZXNwb25zZS5zdGF0dXMgPSA0MDQKICAgICAgICAgICAgLy8g5Yig6Zmk5Li05pe25paH5Lu2CiAgICAgICAgICAgIHJldHVybgogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjaGFubmVsSW5mby5leHRyYUluZm8K</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>.let {
         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGNoYW5uZWxJbmZvID0gUGFja01vZGVsLkNoYW5uZWxJbmZvKCkKICAgICAgICAgICAgY2hhbm5lbEluZm8uY2hhbm5lbCA9ICIke25vZGUuaWR9X25vZGUiCiAgICAgICAgICAgIGNoYW5uZWxJbmZvLmFsaWFzID0gIiR7bm9kZS5pZH0iCiAgICAgICAgICAgIGNoYW5uZWxJbmZvLmV4dHJhSW5mbwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBwaWNrTW9kZWwgPSBQaWNrTW9kZWwoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBwaWNrTW9kZWwgPSBQaWNrTW9kZWwoKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>File</text>
+        <text encoding="base64">cmV0dXJuQGxldCA=</text>
       </register>
     </registers>
   </component>
