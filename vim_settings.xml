@@ -116,20 +116,18 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOpView.java" timestamp="1591083177165">
         <mark key="'" line="507" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591082981722">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/HotWordModel.kt" timestamp="1591087612158">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
         <mark key="^" line="29" column="43" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1591090911938">
-        <mark key="[" line="204" column="22" />
-        <mark key="]" line="204" column="39" />
-        <mark key="^" line="204" column="39" />
-        <mark key="." line="204" column="39" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1591091540984">
+        <mark key="'" line="218" column="23" />
+        <mark key="[" line="207" column="53" />
+        <mark key="]" line="207" column="53" />
+        <mark key="." line="207" column="53" />
+        <mark key="^" line="207" column="61" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/service/BaseService.java" timestamp="1591087423632">
         <mark key="[" line="481" column="15" />
@@ -148,21 +146,26 @@
         <mark key="." line="33" column="84" />
         <mark key="^" line="33" column="84" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/drawable/rounded_search_gray.xml" timestamp="1591083076060">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="25" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="3" column="25" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpOtherView.kt" timestamp="1591088729996">
         <mark key="[" line="30" column="32" />
         <mark key="]" line="30" column="34" />
         <mark key="^" line="30" column="34" />
         <mark key="." line="30" column="34" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpNormalView.kt" timestamp="1591091361399">
+        <mark key="[" line="75" column="8" />
+        <mark key="]" line="75" column="15" />
+        <mark key="." line="75" column="14" />
+        <mark key="^" line="75" column="15" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" timestamp="1591091313140">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="31" />
+        <mark key="." line="41" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="28" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/beauty/BeautyGPUImage.java" />
       <jump line="315" column="100" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/model/StickerItemDefault.java" />
       <jump line="79" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/drawee/1.13.0/1299ee4b44abe47a0d5c0829c5145df327adf71c/drawee-1.13.0-sources.jar!/com/facebook/drawee/view/SimpleDraweeView.java" />
       <jump line="54" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/drawee/1.13.0/1299ee4b44abe47a0d5c0829c5145df327adf71c/drawee-1.13.0-sources.jar!/com/facebook/drawee/view/GenericDraweeView.java" />
@@ -262,6 +265,7 @@
       <jump line="58" column="55" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" />
       <jump line="507" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOpView.java" />
       <jump line="6" column="33" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_recommend_second_op_top.xml" />
+      <jump line="209" column="23" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -273,8 +277,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWUK</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -284,40 +288,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>setOnClickListener</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>HotWordItem</text>
-      </register>
-      <register name="1" type="2">
+      <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWUK</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pdGVtID0gaXRlbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgUmV0cm9maXRJbnN0YW5jZS5nZXRJbnN0YW5jZSgpLmJhc2VTZXJ2aWNlLnRlbXBsYXRlU2VhcmNoU3VnZ2VzdGlvbgovLyAgICAgICAgICAgICAgICAgICAgICAgIC5jb21wb3NlKFJ4VXRpbC5hcHBseVNjaGVkdWxlcigpKQovLyAgICAgICAgICAgICAgICAgICAgICAgIC5jb21wb3NlKFJ4TGl2ZS5iaW5kTGlmZUN5Y2xlKHRoaXNAU2Vjb25kT3BEZW1vQWN0aXZpdHkpKQovLyAgICAgICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUob2JqZWN0IDogVmVyc2FTdWJzY3JpYmVyPFRlbXBsYXRlU3VnZ2VzdGlvbk1vZGVsPigpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uU3VjY2VzcyhkYXRhOiBUZW1wbGF0ZVN1Z2dlc3Rpb25Nb2RlbD8pIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBzdWdnZXN0aW9ucyA9IGRhdGE/LnJlc3VsdD8uc3VnZ2VzdGlvbnM/Lm1hcCB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXQuc3VnZ2VzdGlvbgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSA/OiBsaXN0T2YoKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcnNvdi5zZXRLZXl3b3JkTGlzdChzdWdnZXN0aW9ucykKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgfQovLwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25GYWlsdXJlKG1zZzogU3RyaW5nPywgY29kZTogU3RyaW5nPywgZTogVGhyb3dhYmxlPykgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBnZXRDb2x1bW5BZGFwdGVyKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoYW55ID09IG51bGwpIHJldHVybiBmYWxzZQovLyAgICAgICAgICAgIC8vIHRvZG86IGdoeSDlupTor6Xljrvph40KLy8gICAgICAgICAgICBjb2x1bW5JdGVtcy5maWx0ZXJJc0luc3RhbmNlPENvbHVtbkZhdj4oKS5maXJzdE9yTnVsbCgpPy5mYXZJdGVtcz8uYWxzbyB7Ci8vICAgICAgICAgICAgICAgIGl0LmFkZChhbnkpCi8vICAgICAgICAgICAgICAgIG5vdGlmeUl0ZW1DaGFuZ2VkKGNvbHVtbkl0ZW1zLmluZGV4T2ZGaXJzdCB7IGl0IGlzIENvbHVtbkZhdiB9LCBDb2x1bW5BZGFwdGVyLkFERF9GQVYpCi8vICAgICAgICAgICAgfQovLyAgICAgICAgICAgIC8vIHRvZG86IGdoeSDlm57osIPnu5nmnIDlpJblsYLosIPnlKjogIXvvIzlkYror4nku5bku6zmiJDlip/mt7vliqDmlrDnmoTjgIzmlLbol4/jgI0KLy8gICAgICAgICAgICBvbkFkZFRvRmF2TGlzdGVuZXI/Lm9uQWRkVG9GYXYoYW55KQovLyAgICAgICAgICAgIHJldHVybiB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSG90V29yZE1hbmFnZXIuSU5TVEFOQ0Uuc2V0SG90V29yZFJlc3VsdChkYXRhKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGhvdHdvcmRNb2RlbDogSG90V29yZFJlc3VsdAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZGF0YSBjbGFzcyBIb3RXb3JkUmVzdWx0KAogICAgQFNlcmlhbGl6ZWROYW1lKCIxIikKICAgIHZhciBpbmRleDogTGlzdDxIb3RXb3JkSXRlbT4/LAogICAgQFNlcmlhbGl6ZWROYW1lKCIyIikKICAgIHZhciB0ZW1wbGF0ZTogTGlzdDxIb3RXb3JkSXRlbT4/LAogICAgQFNlcmlhbGl6ZWROYW1lKCIzIikKICAgIHZhciB4MzogTGlzdDxIb3RXb3JkSXRlbT4/LAogICAgQFNlcmlhbGl6ZWROYW1lKCI0IikKICAgIHZhciB4NDogTGlzdDxIb3RXb3JkSXRlbT4/</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pdGVtID0gaXRlbQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgUmV0cm9maXRJbnN0YW5jZS5nZXRJbnN0YW5jZSgpLmJhc2VTZXJ2aWNlLnRlbXBsYXRlU2VhcmNoU3VnZ2VzdGlvbgovLyAgICAgICAgICAgICAgICAgICAgICAgIC5jb21wb3NlKFJ4VXRpbC5hcHBseVNjaGVkdWxlcigpKQovLyAgICAgICAgICAgICAgICAgICAgICAgIC5jb21wb3NlKFJ4TGl2ZS5iaW5kTGlmZUN5Y2xlKHRoaXNAU2Vjb25kT3BEZW1vQWN0aXZpdHkpKQovLyAgICAgICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUob2JqZWN0IDogVmVyc2FTdWJzY3JpYmVyPFRlbXBsYXRlU3VnZ2VzdGlvbk1vZGVsPigpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uU3VjY2VzcyhkYXRhOiBUZW1wbGF0ZVN1Z2dlc3Rpb25Nb2RlbD8pIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBzdWdnZXN0aW9ucyA9IGRhdGE/LnJlc3VsdD8uc3VnZ2VzdGlvbnM/Lm1hcCB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXQuc3VnZ2VzdGlvbgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSA/OiBsaXN0T2YoKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcnNvdi5zZXRLZXl3b3JkTGlzdChzdWdnZXN0aW9ucykKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgfQovLwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25GYWlsdXJlKG1zZzogU3RyaW5nPywgY29kZTogU3RyaW5nPywgZTogVGhyb3dhYmxlPykgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgICAgICAgICAgICAgfSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9kYXRhIGNsYXNzIFgyKAovLyAgICBAU2VyaWFsaXplZE5hbWUoIndvcmQiKQovLyAgICB2YXIgd29yZDogU3RyaW5nPywKLy8gICAgQFNlcmlhbGl6ZWROYW1lKCJ3b3JkSWQiKQovLyAgICB2YXIgd29yZElkOiBTdHJpbmc/Ci8vKQoKLy9kYXRhIGNsYXNzIFgzKAovLyAgICBAU2VyaWFsaXplZE5hbWUoIndvcmQiKQovLyAgICB2YXIgd29yZDogU3RyaW5nPywKLy8gICAgQFNlcmlhbGl6ZWROYW1lKCJ3b3JkSWQiKQovLyAgICB2YXIgd29yZElkOiBTdHJpbmc/Ci8vKQoKLy9kYXRhIGNsYXNzIFg0KAovLyAgICBAU2VyaWFsaXplZE5hbWUoIndvcmQiKQovLyAgICB2YXIgd29yZDogU3RyaW5nPywKLy8gICAgQFNlcmlhbGl6ZWROYW1lKCJ3b3JkSWQiKQovLyAgICB2YXIgd29yZElkOiBTdHJpbmc/Ci8vKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
