@@ -70,210 +70,273 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/node_entity [MySQL - @localhost]" timestamp="1590330103642">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/layout_fusion_plugin.xml" timestamp="1591083302536">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" timestamp="1591090284823">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+        <mark key="^" line="133" column="26" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_search_prepare.xml" timestamp="1591089304041">
+        <mark key="[" line="40" column="39" />
+        <mark key="]" line="41" column="41" />
+        <mark key="." line="41" column="41" />
+        <mark key="^" line="41" column="41" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_recommend_second_op_top.xml" timestamp="1591083629431">
+        <mark key="'" line="6" column="33" />
+        <mark key="[" line="66" column="8" />
+        <mark key="]" line="66" column="8" />
+        <mark key="." line="66" column="8" />
+        <mark key="^" line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" timestamp="1591089468902">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="175" column="37" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SplashActivity.java" timestamp="1591087663171">
+        <mark key="[" line="130" column="73" />
+        <mark key="]" line="130" column="84" />
+        <mark key="." line="130" column="84" />
+        <mark key="^" line="130" column="84" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpSearchAdapter.kt" timestamp="1591089700423">
+        <mark key="[" line="29" column="69" />
+        <mark key="]" line="29" column="88" />
+        <mark key="^" line="29" column="88" />
+        <mark key="." line="29" column="88" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOpView.java" timestamp="1591083177165">
+        <mark key="'" line="507" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591082981722">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/api/node.js" timestamp="1590342454042">
-        <mark key="[" line="56" column="8" />
-        <mark key="]" line="57" column="23" />
-        <mark key="." line="57" column="22" />
-        <mark key="^" line="57" column="23" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590329960508">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/components/NodeCard/index.vue" timestamp="1590339398809">
-        <mark key="'" line="17" column="53" />
-        <mark key="[" line="21" column="68" />
-        <mark key="]" line="21" column="71" />
-        <mark key="^" line="21" column="71" />
-        <mark key="." line="21" column="70" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/account.js" timestamp="1589995335423">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="28" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/maintenance/index.vue" timestamp="1589995006006">
-        <mark key="[" line="56" column="6" />
-        <mark key="]" line="59" column="7" />
-        <mark key="^" line="51" column="51" />
-        <mark key="." line="51" column="50" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/permission/index.vue" timestamp="1589995307344">
-        <mark key="[" line="104" column="43" />
-        <mark key="]" line="104" column="59" />
-        <mark key="." line="104" column="58" />
-        <mark key="^" line="104" column="59" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/resources/application.properties" timestamp="1590418715725">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="27" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/api/account.js" timestamp="1589995345571">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="7" column="16" />
-        <mark key="." line="7" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/common/index.vue" timestamp="1590344179623">
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="0" />
-        <mark key="^" line="227" column="9" />
-        <mark key="." line="228" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/utils/request.js" timestamp="1590342359474">
-        <mark key="[" line="10" column="2" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1590418455067">
-        <mark key="'" line="163" column="30" />
-        <mark key="[" line="291" column="5" />
-        <mark key="]" line="291" column="9" />
-        <mark key="^" line="291" column="9" />
-        <mark key="." line="291" column="8" />
-      </file>
-      <file name="$USER_HOME$/code/backend/.gitignore" timestamp="1590329933773">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/HotWordModel.kt" timestamp="1591087612158">
         <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="1" />
-        <mark key="^" line="30" column="1" />
+        <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+        <mark key="^" line="29" column="43" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/bean/PackModel.java" timestamp="1590334648320">
-        <mark key="[" line="5" column="46" />
-        <mark key="]" line="7" column="51" />
-        <mark key="^" line="7" column="51" />
-        <mark key="." line="7" column="50" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1591089781885">
+        <mark key="[" line="204" column="22" />
+        <mark key="]" line="204" column="39" />
+        <mark key="^" line="204" column="39" />
+        <mark key="." line="204" column="39" />
       </file>
-      <file name="/masterserver.node_entity" timestamp="1590330103664">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/service/BaseService.java" timestamp="1591087423632">
+        <mark key="[" line="481" column="15" />
+        <mark key="]" line="481" column="26" />
+        <mark key="^" line="481" column="26" />
+        <mark key="." line="481" column="26" />
       </file>
-      <file name="/foo.bar" timestamp="1590330103687">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/RxUtil.java" timestamp="1591085522698">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" timestamp="1590344182707">
-        <mark key="'" line="136" column="4" />
-        <mark key="[" line="182" column="6" />
-        <mark key="]" line="41" column="46" />
-        <mark key="^" line="41" column="46" />
-        <mark key="." line="41" column="45" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpSearchViewHolder.kt" timestamp="1591090070518">
+        <mark key="[" line="33" column="76" />
+        <mark key="]" line="33" column="84" />
+        <mark key="." line="33" column="84" />
+        <mark key="^" line="33" column="84" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/node.js" timestamp="1590342522038">
-        <mark key="'" line="107" column="13" />
-        <mark key="[" line="1" column="105" />
-        <mark key="]" line="1" column="118" />
-        <mark key="^" line="1" column="118" />
-        <mark key="." line="1" column="117" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/drawable/rounded_search_gray.xml" timestamp="1591083076060">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="3" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1590330159167">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpOtherView.kt" timestamp="1591088729996">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="34" />
+        <mark key="^" line="30" column="34" />
+        <mark key="." line="30" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="23" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
-      <jump line="193" column="16" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
-      <jump line="50" column="17" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
-      <jump line="304" column="14" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
-      <jump line="102" column="10" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
-      <jump line="103" column="13" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
-      <jump line="101" column="0" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
-      <jump line="2" column="9" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
-      <jump line="99" column="0" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
-      <jump line="3" column="17" filename="$USER_HOME$/code/vue-admin-template/src/views/transfer/progress/index.vue" />
-      <jump line="245" column="28" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
-      <jump line="186" column="16" filename="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" />
-      <jump line="19" column="21" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasRepository.java" />
-      <jump line="43" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ad86fd6b-c661-4c3a-89a4-ad98d39a0987/console.sql" />
-      <jump line="38" column="61" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ad86fd6b-c661-4c3a-89a4-ad98d39a0987/console.sql" />
-      <jump line="91" column="19" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" />
-      <jump line="40" column="49" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" />
-      <jump line="163" column="30" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" />
-      <jump line="17" column="53" filename="$USER_HOME$/code/vue-admin-template/src/components/NodeCard/index.vue" />
-      <jump line="135" column="4" filename="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" />
-      <jump line="107" column="13" filename="$USER_HOME$/code/vue-admin-template/src/store/modules/node.js" />
+      <jump line="188" column="28" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/beauty/BeautyGPUImage.java" />
+      <jump line="315" column="100" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/model/StickerItemDefault.java" />
+      <jump line="79" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/drawee/1.13.0/1299ee4b44abe47a0d5c0829c5145df327adf71c/drawee-1.13.0-sources.jar!/com/facebook/drawee/view/SimpleDraweeView.java" />
+      <jump line="54" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/drawee/1.13.0/1299ee4b44abe47a0d5c0829c5145df327adf71c/drawee-1.13.0-sources.jar!/com/facebook/drawee/view/GenericDraweeView.java" />
+      <jump line="93" column="63" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/FilterOpView.java" />
+      <jump line="123" column="43" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/FilterOpView.java" />
+      <jump line="96" column="22" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/FilterOpView.java" />
+      <jump line="477" column="33" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/FilterOpView.java" />
+      <jump line="776" column="111" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
+      <jump line="1108" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
+      <jump line="114" column="35" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/report/OOMReporter.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/versalibrary-release.aar/d83345d31395a551fefe0f503c9d04fa/jars/classes.jar!/versa/recognize/api/SkySegApi.class" />
+      <jump line="162" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/statistics/versa/VersaStatistic.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/AndroidStudioProjects/MemoryTestDemo/app/src/main/java/com/example/memorytestdemo/MainActivity.kt" />
+      <jump line="1257" column="21" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/share/ShareActivity.java" />
+      <jump line="1391" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/share/ShareActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/build.gradle" />
+      <jump line="772" column="20" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BaseEffectActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/labcv/build.gradle" />
+      <jump line="283" column="34" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/beauty/BeautyGPUImageRenderer.java" />
+      <jump line="24" column="39" filename="$USER_HOME$/AndroidStudioProjects/Versa/effectsdk/src/main/java/com/bytedance/labcv/effectsdk/RenderManager.java" />
+      <jump line="85" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/beauty/src/main/java/sensetime/senseme/com/effects/display/ImageInputRender.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/beauty/src/main/java/sensetime/senseme/com/effects/glutils/STUtils.java" />
+      <jump line="32" column="6" filename="$USER_HOME$/AndroidStudioProjects/Versa/labcv/build.gradle" />
+      <jump line="382" column="71" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/beauty/BeautyGPUImageRenderer.java" />
+      <jump line="97" column="17" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/contract/ItemGetContract.java" />
+      <jump line="231" column="26" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/contract/presenter/ItemGetPresenter.java" />
+      <jump line="237" column="40" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/beauty/BeautyGPUImageRenderer.java" />
+      <jump line="21" column="30" filename="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/caa68d4c42186db35aea2a7246af1027/jars/classes.jar!/com/bytedance/sdk/openadsdk/TTAdSdk.class" />
+      <jump line="10" column="17" filename="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/caa68d4c42186db35aea2a7246af1027/jars/classes.jar!/com/bytedance/sdk/openadsdk/TTAdManager.class" />
+      <jump line="328" column="15" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/effectsdk/src/main/java/com/bytedance/labcv/effectsdk/RenderManager.java" />
+      <jump line="67" column="21" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/ResourceHelper.java" />
+      <jump line="70" column="26" filename="$USER_HOME$/AndroidStudioProjects/Versa/labcv/src/main/java/com/bytedance/labcv/ResourceHelper.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/module/VideoOpener.java" />
+      <jump line="174" column="25" filename="$USER_HOME$/AndroidStudioProjects/Versa/beauty/src/main/java/sensetime/senseme/com/effects/display/ImageInputRender.java" />
+      <jump line="209" column="5" filename="$USER_HOME$/AndroidStudioProjects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImage.java" />
+      <jump line="500" column="37" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/beauty/BeautyGPUImageRenderer.java" />
+      <jump line="728" column="18" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/beauty/BeautyGPUImageRenderer.java" />
+      <jump line="107" column="53" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/ImageEffectActivity.java" />
+      <jump line="605" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/beauty/BeautyGPUImageRenderer.java" />
+      <jump line="676" column="8" filename="/BeautyGPUImageRenderer.java" />
+      <jump line="684" column="0" filename="/BeautyGPUImageRenderer.java" />
+      <jump line="318" column="56" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/beauty/BeautyGPUImageRenderer.java" />
+      <jump line="415" column="35" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/beauty/BeautyGPUImageRenderer.java" />
+      <jump line="447" column="22" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/beauty/BeautyGPUImageRenderer.java" />
+      <jump line="534" column="19" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/beauty/BeautyGPUImageRenderer.java" />
+      <jump line="115" column="15" filename="$USER_HOME$/AndroidStudioProjects/Versa/beauty/src/main/java/sensetime/senseme/com/effects/display/ImageInputRender.java" />
+      <jump line="117" column="12" filename="$USER_HOME$/AndroidStudioProjects/android-gpuimage/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" />
+      <jump line="52" column="3" filename="$USER_HOME$/AndroidStudioProjects/Versa/labcv/src/main/java/com/bytedance/labcv/core/image/ImageEffectHelper.java" />
+      <jump line="83" column="27" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/ImageEffectActivity.java" />
+      <jump line="10" column="23" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/gradle.properties" />
+      <jump line="5" column="18" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/build.gradle" />
+      <jump line="140" column="11" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
+      <jump line="21" column="92" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
+      <jump line="107" column="47" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
+      <jump line="224" column="16" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" />
+      <jump line="131" column="24" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
+      <jump line="125" column="60" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
+      <jump line="71" column="32" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/ndk/jni/include/bef_effect_ai_api.h" />
+      <jump line="118" column="43" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" />
+      <jump line="360" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" />
+      <jump line="167" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/GalleryGLSurfaceView.kt" />
+      <jump line="161" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/GalleryGLSurfaceView.kt" />
+      <jump line="93" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/ImageEffectActivity.java" />
+      <jump line="223" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/ImageEffectActivity.java" />
+      <jump line="97" column="8" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/GalleryGLSurfaceView.kt" />
+      <jump line="130" column="26" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/GalleryGLSurfaceView.kt" />
+      <jump line="192" column="50" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/GalleryGLSurfaceView.kt" />
+      <jump line="22" column="106" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/GalleryGLSurfaceView.kt" />
+      <jump line="194" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/GalleryGLSurfaceView.kt" />
+      <jump line="193" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/GalleryGLSurfaceView.kt" />
+      <jump line="122" column="28" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
+      <jump line="98" column="67" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/WelcomeActivity.java" />
+      <jump line="120" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/WelcomeActivity.java" />
+      <jump line="78" column="64" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/core/EffectRender.java" />
+      <jump line="147" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/opengl/FrameBuffer.java" />
+      <jump line="133" column="12" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
+      <jump line="129" column="39" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
+      <jump line="161" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
+      <jump line="124" column="28" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
+      <jump line="101" column="16" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageFilter.java" />
+      <jump line="9" column="40" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/FilterWorker.kt" />
+      <jump line="68" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/FilterWorker.kt" />
+      <jump line="224" column="43" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" />
+      <jump line="62" column="12" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
+      <jump line="59" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
+      <jump line="36" column="53" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" />
+      <jump line="254" column="5" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" />
+      <jump line="41" column="20" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/filter/FilterSecondOpNormalView.kt" />
+      <jump line="258" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" />
+      <jump line="34" column="33" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" />
+      <jump line="270" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" />
+      <jump line="33" column="72" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpNormalView.kt" />
+      <jump line="11" column="32" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_add_album.xml" />
+      <jump line="262" column="30" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" />
+      <jump line="30" column="111" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" />
+      <jump line="58" column="55" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" />
+      <jump line="507" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOpView.java" />
+      <jump line="6" column="33" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_recommend_second_op_top.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGRvd25sb2FkU2FhU0xpc3QoZGF0YSkgewogIHJldHVybiByZXF1ZXN0KHsKICAgIHVybDogJy9ub2RlL2Rvd25sb2FkU2FhU0xpc3QnLAogICAgbWV0aG9kOiAncG9zdCcsCiAgICBkYXRhCiAgfSkKfQo=</text>
+      <register name="a" type="4">
+        <keys>
+          <key char="49" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+        </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWUK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>v</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGVtcEFwa0ZpbGUgPT0gbnVsbCkgewogICAgICAgICAgICByZXNwb25zZS5zdGF0dXMgPSA0MDQKICAgICAgICAgICAgLy8g5Yig6Zmk5Li05pe25paH5Lu2CiAgICAgICAgICAgIHJldHVybgogICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsSW5mby5leHRyYUluZm8K</text>
-      </register>
-      <register name="8" type="4">
-        <text>.let {
-        }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNoYW5uZWxJbmZvID0gUGFja01vZGVsLkNoYW5uZWxJbmZvKCkKICAgICAgICAgICAgY2hhbm5lbEluZm8uY2hhbm5lbCA9ICIke25vZGUuaWR9X25vZGUiCiAgICAgICAgICAgIGNoYW5uZWxJbmZvLmFsaWFzID0gIiR7bm9kZS5pZH0iCiAgICAgICAgICAgIGNoYW5uZWxJbmZvLmV4dHJhSW5mbwo=</text>
+      <register name="i" type="4">
+        <keys>
+          <key char="65535" code="91" mods="130" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>setOnClickListener</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx2YWxcPg==</text>
+      </register>
+      <register name="0" type="4">
+        <text>HotWordItem</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWUK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pdGVtID0gaXRlbQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgUmV0cm9maXRJbnN0YW5jZS5nZXRJbnN0YW5jZSgpLmJhc2VTZXJ2aWNlLnRlbXBsYXRlU2VhcmNoU3VnZ2VzdGlvbgovLyAgICAgICAgICAgICAgICAgICAgICAgIC5jb21wb3NlKFJ4VXRpbC5hcHBseVNjaGVkdWxlcigpKQovLyAgICAgICAgICAgICAgICAgICAgICAgIC5jb21wb3NlKFJ4TGl2ZS5iaW5kTGlmZUN5Y2xlKHRoaXNAU2Vjb25kT3BEZW1vQWN0aXZpdHkpKQovLyAgICAgICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUob2JqZWN0IDogVmVyc2FTdWJzY3JpYmVyPFRlbXBsYXRlU3VnZ2VzdGlvbk1vZGVsPigpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uU3VjY2VzcyhkYXRhOiBUZW1wbGF0ZVN1Z2dlc3Rpb25Nb2RlbD8pIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBzdWdnZXN0aW9ucyA9IGRhdGE/LnJlc3VsdD8uc3VnZ2VzdGlvbnM/Lm1hcCB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXQuc3VnZ2VzdGlvbgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSA/OiBsaXN0T2YoKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcnNvdi5zZXRLZXl3b3JkTGlzdChzdWdnZXN0aW9ucykKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgfQovLwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25GYWlsdXJlKG1zZzogU3RyaW5nPywgY29kZTogU3RyaW5nPywgZTogVGhyb3dhYmxlPykgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgICAgICAgICAgICAgfSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSG90V29yZE1hbmFnZXIuSU5TVEFOQ0Uuc2V0SG90V29yZFJlc3VsdChkYXRhKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgdmFsIGhvdHdvcmRNb2RlbDogSG90V29yZFJlc3VsdAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ZGF0YSBjbGFzcyBIb3RXb3JkUmVzdWx0KAogICAgQFNlcmlhbGl6ZWROYW1lKCIxIikKICAgIHZhciBpbmRleDogTGlzdDxIb3RXb3JkSXRlbT4/LAogICAgQFNlcmlhbGl6ZWROYW1lKCIyIikKICAgIHZhciB0ZW1wbGF0ZTogTGlzdDxIb3RXb3JkSXRlbT4/LAogICAgQFNlcmlhbGl6ZWROYW1lKCIzIikKICAgIHZhciB4MzogTGlzdDxIb3RXb3JkSXRlbT4/LAogICAgQFNlcmlhbGl6ZWROYW1lKCI0IikKICAgIHZhciB4NDogTGlzdDxIb3RXb3JkSXRlbT4/</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly9kYXRhIGNsYXNzIFgyKAovLyAgICBAU2VyaWFsaXplZE5hbWUoIndvcmQiKQovLyAgICB2YXIgd29yZDogU3RyaW5nPywKLy8gICAgQFNlcmlhbGl6ZWROYW1lKCJ3b3JkSWQiKQovLyAgICB2YXIgd29yZElkOiBTdHJpbmc/Ci8vKQoKLy9kYXRhIGNsYXNzIFgzKAovLyAgICBAU2VyaWFsaXplZE5hbWUoIndvcmQiKQovLyAgICB2YXIgd29yZDogU3RyaW5nPywKLy8gICAgQFNlcmlhbGl6ZWROYW1lKCJ3b3JkSWQiKQovLyAgICB2YXIgd29yZElkOiBTdHJpbmc/Ci8vKQoKLy9kYXRhIGNsYXNzIFg0KAovLyAgICBAU2VyaWFsaXplZE5hbWUoIndvcmQiKQovLyAgICB2YXIgd29yZDogU3RyaW5nPywKLy8gICAgQFNlcmlhbGl6ZWROYW1lKCJ3b3JkSWQiKQovLyAgICB2YXIgd29yZElkOiBTdHJpbmc/Ci8vKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>downloadkey</last-search>
+      <last-search encoding="base64">XDx2YWxcPg==</last-search>
       <last-offset />
-      <last-pattern>downloadkey</last-pattern>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern encoding="base64">XDx2YWxcPg==</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>R</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed K</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed J</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
