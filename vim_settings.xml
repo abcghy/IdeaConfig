@@ -73,6 +73,11 @@
       <file name="/Dummy.txt" timestamp="1591166140716">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/BgSelectView.java" timestamp="1591167776909">
+        <mark key="[" line="500" column="0" />
+        <mark key="]" line="500" column="112" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1591168168926" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/LayerConfigFactory.kt" timestamp="1591157083890">
         <mark key="[" line="162" column="31" />
         <mark key="]" line="162" column="31" />
@@ -97,18 +102,27 @@
         <mark key="." line="178" column="17" />
         <mark key="^" line="167" column="56" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateActivity.kt" timestamp="1591168417289" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateRecyclerViewAdapter.kt" timestamp="1591168536514">
+        <mark key="[" line="239" column="30" />
+        <mark key="]" line="239" column="119" />
+        <mark key="." line="239" column="30" />
+        <mark key="^" line="231" column="95" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateSearchFragment.kt" timestamp="1591168359181" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/build.gradle" timestamp="1591161617531">
         <mark key="'" line="170" column="0" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1591167012138">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/util/image.kt" timestamp="1591167739280" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1591167631151">
         <mark key="'" line="395" column="0" />
-        <mark key="[" line="558" column="48" />
-        <mark key="]" line="559" column="52" />
-        <mark key="^" line="559" column="52" />
-        <mark key="." line="559" column="51" />
+        <mark key="[" line="557" column="55" />
+        <mark key="]" line="557" column="63" />
+        <mark key="^" line="557" column="63" />
+        <mark key="." line="557" column="62" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSearchLoaderWrapper.kt" timestamp="1591156196836">
         <mark key="[" line="60" column="74" />
@@ -116,13 +130,14 @@
         <mark key="." line="60" column="74" />
         <mark key="^" line="60" column="74" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_template_inner.xml" timestamp="1591168466223" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpSearchAdapter.kt" timestamp="1591155897634">
         <mark key="[" line="29" column="69" />
         <mark key="]" line="29" column="88" />
         <mark key="^" line="29" column="88" />
         <mark key="." line="29" column="88" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/versalibrary-release.aar/3ef4fd4c55d67ef816643092bf72f963/jars/classes.jar!/versa/recognize/api/SkySegApi.class" timestamp="1591161672813">
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/versalibrary-release.aar/3ef4fd4c55d67ef816643092bf72f963/jars/classes.jar!/versa/recognize/api/SkySegApi.class" timestamp="1591167995580">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
       </file>
@@ -243,7 +258,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>beforeEGLRelease();</text>
+        <text>OssImageUtil.getCenterCropUrl(data.path, imageSize, imageSize)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -253,16 +268,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>beforeEGLRelease();</text>
+        <text>OssImageUtil.getCenterCropUrl(data.path, imageSize, imageSize)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW5nZUJnV3JhcHBlcj8ubG9hZChvYmplY3Q6IENoYW5nZUJnT2JzZXJ2ZXIgewogICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvblN1Y2Nlc3MoaXRlbXM6IExpc3Q8QW55PikgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXRlbXMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByc292LnNob3dFbXB0eSgpCiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByc292LnNob3dTZWFyY2hSZXN1bHQoaXRlbXMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXRlbXMuc2l6ZSA9PSBwYWdlU2l6ZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJzb3Yuc2V0RW5hYmxlTG9hZE1vcmUodHJ1ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcnNvdi5zZXRFbmFibGVMb2FkTW9yZShmYWxzZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uRXJyb3IobXNnOiBTdHJpbmcpIHsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LCBzZWFyY2hLZXkpCg==</text>
+      <register name="0" type="4">
+        <text>OssImageUtil.getCenterCropUrl(data.path, (data.height * data.ratio).toInt(), data.height)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBpbWFnZVNpemU6IEludCA9IGl0ZW1WaWV3LnJlc291cmNlcy5nZXREaW1lbnNpb25QaXhlbFNpemUoUi5kaW1lbi5tZW51X2l0ZW1faW1hZ2Vfc2l6ZSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -271,22 +286,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgcnNvdi5zaG93RW1wdHkoKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICByc292LnNldEVuYWJsZUxvYWRNb3JlKGZhbHNlKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByc292LnNob3dTZWFyY2hSZXN1bHQoaXRlbXMpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgcnNvdi5zaG93RW1wdHkoKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICByc292LnNldEVuYWJsZUxvYWRNb3JlKGZhbHNlKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByc292LnNob3dTZWFyY2hSZXN1bHQoaXRlbXMpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJzb3Yuc2hvd1NlYXJjaFJlc3VsdChpdGVtcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
