@@ -70,7 +70,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/VersaSubscriber.java" timestamp="1591151597105" />
+      <file name="/Dummy.txt" timestamp="1591166140716">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/LayerConfigFactory.kt" timestamp="1591157083890">
+        <mark key="[" line="162" column="31" />
+        <mark key="]" line="162" column="31" />
+        <mark key="^" line="162" column="48" />
+        <mark key="." line="162" column="31" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/TemplateListItem.kt" timestamp="1591165793476">
+        <mark key="[" line="146" column="9" />
+        <mark key="]" line="147" column="26" />
+        <mark key="^" line="147" column="26" />
+        <mark key="." line="147" column="25" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/MaterialModel.kt" timestamp="1591151299293">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="29" />
@@ -83,46 +97,18 @@
         <mark key="." line="178" column="17" />
         <mark key="^" line="167" column="56" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSearchLoaderWapper.kt" timestamp="1591095282577">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="3" column="4" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="3" column="3" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1591161657548" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpSearchAdapter.kt" timestamp="1591155897634">
-        <mark key="[" line="29" column="69" />
-        <mark key="]" line="29" column="88" />
-        <mark key="^" line="29" column="88" />
-        <mark key="." line="29" column="88" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.6/2c70510784f92eba5ab6a41e47e91d476d1ebc0b/rxjava-2.2.6-sources.jar!/io/reactivex/Single.java" timestamp="1591151673913">
-        <mark key="'" line="3566" column="33" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1591093851550">
-        <mark key="'" line="223" column="23" />
-        <mark key="[" line="160" column="40" />
-        <mark key="]" line="161" column="53" />
-        <mark key="." line="161" column="52" />
-        <mark key="^" line="161" column="53" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateParserIntoEdit.kt" timestamp="1591154010321" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/service/BaseService.java" timestamp="1591095239451" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/mine/RecommendActivity.java" timestamp="1591157393849" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/LayerConfigFactory.kt" timestamp="1591157083890">
-        <mark key="[" line="162" column="31" />
-        <mark key="]" line="162" column="31" />
-        <mark key="^" line="162" column="48" />
-        <mark key="." line="162" column="31" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" timestamp="1591153872458" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateActivity.kt" timestamp="1591160128544" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" timestamp="1591150231106" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/build.gradle" timestamp="1591161617531">
-        <mark key="'" line="166" column="0" />
+        <mark key="'" line="170" column="0" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1591167012138">
+        <mark key="'" line="395" column="0" />
+        <mark key="[" line="558" column="48" />
+        <mark key="]" line="559" column="52" />
+        <mark key="^" line="559" column="52" />
+        <mark key="." line="559" column="51" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSearchLoaderWrapper.kt" timestamp="1591156196836">
         <mark key="[" line="60" column="74" />
@@ -130,14 +116,21 @@
         <mark key="." line="60" column="74" />
         <mark key="^" line="60" column="74" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpSearchAdapter.kt" timestamp="1591155897634">
+        <mark key="[" line="29" column="69" />
+        <mark key="]" line="29" column="88" />
+        <mark key="^" line="29" column="88" />
+        <mark key="." line="29" column="88" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/versalibrary-release.aar/3ef4fd4c55d67ef816643092bf72f963/jars/classes.jar!/versa/recognize/api/SkySegApi.class" timestamp="1591161672813">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/versalibrary-release.aar/a70cfec8c61571cd9f1b9603393ec37b/jars/classes.jar!/versa/recognize/api/SkySegApi.class" timestamp="1591157513314" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.6/2c70510784f92eba5ab6a41e47e91d476d1ebc0b/rxjava-2.2.6-sources.jar!/io/reactivex/Single.java" timestamp="1591151673913">
+        <mark key="'" line="3566" column="33" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="43" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/FilterOpView.java" />
       <jump line="96" column="22" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/FilterOpView.java" />
       <jump line="477" column="33" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/FilterOpView.java" />
       <jump line="776" column="111" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
@@ -237,6 +230,7 @@
       <jump line="68" column="39" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSearchLoaderWrapper.kt" />
       <jump line="3566" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.6/2c70510784f92eba5ab6a41e47e91d476d1ebc0b/rxjava-2.2.6-sources.jar!/io/reactivex/Single.java" />
       <jump line="166" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/build.gradle" />
+      <jump line="395" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -248,8 +242,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>beforeEGLRelease();</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -259,7 +253,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>beforeEGLRelease();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxcPg==</text>
