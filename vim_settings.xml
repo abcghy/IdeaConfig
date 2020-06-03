@@ -89,7 +89,7 @@
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1591160292777" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1591161657548" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpSearchAdapter.kt" timestamp="1591155897634">
         <mark key="[" line="29" column="69" />
         <mark key="]" line="29" column="88" />
@@ -117,12 +117,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" timestamp="1591153872458" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateActivity.kt" timestamp="1591160128544" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_search_prepare.xml" timestamp="1591093248038">
-        <mark key="[" line="40" column="39" />
-        <mark key="]" line="41" column="41" />
-        <mark key="." line="41" column="41" />
-        <mark key="^" line="41" column="41" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" timestamp="1591150231106" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/build.gradle" timestamp="1591161617531">
         <mark key="'" line="166" column="0" />
@@ -135,6 +129,10 @@
         <mark key="]" line="60" column="80" />
         <mark key="." line="60" column="74" />
         <mark key="^" line="60" column="74" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/versalibrary-release.aar/3ef4fd4c55d67ef816643092bf72f963/jars/classes.jar!/versa/recognize/api/SkySegApi.class" timestamp="1591161672813">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/versalibrary-release.aar/a70cfec8c61571cd9f1b9603393ec37b/jars/classes.jar!/versa/recognize/api/SkySegApi.class" timestamp="1591157513314" />
     </filemarks>
@@ -276,25 +274,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgcnNvdi5zaG93RW1wdHkoKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICByc292LnNldEVuYWJsZUxvYWRNb3JlKGZhbHNlKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByc292LnNob3dTZWFyY2hSZXN1bHQoaXRlbXMpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgcnNvdi5zaG93RW1wdHkoKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICByc292LnNldEVuYWJsZUxvYWRNb3JlKGZhbHNlKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByc292LnNob3dTZWFyY2hSZXN1bHQoaXRlbXMpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJzb3Yuc2hvd1NlYXJjaFJlc3VsdChpdGVtcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJzb3Yuc2hvd1NlYXJjaFJlc3VsdChpdGVtcykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
