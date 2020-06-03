@@ -6,8 +6,12 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry encoding="base64">PCsrPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>nohlsearch</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -80,28 +84,32 @@
         <mark key="." line="70" column="46" />
         <mark key="^" line="70" column="47" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/TemplateListItem.kt" timestamp="1591176505071" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" timestamp="1591172684664">
         <mark key="[" line="178" column="17" />
         <mark key="]" line="178" column="17" />
         <mark key="." line="178" column="17" />
         <mark key="^" line="167" column="56" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateActivity.kt" timestamp="1591168417289" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateSearchFragment.kt" timestamp="1591168359181" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateActivity.kt" timestamp="1591175924436" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/photoview/com/versa/preview/PreviewView.java" timestamp="1591170178092">
         <mark key="[" line="343" column="60" />
         <mark key="]" line="343" column="70" />
         <mark key="." line="343" column="69" />
         <mark key="^" line="343" column="70" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SplashActivity.java" timestamp="1591173843701" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpSearchAdapter.kt" timestamp="1591175308459">
+        <mark key="[" line="39" column="47" />
+        <mark key="]" line="39" column="47" />
+        <mark key="^" line="29" column="88" />
+        <mark key="." line="39" column="47" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/AndroidManifest.xml" timestamp="1591170915277" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/BaseImageEditActivity.java" timestamp="1591171073563" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/BgSelectView.java" timestamp="1591167776909">
-        <mark key="[" line="500" column="0" />
-        <mark key="]" line="500" column="112" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/VersaApplication.java" timestamp="1591175201851" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateParserIntoEdit.kt" timestamp="1591170965664" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateRecyclerViewAdapter.kt" timestamp="1591169033511">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateRecyclerViewAdapter.kt" timestamp="1591176012081">
         <mark key="'" line="260" column="0" />
         <mark key="[" line="239" column="30" />
         <mark key="]" line="239" column="119" />
@@ -109,24 +117,23 @@
         <mark key="^" line="231" column="95" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/mine/PersonalFragment.java" timestamp="1591169351428" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/build.gradle" timestamp="1591171101558">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/build.gradle" timestamp="1591176356914">
         <mark key="'" line="170" column="0" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/util/image.kt" timestamp="1591167739280" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_template_inner.xml" timestamp="1591168466223" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/fragment_personal.xml" timestamp="1591169270755" />
-      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/versalibrary-release.aar/3ef4fd4c55d67ef816643092bf72f963/jars/classes.jar!/versa/recognize/api/SkySegApi.class" timestamp="1591167995580">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpSearchViewHolder.kt" timestamp="1591176947163">
+        <mark key="[" line="68" column="100" />
+        <mark key="]" line="68" column="101" />
+        <mark key="." line="68" column="100" />
+        <mark key="^" line="68" column="101" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/fragment_personal.xml" timestamp="1591169270755" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/base/activity/manager/immersion/ImmersionManager.java" timestamp="1591171233394" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/values/styles.xml" timestamp="1591170920730" />
     </filemarks>
     <jumps>
-      <jump line="162" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/statistics/versa/VersaStatistic.java" />
       <jump line="46" column="0" filename="$USER_HOME$/AndroidStudioProjects/MemoryTestDemo/app/src/main/java/com/example/memorytestdemo/MainActivity.kt" />
       <jump line="1257" column="21" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/share/ShareActivity.java" />
       <jump line="1391" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/share/ShareActivity.java" />
@@ -226,6 +233,7 @@
       <jump line="3062" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" />
       <jump line="823" column="31" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" />
       <jump line="357" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" />
+      <jump line="64" column="28" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpSearchViewHolder.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -238,7 +246,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>CENTER_CROP</text>
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -248,19 +256,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CENTER_CROP</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxcPg==</text>
+        <text encoding="base64">PCsrPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>OssImageUtil.getCenterCropUrl(data.path, (data.height * data.ratio).toInt(), data.height)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHZUaXRsZS50ZXh0ID0gaXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBpbWFnZVNpemU6IEludCA9IGl0ZW1WaWV3LnJlc291cmNlcy5nZXREaW1lbnNpb25QaXhlbFNpemUoUi5kaW1lbi5tZW51X2l0ZW1faW1hZ2Vfc2l6ZSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -269,33 +277,33 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgcnNvdi5zaG93RW1wdHkoKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICByc292LnNldEVuYWJsZUxvYWRNb3JlKGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyKENvbG9yRHJhd2FibGUoQ29sb3IucGFyc2VDb2xvcihpdCkpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByc292LnNob3dTZWFyY2hSZXN1bHQoaXRlbXMpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXIoQ29sb3JEcmF3YWJsZSgpKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx2YWxcPg==</last-search>
+      <last-search encoding="base64">PCsrPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxcPg==</last-pattern>
+      <last-pattern encoding="base64">PCsrPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>R</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
