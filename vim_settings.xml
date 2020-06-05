@@ -80,11 +80,6 @@
         <mark key="]" line="44" column="89" />
         <mark key="." line="44" column="89" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1591263777047">
-        <mark key="[" line="25" column="88" />
-        <mark key="]" line="25" column="88" />
-        <mark key="." line="25" column="88" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/view/ClearEditText.java" timestamp="1591267101682">
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
@@ -128,12 +123,16 @@
         <mark key="]" line="25" column="87" />
         <mark key="." line="25" column="87" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1591265312330">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1591325527347">
         <mark key="'" line="185" column="25" />
-        <mark key="[" line="745" column="0" />
-        <mark key="]" line="745" column="0" />
-        <mark key="^" line="747" column="67" />
-        <mark key="." line="745" column="0" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="0" />
+        <mark key="^" line="737" column="67" />
+        <mark key="." line="187" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOpView.java" timestamp="1591325495165">
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="257" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/HotWordModel.kt" timestamp="1591265440439">
         <mark key="[" line="40" column="0" />
@@ -292,8 +291,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>icon_delete_black</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -312,31 +311,31 @@
         <text>#33000000</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpbnQgZXZlbnRYID0gKGludCkgZXZlbnQuZ2V0UmF3WCgpOwovLyAgICAgICAgICAgIGludCBldmVudFkgPSAoaW50KSBldmVudC5nZXRSYXdZKCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBnZXRMb2NhbFZpc2libGVSZWN0KHJlYykKICAgICAgICAgICAgTG9nLmUoIlRFU1RUVCIsICJ4OiAiICsgdGhlWCArICIsIHk6ICIgKyB0aGVZKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0TG9jYXRpb25JbldpbmRvdygpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQuZ2V0WCgpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJzb3Yub25TZWFyY2hLZXlXb3JkTG9hZExpc3RlbmVyID0gb2JqZWN0IDogT25TZWFyY2hLZXl3b3JkTG9hZExpc3RlbmVyIHsKLy8gICAgICAgICAgICBvdmVycmlkZSBmdW4gb25TZWFyY2hLZXl3b3JkTG9hZCgpIHsKLy8gICAgICAgICAgICAgICAgLy8gdG9kbzogZ2h5Ci8vICAgICAgICAgICAgICAgIHZhbCBob3RXb3JkTGlzdCA9IEhvdFdvcmRNYW5hZ2VyLmhvdFdvcmRSZXN1bHQ/LnRlbXBsYXRlID86IHJldHVybgovLyAgICAgICAgICAgICAgICAgICAgICAgIHJzb3Yuc2V0S2V5d29yZExpc3QoaG90V29yZExpc3QubWFwIHsKLy8gICAgICAgICAgICAgICAgICAgIGl0LndvcmQKLy8gICAgICAgICAgICAgICAgfSkKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBpbnQgZXZlbnRYID0gKGludCkgZXZlbnQuZ2V0UmF3WCgpOwovLyAgICAgICAgICAgIGludCBldmVudFkgPSAoaW50KSBldmVudC5nZXRSYXdZKCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBnZXRMb2NhbFZpc2libGVSZWN0KHJlYykKICAgICAgICAgICAgTG9nLmUoIlRFU1RUVCIsICJ4OiAiICsgdGhlWCArICIsIHk6ICIgKyB0aGVZKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0TG9jYXRpb25JbldpbmRvdygpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFRleHQoIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQuZ2V0WCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6aGludD0iIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8SG90V29yZEl0ZW0+IGhvdFdvcmRJdGVtTGlzdCA9IG51bGw7Ci8vICAgICAgICBpZiAoSG90V29yZE1hbmFnZXIuSU5TVEFOQ0UuZ2V0SG90V29yZFJlc3VsdCgpICE9IG51bGwgJiYKLy8gICAgICAgICAgICBIb3RXb3JkTWFuYWdlci5JTlNUQU5DRS5nZXRIb3RXb3JkUmVzdWx0KCkuZ2V0VGVtcGxhdGUoKSAhPSBudWxsKSB7Ci8vICAgICAgICAgICAgaG90V29yZEl0ZW1MaXN0ID0gSG90V29yZE1hbmFnZXIuSU5TVEFOQ0UuZ2V0SG90V29yZFJlc3VsdCgpLmdldFRlbXBsYXRlKCk7Ci8vICAgICAgICB9Ci8vICAgICAgICBpZiAoaG90V29yZEl0ZW1MaXN0ICE9IG51bGwpIHsKLy8gICAgICAgICAgICBtT3BlcmF0aW9uVmlldy5zZXRLZXl3b3JkTGlzdChIb3RXb3JkTWFuYWdlci5JTlNUQU5DRS5nZXRIb3RXb3JkU3RyaW5nTGlzdEJ5KGhvdFdvcmRJdGVtTGlzdCkpOwovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFRleHQoIiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6aGludD0iIgo=</text>
       </register>
       <register name=":" type="4">
         <text>154</text>
