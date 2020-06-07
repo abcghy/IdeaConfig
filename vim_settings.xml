@@ -73,6 +73,9 @@
       <file name="/node_entity [MySQL - @localhost]" timestamp="1590330103642">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/user [114.55.140.19]" timestamp="1591517208693">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/api/node.js" timestamp="1590342454042">
         <mark key="[" line="56" column="8" />
         <mark key="]" line="57" column="23" />
@@ -95,19 +98,13 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/maintenance/index.vue" timestamp="1589995006006">
-        <mark key="[" line="56" column="6" />
-        <mark key="]" line="59" column="7" />
-        <mark key="^" line="51" column="51" />
-        <mark key="." line="51" column="50" />
-      </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/views/permission/index.vue" timestamp="1589995307344">
         <mark key="[" line="104" column="43" />
         <mark key="]" line="104" column="59" />
         <mark key="." line="104" column="58" />
         <mark key="^" line="104" column="59" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/resources/application.properties" timestamp="1590418715725">
+      <file name="$USER_HOME$/code/backend/src/main/resources/application.properties" timestamp="1591517180554">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="26" />
@@ -141,6 +138,9 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="/masterserver.user" timestamp="1591517208954">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/bean/PackModel.java" timestamp="1590334648320">
         <mark key="[" line="5" column="46" />
         <mark key="]" line="7" column="51" />
@@ -150,7 +150,7 @@
       <file name="/masterserver.node_entity" timestamp="1590330103664">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1590330103687">
+      <file name="/foo.bar" timestamp="1591517209005">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" timestamp="1590344182707">
@@ -167,7 +167,7 @@
         <mark key="^" line="1" column="118" />
         <mark key="." line="1" column="117" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1590330159167">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591517300522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -249,31 +249,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed K</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed J</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
