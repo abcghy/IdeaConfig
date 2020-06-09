@@ -76,6 +76,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/filter/FilterRowFavAdapter.kt" timestamp="1591674826087">
+        <mark key="[" line="48" column="18" />
+        <mark key="]" line="48" column="19" />
+        <mark key="^" line="48" column="19" />
+        <mark key="." line="48" column="18" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" timestamp="1591670323545">
         <mark key="'" line="199" column="0" />
         <mark key="[" line="58" column="65" />
@@ -83,25 +89,18 @@
         <mark key="." line="59" column="24" />
         <mark key="^" line="59" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1591354530324">
-        <mark key="'" line="1156" column="20" />
-        <mark key="[" line="1193" column="0" />
-        <mark key="]" line="1193" column="0" />
-        <mark key="." line="1193" column="0" />
-        <mark key="^" line="441" column="28" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnViewHolder.kt" timestamp="1591672712443">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="21" column="56" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RowAdapter.kt" timestamp="1591674143314">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RowAdapter.kt" timestamp="1591675468946">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="59" column="54" />
-        <mark key="]" line="59" column="66" />
-        <mark key="^" line="59" column="66" />
-        <mark key="." line="59" column="65" />
+        <mark key="[" line="71" column="77" />
+        <mark key="]" line="71" column="77" />
+        <mark key="^" line="71" column="77" />
+        <mark key="." line="71" column="76" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerColumnAdapter.kt" timestamp="1591672057572">
         <mark key="[" line="29" column="69" />
@@ -127,11 +126,17 @@
         <mark key="^" line="22" column="53" />
         <mark key="." line="22" column="52" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendRowFavAdapter.kt" timestamp="1591670484852">
-        <mark key="[" line="50" column="36" />
-        <mark key="]" line="50" column="52" />
-        <mark key="^" line="50" column="52" />
-        <mark key="." line="50" column="51" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/RecommendColumnFavAdapter.kt" timestamp="1591674806238">
+        <mark key="[" line="64" column="10" />
+        <mark key="]" line="64" column="11" />
+        <mark key="^" line="64" column="11" />
+        <mark key="." line="64" column="10" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendRowFavAdapter.kt" timestamp="1591674758990">
+        <mark key="[" line="54" column="10" />
+        <mark key="]" line="54" column="11" />
+        <mark key="^" line="54" column="11" />
+        <mark key="." line="54" column="10" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" timestamp="1591673548233">
         <mark key="'" line="83" column="24" />
@@ -152,12 +157,12 @@
         <mark key="^" line="16" column="54" />
         <mark key="." line="16" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" timestamp="1591673089107">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" timestamp="1591675600830">
         <mark key="i" line="447" column="28" />
-        <mark key="[" line="480" column="33" />
-        <mark key="]" line="480" column="45" />
-        <mark key="." line="480" column="44" />
-        <mark key="^" line="480" column="45" />
+        <mark key="[" line="486" column="30" />
+        <mark key="]" line="488" column="39" />
+        <mark key="." line="488" column="38" />
+        <mark key="^" line="488" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1591355822576">
         <mark key="'" line="66" column="68" />
@@ -172,26 +177,25 @@
         <mark key="." line="34" column="59" />
         <mark key="^" line="34" column="60" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerRowFavAdapter.kt" timestamp="1591675181963">
+        <mark key="[" line="42" column="18" />
+        <mark key="]" line="42" column="19" />
+        <mark key="^" line="42" column="19" />
+        <mark key="." line="42" column="18" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" timestamp="1591673950366">
         <mark key="'" line="102" column="0" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.61/fe3b9d48f4c3947639b6b1760213c1b79281383e/kotlin-stdlib-common-1.3.61-sources.jar!/generated/_Collections.kt" timestamp="1591354893055" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnViewHolder.kt" timestamp="1591674234429">
-        <mark key="[" line="83" column="8" />
-        <mark key="]" line="83" column="65" />
-        <mark key="." line="83" column="64" />
-        <mark key="^" line="83" column="65" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnViewHolder.kt" timestamp="1591675489861">
+        <mark key="[" line="83" column="68" />
+        <mark key="]" line="84" column="40" />
+        <mark key="." line="84" column="39" />
+        <mark key="^" line="84" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/listener/OnFavSelectedListener.kt" timestamp="1591355734594">
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="71" />
-        <mark key="^" line="7" column="71" />
-        <mark key="." line="7" column="70" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RowViewHolder.kt" timestamp="1591674084248">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RowViewHolder.kt" timestamp="1591674405723">
         <mark key="[" line="32" column="44" />
         <mark key="]" line="32" column="44" />
         <mark key="^" line="40" column="39" />
@@ -311,7 +315,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0gZmFsc2U=</text>
+        <text>-1</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -321,7 +325,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gZmFsc2U=</text>
+        <text>-1</text>
       </register>
       <register name="/" type="4">
         <text>mOperationView</text>
@@ -333,7 +337,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGlmeUl0ZW1DaGFuZ2VkKHBvc2l0aW9uWzBdLCBDSEFOR0VfU0VMRUNUX05PTkUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudFJvd1NlbGVjdGVkUG9zaXRpb24gPSByb3dQb3NpdGlvbgoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -342,19 +346,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGlmeUl0ZW1DaGFuZ2VkKHBvc2l0aW9uWzBdLCBDSEFOR0VfU0VMRUNUX05PTkUpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNvbHVtbkl0ZW0gPSBjb2x1bW5JdGVtc1twb3NpdGlvbl0KICAgICAgICAgICAgaWYgKHBheWxvYWQgPT0gQ29sdW1uQWRhcHRlci5BRERfRkFWICYmIGhvbGRlciBpcyBDb2x1bW5WaWV3SG9sZGVyICYmIGNvbHVtbkl0ZW0gaXMgQ29sdW1uRmF2KSB7CiAgICAgICAgICAgICAgICBob2xkZXIuYmluZChjb2x1bW5JdGVtLmZhdkl0ZW1zKQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>154</text>
