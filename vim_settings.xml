@@ -95,7 +95,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="21" column="56" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RowAdapter.kt" timestamp="1591675468946">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RowAdapter.kt" timestamp="1591676190681">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="71" column="77" />
         <mark key="]" line="71" column="77" />
@@ -183,17 +183,17 @@
         <mark key="^" line="42" column="19" />
         <mark key="." line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" timestamp="1591673950366">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" timestamp="1591676533191">
         <mark key="'" line="102" column="0" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnViewHolder.kt" timestamp="1591675489861">
-        <mark key="[" line="83" column="68" />
-        <mark key="]" line="84" column="40" />
-        <mark key="." line="84" column="39" />
-        <mark key="^" line="84" column="40" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnViewHolder.kt" timestamp="1591676415734">
+        <mark key="[" line="75" column="71" />
+        <mark key="]" line="76" column="27" />
+        <mark key="." line="76" column="26" />
+        <mark key="^" line="76" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RowViewHolder.kt" timestamp="1591674405723">
         <mark key="[" line="32" column="44" />
