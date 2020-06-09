@@ -82,14 +82,17 @@
         <mark key="^" line="142" column="68" />
         <mark key="." line="142" column="67" />
       </file>
-      <file name="/user [114.55.140.19]" timestamp="1591517208693">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1591355567164">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="120" column="105" />
         <mark key="." line="99" column="0" />
         <mark key="^" line="117" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasController.kt" timestamp="1591722370285">
+        <mark key="[" line="43" column="53" />
+        <mark key="]" line="43" column="64" />
+        <mark key="." line="43" column="63" />
+        <mark key="^" line="43" column="64" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/components/NodeCard/index.vue" timestamp="1591719233845">
         <mark key="[" line="142" column="0" />
@@ -97,20 +100,6 @@
         <mark key="^" line="144" column="18" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/resources/application.properties" timestamp="1591517180554">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="27" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" timestamp="1591354481710">
-        <mark key="'" line="198" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="77" column="50" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/login/index.vue" timestamp="1591718726753" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1591354530324">
         <mark key="'" line="1156" column="20" />
         <mark key="[" line="1193" column="0" />
@@ -118,20 +107,45 @@
         <mark key="." line="1193" column="0" />
         <mark key="^" line="441" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerColumnViewHolder.kt" timestamp="1591354377043">
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="53" />
-        <mark key="^" line="16" column="53" />
-        <mark key="." line="16" column="52" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1591721860160" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1591354577384">
+        <mark key="'" line="66" column="68" />
+        <mark key="[" line="668" column="51" />
+        <mark key="]" line="668" column="88" />
+        <mark key="^" line="668" column="88" />
+        <mark key="." line="668" column="87" />
       </file>
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" timestamp="1591722395683">
+        <mark key="[" line="272" column="31" />
+        <mark key="]" line="272" column="37" />
+        <mark key="." line="272" column="36" />
+        <mark key="^" line="272" column="37" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591517300522">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="/user [114.55.140.19]" timestamp="1591517208693">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasRepository.java" timestamp="1591721780001" />
+      <file name="$USER_HOME$/code/backend/src/main/resources/application.properties" timestamp="1591517180554">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaaSEntity.java" timestamp="1591722551719" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/login/index.vue" timestamp="1591718726753" />
       <file name="/masterserver.user" timestamp="1591517208954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnViewHolder.kt" timestamp="1591354252401">
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="21" column="55" />
-        <mark key="^" line="21" column="55" />
-        <mark key="." line="21" column="54" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaaSDTO.kt" timestamp="1591722853775">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpSearchViewHolder.kt" timestamp="1591354590566">
         <mark key="[" line="34" column="51" />
@@ -141,19 +155,6 @@
       </file>
       <file name="/foo.bar" timestamp="1591517209005">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1591354577384">
-        <mark key="'" line="66" column="68" />
-        <mark key="[" line="668" column="51" />
-        <mark key="]" line="668" column="88" />
-        <mark key="^" line="668" column="88" />
-        <mark key="." line="668" column="87" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerRowFavAdapter.kt" timestamp="1591354365587">
-        <mark key="[" line="36" column="95" />
-        <mark key="]" line="36" column="109" />
-        <mark key="^" line="36" column="109" />
-        <mark key="." line="36" column="108" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" timestamp="1591718755444">
         <mark key="[" line="127" column="4" />
@@ -166,23 +167,6 @@
         <mark key="]" line="7" column="71" />
         <mark key="^" line="7" column="71" />
         <mark key="." line="7" column="70" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591517300522">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendRowFavAdapter.kt" timestamp="1591354242745">
-        <mark key="[" line="50" column="36" />
-        <mark key="]" line="50" column="52" />
-        <mark key="^" line="50" column="52" />
-        <mark key="." line="50" column="51" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RowViewHolder.kt" timestamp="1591354465337">
-        <mark key="[" line="28" column="55" />
-        <mark key="]" line="28" column="69" />
-        <mark key="^" line="28" column="69" />
-        <mark key="." line="28" column="68" />
       </file>
     </filemarks>
     <jumps>
@@ -298,7 +282,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>?</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -308,7 +292,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>mOperationView</text>
@@ -317,34 +301,31 @@
         <text encoding="base64">ICAgICAgICB2YXIgc2VsZWN0ZWRDb2x1bW5JbmRleCA9IC0xCiAgICAgICAgdmFyIHNlbGVjdGVkUm93SW5kZXggPSAtMQogICAgICAgIGNvbHVtbkl0ZW1zLmZvckVhY2hJbmRleGVkIHsgY29sdW1uSW5kZXgsIGNvbHVtbkl0ZW0gLT4KICAgICAgICAgICAgaWYgKGNvbHVtbkl0ZW0gaXMgQ29sdW1uRGlzcGxheSkgewogICAgICAgICAgICAgICAgdmFsIHJvd0luZGV4ID0gY29sdW1uSXRlbS5kaXNwbGF5SXRlbXMuaW5kZXhPZkZpcnN0IHsKICAgICAgICAgICAgICAgICAgICByZXR1cm5AaW5kZXhPZkZpcnN0IGlmIChpdCBpcyBUZW1wbGF0ZUxpc3RJdGVtKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGl0LnRlbXBsYXRlQ29kZSA9PSB0ZW1wbGF0ZUNvZGUKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBmYWxzZQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmIChyb3dJbmRleCAhPSAtMSkgewogICAgICAgICAgICAgICAgICAgIHNlbGVjdGVkQ29sdW1uSW5kZXggPSBjb2x1bW5JbmRleAogICAgICAgICAgICAgICAgICAgIHNlbGVjdGVkUm93SW5kZXggPSByb3dJbmRleAogICAgICAgICAgICAgICAgICAgIHJldHVybkBmb3JFYWNoSW5kZXhlZAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIC8vIOWPquimgeS4iumdouS4jeS/ruaUue+8jOi/memHjOmAu+i+keW6lOivpeWwseayoemXrumimAogICAgICAgIHZhbCB0aGVTZWxlY3RlZFJlY29tbWVuZCA9IChjb2x1bW5JdGVtc1tzZWxlY3RlZENvbHVtbkluZGV4XSBhcyBDb2x1bW5EaXNwbGF5KS5kaXNwbGF5SXRlbXNbc2VsZWN0ZWRSb3dJbmRleF0KICAgICAgICAvLyDpnIDopoHmu5HliqjliLDlr7nlupTkvY3nva7vvJ8KICAgICAgICBvbkZhdlNlbGVjdGVkTGlzdGVuZXI/Lm9uRmF2U2VsZWN0ZWQodGhlU2VsZWN0ZWRSZWNvbW1lbmQsIHNlbGVjdGVkQ29sdW1uSW5kZXgsIHNlbGVjdGVkUm93SW5kZXgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCB0aGVTZWxlY3RSZWNvbW1lbmQgPSBjb2x1bW5JdGVtcy5hc1NlcXVlbmNlKCkuZmlsdGVySXNJbnN0YW5jZShDb2x1bW5EaXNwbGF5OjpjbGFzcy5qYXZhKS5tYXAgewovLyAgICAgICAgICAgIGl0LmRpc3BsYXlJdGVtcwovLyAgICAgICAgfS5mbGF0dGVuKCkuZmlsdGVySXNJbnN0YW5jZShUZW1wbGF0ZUxpc3RJdGVtOjpjbGFzcy5qYXZhKS5maXJzdE9yTnVsbCB7Ci8vICAgICAgICAgICAgaXQudGVtcGxhdGVDb2RlID09IHRlbXBsYXRlQ29kZQovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlkOiBMb25nPyA9IG51bGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCB0aGVTZWxlY3RSZWNvbW1lbmQgPSBjb2x1bW5JdGVtcy5hc1NlcXVlbmNlKCkuZmlsdGVySXNJbnN0YW5jZShDb2x1bW5EaXNwbGF5OjpjbGFzcy5qYXZhKS5tYXAgewovLyAgICAgICAgICAgIGl0LmRpc3BsYXlJdGVtcwovLyAgICAgICAgfS5mbGF0dGVuKCkuZmlsdGVySXNJbnN0YW5jZShUZW1wbGF0ZUxpc3RJdGVtOjpjbGFzcy5qYXZhKS5maXJzdE9yTnVsbCB7Ci8vICAgICAgICAgICAgaXQudGVtcGxhdGVDb2RlID09IHRlbXBsYXRlQ29kZQovLyAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgaXRlbSA9IGNvbHVtbkl0ZW1zLmZpbHRlcklzSW5zdGFuY2UoQ29sdW1uRGlzcGxheTo6Y2xhc3MuamF2YSkubWFwIHsKLy8gICAgICAgICAgICAgICAgaXQuZGlzcGxheUl0ZW1zCi8vICAgICAgICAgICAgfS5mbGF0dGVuKCkucmFuZG9tKCkgPzogcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>.let { 
-                val randomSize = it.size
-                it.elementAt(Random.nextInt(randomSize))
-            }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sdW1uSXRlbXMuZmlsdGVySW5kZXhlZCB7IGluZGV4LCBjb2x1bW5JdGVtIC0+IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>154</text>
