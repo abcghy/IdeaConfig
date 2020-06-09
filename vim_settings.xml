@@ -77,7 +77,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1591700292837">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1591700828449">
         <mark key="'" line="1159" column="20" />
         <mark key="[" line="1010" column="37" />
         <mark key="]" line="1010" column="57" />
@@ -97,24 +97,24 @@
         <mark key="^" line="77" column="37" />
         <mark key="." line="77" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" timestamp="1591695668816">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" timestamp="1591700967935">
         <mark key="'" line="83" column="24" />
-        <mark key="[" line="143" column="63" />
-        <mark key="]" line="143" column="69" />
-        <mark key="^" line="143" column="69" />
-        <mark key="." line="143" column="68" />
+        <mark key="[" line="37" column="54" />
+        <mark key="]" line="37" column="59" />
+        <mark key="^" line="37" column="59" />
+        <mark key="." line="37" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1591700399472">
-        <mark key="[" line="136" column="120" />
-        <mark key="]" line="138" column="18" />
-        <mark key="." line="138" column="17" />
-        <mark key="^" line="138" column="18" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1591700988408">
+        <mark key="[" line="37" column="54" />
+        <mark key="]" line="37" column="59" />
+        <mark key="." line="37" column="58" />
+        <mark key="^" line="37" column="59" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/widget/MenuItemHolder.java" timestamp="1591694698810">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="70" column="72" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" timestamp="1591697846956">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" timestamp="1591700896130">
         <mark key="i" line="530" column="28" />
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="8" />
@@ -140,7 +140,7 @@
         <mark key="." line="29" column="54" />
         <mark key="^" line="29" column="55" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpView.kt" timestamp="1591700202057">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpView.kt" timestamp="1591700819809">
         <mark key="[" line="47" column="5" />
         <mark key="]" line="50" column="38" />
         <mark key="^" line="50" column="38" />
@@ -156,6 +156,12 @@
         <mark key="^" line="84" column="63" />
         <mark key="." line="84" column="62" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" timestamp="1591700858764">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="16" column="48" />
+        <mark key="." line="16" column="47" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_change_bg_transparent.xml" timestamp="1591697453694">
         <mark key="[" line="11" column="8" />
         <mark key="]" line="11" column="15" />
@@ -168,7 +174,6 @@
         <mark key="." line="22" column="54" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerSelectView.java" timestamp="1591694059992" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" timestamp="1591696294490">
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
