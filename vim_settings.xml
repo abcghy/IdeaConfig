@@ -77,6 +77,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/vue-admin-template/src/api/node.js" timestamp="1591800748277">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="19" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1591700399472">
         <mark key="[" line="136" column="120" />
         <mark key="]" line="138" column="18" />
@@ -95,6 +101,12 @@
         <mark key="^" line="144" column="18" />
         <mark key="." line="142" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_change_bg_transparent.xml" timestamp="1591697453694">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="15" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1591700292837">
         <mark key="'" line="1159" column="20" />
         <mark key="[" line="1010" column="37" />
@@ -102,7 +114,6 @@
         <mark key="." line="1010" column="56" />
         <mark key="^" line="1010" column="57" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1591721860160" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" timestamp="1591697846956">
         <mark key="i" line="530" column="28" />
         <mark key="[" line="182" column="0" />
@@ -116,11 +127,29 @@
         <mark key="^" line="35" column="40" />
         <mark key="." line="35" column="39" />
       </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaaSDTO.kt" timestamp="1591722853775">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpNormalView.kt" timestamp="1591700187688">
+        <mark key="[" line="77" column="8" />
+        <mark key="]" line="77" column="37" />
+        <mark key="^" line="77" column="37" />
+        <mark key="." line="77" column="36" />
+      </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" timestamp="1591722395683">
         <mark key="[" line="272" column="31" />
         <mark key="]" line="272" column="37" />
         <mark key="." line="272" column="36" />
         <mark key="^" line="272" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" timestamp="1591801226242">
+        <mark key="[" line="249" column="8" />
+        <mark key="]" line="249" column="13" />
+        <mark key="^" line="249" column="13" />
+        <mark key="." line="249" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgMenuFetcher.kt" timestamp="1591698274156">
         <mark key="[" line="29" column="16" />
@@ -134,42 +163,12 @@
         <mark key="^" line="50" column="38" />
         <mark key="." line="50" column="37" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasRepository.java" timestamp="1591721780001" />
-      <file name="/Dummy.txt" timestamp="1591697031118">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/BgSelectView.java" timestamp="1591697407540">
-        <mark key="'" line="446" column="55" />
-        <mark key="[" line="126" column="32" />
-        <mark key="]" line="127" column="143" />
-        <mark key="^" line="84" column="63" />
-        <mark key="." line="84" column="62" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_change_bg_transparent.xml" timestamp="1591697453694">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="15" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="11" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaaSEntity.java" timestamp="1591722551719" />
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/login/index.vue" timestamp="1591718726753" />
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaaSDTO.kt" timestamp="1591722853775">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="13" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="8" column="12" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpNormalView.kt" timestamp="1591700187688">
-        <mark key="[" line="77" column="8" />
-        <mark key="]" line="77" column="37" />
-        <mark key="^" line="77" column="37" />
-        <mark key="." line="77" column="36" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" timestamp="1591718755444">
-        <mark key="[" line="127" column="4" />
-        <mark key="]" line="67" column="57" />
-        <mark key="^" line="67" column="57" />
-        <mark key="." line="67" column="56" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/node.js" timestamp="1591800884337">
+        <mark key="'" line="123" column="2" />
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="56" column="20" />
+        <mark key="^" line="56" column="20" />
+        <mark key="." line="56" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RowViewHolder.kt" timestamp="1591697893373">
         <mark key="[" line="28" column="53" />
@@ -179,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="3" filename="$USER_HOME$/AndroidStudioProjects/Versa/labcv/src/main/java/com/bytedance/labcv/core/image/ImageEffectHelper.java" />
       <jump line="83" column="27" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/ImageEffectActivity.java" />
       <jump line="10" column="23" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/gradle.properties" />
       <jump line="5" column="18" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/build.gradle" />
@@ -279,6 +277,7 @@
       <jump line="83" column="24" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" />
       <jump line="132" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/build.gradle" />
+      <jump line="123" column="2" filename="$USER_HOME$/code/vue-admin-template/src/store/modules/node.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -291,7 +290,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>TransparentChildItem</text>
+        <text>discardNodeDialogVisible = false</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -301,13 +300,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TransparentChildItem</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
         <text>mOperationView</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGhlU2VsZWN0ZWRSZWNvbW1lbmQgPSAoY29sdW1uSXRlbXNbc2VsZWN0ZWRDb2x1bW5JbmRleF0gYXMgQ29sdW1uRGlzcGxheSkuZGlzcGxheUl0ZW1zW3NlbGVjdGVkUm93SW5kZXhdCg==</text>
+      <register name="0" type="4">
+        <text>discardNodeDialogVisible = false</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
