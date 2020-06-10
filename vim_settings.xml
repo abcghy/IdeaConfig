@@ -83,6 +83,12 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="19" />
       </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/bean/NodeStatus.java" timestamp="1591802173356">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="11" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1591700399472">
         <mark key="[" line="136" column="120" />
         <mark key="]" line="138" column="18" />
@@ -101,12 +107,6 @@
         <mark key="^" line="144" column="18" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_change_bg_transparent.xml" timestamp="1591697453694">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="15" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="11" column="15" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1591700292837">
         <mark key="'" line="1159" column="20" />
         <mark key="[" line="1010" column="37" />
@@ -114,18 +114,33 @@
         <mark key="." line="1010" column="56" />
         <mark key="^" line="1010" column="57" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" timestamp="1591697846956">
-        <mark key="i" line="530" column="28" />
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="8" />
-        <mark key="." line="182" column="8" />
-        <mark key="^" line="181" column="8" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1591802387881">
+        <mark key="[" line="115" column="43" />
+        <mark key="]" line="116" column="41" />
+        <mark key="." line="116" column="40" />
+        <mark key="^" line="116" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgRowFavAdapter.kt" timestamp="1591697798073">
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="35" column="40" />
-        <mark key="^" line="35" column="40" />
-        <mark key="." line="35" column="39" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/bean/NodeEntity.java" timestamp="1591802202885">
+        <mark key="[" line="105" column="4" />
+        <mark key="]" line="106" column="35" />
+        <mark key="^" line="106" column="35" />
+        <mark key="." line="106" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" timestamp="1591722395683">
+        <mark key="[" line="272" column="31" />
+        <mark key="]" line="272" column="37" />
+        <mark key="." line="272" column="36" />
+        <mark key="^" line="272" column="37" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpView.kt" timestamp="1591700202057">
+        <mark key="[" line="47" column="5" />
+        <mark key="]" line="50" column="38" />
+        <mark key="^" line="50" column="38" />
+        <mark key="." line="50" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionRepository.java" timestamp="1591802315249">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="21" column="65" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaaSDTO.kt" timestamp="1591722853775">
         <mark key="[" line="8" column="9" />
@@ -139,29 +154,18 @@
         <mark key="^" line="77" column="37" />
         <mark key="." line="77" column="36" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" timestamp="1591722395683">
-        <mark key="[" line="272" column="31" />
-        <mark key="]" line="272" column="37" />
-        <mark key="." line="272" column="36" />
-        <mark key="^" line="272" column="37" />
-      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/bean/TransmissionEntity.java" timestamp="1591801999323" />
       <file name="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" timestamp="1591801226242">
         <mark key="[" line="249" column="8" />
         <mark key="]" line="249" column="13" />
         <mark key="^" line="249" column="13" />
         <mark key="." line="249" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgMenuFetcher.kt" timestamp="1591698274156">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="55" />
-        <mark key="." line="29" column="54" />
-        <mark key="^" line="29" column="55" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpView.kt" timestamp="1591700202057">
-        <mark key="[" line="47" column="5" />
-        <mark key="]" line="50" column="38" />
-        <mark key="^" line="50" column="38" />
-        <mark key="." line="50" column="37" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeRepository.java" timestamp="1591802377095">
+        <mark key="[" line="23" column="68" />
+        <mark key="]" line="23" column="69" />
+        <mark key="^" line="23" column="69" />
+        <mark key="." line="23" column="69" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/node.js" timestamp="1591800884337">
         <mark key="'" line="123" column="2" />
@@ -169,12 +173,6 @@
         <mark key="]" line="56" column="20" />
         <mark key="^" line="56" column="20" />
         <mark key="." line="56" column="19" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RowViewHolder.kt" timestamp="1591697893373">
-        <mark key="[" line="28" column="53" />
-        <mark key="]" line="28" column="53" />
-        <mark key="^" line="28" column="53" />
-        <mark key="." line="28" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -289,8 +287,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>discardNodeDialogVisible = false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbm9kZS5zYWFzTGlzdCA9IG51bGwK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -300,40 +298,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>mOperationView</text>
       </register>
-      <register name="0" type="4">
-        <text>discardNodeDialogVisible = false</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCiAgICBATW9kaWZ5aW5nCiAgICBAUXVlcnkoInVwZGF0ZSBUcmFuc21pc3Npb25FbnRpdHkgdCBzZXQgdC5ub2RlSW5mb0xpc3QgPSA/MiB3aGVyZSB0LmlkID0gPzEiKQogICAgdm9pZCB1cGRhdGVOb2RlSW5mb0xpc3QobG9uZyB0SWQsIE5vZGVJbmZvTGlzdCBub2RlSW5mb0xpc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9kZS5zYWFzTGlzdCA9IG51bGwK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VsZWN0V3JhcHBlcigiIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VsZWN0V3JhcHBlcigiIikK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CiAgICAgICAgPCEtLSAgICAgICAgPFZpZXctLT4KICAgICAgICA8IS0tICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC92aWV3U2VsZWN0ZWREb3QiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI2ZHAiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNmRwIi0tPgogICAgICAgIDwhLS0gICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9yb3VuZGVkX3doaXRlIi0tPgogICAgICAgIDwhLS0gICAgICAgICAgICBhbmRyb2lkOmxheW91dF9jZW50ZXJWZXJ0aWNhbD0idHJ1ZSItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfdG9MZWZ0T2Y9IkAraWQvdHZUaXRsZSItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luUmlnaHQ9IjRkcCIvPi0tPgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfdG9MZWZ0T2Y9IkAraWQvdHZUaXRsZSIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5SaWdodD0iNGRwIg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEhvcml6b250YWxfYmlhcz0iMC40OSIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iMTBkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luUmlnaHQ9IjEwZHAiCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCB0aGVTZWxlY3RSZWNvbW1lbmQgPSBjb2x1bW5JdGVtcy5hc1NlcXVlbmNlKCkuZmlsdGVySXNJbnN0YW5jZShDb2x1bW5EaXNwbGF5OjpjbGFzcy5qYXZhKS5tYXAgewovLyAgICAgICAgICAgIGl0LmRpc3BsYXlJdGVtcwovLyAgICAgICAgfS5mbGF0dGVuKCkuZmlsdGVySXNJbnN0YW5jZShUZW1wbGF0ZUxpc3RJdGVtOjpjbGFzcy5qYXZhKS5maXJzdE9yTnVsbCB7Ci8vICAgICAgICAgICAgaXQudGVtcGxhdGVDb2RlID09IGNvZGUKLy8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iMTBkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luUmlnaHQ9IjEwZHAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>source $MYVIMRC</text>
