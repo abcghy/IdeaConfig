@@ -83,14 +83,17 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasController.kt" timestamp="1591892530353">
-        <mark key="[" line="64" column="42" />
-        <mark key="]" line="64" column="42" />
-        <mark key="." line="64" column="42" />
-        <mark key="^" line="64" column="100" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasController.kt" timestamp="1591895346603">
+        <mark key="[" line="64" column="80" />
+        <mark key="]" line="64" column="99" />
+        <mark key="." line="64" column="98" />
+        <mark key="^" line="64" column="99" />
       </file>
-      <file name="/console" timestamp="1591806443252">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/components/NodeCard/index.vue" timestamp="1591896105403">
+        <mark key="[" line="11" column="59" />
+        <mark key="]" line="11" column="74" />
+        <mark key="^" line="11" column="74" />
+        <mark key="." line="11" column="73" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeController.kt" timestamp="1591887562075">
         <mark key="[" line="175" column="63" />
@@ -113,11 +116,11 @@
         <mark key="^" line="22" column="37" />
         <mark key="." line="22" column="36" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" timestamp="1591894474709">
-        <mark key="[" line="279" column="40" />
-        <mark key="]" line="280" column="36" />
-        <mark key="^" line="280" column="36" />
-        <mark key="." line="280" column="35" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" timestamp="1591895768647">
+        <mark key="[" line="289" column="13" />
+        <mark key="]" line="289" column="27" />
+        <mark key="^" line="289" column="27" />
+        <mark key="." line="289" column="26" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/api/saas.js" timestamp="1591893945642">
         <mark key="[" line="10" column="0" />
@@ -125,23 +128,23 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="11" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasRepository.java" timestamp="1591894619273">
-        <mark key="[" line="36" column="37" />
-        <mark key="]" line="36" column="43" />
-        <mark key="^" line="36" column="43" />
-        <mark key="." line="36" column="42" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasRepository.java" timestamp="1591895473231">
+        <mark key="[" line="35" column="64" />
+        <mark key="]" line="35" column="66" />
+        <mark key="^" line="35" column="66" />
+        <mark key="." line="35" column="65" />
       </file>
       <file name="/node_entity [MySQL - @localhost]" timestamp="1591807149190">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/saasentity [MySQL - @localhost]" timestamp="1591807397094">
+      <file name="/saasentity [MySQL - @localhost]" timestamp="1591895421143">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaaSEntity.java" timestamp="1591894604963" />
       <file name="/masterserver.node_entity" timestamp="1591807149201">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1591807397114">
+      <file name="/foo.bar" timestamp="1591895421163">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/saas.js" timestamp="1591894686981">
@@ -149,14 +152,14 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/masterserver.saasentity" timestamp="1591807397104">
+      <file name="/masterserver.saasentity" timestamp="1591895421152">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" timestamp="1591891168250">
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="244" column="8" />
-        <mark key="^" line="249" column="13" />
-        <mark key="." line="249" column="12" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" timestamp="1591896155106">
+        <mark key="[" line="143" column="18" />
+        <mark key="]" line="143" column="25" />
+        <mark key="^" line="143" column="25" />
+        <mark key="." line="143" column="24" />
       </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/NodeRepository.java" timestamp="1591808188600">
         <mark key="[" line="20" column="79" />
@@ -277,8 +280,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCB0eXBlID0gbnVsbAogICAgaWYgKGVkaXRGb3JtLnR5cGUgPT09ICdHaXRodWInKSB7CiAgICAgIHR5cGUgPSAnZ2l0aHViJwogICAgfSBlbHNlIGlmIChlZGl0Rm9ybS50eXBlID09PSAnS2xvdWRuZXNzJykgewogICAgICB0eXBlID0gJ2tsb3VkbmVzcycKICAgIH0KICAgIGVkaXRGb3JtLnR5cGUgPSB0eXBlCg==</text>
+      <register name="&quot;" type="4">
+        <text>这是一条警告的提示消息</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -288,7 +291,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>这是一条警告的提示消息</text>
       </register>
       <register name="/" type="4">
         <text>mOperationView</text>
