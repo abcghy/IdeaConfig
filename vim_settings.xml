@@ -78,12 +78,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" timestamp="1591866572434">
-        <mark key="[" line="279" column="0" />
-        <mark key="]" line="304" column="15" />
-        <mark key="." line="81" column="35" />
-        <mark key="^" line="81" column="36" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/adapter/StickerSelectMineViewHolder.java" timestamp="1591874976315" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1591871154707">
         <mark key="'" line="1158" column="20" />
         <mark key="[" line="1217" column="73" />
@@ -98,31 +93,23 @@
         <mark key="^" line="65" column="30" />
         <mark key="." line="65" column="31" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/util/AsyncToFutureUtil.java" timestamp="1591873422355" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/model/StickerItemDefault.java" timestamp="1591873734685" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/HotWordModel.kt" timestamp="1591871220270">
         <mark key="[" line="44" column="4" />
         <mark key="]" line="46" column="54" />
         <mark key="^" line="46" column="54" />
         <mark key="." line="46" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/filter/FilterSecondOpNormalView.kt" timestamp="1591864405326">
-        <mark key="[" line="74" column="24" />
-        <mark key="]" line="74" column="47" />
-        <mark key="." line="74" column="46" />
-        <mark key="^" line="74" column="47" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/filter/FilterColumnAdapter.kt" timestamp="1591864388106">
-        <mark key="[" line="96" column="63" />
-        <mark key="]" line="96" column="64" />
-        <mark key="^" line="96" column="64" />
-        <mark key="." line="96" column="63" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" timestamp="1591871465764">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/backup/dao/StickerDao.java" timestamp="1591873892182" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" timestamp="1591871851701">
         <mark key="'" line="80" column="28" />
         <mark key="[" line="248" column="117" />
         <mark key="]" line="250" column="55" />
         <mark key="." line="250" column="54" />
         <mark key="^" line="250" column="55" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/RealStickerOp.java" timestamp="1591871833083" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1591870219790">
         <mark key="'" line="97" column="0" />
         <mark key="[" line="107" column="0" />
@@ -135,13 +122,6 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="4" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" timestamp="1591864531745">
-        <mark key="'" line="426" column="0" />
-        <mark key="[" line="847" column="56" />
-        <mark key="]" line="848" column="37" />
-        <mark key="." line="848" column="36" />
-        <mark key="^" line="848" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerColumnViewHolder.kt" timestamp="1591870740691">
         <mark key="[" line="16" column="36" />
@@ -172,18 +152,12 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerSelectView.java" timestamp="1591867777329" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerSelectView.java" timestamp="1591873157385" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerRowFavAdapter.kt" timestamp="1591870689407">
         <mark key="[" line="38" column="39" />
         <mark key="]" line="38" column="41" />
         <mark key="^" line="38" column="41" />
         <mark key="." line="38" column="40" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" timestamp="1591864371625">
-        <mark key="[" line="49" column="4" />
-        <mark key="]" line="49" column="14" />
-        <mark key="." line="49" column="4" />
-        <mark key="^" line="49" column="14" />
       </file>
     </filemarks>
     <jumps>
