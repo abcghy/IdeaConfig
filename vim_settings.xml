@@ -84,14 +84,26 @@
         <mark key="." line="81" column="35" />
         <mark key="^" line="81" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1591865536225">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1591871154707">
         <mark key="'" line="1158" column="20" />
-        <mark key="[" line="443" column="0" />
-        <mark key="]" line="443" column="0" />
-        <mark key="." line="443" column="0" />
-        <mark key="^" line="403" column="52" />
+        <mark key="[" line="1217" column="73" />
+        <mark key="]" line="1217" column="103" />
+        <mark key="." line="1217" column="102" />
+        <mark key="^" line="1217" column="103" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/adapter/StickerSelectAdapter.java" timestamp="1591867625619" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerColumnAdapter.kt" timestamp="1591870260771">
+        <mark key="[" line="65" column="30" />
+        <mark key="]" line="65" column="31" />
+        <mark key="^" line="65" column="30" />
+        <mark key="." line="65" column="31" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/HotWordModel.kt" timestamp="1591871220270">
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="46" column="54" />
+        <mark key="^" line="46" column="54" />
+        <mark key="." line="46" column="53" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/filter/FilterSecondOpNormalView.kt" timestamp="1591864405326">
         <mark key="[" line="74" column="24" />
         <mark key="]" line="74" column="47" />
@@ -104,20 +116,14 @@
         <mark key="^" line="96" column="64" />
         <mark key="." line="96" column="63" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" timestamp="1591868699969">
-        <mark key="'" line="83" column="28" />
-        <mark key="[" line="109" column="25" />
-        <mark key="]" line="110" column="53" />
-        <mark key="^" line="110" column="53" />
-        <mark key="." line="110" column="52" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" timestamp="1591871465764">
+        <mark key="'" line="80" column="28" />
+        <mark key="[" line="248" column="117" />
+        <mark key="]" line="250" column="55" />
+        <mark key="." line="250" column="54" />
+        <mark key="^" line="250" column="55" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/filter/FilterColumnViewHolder.kt" timestamp="1591862607956">
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="32" />
-        <mark key="^" line="28" column="32" />
-        <mark key="." line="28" column="31" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1591861919811">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1591870219790">
         <mark key="'" line="97" column="0" />
         <mark key="[" line="107" column="0" />
         <mark key="]" line="110" column="9" />
@@ -137,35 +143,41 @@
         <mark key="." line="848" column="36" />
         <mark key="^" line="848" column="37" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerColumnViewHolder.kt" timestamp="1591870740691">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="36" />
+        <mark key="^" line="16" column="54" />
+        <mark key="." line="16" column="36" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerMenuFetcher.kt" timestamp="1591867269903">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="23" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1591865784861">
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="199" column="61" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgRowFavAdapter.kt" timestamp="1591870511427">
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="42" column="54" />
+        <mark key="^" line="42" column="54" />
+        <mark key="." line="42" column="53" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1591871233682">
+        <mark key="[" line="770" column="0" />
+        <mark key="]" line="773" column="9" />
         <mark key="." line="192" column="45" />
         <mark key="^" line="192" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_select_sticker.xml" timestamp="1591867760862" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" timestamp="1591868646358">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" timestamp="1591870910626">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/FilterOpView.java" timestamp="1591863704154">
-        <mark key="'" line="363" column="130" />
-        <mark key="[" line="599" column="8" />
-        <mark key="]" line="599" column="59" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerSelectView.java" timestamp="1591867777329" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_second_op_demo.xml" timestamp="1591861971872" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpNormalView.kt" timestamp="1591861887489">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="54" column="63" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerRowFavAdapter.kt" timestamp="1591870689407">
+        <mark key="[" line="38" column="39" />
+        <mark key="]" line="38" column="41" />
+        <mark key="^" line="38" column="41" />
+        <mark key="." line="38" column="40" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" timestamp="1591864371625">
         <mark key="[" line="49" column="4" />
@@ -287,7 +299,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYzogSW50LCBoZWlnaHRNZWFzdXJlU3BlYzogSW50KSB7CiAgICAgICAgdmFsIHNjcmVlbkhlaWdodCA9IFN5c1V0aWwuZ2V0U2NyZWVuSGVpZ2h0KGNvbnRleHQpCiAgICAgICAgdmFsIHNlbGVjdFBob3RvSGVpZ2h0ID0gKHNjcmVlbkhlaWdodCAqIDAuNTVmKS50b0ludCgpCgogICAgICAgIHZhbCBtYXhIZWlnaHRNZWFzdXJlU3BlYyA9IE1lYXN1cmVTcGVjLm1ha2VNZWFzdXJlU3BlYyhzZWxlY3RQaG90b0hlaWdodCwgTWVhc3VyZVNwZWMuRVhBQ1RMWSkKICAgICAgICBzdXBlci5vbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYywgbWF4SGVpZ2h0TWVhc3VyZVNwZWMpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvOiBnaHkgb3ZlcmxheQovLyAgICAgICAgc3RpY2tlclNlY29uZE9wVmlldy5zZXRPblJhbmRvbVNlbGVjdExpc3RlbmVyKHRoaXMpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -297,51 +309,44 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>recommendMenuFetcher</text>
+        <text encoding="base64">U3RpY2tlclNlY29uZE9wVmlldyA=</text>
       </register>
       <register name="/" type="4">
         <text>rvsearch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYzogSW50LCBoZWlnaHRNZWFzdXJlU3BlYzogSW50KSB7CiAgICAgICAgdmFsIHNjcmVlbkhlaWdodCA9IFN5c1V0aWwuZ2V0U2NyZWVuSGVpZ2h0KGNvbnRleHQpCiAgICAgICAgdmFsIHNlbGVjdFBob3RvSGVpZ2h0ID0gKHNjcmVlbkhlaWdodCAqIDAuNTVmKS50b0ludCgpCgogICAgICAgIHZhbCBtYXhIZWlnaHRNZWFzdXJlU3BlYyA9IE1lYXN1cmVTcGVjLm1ha2VNZWFzdXJlU3BlYyhzZWxlY3RQaG90b0hlaWdodCwgTWVhc3VyZVNwZWMuRVhBQ1RMWSkKICAgICAgICBzdXBlci5vbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYywgbWF4SGVpZ2h0TWVhc3VyZVNwZWMpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdGVtcGxhdGVIb3RXb3JkU3RyaW5nTGlzdCA9IEhvdFdvcmRNYW5hZ2VyLklOU1RBTkNFLmdldFRlbXBsYXRlSG90V29yZFN0cmluZ0xpc3QoKTsKICAgICAgICBpZiAodGVtcGxhdGVIb3RXb3JkU3RyaW5nTGlzdCAhPSBudWxsKSB7CiAgICAgICAgICAgIG1PcGVyYXRpb25WaWV3LnNldEtleXdvcmRMaXN0KHRlbXBsYXRlSG90V29yZFN0cmluZ0xpc3QpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvOiBnaHkgb3ZlcmxheQovLyAgICAgICAgc3RpY2tlclNlY29uZE9wVmlldy5zZXRPblJhbmRvbVNlbGVjdExpc3RlbmVyKHRoaXMpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgIFJlY29tbWVuZE1lbnVGZXRjaGVyIHJlY29tbWVuZE1lbnVGZXRjaGVyID0gbmV3IFJlY29tbWVuZE1lbnVGZXRjaGVyKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIFN0aWNrZXJTZWxlY3RWaWV3IHN0aWNrZXJTdGlja2VyU2VsZWN0VmlldyA9IG5ldyBTdGlja2VyU2VsZWN0VmlldyhtQ29udGV4dCwgdGhpcyk7Ci8vICAgICAgICByZXR1cm4gc3RpY2tlclN0aWNrZXJTZWxlY3RWaWV3Owo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdGVtcGxhdGVIb3RXb3JkU3RyaW5nTGlzdCA9IEhvdFdvcmRNYW5hZ2VyLklOU1RBTkNFLmdldFRlbXBsYXRlSG90V29yZFN0cmluZ0xpc3QoKTsKICAgICAgICBpZiAodGVtcGxhdGVIb3RXb3JkU3RyaW5nTGlzdCAhPSBudWxsKSB7CiAgICAgICAgICAgIHN0aWNrZXJTZWNvbmRPcFZpZXcuc2V0S2V5d29yZExpc3QodGVtcGxhdGVIb3RXb3JkU3RyaW5nTGlzdCk7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICB0aGVSZXR1cm5MaXN0LmFkZCgKLy8gICAgICAgICAgICAgICAgICAgIGNvbS52ZXJzYS51aS5pbWFnZWVkaXQuc2Vjb25kb3Audmlldy5iYXNlLkNvbHVtbkRpc3BsYXkoCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdyb3VwLnJlc291cmNlcy5tYXBOb3ROdWxsIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybkBtYXBOb3ROdWxsIFN0aWNrZXJJdGVtRGVmYXVsdC50cmFuc2Zvcm0oY29kZVN0aWNrZXJNYXBbaXRdLCBwYXRoLCAwKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICApCi8vICAgICAgICAgICAgKQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>ColumnDisplay(group.resources.mapNotNull { 
                 StickerItemDefault.transform(codeStickerMap[it], path, 0)
             }.map { 
                 SelectWrapper(it)
             })</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="8">
-        <text>mOperationView
-mOperationView
-mOperationView
-mOperationView
-mOperationView
-mOperationView
-mOperationView</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNoYW5nZUJnU2Vjb25kT3BWaWV3LnNldENvbXBhcmFibGVPdmVybGF5KG1PdmVybGF5Vmlldyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="8">
-        <text>private
-private</text>
       </register>
       <register name=":" type="4">
         <text>source $MYVIMRC</text>
