@@ -93,18 +93,16 @@
         <mark key="^" line="22" column="39" />
         <mark key="." line="22" column="38" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/VersaCopy/app/src/main/java/com/versa/ui/imageedit/share/ShareActivity.java" timestamp="1591959630575" />
       <file name="$USER_HOME$/AndroidStudioProjects/VersaCopy/app/src/main/java/com/versa/report/OOMReporter.java" timestamp="1591954870813">
         <mark key="[" line="205" column="0" />
         <mark key="]" line="205" column="0" />
         <mark key="^" line="204" column="44" />
         <mark key="." line="205" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpOtherView.kt" timestamp="1591950167745" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" timestamp="1591953746795">
-        <mark key="[" line="48" column="61" />
-        <mark key="]" line="49" column="39" />
-        <mark key="^" line="49" column="39" />
-        <mark key="." line="49" column="38" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendRowFavAdapter.kt" timestamp="1591958753795">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="69" column="9" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnTitleViewHolder.kt" timestamp="1591956292265">
         <mark key="[" line="47" column="0" />
