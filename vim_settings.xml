@@ -91,6 +91,12 @@
         <mark key="[" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOpView.java" timestamp="1591943219718" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_fav.xml" timestamp="1591948546638">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="31" />
+        <mark key="^" line="6" column="32" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1591946037439">
         <mark key="'" line="219" column="0" />
         <mark key="[" line="153" column="37" />
@@ -111,12 +117,6 @@
         <mark key="]" line="33" column="39" />
         <mark key="." line="33" column="38" />
         <mark key="^" line="33" column="39" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOverlayView.kt" timestamp="1591933572961">
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="31" column="30" />
-        <mark key="^" line="31" column="30" />
-        <mark key="." line="31" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1591944560700">
         <mark key="^" line="81" column="21" />
