@@ -86,17 +86,13 @@
         <mark key="." line="1217" column="102" />
         <mark key="^" line="1217" column="103" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/adapter/StickerSelectAdapter.java" timestamp="1591934373376" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/statistics/StatisticWrapper.java" timestamp="1591934364750" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/util/AsyncToFutureUtil.java" timestamp="1591873422355" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/model/StickerItemDefault.java" timestamp="1591930355739">
         <mark key="'" line="163" column="35" />
         <mark key="[" line="491" column="0" />
         <mark key="]" line="493" column="40" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/HotWordModel.kt" timestamp="1591871220270">
-        <mark key="[" line="44" column="4" />
-        <mark key="]" line="46" column="54" />
-        <mark key="^" line="46" column="54" />
-        <mark key="." line="46" column="53" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/backup/dao/StickerDao.java" timestamp="1591873892182" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" timestamp="1591934187949">
@@ -125,10 +121,11 @@
         <mark key="^" line="192" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/PeopleTagActivity.kt" timestamp="1591931947764" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_select_sticker.xml" timestamp="1591934283812" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" timestamp="1591870910626">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="26" column="5" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_select_sticker.xml" timestamp="1591934321895">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="16" column="33" />
+        <mark key="." line="16" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/widget/RenderOverlayFrameLayout.java" timestamp="1591931695459">
         <mark key="'" line="84" column="4" />
@@ -140,7 +137,9 @@
         <mark key="." line="329" column="48" />
         <mark key="^" line="329" column="49" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerSelectView.java" timestamp="1591934279022" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerSelectView.java" timestamp="1591934340167">
+        <mark key="[" line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/WordStickerOp.kt" timestamp="1591933049249" />
     </filemarks>
     <jumps>
@@ -255,8 +254,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>tools:visibility=&quot;visible&quot;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -266,7 +265,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>item instanceof StickerItemDefault</text>
+        <text>tools:visibility=&quot;visible&quot;</text>
       </register>
       <register name="/" type="4">
         <text>rvsearch</text>
