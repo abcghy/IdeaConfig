@@ -84,13 +84,6 @@
         <mark key="^" line="49" column="39" />
         <mark key="." line="49" column="38" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasRepository.java" timestamp="1592058728416" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_fav.xml" timestamp="1591949699955">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="32" />
-        <mark key="." line="16" column="31" />
-        <mark key="^" line="16" column="32" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1591953762956">
         <mark key="'" line="98" column="0" />
         <mark key="[" line="48" column="61" />
@@ -98,28 +91,53 @@
         <mark key="." line="49" column="38" />
         <mark key="^" line="49" column="39" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasController.kt" timestamp="1592060507463">
-        <mark key="[" line="47" column="49" />
-        <mark key="]" line="48" column="45" />
-        <mark key="^" line="48" column="45" />
-        <mark key="." line="48" column="44" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/layout_fusion_plugin.xml" timestamp="1591947855598">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="33" column="39" />
-        <mark key="." line="33" column="38" />
-        <mark key="^" line="33" column="39" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" timestamp="1591947572617">
-        <mark key="[" line="16" column="49" />
-        <mark key="]" line="16" column="49" />
-        <mark key="." line="16" column="49" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasController.kt" timestamp="1592062660709">
+        <mark key="[" line="65" column="101" />
+        <mark key="]" line="65" column="119" />
+        <mark key="^" line="65" column="119" />
+        <mark key="." line="65" column="118" />
       </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/components/NodeCard/index.vue" timestamp="1592059006585">
         <mark key="[" line="38" column="10" />
         <mark key="]" line="38" column="10" />
         <mark key="^" line="40" column="8" />
         <mark key="." line="38" column="10" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/VersaCopy/baselib/src/main/java/com/huyn/baseframework/utils/VersaExecutor.java" timestamp="1591954873623">
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="39" column="15" />
+        <mark key="." line="39" column="14" />
+        <mark key="^" line="39" column="15" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnTitleViewHolder.kt" timestamp="1591953799976">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerColumnAdapter.kt" timestamp="1591953784766">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="39" />
+        <mark key="^" line="22" column="39" />
+        <mark key="." line="22" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/EditSaasReq.java" timestamp="1592062648073">
+        <mark key="'" line="53" column="29" />
+        <mark key="[" line="51" column="5" />
+        <mark key="]" line="53" column="31" />
+        <mark key="^" line="53" column="31" />
+        <mark key="." line="53" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" timestamp="1592061470074">
+        <mark key="[" line="278" column="14" />
+        <mark key="]" line="279" column="18" />
+        <mark key="." line="279" column="17" />
+        <mark key="^" line="279" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasRepository.java" timestamp="1592062624489">
+        <mark key="[" line="36" column="87" />
+        <mark key="]" line="36" column="102" />
+        <mark key="^" line="36" column="102" />
+        <mark key="." line="36" column="101" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/listener/OnDeleteClickedListener.kt" timestamp="1591953786567">
         <mark key="[" line="3" column="25" />
@@ -151,11 +169,11 @@
         <mark key="^" line="24" column="30" />
         <mark key="." line="24" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/VersaCopy/baselib/src/main/java/com/huyn/baseframework/utils/VersaExecutor.java" timestamp="1591954873623">
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="39" column="15" />
-        <mark key="." line="39" column="14" />
-        <mark key="^" line="39" column="15" />
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaaSDTO.kt" timestamp="1592061486485">
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="28" column="37" />
+        <mark key="^" line="28" column="37" />
+        <mark key="." line="28" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/VersaCopy/app/src/main/java/com/versa/report/OOMReporter.java" timestamp="1591954870813">
         <mark key="[" line="205" column="0" />
@@ -163,34 +181,16 @@
         <mark key="^" line="204" column="44" />
         <mark key="." line="205" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnTitleViewHolder.kt" timestamp="1591953799976">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/code/vue-admin-template/src/store/modules/saas.js" timestamp="1592061125022" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerColumnAdapter.kt" timestamp="1591953784766">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="39" />
-        <mark key="^" line="22" column="39" />
-        <mark key="." line="22" column="38" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_column_title.xml" timestamp="1591953606749">
         <mark key="[" line="26" column="44" />
         <mark key="]" line="27" column="40" />
         <mark key="." line="27" column="39" />
         <mark key="^" line="27" column="40" />
       </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/saas/index.vue" timestamp="1592061219789">
-        <mark key="[" line="69" column="15" />
-        <mark key="]" line="69" column="17" />
-        <mark key="." line="69" column="16" />
-        <mark key="^" line="69" column="17" />
-      </file>
+      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/node/bean/NodeMaintenance.java" timestamp="1592063238051" />
     </filemarks>
     <jumps>
-      <jump line="194" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/GalleryGLSurfaceView.kt" />
-      <jump line="193" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/GalleryGLSurfaceView.kt" />
       <jump line="122" column="28" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
       <jump line="98" column="67" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/WelcomeActivity.java" />
       <jump line="120" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/WelcomeActivity.java" />
@@ -289,6 +289,8 @@
       <jump line="84" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/widget/RenderOverlayFrameLayout.java" />
       <jump line="222" column="24" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/BgSelectView.java" />
       <jump line="978" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
+      <jump line="13" column="25" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/EditSaasReq.java" />
+      <jump line="55" column="29" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/EditSaasReq.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,7 +303,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>username</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -311,13 +313,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>username</text>
       </register>
       <register name="/" type="4">
         <text>rvsearch</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAgIDxlbC10YWJsZS1jb2x1bW4KICAgICAgICBsYWJlbD0i55So5oi35ZCNIgogICAgICAgIHByb3A9InVzZXJuYW1lIgogICAgICAgIHdpZHRoPSIxMDAiPgogICAgICAgIDx0ZW1wbGF0ZSBzbG90LXNjb3BlPSJzY29wZSI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJ0YWJsZS10ZXh0Ij57eyBzY29wZS5yb3cudXNlcm5hbWUgfX08L2Rpdj4KICAgICAgICA8L3RlbXBsYXRlPgogICAgICA8L2VsLXRhYmxlLWNvbHVtbj4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICAgICAgPGVsLWZvcm0taXRlbSBsYWJlbD0i55So5oi35ZCNIj4KICAgICAgICAgIDxlbC1pbnB1dCB2LW1vZGVsPSJlZGl0U2Fhc0Zvcm0udXNlcm5hbWUiLz4KICAgICAgICA8L2VsLWZvcm0taXRlbT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
