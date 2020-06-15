@@ -79,20 +79,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasRepository.java" timestamp="1592072847815">
-        <mark key="[" line="27" column="87" />
-        <mark key="]" line="27" column="102" />
-        <mark key="^" line="27" column="102" />
-        <mark key="." line="27" column="101" />
-      </file>
       <file name="/Dummy.txt" timestamp="1592203194046">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/HomeSearchActivity.kt" timestamp="1592193294867">
-        <mark key="[" line="37" column="17" />
-        <mark key="]" line="38" column="53" />
-        <mark key="^" line="38" column="53" />
-        <mark key="." line="38" column="52" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/HotWordModel.kt" timestamp="1592205190688">
+        <mark key="[" line="50" column="30" />
+        <mark key="]" line="50" column="35" />
+        <mark key="^" line="50" column="35" />
+        <mark key="." line="50" column="34" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/LayoutInflater.java" timestamp="1592206144549" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/HomeSearchActivity.kt" timestamp="1592208030420">
+        <mark key="[" line="54" column="16" />
+        <mark key="]" line="54" column="51" />
+        <mark key="." line="54" column="50" />
+        <mark key="^" line="54" column="51" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/search/HomeSearchFragment.kt" timestamp="1592192506045">
         <mark key="[" line="9" column="12" />
@@ -124,10 +125,10 @@
         <mark key="^" line="332" column="47" />
         <mark key="." line="332" column="46" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/fragment_search_keyword.xml" timestamp="1592204303764">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/fragment_search_keyword.xml" timestamp="1592205655562">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/fragment_home_search.xml" timestamp="1592192486794">
         <mark key="[" line="10" column="31" />
@@ -147,11 +148,17 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/search/SearchKeywordFragment.kt" timestamp="1592204679373">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="35" column="8" />
-        <mark key="^" line="35" column="8" />
-        <mark key="." line="35" column="7" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/baselib/src/main/java/com/huyn/baseframework/utils/SharedPrefUtil.java" timestamp="1592205071636">
+        <mark key="[" line="132" column="56" />
+        <mark key="]" line="132" column="57" />
+        <mark key="." line="132" column="56" />
+        <mark key="^" line="132" column="57" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/search/SearchKeywordFragment.kt" timestamp="1592209039180">
+        <mark key="[" line="69" column="31" />
+        <mark key="]" line="69" column="53" />
+        <mark key="." line="69" column="52" />
+        <mark key="^" line="69" column="53" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/AndroidManifest.xml" timestamp="1592192089062">
         <mark key="'" line="2" column="4" />
@@ -160,15 +167,11 @@
         <mark key="." line="647" column="12" />
         <mark key="^" line="647" column="12" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment-ktx/1.2.5/1ffa885329ceba2ceb2bea1253d2ca32a0c95fa7/fragment-ktx-1.2.5-sources.jar!/androidx/fragment/app/FragmentViewModelLazy.kt" timestamp="1592191106651">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment-ktx/1.2.5/1ffa885329ceba2ceb2bea1253d2ca32a0c95fa7/fragment-ktx-1.2.5-sources.jar!/androidx/fragment/app/FragmentViewModelLazy.kt" timestamp="1592207871216">
         <mark key="[" line="78" column="71" />
         <mark key="]" line="78" column="71" />
         <mark key="^" line="78" column="71" />
         <mark key="." line="78" column="70" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/dashboard/index.vue" timestamp="1592073295381">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="145" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_tag_layout.xml" timestamp="1592202941160">
         <mark key="[" line="1" column="0" />
@@ -288,8 +291,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>keywordList</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -299,40 +302,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>marginle</text>
+        <text>keywordList</text>
       </register>
       <register name="/" type="4">
         <text>rvsearch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGluY2x1ZGUKICAgICAgICAgICAgICAgIGxheW91dD0iQGxheW91dC92aWV3X3RhZ19sYXlvdXQiIC8+CgogICAgICAgICAgICA8aW5jbHVkZQogICAgICAgICAgICAgICAgbGF5b3V0PSJAbGF5b3V0L3ZpZXdfdGFnX2xheW91dCIgLz4KCiAgICAgICAgICAgIDxpbmNsdWRlCiAgICAgICAgICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvdmlld190YWdfbGF5b3V0IiAvPgoKICAgICAgICAgICAgPGluY2x1ZGUKICAgICAgICAgICAgICAgIGxheW91dD0iQGxheW91dC92aWV3X3RhZ19sYXlvdXQiIC8+CgogICAgICAgICAgICA8aW5jbHVkZQogICAgICAgICAgICAgICAgbGF5b3V0PSJAbGF5b3V0L3ZpZXdfdGFnX2xheW91dCIgLz4KCiAgICAgICAgICAgIDxpbmNsdWRlCiAgICAgICAgICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvdmlld190YWdfbGF5b3V0IiAvPgoKICAgICAgICAgICAgPGluY2x1ZGUKICAgICAgICAgICAgICAgIGxheW91dD0iQGxheW91dC92aWV3X3RhZ19sYXlvdXQiIC8+CiAgICAgICAgICAgIDxpbmNsdWRlCiAgICAgICAgICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvdmlld190YWdfbGF5b3V0IiAvPgogICAgICAgICAgICA8aW5jbHVkZQogICAgICAgICAgICAgICAgbGF5b3V0PSJAbGF5b3V0L3ZpZXdfdGFnX2xheW91dCIgLz4KICAgICAgICAgICAgPGluY2x1ZGUKICAgICAgICAgICAgICAgIGxheW91dD0iQGxheW91dC92aWV3X3RhZ19sYXlvdXQiIC8+CiAgICAgICAgICAgIDxpbmNsdWRlCiAgICAgICAgICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvdmlld190YWdfbGF5b3V0IiAvPgogICAgICAgICAgICA8aW5jbHVkZQogICAgICAgICAgICAgICAgbGF5b3V0PSJAbGF5b3V0L3ZpZXdfdGFnX2xheW91dCIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRleHRWaWV3OiBUZXh0VmlldyA9IExheW91dEluZmxhdGVyLmZyb20oY29udGV4dCkuaW5mbGF0ZShSLmxheW91dC52aWV3X3RhZ19sYXlvdXQsCiAgICAgICAgICAgICAgICAgICAgZmJsSG90LCBmYWxzZSkgYXMgVGV4dFZpZXcKICAgICAgICAgICAgdGV4dFZpZXcudGV4dCA9IGl0CiAgICAgICAgICAgIGZibEhvdC5hZGRWaWV3KHRleHRWaWV3KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tICAgICAgICA8YW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5SZWN5Y2xlclZpZXctLT4KICAgICAgICA8IS0tICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9ydkxhdGVzdCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiIC8+LS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGluY2x1ZGUKICAgICAgICAgICAgICAgIGxheW91dD0iQGxheW91dC92aWV3X3RhZ19sYXlvdXQiIC8+CgogICAgICAgICAgICA8aW5jbHVkZQogICAgICAgICAgICAgICAgbGF5b3V0PSJAbGF5b3V0L3ZpZXdfdGFnX2xheW91dCIgLz4KCiAgICAgICAgICAgIDxpbmNsdWRlCiAgICAgICAgICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvdmlld190YWdfbGF5b3V0IiAvPgoKICAgICAgICAgICAgPGluY2x1ZGUKICAgICAgICAgICAgICAgIGxheW91dD0iQGxheW91dC92aWV3X3RhZ19sYXlvdXQiIC8+CgogICAgICAgICAgICA8aW5jbHVkZQogICAgICAgICAgICAgICAgbGF5b3V0PSJAbGF5b3V0L3ZpZXdfdGFnX2xheW91dCIgLz4KCiAgICAgICAgICAgIDxpbmNsdWRlCiAgICAgICAgICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvdmlld190YWdfbGF5b3V0IiAvPgoKICAgICAgICAgICAgPGluY2x1ZGUKICAgICAgICAgICAgICAgIGxheW91dD0iQGxheW91dC92aWV3X3RhZ19sYXlvdXQiIC8+CiAgICAgICAgICAgIDxpbmNsdWRlCiAgICAgICAgICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvdmlld190YWdfbGF5b3V0IiAvPgogICAgICAgICAgICA8aW5jbHVkZQogICAgICAgICAgICAgICAgbGF5b3V0PSJAbGF5b3V0L3ZpZXdfdGFnX2xheW91dCIgLz4KICAgICAgICAgICAgPGluY2x1ZGUKICAgICAgICAgICAgICAgIGxheW91dD0iQGxheW91dC92aWV3X3RhZ19sYXlvdXQiIC8+CiAgICAgICAgICAgIDxpbmNsdWRlCiAgICAgICAgICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvdmlld190YWdfbGF5b3V0IiAvPgogICAgICAgICAgICA8aW5jbHVkZQogICAgICAgICAgICAgICAgbGF5b3V0PSJAbGF5b3V0L3ZpZXdfdGFnX2xheW91dCIgLz4KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrZXl3b3JkTGlzdC5hZGQobmV3S2V5d29yZCkKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAvLyB1cGRhdGUgc2hhcmVkIHByZWZlcmVuY2UKICAgICAgICAgICAgICAgICAgICBTaGFyZWRQcmVmVXRpbC5nZXRJbnN0YW5jZShjb250ZXh0KS5zZXREYXRhTGlzdChLRVlfV09SRF9UQUcsIGtleXdvcmRMaXN0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGluY2x1ZGUKICAgICAgICAgICAgICAgIGxheW91dD0iQGxheW91dC92aWV3X3RhZ19sYXlvdXQiIC8+CgogICAgICAgICAgICA8aW5jbHVkZQogICAgICAgICAgICAgICAgbGF5b3V0PSJAbGF5b3V0L3ZpZXdfdGFnX2xheW91dCIgLz4KCiAgICAgICAgICAgIDxpbmNsdWRlCiAgICAgICAgICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvdmlld190YWdfbGF5b3V0IiAvPgoKICAgICAgICAgICAgPGluY2x1ZGUKICAgICAgICAgICAgICAgIGxheW91dD0iQGxheW91dC92aWV3X3RhZ19sYXlvdXQiIC8+CgogICAgICAgICAgICA8aW5jbHVkZQogICAgICAgICAgICAgICAgbGF5b3V0PSJAbGF5b3V0L3ZpZXdfdGFnX2xheW91dCIgLz4KCiAgICAgICAgICAgIDxpbmNsdWRlCiAgICAgICAgICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvdmlld190YWdfbGF5b3V0IiAvPgoKICAgICAgICAgICAgPGluY2x1ZGUKICAgICAgICAgICAgICAgIGxheW91dD0iQGxheW91dC92aWV3X3RhZ19sYXlvdXQiIC8+CiAgICAgICAgICAgIDxpbmNsdWRlCiAgICAgICAgICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvdmlld190YWdfbGF5b3V0IiAvPgogICAgICAgICAgICA8aW5jbHVkZQogICAgICAgICAgICAgICAgbGF5b3V0PSJAbGF5b3V0L3ZpZXdfdGFnX2xheW91dCIgLz4KICAgICAgICAgICAgPGluY2x1ZGUKICAgICAgICAgICAgICAgIGxheW91dD0iQGxheW91dC92aWV3X3RhZ19sYXlvdXQiIC8+CiAgICAgICAgICAgIDxpbmNsdWRlCiAgICAgICAgICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvdmlld190YWdfbGF5b3V0IiAvPgogICAgICAgICAgICA8aW5jbHVkZQogICAgICAgICAgICAgICAgbGF5b3V0PSJAbGF5b3V0L3ZpZXdfdGFnX2xheW91dCIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjIwZHAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8YW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5SZWN5Y2xlclZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9ydkhvdCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzb2xpZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdXBkYXRlIGxvY2FsIHNlYXJjaCBrZXl3b3JkCiAgICAgICAgICAgIGlmIChsb2NhbFNlYXJjaEtleVdvcmRMaXN0ISEuc2l6ZSA9PSBLRVlXT1JEX1NJWkUpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvY2FsU2VhcmNoS2V5V29yZExpc3QgPT0gbnVsbCkgcmV0dXJuQE9ic2VydmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>source $MYVIMRC</text>
