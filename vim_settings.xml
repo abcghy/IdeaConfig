@@ -79,84 +79,77 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasController.kt" timestamp="1592062660709">
-        <mark key="[" line="64" column="101" />
-        <mark key="]" line="64" column="119" />
-        <mark key="^" line="64" column="119" />
-        <mark key="." line="64" column="118" />
-      </file>
-      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/common/index.vue" timestamp="1592106227481">
-        <mark key="[" line="164" column="17" />
-        <mark key="]" line="164" column="24" />
-        <mark key="^" line="164" column="24" />
-        <mark key="." line="164" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/backend/.gitignore" timestamp="1592072618353">
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="31" column="18" />
-        <mark key="^" line="31" column="18" />
-        <mark key="." line="31" column="17" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/home/tabs/fragment/NewTabCommunityFragment.java" timestamp="1592191679048">
-        <mark key="[" line="193" column="51" />
-        <mark key="]" line="193" column="54" />
-        <mark key="^" line="193" column="54" />
-        <mark key="." line="193" column="53" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/home/tabs/SearchUserFragment.java" timestamp="1592191504713" />
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/EditSaasReq.java" timestamp="1592062648073">
-        <mark key="'" line="53" column="29" />
-        <mark key="[" line="51" column="5" />
-        <mark key="]" line="53" column="31" />
-        <mark key="^" line="53" column="31" />
-        <mark key="." line="53" column="30" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/VersaHomeActivity.java" timestamp="1592191377116" />
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasRepository.java" timestamp="1592072847815">
         <mark key="[" line="27" column="87" />
         <mark key="]" line="27" column="102" />
         <mark key="^" line="27" column="102" />
         <mark key="." line="27" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592190092304">
+      <file name="/Dummy.txt" timestamp="1592192391007">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/HomeSearchActivity.kt" timestamp="1592191573122">
-        <mark key="[" line="14" column="69" />
-        <mark key="]" line="15" column="32" />
-        <mark key="^" line="15" column="32" />
-        <mark key="." line="15" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpNormalView.kt" timestamp="1592192922295" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/HomeSearchActivity.kt" timestamp="1592193294867">
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="38" column="53" />
+        <mark key="^" line="38" column="53" />
+        <mark key="." line="38" column="52" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_home_search.xml" timestamp="1592189961509">
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="50" column="36" />
-        <mark key="." line="50" column="35" />
-        <mark key="^" line="50" column="36" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/search/HomeSearchFragment.kt" timestamp="1592192506045">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-ktx/2.2.0/3bc5992b0bb49e2d7ce92d34c45e54e1795cc03b/lifecycle-viewmodel-ktx-2.2.0-sources.jar!/androidx/lifecycle/ViewModelProvider.kt" timestamp="1592191174961" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_home_search.xml" timestamp="1592192991042">
+        <mark key="[" line="42" column="49" />
+        <mark key="]" line="43" column="40" />
+        <mark key="." line="43" column="39" />
+        <mark key="^" line="43" column="40" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1592192944871" />
+      <file name="$USER_HOME$/code/vue-admin-template/src/views/transfer/common/index.vue" timestamp="1592106227481">
+        <mark key="[" line="164" column="17" />
+        <mark key="]" line="164" column="24" />
+        <mark key="^" line="164" column="24" />
+        <mark key="." line="164" column="23" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/build.gradle" timestamp="1592190486926">
         <mark key="[" line="329" column="49" />
         <mark key="]" line="330" column="57" />
         <mark key="^" line="330" column="57" />
         <mark key="." line="330" column="56" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/fragment_search_keyword.xml" timestamp="1592190149632">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="11" column="30" />
-        <mark key="^" line="11" column="30" />
-        <mark key="." line="11" column="29" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/fragment_search_keyword.xml" timestamp="1592193699551">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="10" column="43" />
+        <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaaSDTO.kt" timestamp="1592061486485">
-        <mark key="[" line="27" column="45" />
-        <mark key="]" line="28" column="37" />
-        <mark key="^" line="28" column="37" />
-        <mark key="." line="28" column="36" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/fragment_home_search.xml" timestamp="1592192486794">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="11" column="38" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/home/tabs/fragment/NewTabCommunityFragment.java" timestamp="1592191996382">
+        <mark key="[" line="193" column="51" />
+        <mark key="]" line="193" column="54" />
+        <mark key="^" line="193" column="54" />
+        <mark key="." line="193" column="53" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/search/SearchKeywordFragment.kt" timestamp="1592190949826">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="50" />
         <mark key="^" line="13" column="50" />
         <mark key="." line="13" column="49" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/AndroidManifest.xml" timestamp="1592192089062">
+        <mark key="'" line="2" column="4" />
+        <mark key="[" line="647" column="12" />
+        <mark key="]" line="647" column="48" />
+        <mark key="." line="647" column="12" />
+        <mark key="^" line="647" column="12" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment-ktx/1.2.5/1ffa885329ceba2ceb2bea1253d2ca32a0c95fa7/fragment-ktx-1.2.5-sources.jar!/androidx/fragment/app/FragmentViewModelLazy.kt" timestamp="1592191106651">
         <mark key="[" line="78" column="71" />
@@ -168,10 +161,8 @@
         <mark key="[" line="141" column="0" />
         <mark key="]" line="145" column="8" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/fragment_new_tab_community.xml" timestamp="1592191489876" />
     </filemarks>
     <jumps>
-      <jump line="122" column="28" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
       <jump line="98" column="67" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/WelcomeActivity.java" />
       <jump line="120" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/WelcomeActivity.java" />
       <jump line="78" column="64" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/core/EffectRender.java" />
@@ -271,6 +262,7 @@
       <jump line="978" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
       <jump line="13" column="25" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/EditSaasReq.java" />
       <jump line="55" column="29" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/EditSaasReq.java" />
+      <jump line="2" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/AndroidManifest.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -282,8 +274,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">OiBIb21lU2VhcmNoQWN0aXZpdHkg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -293,44 +285,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiBIb21lU2VhcmNoQWN0aXZpdHkg</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text>rvsearch</text>
       </register>
-      <register name="0" type="4">
-        <text>this.$notify({
-          title: '提示',
-          message: '目前没有该功能',
-          type: 'warning'
-        })</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxhbmRyb2lkeC5yZWN5Y2xlcnZpZXcud2lkZ2V0LlJlY3ljbGVyVmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcnZMYXRlc3QiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIgLz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLSAgICA8VGV4dFZpZXctLT4KPCEtLSAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCItLT4KPCEtLSAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6dGV4dD0iVEVYVCItLT4KPCEtLSAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9ibGFjayItLT4KPCEtLSAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iNTBzcCIvPi0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIj4KCiAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IuacgOi/keaQnOe0oiIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IiM2NjAwMDAwMCIvPgoKICAgICAgICA8U3BhY2UKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjBkcCIgLz4KCiAgICAgICAgPEltYWdlVmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19zZWNvbmRfb3BfZGVsZXRlIiAvPgoKICAgIDwvTGluZWFyTGF5b3V0PgoKICAgIDxhbmRyb2lkeC5yZWN5Y2xlcnZpZXcud2lkZ2V0LlJlY3ljbGVyVmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcnZMYXRlc3QiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgLz4KCjwhLS0gICAgPFRleHRWaWV3LS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgo8IS0tICAgICAgICBhbmRyb2lkOnRleHQ9IuacgOi/keaQnOe0oiItLT4KPCEtLSAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IiM2NjAwMDAwMCIvPi0tPgoKPCEtLSAgICA8YW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5SZWN5Y2xlclZpZXctLT4KPCEtLSAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9ydkhvdCItLT4KPCEtLSAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KPCEtLSAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiIC8+LS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29tLnZlcnNhLnZpZXcuQ2xlYXJFZGl0VGV4dAogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjMwZHAiIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRub3RpZnkoewogICAgICAgICAgdGl0bGU6ICfmj5DnpLonLAogICAgICAgICAgbWVzc2FnZTogJ+ebruWJjeayoeacieivpeWKn+iDvScsCiAgICAgICAgICB0eXBlOiAnd2FybmluZycKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRydWUK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source $MYVIMRC</text>
