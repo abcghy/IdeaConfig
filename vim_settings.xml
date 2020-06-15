@@ -87,12 +87,6 @@
         <mark key="." line="39" column="14" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerColumnAdapter.kt" timestamp="1591953784766">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="39" />
-        <mark key="^" line="22" column="39" />
-        <mark key="." line="22" column="38" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/VersaCopy/app/src/main/java/com/versa/ui/imageedit/share/ShareActivity.java" timestamp="1591959630575" />
       <file name="$USER_HOME$/AndroidStudioProjects/VersaCopy/app/src/main/java/com/versa/report/OOMReporter.java" timestamp="1591954870813">
         <mark key="[" line="205" column="0" />
@@ -115,6 +109,7 @@
         <mark key="^" line="24" column="30" />
         <mark key="." line="24" column="29" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/fragment_template_search.xml" timestamp="1591960488237" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_column_fav.xml" timestamp="1591956012907">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -140,20 +135,14 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/filter/FilterColumnAdapter.kt" timestamp="1591953771481">
-        <mark key="[" line="24" column="61" />
-        <mark key="]" line="25" column="39" />
-        <mark key="^" line="25" column="39" />
-        <mark key="." line="25" column="38" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1591953762956">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="48" column="61" />
-        <mark key="]" line="49" column="39" />
-        <mark key="^" line="49" column="39" />
-        <mark key="." line="49" column="38" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/concurrent/Executors.java" timestamp="1591954889131" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateActivity.kt" timestamp="1591960513660" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/HomeSearchActivity.kt" timestamp="1592188654364">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="39" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/home/tabs/adapter/TabViewHolder.java" timestamp="1591955642900" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_column_title.xml" timestamp="1591956149579">
         <mark key="[" line="4" column="28" />
