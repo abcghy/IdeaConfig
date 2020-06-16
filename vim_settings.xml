@@ -79,11 +79,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/search/HomeSearchFragment.kt" timestamp="1592277664694">
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="10" />
-        <mark key="." line="29" column="9" />
-        <mark key="^" line="29" column="10" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/search/HomeSearchFragment.kt" timestamp="1592289901831">
+        <mark key="[" line="43" column="34" />
+        <mark key="]" line="43" column="39" />
+        <mark key="." line="43" column="38" />
+        <mark key="^" line="43" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/home/tabs/adapter/FirstBannerHolder.java" timestamp="1592277173197">
         <mark key="[" line="81" column="0" />
@@ -113,7 +113,7 @@
         <mark key="^" line="38" column="54" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.5/8c4af5c3dd89946395f419fca724e155926b1882/fragment-1.2.5-sources.jar!/androidx/fragment/app/FragmentManager.java" timestamp="1592214258002" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/search/HomeSearchIndiFragment.kt" timestamp="1592280134038">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/search/HomeSearchIndiFragment.kt" timestamp="1592288304423">
         <mark key="[" line="102" column="17" />
         <mark key="]" line="103" column="48" />
         <mark key="." line="103" column="47" />
@@ -128,11 +128,11 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/service/BaseService.java" timestamp="1592218334778" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/24a0b0e63af9530bcedd06ed1983a4f2f02155a3/glide-3.7.0-sources.jar!/com/bumptech/glide/GenericRequestBuilder.java" timestamp="1592279488139" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/fragment_home_search.xml" timestamp="1592215283196">
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="40" column="27" />
-        <mark key="." line="40" column="26" />
-        <mark key="^" line="40" column="27" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/fragment_home_search.xml" timestamp="1592289683015">
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="32" />
+        <mark key="." line="24" column="32" />
+        <mark key="^" line="29" column="40" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/fragment_home_search_indi.xml" timestamp="1592216668566">
         <mark key="[" line="16" column="0" />
@@ -263,7 +263,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>LinearLayout</text>
+        <text>textView</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -273,40 +273,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>LinearLayout</text>
+        <text>textView</text>
       </register>
       <register name="/" type="4">
         <text>rvsearch</text>
       </register>
-      <register name="0" type="4">
-        <text>Request failed with code: 400</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICAgICAgPGluY2x1ZGUKICAgICAgICAgICAgbGF5b3V0PSJAbGF5b3V0L3ZpZXdfdGFnX2xheW91dCIgLz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExvZy5lKCJURVNUVFRGRkYiLCAiZml2VGh1bWI6ICRmaXZUaHVtYiIpCi8vICAgICAgICBMb2cuZSgiVEVTVFRURkZGIiwgInBvczogJGFkYXB0ZXJQb3NpdGlvbiIpCi8vICAgICAgICBJbWFnZUxvYWRlci5nZXRJbnN0YW5jZShpdGVtVmlldy5jb250ZXh0KQovLyAgICAgICAgICAgICAgICAuZmlsbEltYWdlKGZpdlRodW1iLCBPc3NJbWFnZVV0aWwuZ2V0Q2VudGVyQ3JvcFVybCh0ZW1wbGF0ZS50aHVtYm5haWxVcmwsIGFjdHVhbFdpZHRoLCBhY3R1YWxIZWlnaHQpKQovLyAgICAgICAgdmFsIGRyYXdlZUNvbnRyb2xsZXI6IERyYXdlZUNvbnRyb2xsZXIgPSBGcmVzY28ubmV3RHJhd2VlQ29udHJvbGxlckJ1aWxkZXIoKQovLyAgICAgICAgICAgICAgICAuc2V0VXJpKE9zc0ltYWdlVXRpbC5nZXRDZW50ZXJDcm9wVXJsKHRlbXBsYXRlLnRodW1ibmFpbFVybCwgYWN0dWFsV2lkdGgsIGFjdHVhbEhlaWdodCkpCi8vLy8gICAgICAgICAgICAgICAgLnNldEF1dG9QbGF5QW5pbWF0aW9ucyh0cnVlKSAvLyDorr7nva7liqDovb3lm77niYflrozmiJDlkI7mmK/lkKbnm7TmjqXov5vooYzmkq3mlL4KLy8gICAgICAgICAgICAgICAgLmJ1aWxkKCkKCi8vICAgICAgICB2YWwgYnVpbGRlcjogR2VuZXJpY0RyYXdlZUhpZXJhcmNoeSA9IEdlbmVyaWNEcmF3ZWVIaWVyYXJjaHlCdWlsZGVyKGl0ZW1WaWV3LmNvbnRleHQucmVzb3VyY2VzKQovLy8vICAgICAgICAgICAgICAgIC5zZXRQbGFjZWhvbGRlckltYWdlKGNvbG9yRHJhd2FibGUpCi8vICAgICAgICAgICAgICAgIC5idWlsZCgpCi8vICAgICAgICBmaXZUaHVtYi5zZXRJbWFnZVVSSShPc3NJbWFnZVV0aWwuZ2V0Q2VudGVyQ3JvcFVybCh0ZW1wbGF0ZS50aHVtYm5haWxVcmwsIGFjdHVhbFdpZHRoLCBhY3R1YWxIZWlnaHQpKQovLyAgICAgICAgZml2VGh1bWIuc2V0SGllcmFyY2h5KGJ1aWxkZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29tYm9LaWxsZXIuYmluZENsaWNrTGlzdGVuZXIodmlldykgewogICAgICAgICAgICAgICAgdnAuc2V0Q3VycmVudEl0ZW0odGhlSW5kZXgsIHRydWUpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25SZXNvdXJjZVJlYWR5KHJlc291cmNlOiBCaXRtYXA/LCBnbGlkZUFuaW1hdGlvbjogR2xpZGVBbmltYXRpb248aW4gQml0bWFwPj8pIHsKICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIlRFU1RUVEZGRiIsICJyZXNvdXJjZTogJHJlc291cmNlIikKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlc291cmNlICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpdlRodW1iLnNldEltYWdlQml0bWFwKHJlc291cmNlKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbnRvKG9iamVjdCA6IFNpbXBsZVRhcmdldDxCaXRtYXA+KCkgewo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZmJsU2VhcmNoVGFnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hc0JpdG1hcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmxpc3RlbmVyKG9iamVjdCA6IFJlcXVlc3RMaXN0ZW5lcjxTdHJpbmcsIEJpdG1hcD4gewovLyAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uRXhjZXB0aW9uKGU6IEV4Y2VwdGlvbj8sIG1vZGVsOiBTdHJpbmc/LCB0YXJnZXQ6IFRhcmdldDxCaXRtYXA+PywgaXNGaXJzdFJlc291cmNlOiBCb29sZWFuKTogQm9vbGVhbiB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIlRFU1RUVEZGRiIsICJvbkV4Y2VwdGlvbjoiLCBlKQovLyAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCi8vICAgICAgICAgICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25SZXNvdXJjZVJlYWR5KHJlc291cmNlOiBCaXRtYXA/LCBtb2RlbDogU3RyaW5nPywgdGFyZ2V0OiBUYXJnZXQ8Qml0bWFwPj8sIGlzRnJvbU1lbW9yeUNhY2hlOiBCb29sZWFuLCBpc0ZpcnN0UmVzb3VyY2U6IEJvb2xlYW4pOiBCb29sZWFuIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEVTVFRURkZGIiwgIm9uUmVzb3VyY2VSZWFkeTogcmVzb3VyY2UiKQovLyAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCi8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcGFnZXJBZGFwdGVyID0gSG9tZVNlYXJjaFBhZ2VyQWRhcHRlcihyZXF1aXJlQWN0aXZpdHkoKSkKICAgICAgICB2cC5hZGFwdGVyID0gcGFnZXJBZGFwdGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGZibFNlYXJjaFRhZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbnRvKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>source $MYVIMRC</text>
