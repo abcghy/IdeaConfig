@@ -113,11 +113,11 @@
         <mark key="^" line="38" column="54" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.5/8c4af5c3dd89946395f419fca724e155926b1882/fragment-1.2.5-sources.jar!/androidx/fragment/app/FragmentManager.java" timestamp="1592214258002" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/search/HomeSearchIndiFragment.kt" timestamp="1592280015776">
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="29" column="40" />
-        <mark key="." line="29" column="39" />
-        <mark key="^" line="29" column="40" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/search/HomeSearchIndiFragment.kt" timestamp="1592280134038">
+        <mark key="[" line="102" column="17" />
+        <mark key="]" line="103" column="48" />
+        <mark key="." line="103" column="47" />
+        <mark key="^" line="103" column="48" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar!/androidx/viewpager2/widget/ViewPager2.java" timestamp="1592215057178" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/build.gradle" timestamp="1592215031777">
