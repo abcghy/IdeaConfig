@@ -108,11 +108,11 @@
         <mark key="^" line="45" column="57" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.5/8c4af5c3dd89946395f419fca724e155926b1882/fragment-1.2.5-sources.jar!/androidx/fragment/app/FragmentManager.java" timestamp="1592214258002" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/search/HomeSearchIndiFragment.kt" timestamp="1592220511808">
-        <mark key="[" line="36" column="102" />
-        <mark key="]" line="37" column="30" />
-        <mark key="." line="37" column="29" />
-        <mark key="^" line="37" column="30" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/search/HomeSearchIndiFragment.kt" timestamp="1592275967392">
+        <mark key="[" line="42" column="33" />
+        <mark key="]" line="43" column="50" />
+        <mark key="^" line="43" column="50" />
+        <mark key="." line="43" column="49" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_home_search.xml" timestamp="1592212134980">
         <mark key="[" line="47" column="29" />
@@ -275,7 +275,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvZm9udF9yZWQi</text>
+        <text>OssImageUtil.getCenterCropUrl(template.thumbnailUrl, actualWidth, actualHeight)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -285,13 +285,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>actualWidth * ratio</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>rvsearch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxGcmFtZUxheW91dAogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iMjBkcCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5SaWdodD0iMjBkcCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209IjE1ZHAiPgoKICAgICAgICAgICAgICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90dktleVdvcmQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IueyiSDnm7jlhbPog4zmma8iCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjEyc3AiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSIjNjYwMDAwMDAiLz4KCjwhLS0gICAgICAgICAgICAgICAgICAgIHRvZG86IGdoeSBpMThuLS0+CiAgICAgICAgICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IuWbvueJh+S7heS+m+S4quS6uumdnuWVhuS4mueUqOmAlOS9v+eUqCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IiM2NjAwMDAwMCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTJzcCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0icmlnaHQiLz4KCiAgICAgICAgICAgICAgICA8L0ZyYW1lTGF5b3V0Pgo=</text>
+      <register name="0" type="4">
+        <text>OssImageUtil.getCenterCropUrl(template.thumbnailUrl, actualWidth, actualHeight)</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvZm9udF9yZWQi</text>
