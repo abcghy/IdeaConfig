@@ -108,11 +108,11 @@
         <mark key="^" line="70" column="88" />
         <mark key="." line="70" column="87" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1592393654993">
-        <mark key="[" line="70" column="67" />
-        <mark key="]" line="70" column="67" />
-        <mark key="." line="70" column="66" />
-        <mark key="^" line="70" column="67" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1592453015747">
+        <mark key="[" line="74" column="67" />
+        <mark key="]" line="74" column="122" />
+        <mark key="." line="74" column="121" />
+        <mark key="^" line="74" column="122" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" timestamp="1592389813597">
         <mark key="[" line="1426" column="53" />
@@ -126,7 +126,7 @@
         <mark key="^" line="11" column="30" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" timestamp="1592449564196">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" timestamp="1592452615208">
         <mark key="[" line="480" column="13" />
         <mark key="]" line="486" column="13" />
         <mark key="." line="486" column="12" />
@@ -138,6 +138,7 @@
         <mark key="." line="60" column="42" />
         <mark key="^" line="60" column="43" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnTitleViewHolder.kt" timestamp="1592452689734" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1592389786884">
         <mark key="[" line="705" column="0" />
         <mark key="]" line="714" column="13" />
@@ -275,8 +276,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -286,7 +287,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>favSize</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PCsrPg==</text>
@@ -295,22 +296,22 @@
         <text encoding="base64">ID09IGdldE5vbmVGYXZDb3VudCgp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBmYXZTaXplID0gMAogICAgICAgICAgICAgICAgaWYgKHBvc2l0aW9uID09IDApIHsKICAgICAgICAgICAgICAgICAgICBmYXZTaXplID0gY29sdW1uSXRlbXMuZmlsdGVySXNJbnN0YW5jZShDb2x1bW5GYXY6OmNsYXNzLmphdmEpLmZpcnN0T3JOdWxsKCk/LmZhdkl0ZW1zPy5zaXplID86IDAKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sdW1uRmF2LmFkZChTZWxlY3RXcmFwcGVyKEVtcHR5SGludCgpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sdW1uRmF2LmluZGV4T2ZGaXJzdCB7IAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sdW1uRmF2LmFkZChTZWxlY3RXcmFwcGVyKEVtcHR5SGludCgpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sdW1uRmF2LmluZGV4T2ZGaXJzdCB7IAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0Lml0ZW0gaXMgRW1wdHlIaW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0Lml0ZW0gaXMgRW1wdHlIaW50Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
