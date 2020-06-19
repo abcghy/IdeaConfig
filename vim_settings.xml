@@ -10,6 +10,7 @@
         <entry>mOperationView</entry>
         <entry>rvsearch</entry>
         <entry encoding="base64">PCsrPg==</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>154</entry>
@@ -79,15 +80,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" timestamp="1592552166695" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/internal/cache/CacheInterceptor.java" timestamp="1592551124526" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/Cache.java" timestamp="1592551351595" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/RealCall.java" timestamp="1592551777561" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_filter.xml" timestamp="1592548732069">
-        <mark key="[" line="35" column="44" />
-        <mark key="]" line="36" column="46" />
-        <mark key="." line="36" column="45" />
-        <mark key="^" line="36" column="46" />
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592553501809" />
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/res/layout/view_bottom_sheet.xml" timestamp="1592553509312">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/res/layout/holder_item.xml" timestamp="1592553531989">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/RetrofitDemo/app/src/main/AndroidManifest.xml" timestamp="1592550793553">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="8" column="67" />
+        <mark key="^" line="8" column="67" />
+        <mark key="." line="8" column="66" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RetrofitDemo/app/src/main/java/com/example/retrofitdemo/MainActivity.kt" timestamp="1592550797031">
         <mark key="[" line="21" column="36" />
@@ -107,35 +116,13 @@
         <mark key="." line="60" column="42" />
         <mark key="^" line="60" column="43" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/CustomInterceptor.java" timestamp="1592551413964" />
-      <file name="$USER_HOME$/AndroidStudioProjects/RetrofitDemo/app/src/main/res/xml/network_security_config.xml" timestamp="1592550736939" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpNormalView.kt" timestamp="1592552414767" />
-      <file name="$USER_HOME$/AndroidStudioProjects/RetrofitDemo/app/src/main/AndroidManifest.xml" timestamp="1592550793553">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="8" column="67" />
-        <mark key="^" line="8" column="67" />
-        <mark key="." line="8" column="66" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpNormalView.kt" timestamp="1592552857682" />
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/RVAdapter.java" timestamp="1592553853048">
+        <mark key="[" line="30" column="46" />
+        <mark key="]" line="30" column="59" />
+        <mark key="." line="30" column="58" />
+        <mark key="^" line="30" column="59" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/AndroidManifest.xml" timestamp="1592550748117" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_sticker.xml" timestamp="1592549043013">
-        <mark key="[" line="39" column="39" />
-        <mark key="]" line="40" column="40" />
-        <mark key="^" line="40" column="40" />
-        <mark key="." line="40" column="39" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/service/BaseService.java" timestamp="1592551558140" />
-      <file name="$USER_HOME$/AndroidStudioProjects/RetrofitDemo/app/build.gradle" timestamp="1592550531984">
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="28" column="5" />
-        <mark key="." line="28" column="4" />
-        <mark key="^" line="28" column="5" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/RetrofitInstance.java" timestamp="1592550807763" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/xml/network_security_config.xml" timestamp="1592550710476" />
-      <file name="/Dummy.txt" timestamp="1592550727309">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/cache/XResourceCacheInterceptor.java" timestamp="1592551066421" />
     </filemarks>
     <jumps>
       <jump line="53" column="15" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendMenuFetcher.kt" />
@@ -250,7 +237,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>[position]</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -260,40 +247,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>[position]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PCsrPg==</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJURVNUVFQiLCAieGl4aSIsIHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IHsKCiAgICB9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB0dlRpdGxlPy50ZXh0ID0gaXRlbS50ZW1wbGF0ZU5hbWUKLy8gICAgICAgICAgICB0dlRpdGxlPy50ZXh0ID0gaXRlbS5uYW1lCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0dlRpdGxlPy50ZXh0ID0gaXRlbS50ZW1wbGF0ZU5hbWUKLy8gICAgICAgICAgICB0dlRpdGxlPy50ZXh0ID0gaXRlbS5uYW1lCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBHbGlkZS53aXRoKG5vcm1hbENoaWxkVmlldy5jb250ZXh0KQovLyAgICAgICAgICAgICAgICAgICAgLmxvYWQoT3NzSW1hZ2VVdGlsLmdldENlbnRlckNyb3BVcmwoaXRlbS5wcmV2aWV3VXJsLCBpbWFnZVNpemUsIGltYWdlU2l6ZSkpCi8vICAgICAgICAgICAgICAgICAgICAuaW50byhpdlRodW1iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHR2VGl0bGU/LnNldENvbXBvdW5kRHJhd2FibGVzV2l0aEludHJpbnNpY0JvdW5kcygKLy8gICAgICAgICAgICAgICAgaWYgKGlzRmF2KSBSLmRyYXdhYmxlLmljX3NlY29uZF9vcF9mYXYgZWxzZSAwLCAwLCAwLCAwKQovLyAgICAgICAgdHZUaXRsZT8udXBkYXRlTGF5b3V0UGFyYW1zPFZpZXdHcm91cC5NYXJnaW5MYXlvdXRQYXJhbXM+IHsKLy8gICAgICAgICAgICBsZWZ0TWFyZ2luID0gaWYgKGlzRmF2KSBVdGlscy5kaXAycHgoNSkgZWxzZSAwCi8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBHbGlkZS53aXRoKG5vcm1hbENoaWxkVmlldy5jb250ZXh0KQovLyAgICAgICAgICAgICAgICAgICAgLmxvYWQoT3NzSW1hZ2VVdGlsLmdldENlbnRlckNyb3BVcmwoaXRlbS5wcmV2aWV3VXJsLCBpbWFnZVNpemUsIGltYWdlU2l6ZSkpCi8vICAgICAgICAgICAgICAgICAgICAuaW50byhpdlRodW1iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
@@ -302,12 +289,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">PCsrPg==</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PCsrPg==</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>R</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
