@@ -80,7 +80,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592555038117" />
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592556158924">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="147" column="35" />
+        <mark key="^" line="147" column="35" />
+        <mark key="." line="147" column="34" />
+      </file>
       <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/res/layout/view_bottom_sheet.xml" timestamp="1592553509312">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="28" />
@@ -116,12 +121,16 @@
         <mark key="." line="60" column="42" />
         <mark key="^" line="60" column="43" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" timestamp="1592556016578" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpNormalView.kt" timestamp="1592552857682" />
       <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/RVAdapter.java" timestamp="1592554462724">
         <mark key="[" line="30" column="46" />
         <mark key="]" line="30" column="59" />
         <mark key="." line="30" column="58" />
         <mark key="^" line="30" column="59" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1592556063121">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
