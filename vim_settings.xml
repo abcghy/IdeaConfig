@@ -113,7 +113,7 @@
         <mark key="^" line="165" column="70" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_search_prepare.xml" timestamp="1592469523461" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/cache/XCache.java" timestamp="1592479662364">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/cache/XCache.java" timestamp="1592534134893">
         <mark key="'" line="371" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/RetrofitInstance.java" timestamp="1592477041569" />
@@ -126,7 +126,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpView.kt" timestamp="1592469487896" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/internal/http/HttpHeaders.java" timestamp="1592474442538" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/cache/XResourceCacheInterceptor.java" timestamp="1592477379444" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/cache/XResourceIdInterceptor.java" timestamp="1592479658436">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/cache/XResourceIdInterceptor.java" timestamp="1592534264921">
         <mark key="[" line="94" column="51" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/config/thread/ConfigProxy.java" timestamp="1592472097239" />
