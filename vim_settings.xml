@@ -9,8 +9,8 @@
       <history-search>
         <entry>mOperationView</entry>
         <entry>rvsearch</entry>
-        <entry encoding="base64">PCsrPg==</entry>
         <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">PCsrPg==</entry>
       </history-search>
       <history-cmd>
         <entry>154</entry>
@@ -80,7 +80,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592558182661">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1592559656646" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/layout_fusion_plugin.xml" timestamp="1592559910867" />
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592561412207">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="147" column="35" />
         <mark key="^" line="147" column="35" />
@@ -97,39 +99,29 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/RetrofitDemo/app/src/main/AndroidManifest.xml" timestamp="1592550793553">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="8" column="67" />
-        <mark key="^" line="8" column="67" />
-        <mark key="." line="8" column="66" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_recommend_second_op_top.xml" timestamp="1592559761503">
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="37" />
+        <mark key="." line="26" column="36" />
+        <mark key="^" line="26" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/RetrofitDemo/app/src/main/java/com/example/retrofitdemo/MainActivity.kt" timestamp="1592550797031">
-        <mark key="[" line="21" column="36" />
-        <mark key="]" line="21" column="41" />
-        <mark key="." line="21" column="40" />
-        <mark key="^" line="21" column="41" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.1/ae10d2e1965b944830c2c2aaf154765ceb32e0bc/core-1.0.1-sources.jar!/androidx/core/view/NestedScrollingParent2.java" timestamp="1592561457993" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/VelocityTracker.java" timestamp="1592561536756" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/widget/OverScroller.java" timestamp="1592561335576" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/fusion/FusionChangeBgHelper.java" timestamp="1592560447929">
+        <mark key="[" line="121" column="4" />
+        <mark key="]" line="121" column="4" />
+        <mark key="." line="121" column="3" />
+        <mark key="^" line="121" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" timestamp="1592550949297">
-        <mark key="[" line="402" column="0" />
-        <mark key="]" line="402" column="0" />
-        <mark key="^" line="407" column="71" />
-        <mark key="." line="402" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgRowFavAdapter.kt" timestamp="1592552154545">
-        <mark key="[" line="60" column="41" />
-        <mark key="]" line="60" column="43" />
-        <mark key="." line="60" column="42" />
-        <mark key="^" line="60" column="43" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" timestamp="1592558467202">
-        <mark key="[" line="231" column="0" />
-        <mark key="]" line="231" column="0" />
-        <mark key="." line="231" column="0" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/widget/ImageRenderView.java" timestamp="1592559358611" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" timestamp="1592558751666" />
       <file name="/fragment.kt" timestamp="1592557375065">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpNormalView.kt" timestamp="1592552857682" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/com/android/systemui/qs/touch/OverScroll.java" timestamp="1592560634198" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.1/ae10d2e1965b944830c2c2aaf154765ceb32e0bc/core-1.0.1-sources.jar!/androidx/core/view/NestedScrollingParent.java" timestamp="1592561569293" />
       <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/RVAdapter.java" timestamp="1592554462724">
         <mark key="[" line="30" column="46" />
         <mark key="]" line="30" column="59" />
@@ -137,6 +129,9 @@
         <mark key="^" line="30" column="59" />
       </file>
       <file name="/Clipboard.txt" timestamp="1592557066169">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1592560079881">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -252,8 +247,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -263,16 +258,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dy</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx9XD4=</text>
+        <text encoding="base64">PCsrPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZSgiVEVTVFRUVEZGRiIsICJvbk5lc3RlZFByZVNjcm9sbDogIiArIGR5KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -305,12 +303,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-search encoding="base64">PCsrPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-pattern encoding="base64">PCsrPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>R</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
