@@ -80,7 +80,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592556158924">
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592558182661">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="147" column="35" />
         <mark key="^" line="147" column="35" />
@@ -121,7 +121,14 @@
         <mark key="." line="60" column="42" />
         <mark key="^" line="60" column="43" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" timestamp="1592556016578" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" timestamp="1592558467202">
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="0" />
+        <mark key="." line="231" column="0" />
+      </file>
+      <file name="/fragment.kt" timestamp="1592557375065">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpNormalView.kt" timestamp="1592552857682" />
       <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/RVAdapter.java" timestamp="1592554462724">
         <mark key="[" line="30" column="46" />
@@ -129,7 +136,7 @@
         <mark key="." line="30" column="58" />
         <mark key="^" line="30" column="59" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1592556063121">
+      <file name="/Clipboard.txt" timestamp="1592557066169">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -245,8 +252,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>[position]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -256,40 +263,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[position]</text>
+        <text>dy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJURVNUVFQiLCAieGl4aSIsIHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEVTVFRUVEZGRiIsICJvbk5lc3RlZFByZVNjcm9sbDogIiArIGR5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IHsKCiAgICB9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB0dlRpdGxlPy50ZXh0ID0gaXRlbS50ZW1wbGF0ZU5hbWUKLy8gICAgICAgICAgICB0dlRpdGxlPy50ZXh0ID0gaXRlbS5uYW1lCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0dlRpdGxlPy50ZXh0ID0gaXRlbS50ZW1wbGF0ZU5hbWUKLy8gICAgICAgICAgICB0dlRpdGxlPy50ZXh0ID0gaXRlbS5uYW1lCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBHbGlkZS53aXRoKG5vcm1hbENoaWxkVmlldy5jb250ZXh0KQovLyAgICAgICAgICAgICAgICAgICAgLmxvYWQoT3NzSW1hZ2VVdGlsLmdldENlbnRlckNyb3BVcmwoaXRlbS5wcmV2aWV3VXJsLCBpbWFnZVNpemUsIGltYWdlU2l6ZSkpCi8vICAgICAgICAgICAgICAgICAgICAuaW50byhpdlRodW1iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
