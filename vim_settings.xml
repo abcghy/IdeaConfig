@@ -79,69 +79,65 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnViewHolder.kt" timestamp="1592535318932" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_fav.xml" timestamp="1592536442046" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/config/part/base/BaseConfig.java" timestamp="1592472242135" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/internal/cache/CacheInterceptor.java" timestamp="1592536042272" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/baselib/src/main/java/com/huyn/baseframework/utils/SharedPrefUtil.java" timestamp="1592477550500" />
-      <file name="/Clipboard.txt" timestamp="1592476161396">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" timestamp="1592552166695" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/internal/cache/CacheInterceptor.java" timestamp="1592551124526" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/Cache.java" timestamp="1592551351595" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/RealCall.java" timestamp="1592551777561" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_filter.xml" timestamp="1592548732069">
+        <mark key="[" line="35" column="44" />
+        <mark key="]" line="36" column="46" />
+        <mark key="." line="36" column="45" />
+        <mark key="^" line="36" column="46" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/RetrofitDemo/app/src/main/java/com/example/retrofitdemo/MainActivity.kt" timestamp="1592550797031">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="41" />
+        <mark key="." line="21" column="40" />
+        <mark key="^" line="21" column="41" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" timestamp="1592550949297">
+        <mark key="[" line="402" column="0" />
+        <mark key="]" line="402" column="0" />
+        <mark key="^" line="407" column="71" />
+        <mark key="." line="402" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgRowFavAdapter.kt" timestamp="1592552154545">
+        <mark key="[" line="60" column="41" />
+        <mark key="]" line="60" column="43" />
+        <mark key="." line="60" column="42" />
+        <mark key="^" line="60" column="43" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/CustomInterceptor.java" timestamp="1592551413964" />
+      <file name="$USER_HOME$/AndroidStudioProjects/RetrofitDemo/app/src/main/res/xml/network_security_config.xml" timestamp="1592550736939" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpNormalView.kt" timestamp="1592552414767" />
+      <file name="$USER_HOME$/AndroidStudioProjects/RetrofitDemo/app/src/main/AndroidManifest.xml" timestamp="1592550793553">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="8" column="67" />
+        <mark key="^" line="8" column="67" />
+        <mark key="." line="8" column="66" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/AndroidManifest.xml" timestamp="1592550748117" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_sticker.xml" timestamp="1592549043013">
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="40" column="40" />
+        <mark key="^" line="40" column="40" />
+        <mark key="." line="40" column="39" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/service/BaseService.java" timestamp="1592551558140" />
+      <file name="$USER_HOME$/AndroidStudioProjects/RetrofitDemo/app/build.gradle" timestamp="1592550531984">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="4" />
+        <mark key="^" line="28" column="5" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/RetrofitInstance.java" timestamp="1592550807763" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/xml/network_security_config.xml" timestamp="1592550710476" />
+      <file name="/Dummy.txt" timestamp="1592550727309">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/Cache.java" timestamp="1592474638221" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/internal/cache/CacheStrategy.java" timestamp="1592473704758" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1592535293667">
-        <mark key="[" line="70" column="16" />
-        <mark key="]" line="71" column="86" />
-        <mark key="." line="105" column="51" />
-        <mark key="^" line="105" column="52" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_filter.xml" timestamp="1592538548682">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="43" column="4" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/cache/XCache.java" timestamp="1592534134893">
-        <mark key="'" line="371" column="39" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/RetrofitInstance.java" timestamp="1592477041569" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" timestamp="1592539281130">
-        <mark key="]" line="191" column="83" />
-        <mark key="^" line="191" column="83" />
-        <mark key="." line="191" column="82" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_change_bg_transparent.xml" timestamp="1592539119061">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="26" column="16" />
-        <mark key="." line="26" column="15" />
-        <mark key="^" line="26" column="16" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/internal/http/HttpHeaders.java" timestamp="1592474442538" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/cache/XResourceCacheInterceptor.java" timestamp="1592477379444" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_recommend.xml" timestamp="1592538427694">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="49" column="45" />
-        <mark key="^" line="45" column="41" />
-        <mark key="." line="45" column="40" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/cache/XResourceIdInterceptor.java" timestamp="1592534264921">
-        <mark key="[" line="94" column="51" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_change_bg.xml" timestamp="1592539069425">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="45" column="49" />
-        <mark key="." line="45" column="45" />
-        <mark key="^" line="45" column="46" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" timestamp="1592535278187">
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="^" line="190" column="8" />
-        <mark key="." line="191" column="0" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/cache/XResourceCacheInterceptor.java" timestamp="1592551066421" />
     </filemarks>
     <jumps>
-      <jump line="128" column="21" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/base/activity/BaseActivity.java" />
       <jump line="53" column="15" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendMenuFetcher.kt" />
       <jump line="12" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendMenuFetcher.kt" />
       <jump line="9" column="49" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" />
@@ -241,6 +237,7 @@
       <jump line="170" column="42" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" />
       <jump line="365" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
       <jump line="371" column="39" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/cache/XCache.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_recommend.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -253,7 +250,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>RelativeLayout</text>
+        <text>String</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -263,40 +260,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>RelativeLayout</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PCsrPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC92aWV3U2VsZWN0ZWQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjRkcCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9mb250X3JlZCIKICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJib3R0b20iCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJURVNUVFQiLCAieGl4aSIsIHQpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IjVkcCIK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHR2VGl0bGU/LnNldENvbXBvdW5kRHJhd2FibGVzV2l0aEludHJpbnNpY0JvdW5kcygKLy8gICAgICAgICAgICAgICAgaWYgKGlzU2VsZWN0ZWQpIFIuZHJhd2FibGUuZG90X21lbnVfaXRlbV9zZWxlY3RlZCBlbHNlIDAsIDAsIDAsIDApCi8vICAgICAgICB0dlRpdGxlPy5jb21wb3VuZERyYXdhYmxlUGFkZGluZyA9IGlmIChpc1NlbGVjdGVkKSBVdGlscy5kaXAycHgoNCkgZWxzZSAwCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IHsKCiAgICB9</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0dlRpdGxlPy50ZXh0ID0gaXRlbS50ZW1wbGF0ZU5hbWUKLy8gICAgICAgICAgICB0dlRpdGxlPy50ZXh0ID0gaXRlbS5uYW1lCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySW5QYXJlbnQ9InRydWUiCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBHbGlkZS53aXRoKG5vcm1hbENoaWxkVmlldy5jb250ZXh0KQovLyAgICAgICAgICAgICAgICAgICAgLmxvYWQoT3NzSW1hZ2VVdGlsLmdldENlbnRlckNyb3BVcmwoaXRlbS5wcmV2aWV3VXJsLCBpbWFnZVNpemUsIGltYWdlU2l6ZSkpCi8vICAgICAgICAgICAgICAgICAgICAuaW50byhpdlRodW1iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHR2VGl0bGU/LnNldENvbXBvdW5kRHJhd2FibGVzV2l0aEludHJpbnNpY0JvdW5kcygKLy8gICAgICAgICAgICAgICAgaWYgKGlzRmF2KSBSLmRyYXdhYmxlLmljX3NlY29uZF9vcF9mYXYgZWxzZSAwLCAwLCAwLCAwKQovLyAgICAgICAgdHZUaXRsZT8udXBkYXRlTGF5b3V0UGFyYW1zPFZpZXdHcm91cC5NYXJnaW5MYXlvdXRQYXJhbXM+IHsKLy8gICAgICAgICAgICBsZWZ0TWFyZ2luID0gaWYgKGlzRmF2KSBVdGlscy5kaXAycHgoNSkgZWxzZSAwCi8vICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
