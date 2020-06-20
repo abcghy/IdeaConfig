@@ -84,14 +84,16 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1592559656646" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/SnapHelper.java" timestamp="1592563130768" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/layout_fusion_plugin.xml" timestamp="1592559910867" />
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592563049513">
-        <mark key="'" line="61" column="54" />
-        <mark key="[" line="59" column="56" />
-        <mark key="]" line="61" column="55" />
-        <mark key="^" line="61" column="55" />
-        <mark key="." line="61" column="54" />
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592565182908">
+        <mark key="'" line="61" column="36" />
+        <mark key="[" line="163" column="51" />
+        <mark key="]" line="165" column="19" />
+        <mark key="^" line="165" column="19" />
+        <mark key="." line="165" column="18" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/OverScroller.java" timestamp="1592563581820" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/OverScroller.java" timestamp="1592564154648">
+        <mark key="'" line="756" column="24" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_recommend_second_op_top.xml" timestamp="1592559761503">
         <mark key="[" line="26" column="9" />
         <mark key="]" line="26" column="37" />
@@ -124,7 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendMenuFetcher.kt" />
       <jump line="9" column="49" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" />
       <jump line="174" column="33" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
       <jump line="171" column="48" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
@@ -223,7 +224,8 @@
       <jump line="365" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
       <jump line="371" column="39" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/cache/XCache.java" />
       <jump line="26" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_recommend.xml" />
-      <jump line="61" column="54" filename="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" />
+      <jump line="756" column="24" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/OverScroller.java" />
+      <jump line="61" column="36" filename="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -235,8 +237,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -261,25 +263,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIFNuYXBIZWxwZXIgc25hcEhlbHBlciA9IG5ldyBQYWdlclNuYXBIZWxwZXIoKTsKICAgICAgICBTbmFwSGVscGVyIHNuYXBIZWxwZXIgPSBuZXcgTGluZWFyU25hcEhlbHBlcigpOwogICAgICAgIHNuYXBIZWxwZXIuYXR0YWNoVG9SZWN5Y2xlclZpZXcocnYpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHsKCiAgICB9</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB0dlRpdGxlPy50ZXh0ID0gaXRlbS50ZW1wbGF0ZU5hbWUKLy8gICAgICAgICAgICB0dlRpdGxlPy50ZXh0ID0gaXRlbS5uYW1lCgo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IHsKCiAgICB9</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
