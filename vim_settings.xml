@@ -84,29 +84,31 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/baselib/src/main/java/com/huyn/baseframework/utils/SysUtil.java" timestamp="1592812534262">
         <mark key="'" line="107" column="10" />
       </file>
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592812248605">
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592814803105">
         <mark key="'" line="196" column="0" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="97" column="5" />
         <mark key="^" line="32" column="82" />
         <mark key="." line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/OverScroller.java" timestamp="1592798559196">
-        <mark key="'" line="756" column="24" />
-        <mark key="[" line="650" column="0" />
-        <mark key="]" line="650" column="90" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/animation/ValueAnimator.java" timestamp="1592815451649" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1592816292091" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/filter/FilterSecondOpNormalView.kt" timestamp="1592816220413">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOpView.java" timestamp="1592808409748" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1592812506398" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.1/ae10d2e1965b944830c2c2aaf154765ceb32e0bc/core-1.0.1-sources.jar!/androidx/core/view/NestedScrollingParentHelper.java" timestamp="1592809008521">
-        <mark key="'" line="90" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" timestamp="1592815928940">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomLayout.kt" timestamp="1592814542030">
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomLayout.kt" timestamp="1592815889371">
         <mark key="'" line="42" column="21" />
-        <mark key="[" line="61" column="23" />
-        <mark key="]" line="62" column="39" />
-        <mark key="." line="62" column="38" />
-        <mark key="^" line="62" column="39" />
+        <mark key="[" line="57" column="56" />
+        <mark key="]" line="59" column="43" />
+        <mark key="." line="59" column="42" />
+        <mark key="^" line="59" column="43" />
       </file>
       <file name="$USER_HOME$/code/BottomSheetViewDemo/app/build.gradle" timestamp="1592812132393">
         <mark key="[" line="2" column="39" />
@@ -114,21 +116,28 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="/RecommendOpView.java" timestamp="1592808314902" />
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1592814610656">
-        <mark key="[" line="34" column="15" />
-        <mark key="]" line="35" column="37" />
-        <mark key="^" line="35" column="37" />
-        <mark key="." line="35" column="36" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerSecondOpView.kt" timestamp="1592816232094">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.60/d1717ea2b34537140fe051ef0e2e8cbd91c650b8/kotlin-stdlib-common-1.2.60-sources.jar!/generated/_Collections.kt" timestamp="1592807856775" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendMenuFetcher.kt" timestamp="1592807826646" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" timestamp="1592812514958">
-        <mark key="'" line="14" column="0" />
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1592814883701">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpView.kt" timestamp="1592816206084">
         <mark key="[" line="21" column="0" />
-        <mark key="]" line="25" column="63" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.1/ae10d2e1965b944830c2c2aaf154765ceb32e0bc/core-1.0.1-sources.jar!/androidx/core/view/NestedScrollingParent.java" timestamp="1592796764746" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/view/HomeScrollView.java" timestamp="1592816500560" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" timestamp="1592816193065">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/build.gradle" timestamp="1592811999993">
         <mark key="'" line="0" column="0" />
       </file>
@@ -138,12 +147,18 @@
         <mark key="]" line="58" column="14" />
         <mark key="." line="58" column="14" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_second_op_demo.xml" timestamp="1592816306191">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="47" />
+        <mark key="." line="22" column="46" />
+        <mark key="^" line="22" column="47" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/TemplateModel.kt" timestamp="1592810740130" />
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/MainActivity.java" timestamp="1592814675155">
-        <mark key="[" line="42" column="11" />
-        <mark key="]" line="46" column="43" />
-        <mark key="^" line="46" column="43" />
-        <mark key="." line="46" column="42" />
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/MainActivity.java" timestamp="1592815241653">
+        <mark key="[" line="35" column="51" />
+        <mark key="]" line="36" column="30" />
+        <mark key="." line="36" column="29" />
+        <mark key="^" line="36" column="30" />
       </file>
       <file name="/fragment.java" timestamp="1592812553734">
         <mark key="[" line="0" column="0" />
@@ -262,7 +277,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>TextView</text>
+        <text>android:layout_weight=&quot;2&quot;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -272,44 +287,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TextView</text>
+        <text>android:layout_weight=&quot;2&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PCsrPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlQW5pbWF0b3Iuc2V0RmxvYXRWYWx1ZXModHJhbnNsYXRpb25ZLCAwLjY1ZiAqIHNjcmVlbkhlaWdodCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uQW5pbWF0aW9uRW5kKGFuaW1hdGlvbjogQW5pbWF0b3I/KSB7CiAgICAgICAgICAgICAgICBzdXBlci5vbkFuaW1hdGlvbkVuZChhbmltYXRpb24pCgogICAgICAgICAgICAgICAgbVN0YXRlID0gYW5pbWF0ZVRvU3RhdGUKICAgICAgICAgICAgICAgIHNlY29uZEJvdHRvbUxpc3RlbmVyPy5vblN0YXRlQ2hhbmdlZChtU3RhdGUpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRMaXN0ZW5lciB7IAogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuaW1hdGVUb1N0YXRlID0gc2Vjb25kQm90dG9tU3RhdGUK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYzogSW50LCBoZWlnaHRNZWFzdXJlU3BlYzogSW50KSB7CiAgICAgICAgdmFsIHNjcmVlbkhlaWdodCA9IFN5c1V0aWwuZ2V0U2NyZWVuSGVpZ2h0KGNvbnRleHQpCiAgICAgICAgdmFsIHNlbGVjdFBob3RvSGVpZ2h0ID0gKHNjcmVlbkhlaWdodCAqIDAuNTVmKS50b0ludCgpCgogICAgICAgIHZhbCBtYXhIZWlnaHRNZWFzdXJlU3BlYyA9IE1lYXN1cmVTcGVjLm1ha2VNZWFzdXJlU3BlYyhzZWxlY3RQaG90b0hlaWdodCwgTWVhc3VyZVNwZWMuRVhBQ1RMWSkKICAgICAgICBzdXBlci5vbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYywgbWF4SGVpZ2h0TWVhc3VyZVNwZWMpCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuaW1hdGVUb1N0YXRlID0gc2Vjb25kQm90dG9tU3RhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlQW5pbWF0b3Iuc2V0RmxvYXRWYWx1ZXModHJhbnNsYXRpb25ZLCAwLjY1ZiAqIHNjcmVlbkhlaWdodCkKICAgICAgICAgICAgICAgIHZhbHVlQW5pbWF0b3Iuc3RhcnQoKQo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYzogSW50LCBoZWlnaHRNZWFzdXJlU3BlYzogSW50KSB7CiAgICAgICAgdmFsIHNjcmVlbkhlaWdodCA9IFN5c1V0aWwuZ2V0U2NyZWVuSGVpZ2h0KGNvbnRleHQpCiAgICAgICAgdmFsIHNlbGVjdFBob3RvSGVpZ2h0ID0gKHNjcmVlbkhlaWdodCAqIDAuNTVmKS50b0ludCgpCgogICAgICAgIHZhbCBtYXhIZWlnaHRNZWFzdXJlU3BlYyA9IE1lYXN1cmVTcGVjLm1ha2VNZWFzdXJlU3BlYyhzZWxlY3RQaG90b0hlaWdodCwgTWVhc3VyZVNwZWMuRVhBQ1RMWSkKICAgICAgICBzdXBlci5vbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYywgbWF4SGVpZ2h0TWVhc3VyZVNwZWMpCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlQW5pbWF0b3Iuc2V0RmxvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>atValues(translationY, 0.2f * screenHeight)
-                valueAnimator.start()</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYzogSW50LCBoZWlnaHRNZWFzdXJlU3BlYzogSW50KSB7CiAgICAgICAgdmFsIHNjcmVlbkhlaWdodCA9IFN5c1V0aWwuZ2V0U2NyZWVuSGVpZ2h0KGNvbnRleHQpCiAgICAgICAgdmFsIHNlbGVjdFBob3RvSGVpZ2h0ID0gKHNjcmVlbkhlaWdodCAqIDAuNTVmKS50b0ludCgpCgogICAgICAgIHZhbCBtYXhIZWlnaHRNZWFzdXJlU3BlYyA9IE1lYXN1cmVTcGVjLm1ha2VNZWFzdXJlU3BlYyhzZWxlY3RQaG90b0hlaWdodCwgTWVhc3VyZVNwZWMuRVhBQ1RMWSkKICAgICAgICBzdXBlci5vbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYywgbWF4SGVpZ2h0TWVhc3VyZVNwZWMpCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlQW5pbWF0b3Iuc2V0RmxvYXRWYWx1ZXModHJhbnNsYXRpb25ZLCAwZikKICAgICAgICAgICAgICAgIHZhbHVlQW5pbWF0b3Iuc3RhcnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuICh0cmFuc2xhdGlvblkpIHsKICAgICAgICAgICAgaW4gMGYuLigwLjFmICogc2NyZWVuSGVpZ2h0KSAtPiB7CiAgICAgICAgICAgICAgICAvLyBGVUxMIOaooeW8jwogICAgICAgICAgICAgICAgdmFsdWVBbmltYXRvci5zZXRGbG9hdFZhbHVlcyh0cmFuc2xhdGlvblksIDBmKQogICAgICAgICAgICAgICAgdmFsdWVBbmltYXRvci5zdGFydCgpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaW4gKDAuMWYgKiBzY3JlZW5IZWlnaHQpLi4oMC40MjVmICogc2NyZWVuSGVpZ2h0KSAtPiB7CiAgICAgICAgICAgICAgICAvLyDljYrmqKHlvI8KICAgICAgICAgICAgICAgIHZhbHVlQW5pbWF0b3Iuc2V0RmxvYXRWYWx1ZXModHJhbnNsYXRpb25ZLCAwLjJmICogc2NyZWVuSGVpZ2h0KQogICAgICAgICAgICAgICAgdmFsdWVBbmltYXRvci5zdGFydCgpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaW4gKDAuNDI1ZiAqIHNjcmVlbkhlaWdodCkuLigwLjY1ZiAqIHNjcmVlbkhlaWdodCkgLT4gewogICAgICAgICAgICAgICAgLy8gY2xvc2UKICAgICAgICAgICAgICAgIHZhbHVlQW5pbWF0b3Iuc2V0RmxvYXRWYWx1ZXModHJhbnNsYXRpb25ZLCAwLjY1ZiAqIHNjcmVlbkhlaWdodCkKICAgICAgICAgICAgICAgIHZhbHVlQW5pbWF0b3Iuc3RhcnQoKQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYzogSW50LCBoZWlnaHRNZWFzdXJlU3BlYzogSW50KSB7CiAgICAgICAgdmFsIHNjcmVlbkhlaWdodCA9IFN5c1V0aWwuZ2V0U2NyZWVuSGVpZ2h0KGNvbnRleHQpCiAgICAgICAgdmFsIHNlbGVjdFBob3RvSGVpZ2h0ID0gKHNjcmVlbkhlaWdodCAqIDAuNTVmKS50b0ludCgpCgogICAgICAgIHZhbCBtYXhIZWlnaHRNZWFzdXJlU3BlYyA9IE1lYXN1cmVTcGVjLm1ha2VNZWFzdXJlU3BlYyhzZWxlY3RQaG90b0hlaWdodCwgTWVhc3VyZVNwZWMuRVhBQ1RMWSkKICAgICAgICBzdXBlci5vbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYywgbWF4SGVpZ2h0TWVhc3VyZVNwZWMpCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxjb20udmVyc2EudWkuaW1hZ2VlZGl0LnNlY29uZG9wLnZpZXcucmVjb21tZW5kLlJlY29tbWVuZFNlY29uZE9wVmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcnNvdiIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMiIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjBkcCIgLz4KPCEtLSAgICA8Y29tLnZlcnNhLnVpLmltYWdlZWRpdC5zZWNvbmRvcC52aWV3LnN0aWNrZXIuU3RpY2tlclNlY29uZE9wVmlldy0tPgo8IS0tICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Jzb3YiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IiAvPi0tPgoKPCEtLSAgICA8Y29tLnZlcnNhLnVpLmltYWdlZWRpdC5zZWNvbmRvcC52aWV3LmZpbHRlci5GaWx0ZXJTZWNvbmRPcE5vcm1hbFZpZXctLT4KPCEtLSAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yc292Ii0tPgo8IS0tICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgo8IS0tICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIgLz4tLT4KCjwhLS0gICAgPGNvbS52ZXJzYS51aS5pbWFnZWVkaXQuc2Vjb25kb3Audmlldy5iZy5DaGFuZ2VCZ1NlY29uZE9wVmlldy0tPgo8IS0tICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Jzb3YiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IiAvPi0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
