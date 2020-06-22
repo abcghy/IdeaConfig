@@ -84,6 +84,22 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/baselib/src/main/java/com/huyn/baseframework/utils/SysUtil.java" timestamp="1592812534262">
         <mark key="'" line="107" column="10" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerSecondOpView.kt" timestamp="1592816232094">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1592814883701">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" timestamp="1592816193065">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592814803105">
         <mark key="'" line="196" column="0" />
         <mark key="[" line="89" column="0" />
@@ -91,8 +107,6 @@
         <mark key="^" line="32" column="82" />
         <mark key="." line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/animation/ValueAnimator.java" timestamp="1592815451649" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1592816292091" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/filter/FilterSecondOpNormalView.kt" timestamp="1592816220413">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -104,41 +118,6 @@
         <mark key="." line="173" column="4" />
         <mark key="^" line="173" column="5" />
       </file>
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomLayout.kt" timestamp="1592818340548">
-        <mark key="'" line="25" column="63" />
-        <mark key="[" line="150" column="31" />
-        <mark key="]" line="150" column="32" />
-        <mark key="." line="150" column="31" />
-        <mark key="^" line="150" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/build.gradle" timestamp="1592812132393">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="40" />
-        <mark key="." line="2" column="39" />
-        <mark key="^" line="2" column="40" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerSecondOpView.kt" timestamp="1592816232094">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1592814883701">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpView.kt" timestamp="1592816206084">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/view/HomeScrollView.java" timestamp="1592816863462" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" timestamp="1592816193065">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/build.gradle" timestamp="1592811999993">
         <mark key="'" line="0" column="0" />
       </file>
@@ -148,18 +127,35 @@
         <mark key="]" line="58" column="14" />
         <mark key="." line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1592816769862" />
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomLayout.kt" timestamp="1592818615250">
+        <mark key="'" line="25" column="63" />
+        <mark key="[" line="151" column="31" />
+        <mark key="]" line="151" column="32" />
+        <mark key="." line="151" column="31" />
+        <mark key="^" line="151" column="32" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_second_op_demo.xml" timestamp="1592816306191">
         <mark key="[" line="22" column="12" />
         <mark key="]" line="22" column="47" />
         <mark key="." line="22" column="46" />
         <mark key="^" line="22" column="47" />
       </file>
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/build.gradle" timestamp="1592812132393">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="40" />
+        <mark key="." line="2" column="39" />
+        <mark key="^" line="2" column="40" />
+      </file>
       <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/MainActivity.java" timestamp="1592815241653">
         <mark key="[" line="35" column="51" />
         <mark key="]" line="36" column="30" />
         <mark key="." line="36" column="29" />
         <mark key="^" line="36" column="30" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpView.kt" timestamp="1592816206084">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1592812553734">
         <mark key="[" line="0" column="0" />
@@ -277,8 +273,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.toInt()</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -288,7 +284,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(it.animatedValue as Float)</text>
+        <text>.toInt()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PCsrPg==</text>
@@ -339,7 +335,7 @@
       <last-replace>~</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
