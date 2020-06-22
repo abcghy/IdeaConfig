@@ -81,94 +81,88 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/baselib/src/main/java/com/huyn/baseframework/utils/SysUtil.java" timestamp="1592812534262">
-        <mark key="'" line="107" column="10" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerSecondOpView.kt" timestamp="1592816232094">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1592814883701">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1592820745832">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="51" column="39" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="18" column="46" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" timestamp="1592824307969">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="59" column="26" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_recommend_second_op_top.xml" timestamp="1592822327148" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/jkeypanel/src/main/java/cn/dreamtobe/kpswitch/IPanelHeightTarget.java" timestamp="1592824655315" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" timestamp="1592821662518" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpView.kt" timestamp="1592816206084">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/listener/OnKeyboardUpListener.kt" timestamp="1592823942149">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/view/HomeScrollView.java" timestamp="1592821645077" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" timestamp="1592816193065">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592814803105">
-        <mark key="'" line="196" column="0" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="97" column="5" />
-        <mark key="^" line="32" column="82" />
-        <mark key="." line="179" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpNormalView.kt" timestamp="1592824031085">
+        <mark key="'" line="51" column="87" />
+        <mark key="[" line="56" column="49" />
+        <mark key="]" line="57" column="48" />
+        <mark key="^" line="57" column="48" />
+        <mark key="." line="57" column="47" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1592824591080">
+        <mark key="'" line="210" column="59" />
+        <mark key="[" line="148" column="29" />
+        <mark key="]" line="148" column="36" />
+        <mark key="^" line="148" column="36" />
+        <mark key="." line="148" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/filter/FilterSecondOpNormalView.kt" timestamp="1592816220413">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" timestamp="1592818255244">
-        <mark key="[" line="151" column="5" />
-        <mark key="]" line="173" column="5" />
-        <mark key="." line="173" column="4" />
-        <mark key="^" line="173" column="5" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" timestamp="1592824505448" />
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomLayout.kt" timestamp="1592824416795">
+        <mark key="'" line="2" column="3" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="^" line="69" column="12" />
+        <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/build.gradle" timestamp="1592811999993">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1592821127118" />
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/RVAdapter.java" timestamp="1592820789249" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_second_op_demo.xml" timestamp="1592824177834">
+        <mark key="[" line="18" column="47" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomView.kt" timestamp="1592811947979">
-        <mark key="'" line="53" column="12" />
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="58" column="14" />
-        <mark key="." line="58" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomLayout.kt" timestamp="1592818615250">
-        <mark key="'" line="25" column="63" />
-        <mark key="[" line="151" column="31" />
-        <mark key="]" line="151" column="32" />
-        <mark key="." line="151" column="31" />
-        <mark key="^" line="151" column="32" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_second_op_demo.xml" timestamp="1592816306191">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="47" />
-        <mark key="." line="22" column="46" />
-        <mark key="^" line="22" column="47" />
-      </file>
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/build.gradle" timestamp="1592812132393">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="40" />
-        <mark key="." line="2" column="39" />
-        <mark key="^" line="2" column="40" />
-      </file>
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/MainActivity.java" timestamp="1592815241653">
-        <mark key="[" line="35" column="51" />
-        <mark key="]" line="36" column="30" />
-        <mark key="." line="36" column="29" />
-        <mark key="^" line="36" column="30" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpView.kt" timestamp="1592816206084">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1592812553734">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/jkeypanel/src/main/java/cn/dreamtobe/kpswitch/util/KeyboardUtil.java" timestamp="1592822257776" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpNormalView.kt" timestamp="1592824021561">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="4" />
+        <mark key="^" line="32" column="67" />
+        <mark key="." line="32" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="25" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
-      <jump line="132" column="58" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" />
-      <jump line="359" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
-      <jump line="189" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
-      <jump line="379" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
-      <jump line="66" column="68" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" />
       <jump line="392" column="57" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
       <jump line="1157" column="20" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
       <jump line="118" column="16" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" />
@@ -262,6 +256,13 @@
       <jump line="39" column="21" filename="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomLayout.kt" />
       <jump line="49" column="30" filename="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomLayout.kt" />
       <jump line="25" column="63" filename="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomLayout.kt" />
+      <jump line="147" column="12" filename="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomLayout.kt" />
+      <jump line="2" column="3" filename="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomLayout.kt" />
+      <jump line="138" column="39" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" />
+      <jump line="51" column="87" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpNormalView.kt" />
+      <jump line="214" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" />
+      <jump line="209" column="59" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -273,8 +274,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.toInt()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -284,13 +285,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.toInt()</text>
+        <text>TODO(&quot;Not yet implemented&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PCsrPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBuZXN0ZWRGbGluZyA9IHN1cGVyLm9uTmVzdGVkRmxpbmcodGFyZ2V0LCB2ZWxvY2l0eVgsIHZlbG9jaXR5WSwgY29uc3VtZWQpCi8vICAgICAgICBMb2cuZShUQUcsICJvbk5lc3RlZEZsaW5nOiB2ZWxvY2l0eVg6ICR2ZWxvY2l0eVgsIHZlbG9jaXR5WTogJHZlbG9jaXR5WSwgY29uc3VtZWQ6ICRjb25zdW1lZCwgcmV0OiAkbmVzdGVkRmxpbmciKQovLyAgICAgICAgLy8gICAgICAgIGlmICh2ZWxvY2l0eVkgPCAwKSB7Ci8vLy8gICAgICAgICAgICAvLyDkuIvmi4kKLy8vLyAgICAgICAgICAgIC8vIOiOt+WPluaXtumVvwovLy8vICAgICAgICAgICAgaW50IGR1cmF0aW9uID0gZ2V0U3BsaW5lRmxpbmdEdXJhdGlvbigoaW50KSB2ZWxvY2l0eVkpOwovLy8vICAgICAgICAgICAgLy8g6I635Y+W6Led56a7Ci8vLy8gICAgICAgICAgICBkb3VibGUgZGlzdGFuY2UgPSBnZXRTcGxpbmVGbGluZ0Rpc3RhbmNlKChpbnQpIHZlbG9jaXR5WSk7Ci8vLy8KLy8vLy8vICAgICAgICAgICAgc2Nyb2xsVG8oKTsKLy8vLyAgICAgICAgICAgIGZsb2F0IG9sZFRyYW5zbGF0aW9uWSA9IGdldFRyYW5zbGF0aW9uWSgpOwovLy8vICAgICAgICAgICAgZmxvYXQgZHN0VHJhbnNsYXRpb25ZID0gKGZsb2F0KSAob2xkVHJhbnNsYXRpb25ZICsgZGlzdGFuY2UpOwovLy8vICAgICAgICAgICAgYW5pbWF0b3Iuc2V0RmxvYXRWYWx1ZXMob2xkVHJhbnNsYXRpb25ZLCBkc3RUcmFuc2xhdGlvblkpOwovLy8vICAgICAgICAgICAgTG9nLmUoVEFHLCAiZHVyYXRpb246ICIgKyBkdXJhdGlvbiArICIsIGRpc3RhbmNlOiAiICsgZGlzdGFuY2UgKyAiLCBvbGRZOiAiICsgb2xkVHJhbnNsYXRpb25ZICsgIiwgZHN0WTogIiArIGRzdFRyYW5zbGF0aW9uWSk7Ci8vLy8gICAgICAgICAgICBhbmltYXRvci5zZXREdXJhdGlvbihkdXJhdGlvbik7Ci8vLy8gICAgICAgICAgICBhbmltYXRvci5zdGFydCgpOwovLy8vICAgICAgICB9Ci8vICAgICAgICByZXR1cm4gbmVzdGVkRmxpbmcK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYW5pbWF0aW9uLkFuaW1hdG9yCmltcG9ydCBhbmRyb2lkLmFuaW1hdGlvbi5BbmltYXRvckxpc3RlbmVyQWRhcHRlcgppbXBvcnQgYW5kcm9pZC5hbmltYXRpb24uVmFsdWVBbmltYXRvcgppbXBvcnQgYW5kcm9pZC5jb250ZW50LkNvbnRleHQKaW1wb3J0IGFuZHJvaWQudXRpbC5BdHRyaWJ1dGVTZXQKaW1wb3J0IGFuZHJvaWQudXRpbC5Mb2cKaW1wb3J0IGFuZHJvaWQudmlldy5WaWV3CmltcG9ydCBhbmRyb2lkLnZpZXcuYW5pbWF0aW9uLkRlY2VsZXJhdGVJbnRlcnBvbGF0b3IKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LkZyYW1lTGF5b3V0CmltcG9ydCBhbmRyb2lkeC5hbm5vdGF0aW9uLkludERlZgppbXBvcnQgYW5kcm9pZHguY29yZS52aWV3Lk5lc3RlZFNjcm9sbGluZ1BhcmVudDIKCmNvbnN0IHZhbCBTRUNPTkRfQk9UVE9NX0hBTEYgPSAwCmNvbnN0IHZhbCBTRUNPTkRfQk9UVE9NX0ZVTEwgPSAyCmNvbnN0IHZhbCBTRUNPTkRfQk9UVE9NX0NMT1NFID0gNAoKQEludERlZih2YWx1ZSA9IFtTRUNPTkRfQk9UVE9NX0hBTEYsIFNFQ09ORF9CT1RUT01fRlVMTCwgU0VDT05EX0JPVFRPTV9DTE9TRV0pCmFubm90YXRpb24gY2xhc3MgU2Vjb25kQm90dG9tU3RhdGUKCmludGVyZmFjZSBTZWNvbmRCb3R0b21MaXN0ZW5lciB7CiAgICBmdW4gb25TdGF0ZUNoYW5nZWQoQFNlY29uZEJvdHRvbVN0YXRlIHN0YXRlOiBJbnQpCn0KCmNsYXNzIFNlY29uZEJvdHRvbUxheW91dCA6IEZyYW1lTGF5b3V0LCBOZXN0ZWRTY3JvbGxpbmdQYXJlbnQyIHsKICAgIHByaXZhdGUgdmFsIFRBRyA9ICJCb3R0b21TaGVldFZpZXciCiAgICBwcml2YXRlIHZhbCBzY3JlZW5IZWlnaHQ6IEludAoKICAgIHZhciBzZWNvbmRCb3R0b21MaXN0ZW5lcjogU2Vjb25kQm90dG9tTGlzdGVuZXI/ID0gbnVsbAoKICAgIGNvbnN0cnVjdG9yKGNvbnRleHQ6IENvbnRleHQpIDogdGhpcyhjb250ZXh0LCBudWxsKSB7fQogICAgY29uc3RydWN0b3IoY29udGV4dDogQ29udGV4dCwgYXR0cnM6IEF0dHJpYnV0ZVNldD8pIDogdGhpcyhjb250ZXh0LCBhdHRycywgMCkge30KICAgIGNvbnN0cnVjdG9yKGNvbnRleHQ6IENvbnRleHQsIGF0dHJzOiBBdHRyaWJ1dGVTZXQ/LCBkZWZTdHlsZUF0dHI6IEludCkgOiBzdXBlcihjb250ZXh0LCBhdHRycywgZGVmU3R5bGVBdHRyKSB7CiAgICAgICAgc2NyZWVuSGVpZ2h0ID0gU3lzVXRpbC5nZXRTY3JlZW5IZWlnaHQoY29udGV4dCkKICAgICAgICBpbml0KCkKICAgIH0KCiAgICBAU2Vjb25kQm90dG9tU3RhdGUKICAgIHByaXZhdGUgdmFyIG1TdGF0ZTogSW50ID0gU0VDT05EX0JPVFRPTV9IQUxGCgogICAgQFNlY29uZEJvdHRvbVN0YXRlCiAgICBwcml2YXRlIHZhciBhbmltYXRlVG9TdGF0ZTogSW50ID0gU0VDT05EX0JPVFRPTV9IQUxGCiAgICBwcml2YXRlIHZhciB2YWx1ZUFuaW1hdG9yID0gVmFsdWVBbmltYXRvcigpLmFwcGx5IHsKICAgICAgICBkdXJhdGlvbiA9IDEwMAogICAgICAgIGludGVycG9sYXRvciA9IERlY2VsZXJhdGVJbnRlcnBvbGF0b3IoKQogICAgICAgIGFkZFVwZGF0ZUxpc3RlbmVyIHsKICAgICAgICAgICAgdmFsIGRpZmYgPSBpdC5hbmltYXRlZFZhbHVlIGFzIEZsb2F0IC0gdG9wCiAgICAgICAgICAgIG9mZnNldFRvcEFuZEJvdHRvbShkaWZmLnRvSW50KCkpCiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgdmFyIGFuaW1hdG9yTGlzdGVuZXIgPSBvYmplY3QgOiBBbmltYXRvckxpc3RlbmVyQWRhcHRlcigpIHsKICAgICAgICBvdmVycmlkZSBmdW4gb25BbmltYXRpb25FbmQoYW5pbWF0aW9uOiBBbmltYXRvcj8pIHsKICAgICAgICAgICAgc3VwZXIub25BbmltYXRpb25FbmQoYW5pbWF0aW9uKQoKICAgICAgICAgICAgbVN0YXRlID0gYW5pbWF0ZVRvU3RhdGUKICAgICAgICAgICAgc2Vjb25kQm90dG9tTGlzdGVuZXI/Lm9uU3RhdGVDaGFuZ2VkKG1TdGF0ZSkKCiAgICAgICAgICAgIGFuaW1hdGlvbj8ucmVtb3ZlQWxsTGlzdGVuZXJzKCkKICAgICAgICB9CgogICAgICAgIG92ZXJyaWRlIGZ1biBvbkFuaW1hdGlvbkNhbmNlbChhbmltYXRpb246IEFuaW1hdG9yPykgewogICAgICAgICAgICBzdXBlci5vbkFuaW1hdGlvbkNhbmNlbChhbmltYXRpb24pCiAgICAgICAgICAgIGFuaW1hdGlvbj8ucmVtb3ZlQWxsTGlzdGVuZXJzKCkKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW4gaW5pdCgpIHsKICAgICAgICBwb3N0IHsKICAgICAgICAgICAgb2Zmc2V0VG9wQW5kQm90dG9tKCgwLjJmICogc2NyZWVuSGVpZ2h0KS50b0ludCgpKQogICAgICAgICAgICBtU3RhdGUgPSBTRUNPTkRfQk9UVE9NX0hBTEYKICAgICAgICB9CiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIG9uTWVhc3VyZSh3aWR0aE1lYXN1cmVTcGVjOiBJbnQsIGhlaWdodE1lYXN1cmVTcGVjOiBJbnQpIHsKICAgICAgICBzdXBlci5vbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYywgaGVpZ2h0TWVhc3VyZVNwZWMpCgogICAgICAgIHZhbCBzZWxlY3RQaG90b0hlaWdodCA9IChzY3JlZW5IZWlnaHQgKiAwLjY1ZikudG9JbnQoKQoKICAgICAgICB2YWwgbWF4SGVpZ2h0TWVhc3VyZVNwZWMgPSBNZWFzdXJlU3BlYy5tYWtlTWVhc3VyZVNwZWMoc2VsZWN0UGhvdG9IZWlnaHQsIE1lYXN1cmVTcGVjLkVYQUNUTFkpCiAgICAgICAgc3VwZXIub25NZWFzdXJlKHdpZHRoTWVhc3VyZVNwZWMsIG1heEhlaWdodE1lYXN1cmVTcGVjKQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBvbkZpbmlzaEluZmxhdGUoKSB7CiAgICAgICAgc3VwZXIub25GaW5pc2hJbmZsYXRlKCkKLy8gICAgICAgIG9mZnNldFRvcEFuZEJvdHRvbSgtKDAuMmYgKiBzY3JlZW5IZWlnaHQpLnRvSW50KCkpCi8vICAgICAgICBtU3RhdGUgPSBTRUNPTkRfQk9UVE9NX0hBTEYKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25TdGFydE5lc3RlZFNjcm9sbChjaGlsZDogVmlldywgdGFyZ2V0OiBWaWV3LCBheGVzOiBJbnQsIHR5cGU6IEludCk6IEJvb2xlYW4gewogICAgICAgIHJldHVybiB0cnVlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIG9uTmVzdGVkU2Nyb2xsQWNjZXB0ZWQoY2hpbGQ6IFZpZXcsIHRhcmdldDogVmlldywgYXhlczogSW50LCB0eXBlOiBJbnQpIHt9CgogICAgb3ZlcnJpZGUgZnVuIG9uU3RvcE5lc3RlZFNjcm9sbCh0YXJnZXQ6IFZpZXcsIHR5cGU6IEludCkgewogICAgICAgIExvZy5lKFRBRywgIm9uU3RvcE5lc3RlZFNjcm9sbDogIiArIHR5cGUpCgovLyAgICAgICAgaWYgKHR5cGUgPT0gVmlld0NvbXBhdC5UWVBFX1RPVUNIKSB7Ci8vICAgICAgICAgICAgcmV0dXJuCi8vICAgICAgICB9CiAgICAgICAgLy8g5Yik5pat5b2T5YmN5bqU6K+l5aaC5L2V5YGa5Yqo55S7CiAgICAgICAgd2hlbiAodG9wKSB7CiAgICAgICAgICAgIGluIDBmLi4oMC4xZiAqIHNjcmVlbkhlaWdodCkgLT4gewogICAgICAgICAgICAgICAgLy8gRlVMTCDmqKHlvI8KICAgICAgICAgICAgICAgIGFuaW1hdGVUbyhTRUNPTkRfQk9UVE9NX0ZVTEwpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaW4gKDAuMWYgKiBzY3JlZW5IZWlnaHQpLi4oMC40MjVmICogc2NyZWVuSGVpZ2h0KSAtPiB7CiAgICAgICAgICAgICAgICAvLyDljYrmqKHlvI8KICAgICAgICAgICAgICAgIGFuaW1hdGVUbyhTRUNPTkRfQk9UVE9NX0hBTEYpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaW4gKDAuNDI1ZiAqIHNjcmVlbkhlaWdodCkuLigwLjY1ZiAqIHNjcmVlbkhlaWdodCkgLT4gewogICAgICAgICAgICAgICAgLy8gY2xvc2UKICAgICAgICAgICAgICAgIGFuaW1hdGVUbyhTRUNPTkRfQk9UVE9NX0NMT1NFKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBvbk5lc3RlZFNjcm9sbCh0YXJnZXQ6IFZpZXcsIGR4Q29uc3VtZWQ6IEludCwgZHlDb25zdW1lZDogSW50LCBkeFVuY29uc3VtZWQ6IEludCwgZHlVbmNvbnN1bWVkOiBJbnQsIHR5cGU6IEludCkgewogICAgICAgIExvZy5lKFRBRywgIm9uTmVzdGVkU2Nyb2xsOiBkeUM6ICRkeUNvbnN1bWVkLCBkeVVDOiAkZHlVbmNvbnN1bWVkIikKICAgICAgICBpZiAodmFsdWVBbmltYXRvci5pc1J1bm5pbmcpIHsKICAgICAgICAgICAgdmFsdWVBbmltYXRvci5jYW5jZWwoKQogICAgICAgIH0KICAgICAgICBpZiAoZHlVbmNvbnN1bWVkID4gMCkgewogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIG9mZnNldFRvcEFuZEJvdHRvbSgtZHlVbmNvbnN1bWVkKQogICAgICAgIH0KICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25OZXN0ZWRQcmVTY3JvbGwodGFyZ2V0OiBWaWV3LCBkeDogSW50LCBkeTogSW50LCBjb25zdW1lZDogSW50QXJyYXksIHR5cGU6IEludCkgewogICAgICAgIExvZy5lKFRBRywgIm9uTmVzdGVkUHJlU2Nyb2xsOiBkeTogJGR5IikKICAgICAgICBpZiAodmFsdWVBbmltYXRvci5pc1J1bm5pbmcpIHsKICAgICAgICAgICAgdmFsdWVBbmltYXRvci5jYW5jZWwoKQogICAgICAgIH0KICAgICAgICBpZiAoZHkgPiAwKSB7CiAgICAgICAgICAgIC8vIOWFiOS4jeeuoQogICAgICAgICAgICB2YXIgZHN0WSA9IHRvcCAtIGR5CiAgICAgICAgICAgIGlmIChkc3RZIDwgMCkgewogICAgICAgICAgICAgICAgZHN0WSA9IDAKICAgICAgICAgICAgfQogICAgICAgICAgICB2YWwgY29uc3VtZWRZID0gLShkc3RZIC0gdG9wKQogICAgICAgICAgICBvZmZzZXRUb3BBbmRCb3R0b20oLWNvbnN1bWVkWS50b0ludCgpKQogICAgICAgICAgICBjb25zdW1lZFsxXSA9IGNvbnN1bWVkWS50b0ludCgpCgogICAgICAgICAgICBMb2cuZShUQUcgKyAiSEVMTE8iLCAidG9wOiAiICsgdG9wICsgIiwgZHk6ICIgKyBkeSArICIsIGRzdFk6ICIgKyBkc3RZICsgIiwgY29uc3VtZWRZOiAiICsgY29uc3VtZWRZKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIC8vIOW+gOS4i+aLiQogICAgICAgIH0KICAgIH0KCiAgICBmdW4gb3BlbigpIHsKICAgICAgICBhbmltYXRlVG8oU0VDT05EX0JPVFRPTV9GVUxMKQogICAgfQoKICAgIGZ1biBoYWxmKCkgewogICAgICAgIGFuaW1hdGVUbyhTRUNPTkRfQk9UVE9NX0hBTEYpCiAgICB9CgogICAgZnVuIGNsb3NlKCkgewogICAgICAgIGFuaW1hdGVUbyhTRUNPTkRfQk9UVE9NX0NMT1NFKQogICAgfQoKICAgIHByaXZhdGUgZnVuIGFuaW1hdGVUbyhAU2Vjb25kQm90dG9tU3RhdGUgc2Vjb25kQm90dG9tU3RhdGU6IEludCkgewogICAgICAgIHdoZW4gKHNlY29uZEJvdHRvbVN0YXRlKSB7CiAgICAgICAgICAgIFNFQ09ORF9CT1RUT01fRlVMTCAtPiB7CiAgICAgICAgICAgICAgICB2YWx1ZUFuaW1hdG9yLnNldEZsb2F0VmFsdWVzKHRvcC50b0Zsb2F0KCksIDBmKQogICAgICAgICAgICB9CiAgICAgICAgICAgIFNFQ09ORF9CT1RUT01fSEFMRiAtPiB7CiAgICAgICAgICAgICAgICB2YWx1ZUFuaW1hdG9yLnNldEZsb2F0VmFsdWVzKHRvcC50b0Zsb2F0KCksIDAuMmYgKiBzY3JlZW5IZWlnaHQpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgU0VDT05EX0JPVFRPTV9DTE9TRSAtPiB7CiAgICAgICAgICAgICAgICB2YWx1ZUFuaW1hdG9yLnNldEZsb2F0VmFsdWVzKHRvcC50b0Zsb2F0KCksIDAuNjVmICogc2NyZWVuSGVpZ2h0KQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGFuaW1hdGVUb1N0YXRlID0gc2Vjb25kQm90dG9tU3RhdGUKICAgICAgICB2YWx1ZUFuaW1hdG9yLmFkZExpc3RlbmVyKGFuaW1hdG9yTGlzdGVuZXIpCiAgICAgICAgdmFsdWVBbmltYXRvci5zdGFydCgpCiAgICB9Cn0=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -299,28 +300,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgb3ZlcnJpZGUgZnVuIG9uTmVzdGVkRmxpbmcodGFyZ2V0OiBWaWV3LCB2ZWxvY2l0eVg6IEZsb2F0LCB2ZWxvY2l0eVk6IEZsb2F0LCBjb25zdW1lZDogQm9vbGVhbik6IEJvb2xlYW4gewovLyAgICAgICAgdmFsIG5lc3RlZEZsaW5nID0gc3VwZXIub25OZXN0ZWRGbGluZyh0YXJnZXQsIHZlbG9jaXR5WCwgdmVsb2NpdHlZLCBjb25zdW1lZCkKLy8gICAgICAgIExvZy5lKFRBRywgIm9uTmVzdGVkRmxpbmc6IHZlbG9jaXR5WDogJHZlbG9jaXR5WCwgdmVsb2NpdHlZOiAkdmVsb2NpdHlZLCBjb25zdW1lZDogJGNvbnN1bWVkLCByZXQ6ICRuZXN0ZWRGbGluZyIpCi8vICAgICAgICBpZiAodmVsb2NpdHlZIDwgMCkgewovLyAgICAgICAgICAgIC8vIOS4i+aLiQovLyAgICAgICAgICAgIC8vIOiOt+WPluaXtumVvwovLy8vICAgICAgICAgICAgaW50IGR1cmF0aW9uID0gZ2V0U3BsaW5lRmxpbmdEdXJhdGlvbigoaW50KSB2ZWxvY2l0eVkpOwovLy8vICAgICAgICAgICAgLy8g6I635Y+W6Led56a7Ci8vLy8gICAgICAgICAgICBkb3VibGUgZGlzdGFuY2UgPSBnZXRTcGxpbmVGbGluZ0Rpc3RhbmNlKChpbnQpIHZlbG9jaXR5WSk7Ci8vLy8KLy8vLy8vICAgICAgICAgICAgc2Nyb2xsVG8oKTsKLy8vLyAgICAgICAgICAgIGZsb2F0IG9sZFRyYW5zbGF0aW9uWSA9IGdldFRyYW5zbGF0aW9uWSgpOwovLy8vICAgICAgICAgICAgZmxvYXQgZHN0VHJhbnNsYXRpb25ZID0gKGZsb2F0KSAob2xkVHJhbnNsYXRpb25ZICsgZGlzdGFuY2UpOwovLy8vICAgICAgICAgICAgYW5pbWF0b3Iuc2V0RmxvYXRWYWx1ZXMob2xkVHJhbnNsYXRpb25ZLCBkc3RUcmFuc2xhdGlvblkpOwovLy8vICAgICAgICAgICAgTG9nLmUoVEFHLCAiZHVyYXRpb246ICIgKyBkdXJhdGlvbiArICIsIGRpc3RhbmNlOiAiICsgZGlzdGFuY2UgKyAiLCBvbGRZOiAiICsgb2xkVHJhbnNsYXRpb25ZICsgIiwgZHN0WTogIiArIGRzdFRyYW5zbGF0aW9uWSk7Ci8vLy8gICAgICAgICAgICBhbmltYXRvci5zZXREdXJhdGlvbihkdXJhdGlvbik7Ci8vLy8gICAgICAgICAgICBhbmltYXRvci5zdGFydCgpOwovLyAgICAgICAgICAgIHJldHVybiB0cnVlCi8vICAgICAgICB9Ci8vICAgICAgICByZXR1cm4gbmVzdGVkRmxpbmcKLy8gICAgfQoKLy8gICAgb3ZlcnJpZGUgZnVuIG9uTmVzdGVkRmxpbmcodGFyZ2V0OiBWaWV3PywgdmVsb2NpdHlYOiBGbG9hdCwgdmVsb2NpdHlZOiBGbG9hdCwgY29uc3VtZWQ6IEJvb2xlYW4pOiBCb29sZWFuIHsKLy8gICAgICAgIHZhbCBuZXN0ZWRGbGluZyA9IHN1cGVyLm9uTmVzdGVkRmxpbmcodGFyZ2V0LCB2ZWxvY2l0eVgsIHZlbG9jaXR5WSwgY29uc3VtZWQpCi8vICAgICAgICBMb2cuZShUQUcsICJvbk5lc3RlZEZsaW5nOiB2ZWxvY2l0eVg6ICR2ZWxvY2l0eVgsIHZlbG9jaXR5WTogJHZlbG9jaXR5WSwgY29uc3VtZWQ6ICRjb25zdW1lZCwgcmV0OiAkbmVzdGVkRmxpbmciKQovLyAgICAgICAgLy8gICAgICAgIGlmICh2ZWxvY2l0eVkgPCAwKSB7Ci8vLy8gICAgICAgICAgICAvLyDkuIvmi4kKLy8vLyAgICAgICAgICAgIC8vIOiOt+WPluaXtumVvwovLy8vICAgICAgICAgICAgaW50IGR1cmF0aW9uID0gZ2V0U3BsaW5lRmxpbmdEdXJhdGlvbigoaW50KSB2ZWxvY2l0eVkpOwovLy8vICAgICAgICAgICAgLy8g6I635Y+W6Led56a7Ci8vLy8gICAgICAgICAgICBkb3VibGUgZGlzdGFuY2UgPSBnZXRTcGxpbmVGbGluZ0Rpc3RhbmNlKChpbnQpIHZlbG9jaXR5WSk7Ci8vLy8KLy8vLy8vICAgICAgICAgICAgc2Nyb2xsVG8oKTsKLy8vLyAgICAgICAgICAgIGZsb2F0IG9sZFRyYW5zbGF0aW9uWSA9IGdldFRyYW5zbGF0aW9uWSgpOwovLy8vICAgICAgICAgICAgZmxvYXQgZHN0VHJhbnNsYXRpb25ZID0gKGZsb2F0KSAob2xkVHJhbnNsYXRpb25ZICsgZGlzdGFuY2UpOwovLy8vICAgICAgICAgICAgYW5pbWF0b3Iuc2V0RmxvYXRWYWx1ZXMob2xkVHJhbnNsYXRpb25ZLCBkc3RUcmFuc2xhdGlvblkpOwovLy8vICAgICAgICAgICAgTG9nLmUoVEFHLCAiZHVyYXRpb246ICIgKyBkdXJhdGlvbiArICIsIGRpc3RhbmNlOiAiICsgZGlzdGFuY2UgKyAiLCBvbGRZOiAiICsgb2xkVHJhbnNsYXRpb25ZICsgIiwgZHN0WTogIiArIGRzdFRyYW5zbGF0aW9uWSk7Ci8vLy8gICAgICAgICAgICBhbmltYXRvci5zZXREdXJhdGlvbihkdXJhdGlvbik7Ci8vLy8gICAgICAgICAgICBhbmltYXRvci5zdGFydCgpOwovLy8vICAgICAgICB9Ci8vICAgICAgICByZXR1cm4gbmVzdGVkRmxpbmcKLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgIDxjb20udmVyc2EudWkud2lkZ2V0LlNlY29uZEJvdHRvbUxheW91dAogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iYm90dG9tIgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL3doaXRlIj4KCiAgICAgICAgPGNvbS52ZXJzYS51aS5pbWFnZWVkaXQuc2Vjb25kb3Audmlldy5yZWNvbW1lbmQuUmVjb21tZW5kU2Vjb25kT3BWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcnNvdiIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAvPgogICAgICAgIDwhLS0gICAgPGNvbS52ZXJzYS51aS5pbWFnZWVkaXQuc2Vjb25kb3Audmlldy5zdGlja2VyLlN0aWNrZXJTZWNvbmRPcFZpZXctLT4KICAgICAgICA8IS0tICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Jzb3YiLS0+CiAgICAgICAgPCEtLSAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KICAgICAgICA8IS0tICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIgLz4tLT4KCiAgICAgICAgPCEtLSAgICA8Y29tLnZlcnNhLnVpLmltYWdlZWRpdC5zZWNvbmRvcC52aWV3LmZpbHRlci5GaWx0ZXJTZWNvbmRPcE5vcm1hbFZpZXctLT4KICAgICAgICA8IS0tICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Jzb3YiLS0+CiAgICAgICAgPCEtLSAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KICAgICAgICA8IS0tICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIgLz4tLT4KCiAgICAgICAgPCEtLSAgICA8Y29tLnZlcnNhLnVpLmltYWdlZWRpdC5zZWNvbmRvcC52aWV3LmJnLkNoYW5nZUJnU2Vjb25kT3BWaWV3LS0+CiAgICAgICAgPCEtLSAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yc292Ii0tPgogICAgICAgIDwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CiAgICAgICAgPCEtLSAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiIC8+LS0+CgogICAgPC9jb20udmVyc2EudWkud2lkZ2V0LlNlY29uZEJvdHRvbUxheW91dD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmltcG9ydCBhbmRyb2lkLmFuaW1hdGlvbi5BbmltYXRvcgppbXBvcnQgYW5kcm9pZC5hbmltYXRpb24uQW5pbWF0b3JMaXN0ZW5lckFkYXB0ZXIKaW1wb3J0IGFuZHJvaWQuYW5pbWF0aW9uLlZhbHVlQW5pbWF0b3IKaW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0CmltcG9ydCBhbmRyb2lkLnV0aWwuQXR0cmlidXRlU2V0CmltcG9ydCBhbmRyb2lkLnV0aWwuTG9nCmltcG9ydCBhbmRyb2lkLnZpZXcuVmlldwppbXBvcnQgYW5kcm9pZC52aWV3LmFuaW1hdGlvbi5EZWNlbGVyYXRlSW50ZXJwb2xhdG9yCmltcG9ydCBhbmRyb2lkLndpZGdldC5GcmFtZUxheW91dAppbXBvcnQgYW5kcm9pZHguYW5ub3RhdGlvbi5JbnREZWYKaW1wb3J0IGFuZHJvaWR4LmNvcmUudmlldy5OZXN0ZWRTY3JvbGxpbmdQYXJlbnQyCmltcG9ydCBjb20uaHV5bi5iYXNlZnJhbWV3b3JrLnV0aWxzLlN5c1V0aWwKCmNvbnN0IHZhbCBTRUNPTkRfQk9UVE9NX0hBTEYgPSAwCmNvbnN0IHZhbCBTRUNPTkRfQk9UVE9NX0ZVTEwgPSAyCmNvbnN0IHZhbCBTRUNPTkRfQk9UVE9NX0NMT1NFID0gNAoKQEludERlZih2YWx1ZSA9IFtTRUNPTkRfQk9UVE9NX0hBTEYsIFNFQ09ORF9CT1RUT01fRlVMTCwgU0VDT05EX0JPVFRPTV9DTE9TRV0pCmFubm90YXRpb24gY2xhc3MgU2Vjb25kQm90dG9tU3RhdGUKCmludGVyZmFjZSBTZWNvbmRCb3R0b21MaXN0ZW5lciB7CiAgICBmdW4gb25TdGF0ZUNoYW5nZWQoQFNlY29uZEJvdHRvbVN0YXRlIHN0YXRlOiBJbnQpCn0KCmNsYXNzIFNlY29uZEJvdHRvbUxheW91dCA6IEZyYW1lTGF5b3V0LCBOZXN0ZWRTY3JvbGxpbmdQYXJlbnQyIHsKICAgIHByaXZhdGUgdmFsIFRBRyA9ICJCb3R0b21TaGVldFZpZXciCiAgICBwcml2YXRlIHZhbCBzY3JlZW5IZWlnaHQ6IEludAoKICAgIHZhciBzZWNvbmRCb3R0b21MaXN0ZW5lcjogU2Vjb25kQm90dG9tTGlzdGVuZXI/ID0gbnVsbAoKICAgIGNvbnN0cnVjdG9yKGNvbnRleHQ6IENvbnRleHQpIDogdGhpcyhjb250ZXh0LCBudWxsKSB7fQogICAgY29uc3RydWN0b3IoY29udGV4dDogQ29udGV4dCwgYXR0cnM6IEF0dHJpYnV0ZVNldD8pIDogdGhpcyhjb250ZXh0LCBhdHRycywgMCkge30KICAgIGNvbnN0cnVjdG9yKGNvbnRleHQ6IENvbnRleHQsIGF0dHJzOiBBdHRyaWJ1dGVTZXQ/LCBkZWZTdHlsZUF0dHI6IEludCkgOiBzdXBlcihjb250ZXh0LCBhdHRycywgZGVmU3R5bGVBdHRyKSB7CiAgICAgICAgc2NyZWVuSGVpZ2h0ID0gU3lzVXRpbC5nZXRTY3JlZW5IZWlnaHQoY29udGV4dCkKICAgICAgICBpbml0KCkKICAgIH0KCiAgICBAU2Vjb25kQm90dG9tU3RhdGUKICAgIHByaXZhdGUgdmFyIG1TdGF0ZTogSW50ID0gU0VDT05EX0JPVFRPTV9IQUxGCiAgICBAU2Vjb25kQm90dG9tU3RhdGUKICAgIHByaXZhdGUgdmFyIGFuaW1hdGVUb1N0YXRlOiBJbnQgPSBTRUNPTkRfQk9UVE9NX0hBTEYKICAgIHByaXZhdGUgdmFyIHZhbHVlQW5pbWF0b3IgPSBWYWx1ZUFuaW1hdG9yKCkuYXBwbHkgewogICAgICAgIGR1cmF0aW9uID0gMTAwCiAgICAgICAgaW50ZXJwb2xhdG9yID0gRGVjZWxlcmF0ZUludGVycG9sYXRvcigpCiAgICAgICAgYWRkVXBkYXRlTGlzdGVuZXIgewogICAgICAgICAgICB0cmFuc2xhdGlvblkgPSBpdC5hbmltYXRlZFZhbHVlIGFzIEZsb2F0CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgdmFyIGFuaW1hdG9yTGlzdGVuZXIgPSBvYmplY3Q6IEFuaW1hdG9yTGlzdGVuZXJBZGFwdGVyKCkgewogICAgICAgIG92ZXJyaWRlIGZ1biBvbkFuaW1hdGlvbkVuZChhbmltYXRpb246IEFuaW1hdG9yPykgewogICAgICAgICAgICBzdXBlci5vbkFuaW1hdGlvbkVuZChhbmltYXRpb24pCgogICAgICAgICAgICBtU3RhdGUgPSBhbmltYXRlVG9TdGF0ZQogICAgICAgICAgICBzZWNvbmRCb3R0b21MaXN0ZW5lcj8ub25TdGF0ZUNoYW5nZWQobVN0YXRlKQoKICAgICAgICAgICAgYW5pbWF0aW9uPy5yZW1vdmVBbGxMaXN0ZW5lcnMoKQogICAgICAgIH0KCiAgICAgICAgb3ZlcnJpZGUgZnVuIG9uQW5pbWF0aW9uQ2FuY2VsKGFuaW1hdGlvbjogQW5pbWF0b3I/KSB7CiAgICAgICAgICAgIHN1cGVyLm9uQW5pbWF0aW9uQ2FuY2VsKGFuaW1hdGlvbikKICAgICAgICAgICAgYW5pbWF0aW9uPy5yZW1vdmVBbGxMaXN0ZW5lcnMoKQogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIGZ1biBpbml0KCkgewogICAgICAgIHRyYW5zbGF0aW9uWSA9IDAuMmYgKiBzY3JlZW5IZWlnaHQKICAgICAgICBtU3RhdGUgPSBTRUNPTkRfQk9UVE9NX0hBTEYKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25NZWFzdXJlKHdpZHRoTWVhc3VyZVNwZWM6IEludCwgaGVpZ2h0TWVhc3VyZVNwZWM6IEludCkgewogICAgICAgIHN1cGVyLm9uTWVhc3VyZSh3aWR0aE1lYXN1cmVTcGVjLCBoZWlnaHRNZWFzdXJlU3BlYykKCi8vICAgICAgICB2YWwgc2NyZWVuSGVpZ2h0ID0gU3lzVXRpbC5nZXRTY3JlZW5IZWlnaHQoY29udGV4dCkKICAgICAgICB2YWwgc2VsZWN0UGhvdG9IZWlnaHQgPSAoc2NyZWVuSGVpZ2h0ICogMC42NWYpLnRvSW50KCkKCiAgICAgICAgdmFsIG1heEhlaWdodE1lYXN1cmVTcGVjID0gTWVhc3VyZVNwZWMubWFrZU1lYXN1cmVTcGVjKHNlbGVjdFBob3RvSGVpZ2h0LCBNZWFzdXJlU3BlYy5FWEFDVExZKQogICAgICAgIHN1cGVyLm9uTWVhc3VyZSh3aWR0aE1lYXN1cmVTcGVjLCBtYXhIZWlnaHRNZWFzdXJlU3BlYykKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25TdGFydE5lc3RlZFNjcm9sbChjaGlsZDogVmlldywgdGFyZ2V0OiBWaWV3LCBheGVzOiBJbnQsIHR5cGU6IEludCk6IEJvb2xlYW4gewogICAgICAgIHJldHVybiB0cnVlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIG9uTmVzdGVkU2Nyb2xsQWNjZXB0ZWQoY2hpbGQ6IFZpZXcsIHRhcmdldDogVmlldywgYXhlczogSW50LCB0eXBlOiBJbnQpIHt9CgogICAgb3ZlcnJpZGUgZnVuIG9uU3RvcE5lc3RlZFNjcm9sbCh0YXJnZXQ6IFZpZXcsIHR5cGU6IEludCkgewogICAgICAgIExvZy5lKFRBRywgIm9uU3RvcE5lc3RlZFNjcm9sbDogIiArIHR5cGUpCgovLyAgICAgICAgaWYgKHR5cGUgPT0gVmlld0NvbXBhdC5UWVBFX1RPVUNIKSB7Ci8vICAgICAgICAgICAgcmV0dXJuCi8vICAgICAgICB9CiAgICAgICAgLy8g5Yik5pat5b2T5YmN5bqU6K+l5aaC5L2V5YGa5Yqo55S7CiAgICAgICAgd2hlbiAodHJhbnNsYXRpb25ZKSB7CiAgICAgICAgICAgIGluIDBmLi4oMC4xZiAqIHNjcmVlbkhlaWdodCkgLT4gewogICAgICAgICAgICAgICAgLy8gRlVMTCDmqKHlvI8KICAgICAgICAgICAgICAgIGFuaW1hdGVUbyhTRUNPTkRfQk9UVE9NX0ZVTEwpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaW4gKDAuMWYgKiBzY3JlZW5IZWlnaHQpLi4oMC40MjVmICogc2NyZWVuSGVpZ2h0KSAtPiB7CiAgICAgICAgICAgICAgICAvLyDljYrmqKHlvI8KICAgICAgICAgICAgICAgIGFuaW1hdGVUbyhTRUNPTkRfQk9UVE9NX0hBTEYpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaW4gKDAuNDI1ZiAqIHNjcmVlbkhlaWdodCkuLigwLjY1ZiAqIHNjcmVlbkhlaWdodCkgLT4gewogICAgICAgICAgICAgICAgLy8gY2xvc2UKICAgICAgICAgICAgICAgIGFuaW1hdGVUbyhTRUNPTkRfQk9UVE9NX0NMT1NFKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBvbk5lc3RlZFNjcm9sbCh0YXJnZXQ6IFZpZXcsIGR4Q29uc3VtZWQ6IEludCwgZHlDb25zdW1lZDogSW50LCBkeFVuY29uc3VtZWQ6IEludCwgZHlVbmNvbnN1bWVkOiBJbnQsIHR5cGU6IEludCkgewogICAgICAgIExvZy5lKFRBRywgIm9uTmVzdGVkU2Nyb2xsOiBkeUM6ICRkeUNvbnN1bWVkLCBkeVVDOiAkZHlVbmNvbnN1bWVkIikKLy8gICAgICAgIGlmICh0eXBlID09IFZpZXdDb21wYXQuVFlQRV9OT05fVE9VQ0gpIHsKLy8gICAgICAgICAgICBzdG9wTmVzdGVkU2Nyb2xsKCk7Ci8vICAgICAgICAgICAgcmV0dXJuOwovLyAgICAgICAgfQogICAgICAgIGlmICh2YWx1ZUFuaW1hdG9yLmlzUnVubmluZykgewogICAgICAgICAgICB2YWx1ZUFuaW1hdG9yLmNhbmNlbCgpCiAgICAgICAgfQogICAgICAgIGlmIChkeVVuY29uc3VtZWQgPiAwKSB7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdmFsIGRzdFkgPSB0cmFuc2xhdGlvblkgLSBkeVVuY29uc3VtZWQKICAgICAgICAgICAgdHJhbnNsYXRpb25ZID0gZHN0WQogICAgICAgIH0KICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25OZXN0ZWRQcmVTY3JvbGwodGFyZ2V0OiBWaWV3LCBkeDogSW50LCBkeTogSW50LCBjb25zdW1lZDogSW50QXJyYXksIHR5cGU6IEludCkgewogICAgICAgIExvZy5lKFRBRywgIm9uTmVzdGVkUHJlU2Nyb2xsOiBkeTogJGR5IikKLy8gICAgICAgIGlmICh0eXBlID09IFZpZXdDb21wYXQuVFlQRV9OT05fVE9VQ0gpIHsKLy8gICAgICAgICAgICByZXR1cm47Ci8vICAgICAgICB9CgogICAgICAgIGlmICh2YWx1ZUFuaW1hdG9yLmlzUnVubmluZykgewogICAgICAgICAgICB2YWx1ZUFuaW1hdG9yLmNhbmNlbCgpCiAgICAgICAgfQogICAgICAgIGlmIChkeSA+IDApIHsKICAgICAgICAgICAgLy8g5YWI5LiN566hCiAgICAgICAgICAgIHZhciBkc3RZID0gdHJhbnNsYXRpb25ZIC0gZHkKICAgICAgICAgICAgaWYgKGRzdFkgPCAwKSB7CiAgICAgICAgICAgICAgICBkc3RZID0gMGYKICAgICAgICAgICAgfQogICAgICAgICAgICB2YWwgY29uc3VtZWRZID0gLShkc3RZIC0gdHJhbnNsYXRpb25ZKQogICAgICAgICAgICB0cmFuc2xhdGlvblkgPSBkc3RZCiAgICAgICAgICAgIGNvbnN1bWVkWzFdID0gY29uc3VtZWRZLnRvSW50KCkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyDlvoDkuIvmi4kKCi8vICAgICAgICAgICAgZmxvYXQgZHN0WSA9IGdldFRyYW5zbGF0aW9uWSgpIC0gZHk7Ci8vICAgICAgICAgICAgc2V0VHJhbnNsYXRpb25ZKGRzdFkpOwogICAgICAgIH0KICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25OZXN0ZWRGbGluZyh0YXJnZXQ6IFZpZXcsIHZlbG9jaXR5WDogRmxvYXQsIHZlbG9jaXR5WTogRmxvYXQsIGNvbnN1bWVkOiBCb29sZWFuKTogQm9vbGVhbiB7CiAgICAgICAgdmFsIG5lc3RlZEZsaW5nID0gc3VwZXIub25OZXN0ZWRGbGluZyh0YXJnZXQsIHZlbG9jaXR5WCwgdmVsb2NpdHlZLCBjb25zdW1lZCkKICAgICAgICBMb2cuZShUQUcsICJvbk5lc3RlZEZsaW5nOiB2ZWxvY2l0eVg6ICR2ZWxvY2l0eVgsIHZlbG9jaXR5WTogJHZlbG9jaXR5WSwgY29uc3VtZWQ6ICRjb25zdW1lZCwgcmV0OiAkbmVzdGVkRmxpbmciKQogICAgICAgIGlmICh2ZWxvY2l0eVkgPCAwKSB7CiAgICAgICAgICAgIC8vIOS4i+aLiQogICAgICAgICAgICAvLyDojrflj5bml7bplb8KLy8gICAgICAgICAgICBpbnQgZHVyYXRpb24gPSBnZXRTcGxpbmVGbGluZ0R1cmF0aW9uKChpbnQpIHZlbG9jaXR5WSk7Ci8vICAgICAgICAgICAgLy8g6I635Y+W6Led56a7Ci8vICAgICAgICAgICAgZG91YmxlIGRpc3RhbmNlID0gZ2V0U3BsaW5lRmxpbmdEaXN0YW5jZSgoaW50KSB2ZWxvY2l0eVkpOwovLwovLy8vICAgICAgICAgICAgc2Nyb2xsVG8oKTsKLy8gICAgICAgICAgICBmbG9hdCBvbGRUcmFuc2xhdGlvblkgPSBnZXRUcmFuc2xhdGlvblkoKTsKLy8gICAgICAgICAgICBmbG9hdCBkc3RUcmFuc2xhdGlvblkgPSAoZmxvYXQpIChvbGRUcmFuc2xhdGlvblkgKyBkaXN0YW5jZSk7Ci8vICAgICAgICAgICAgYW5pbWF0b3Iuc2V0RmxvYXRWYWx1ZXMob2xkVHJhbnNsYXRpb25ZLCBkc3RUcmFuc2xhdGlvblkpOwovLyAgICAgICAgICAgIExvZy5lKFRBRywgImR1cmF0aW9uOiAiICsgZHVyYXRpb24gKyAiLCBkaXN0YW5jZTogIiArIGRpc3RhbmNlICsgIiwgb2xkWTogIiArIG9sZFRyYW5zbGF0aW9uWSArICIsIGRzdFk6ICIgKyBkc3RUcmFuc2xhdGlvblkpOwovLyAgICAgICAgICAgIGFuaW1hdG9yLnNldER1cmF0aW9uKGR1cmF0aW9uKTsKLy8gICAgICAgICAgICBhbmltYXRvci5zdGFydCgpOwogICAgICAgICAgICByZXR1cm4gdHJ1ZQogICAgICAgIH0KICAgICAgICByZXR1cm4gbmVzdGVkRmxpbmcKICAgIH0KCiAgICBmdW4gb3BlbigpIHsKICAgICAgICBhbmltYXRlVG8oU0VDT05EX0JPVFRPTV9GVUxMKQogICAgfQoKICAgIGZ1biBoYWxmKCkgewogICAgICAgIGFuaW1hdGVUbyhTRUNPTkRfQk9UVE9NX0hBTEYpCiAgICB9CgogICAgZnVuIGNsb3NlKCkgewogICAgICAgIGFuaW1hdGVUbyhTRUNPTkRfQk9UVE9NX0NMT1NFKQogICAgfQoKICAgIHByaXZhdGUgZnVuIGFuaW1hdGVUbyhAU2Vjb25kQm90dG9tU3RhdGUgc2Vjb25kQm90dG9tU3RhdGU6IEludCkgewogICAgICAgIHdoZW4gKHNlY29uZEJvdHRvbVN0YXRlKSB7CiAgICAgICAgICAgIFNFQ09ORF9CT1RUT01fRlVMTCAtPiB7CiAgICAgICAgICAgICAgICB2YWx1ZUFuaW1hdG9yLnNldEZsb2F0VmFsdWVzKHRyYW5zbGF0aW9uWSwgMGYpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgU0VDT05EX0JPVFRPTV9IQUxGIC0+IHsKICAgICAgICAgICAgICAgIHZhbHVlQW5pbWF0b3Iuc2V0RmxvYXRWYWx1ZXModHJhbnNsYXRpb25ZLCAwLjJmICogc2NyZWVuSGVpZ2h0KQogICAgICAgICAgICB9CiAgICAgICAgICAgIFNFQ09ORF9CT1RUT01fQ0xPU0UgLT4gewogICAgICAgICAgICAgICAgdmFsdWVBbmltYXRvci5zZXRGbG9hdFZhbHVlcyh0cmFuc2xhdGlvblksIDAuNjVmICogc2NyZWVuSGVpZ2h0KQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGFuaW1hdGVUb1N0YXRlID0gc2Vjb25kQm90dG9tU3RhdGUKICAgICAgICB2YWx1ZUFuaW1hdG9yLmFkZExpc3RlbmVyKGFuaW1hdG9yTGlzdGVuZXIpCiAgICAgICAgdmFsdWVBbmltYXRvci5zdGFydCgpCiAgICB9Cn0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICB0cmFuc2xhdGlvblkgPSBpdC5hbmltYXRlZFZhbHVlIGFzIEZsb2F0Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYzogSW50LCBoZWlnaHRNZWFzdXJlU3BlYzogSW50KSB7CiAgICAgICAgdmFsIHNjcmVlbkhlaWdodCA9IFN5c1V0aWwuZ2V0U2NyZWVuSGVpZ2h0KGNvbnRleHQpCiAgICAgICAgdmFsIHNlbGVjdFBob3RvSGVpZ2h0ID0gKHNjcmVlbkhlaWdodCAqIDAuNTVmKS50b0ludCgpCgogICAgICAgIHZhbCBtYXhIZWlnaHRNZWFzdXJlU3BlYyA9IE1lYXN1cmVTcGVjLm1ha2VNZWFzdXJlU3BlYyhzZWxlY3RQaG90b0hlaWdodCwgTWVhc3VyZVNwZWMuRVhBQ1RMWSkKICAgICAgICBzdXBlci5vbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYywgbWF4SGVpZ2h0TWVhc3VyZVNwZWMpCiAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG9mZnNldFRvcEFuZEJvdHRvbSgtKDAuMmYgKiBzY3JlZW5IZWlnaHQpLnRvSW50KCkpCi8vICAgICAgICBtU3RhdGUgPSBTRUNPTkRfQk9UVE9NX0hBTEYK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYzogSW50LCBoZWlnaHRNZWFzdXJlU3BlYzogSW50KSB7CiAgICAgICAgdmFsIHNjcmVlbkhlaWdodCA9IFN5c1V0aWwuZ2V0U2NyZWVuSGVpZ2h0KGNvbnRleHQpCiAgICAgICAgdmFsIHNlbGVjdFBob3RvSGVpZ2h0ID0gKHNjcmVlbkhlaWdodCAqIDAuNTVmKS50b0ludCgpCgogICAgICAgIHZhbCBtYXhIZWlnaHRNZWFzdXJlU3BlYyA9IE1lYXN1cmVTcGVjLm1ha2VNZWFzdXJlU3BlYyhzZWxlY3RQaG90b0hlaWdodCwgTWVhc3VyZVNwZWMuRVhBQ1RMWSkKICAgICAgICBzdXBlci5vbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYywgbWF4SGVpZ2h0TWVhc3VyZVNwZWMpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vICAgICAgICAgICAgZmxvYXQgZHN0WSA9IGdldFRyYW5zbGF0aW9uWSgpIC0gZHk7Ci8vICAgICAgICAgICAgc2V0VHJhbnNsYXRpb25ZKGRzdFkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -335,7 +336,7 @@
       <last-replace>~</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
