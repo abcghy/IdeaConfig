@@ -84,15 +84,17 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1592559656646" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/SnapHelper.java" timestamp="1592563130768" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/layout_fusion_plugin.xml" timestamp="1592559910867" />
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592565182908">
-        <mark key="'" line="61" column="36" />
-        <mark key="[" line="163" column="51" />
-        <mark key="]" line="165" column="19" />
-        <mark key="^" line="165" column="19" />
-        <mark key="." line="165" column="18" />
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592797556203">
+        <mark key="'" line="277" column="9" />
+        <mark key="[" line="66" column="26" />
+        <mark key="]" line="66" column="39" />
+        <mark key="^" line="66" column="39" />
+        <mark key="." line="66" column="38" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/OverScroller.java" timestamp="1592564154648">
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/OverScroller.java" timestamp="1592797514008">
         <mark key="'" line="756" column="24" />
+        <mark key="[" line="650" column="0" />
+        <mark key="]" line="650" column="90" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_recommend_second_op_top.xml" timestamp="1592559761503">
         <mark key="[" line="26" column="9" />
@@ -100,7 +102,7 @@
         <mark key="." line="26" column="36" />
         <mark key="^" line="26" column="37" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.1/ae10d2e1965b944830c2c2aaf154765ceb32e0bc/core-1.0.1-sources.jar!/androidx/core/view/NestedScrollingParent2.java" timestamp="1592561457993" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.1/ae10d2e1965b944830c2c2aaf154765ceb32e0bc/core-1.0.1-sources.jar!/androidx/core/view/NestedScrollingParent2.java" timestamp="1592794203624" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/VelocityTracker.java" timestamp="1592561536756" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/widget/OverScroller.java" timestamp="1592561335576" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/fusion/FusionChangeBgHelper.java" timestamp="1592560447929">
@@ -110,24 +112,19 @@
         <mark key="^" line="121" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/widget/ImageRenderView.java" timestamp="1592559358611" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" timestamp="1592558751666" />
-      <file name="/fragment.kt" timestamp="1592557375065">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.coordinatorlayout/coordinatorlayout/1.0.0/4325b3c4422ad58201ed8dc15ae56bda9accedf2/coordinatorlayout-1.0.0-sources.jar!/androidx/coordinatorlayout/widget/CoordinatorLayout.java" timestamp="1592795787166" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.1/ae10d2e1965b944830c2c2aaf154765ceb32e0bc/core-1.0.1-sources.jar!/androidx/core/view/ViewParentCompat.java" timestamp="1592794300366" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" timestamp="1592561737330" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/com/android/systemui/qs/touch/OverScroll.java" timestamp="1592560634198" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/PagerSnapHelper.java" timestamp="1592562665904" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.1/ae10d2e1965b944830c2c2aaf154765ceb32e0bc/core-1.0.1-sources.jar!/androidx/core/view/NestedScrollingParent.java" timestamp="1592561569293" />
-      <file name="/Clipboard.txt" timestamp="1592557066169">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.1/ae10d2e1965b944830c2c2aaf154765ceb32e0bc/core-1.0.1-sources.jar!/androidx/core/view/NestedScrollingParentHelper.java" timestamp="1592794626091" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.1/ae10d2e1965b944830c2c2aaf154765ceb32e0bc/core-1.0.1-sources.jar!/androidx/core/view/NestedScrollingParent.java" timestamp="1592796764746" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.1/ae10d2e1965b944830c2c2aaf154765ceb32e0bc/core-1.0.1-sources.jar!/androidx/core/view/NestedScrollingChildHelper.java" timestamp="1592794345915" />
       <file name="/fragment.java" timestamp="1592560079881">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="49" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" />
-      <jump line="174" column="33" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
       <jump line="171" column="48" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
       <jump line="177" column="39" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
       <jump line="178" column="40" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
@@ -226,6 +223,8 @@
       <jump line="26" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_recommend.xml" />
       <jump line="756" column="24" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/OverScroller.java" />
       <jump line="61" column="36" filename="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" />
+      <jump line="157" column="0" filename="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" />
+      <jump line="277" column="9" filename="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -237,8 +236,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>context.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -248,13 +247,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>context.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PCsrPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEVTVFRUVEZGRiIsICJvbk5lc3RlZFByZVNjcm9sbDogIiArIGR5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgZmxvYXQgcHBpID0gY29udGV4dC5nZXRSZXNvdXJjZXMoKS5nZXREaXNwbGF5TWV0cmljcygpLmRlbnNpdHkgKiAxNjAuMGY7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -263,13 +262,13 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFNuYXBIZWxwZXIgc25hcEhlbHBlciA9IG5ldyBQYWdlclNuYXBIZWxwZXIoKTsKICAgICAgICBTbmFwSGVscGVyIHNuYXBIZWxwZXIgPSBuZXcgTGluZWFyU25hcEhlbHBlcigpOwogICAgICAgIHNuYXBIZWxwZXIuYXR0YWNoVG9SZWN5Y2xlclZpZXcocnYpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsICJvbk5lc3RlZFByZUZsaW5nOiB2ZWxvY2l0eVg6ICIgKyB2ZWxvY2l0eVggKyAiLCB2ZWxvY2l0eVk6ICIgKyB2ZWxvY2l0eVkpOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsICJvbk5lc3RlZEZsaW5nOiB2ZWxvY2l0eVg6ICIgKyB2ZWxvY2l0eVggKyAiLCB2ZWxvY2l0eVk6ICIgKyB2ZWxvY2l0eVkgKyAiLCBjb25zdW1lZDogIiArIGNvbnN1bWVkKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -278,10 +277,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHsKCiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
