@@ -84,14 +84,14 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1592559656646" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/SnapHelper.java" timestamp="1592563130768" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/layout_fusion_plugin.xml" timestamp="1592559910867" />
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592797556203">
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" timestamp="1592801631832">
         <mark key="'" line="277" column="9" />
-        <mark key="[" line="66" column="26" />
-        <mark key="]" line="66" column="39" />
-        <mark key="^" line="66" column="39" />
-        <mark key="." line="66" column="38" />
+        <mark key="[" line="77" column="49" />
+        <mark key="]" line="79" column="60" />
+        <mark key="^" line="79" column="60" />
+        <mark key="." line="79" column="59" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/OverScroller.java" timestamp="1592797514008">
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/OverScroller.java" timestamp="1592798559196">
         <mark key="'" line="756" column="24" />
         <mark key="[" line="650" column="0" />
         <mark key="]" line="650" column="90" />
@@ -236,8 +236,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>context.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW5zbGF0aW9uWQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -247,7 +247,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>context.</text>
+        <text>ofInt</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PCsrPg==</text>
@@ -256,22 +256,22 @@
         <text encoding="base64">ICAgICAgICAgICAgZmluYWwgZmxvYXQgcHBpID0gY29udGV4dC5nZXRSZXNvdXJjZXMoKS5nZXREaXNwbGF5TWV0cmljcygpLmRlbnNpdHkgKiAxNjAuMGY7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW5zbGF0aW9uWQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoVEFHLCAiZHVyYXRpb246ICIgKyBkdXJhdGlvbiArICIsIGRpc3RhbmNlOiAiICsgZGlzdGFuY2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsICJvbk5lc3RlZFByZUZsaW5nOiB2ZWxvY2l0eVg6ICIgKyB2ZWxvY2l0eVggKyAiLCB2ZWxvY2l0eVk6ICIgKyB2ZWxvY2l0eVkpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzY3JvbGxUbygpOwogICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsICJvbk5lc3RlZEZsaW5nOiB2ZWxvY2l0eVg6ICIgKyB2ZWxvY2l0eVggKyAiLCB2ZWxvY2l0eVk6ICIgKyB2ZWxvY2l0eVkgKyAiLCBjb25zdW1lZDogIiArIGNvbnN1bWVkKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbmltYXRvci5zZXRJbnRWYWx1ZXMoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmltYXRvci5zZXR1cFN0YXJ0VmFsdWVzKCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -280,10 +280,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsICJvbk5lc3RlZFByZUZsaW5nOiB2ZWxvY2l0eVg6ICIgKyB2ZWxvY2l0eVggKyAiLCB2ZWxvY2l0eVk6ICIgKyB2ZWxvY2l0eVkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsICJvbk5lc3RlZEZsaW5nOiB2ZWxvY2l0eVg6ICIgKyB2ZWxvY2l0eVggKyAiLCB2ZWxvY2l0eVk6ICIgKyB2ZWxvY2l0eVkgKyAiLCBjb25zdW1lZDogIiArIGNvbnN1bWVkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
