@@ -11,6 +11,7 @@
         <entry>rvsearch</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">PCsrPg==</entry>
+        <entry>public</entry>
       </history-search>
       <history-cmd>
         <entry>154</entry>
@@ -81,26 +82,39 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerSecondOpView.kt" timestamp="1592816232094">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1592883022462">
+        <mark key="'" line="1269" column="60" />
+        <mark key="[" line="270" column="37" />
+        <mark key="]" line="271" column="27" />
+        <mark key="^" line="271" column="27" />
+        <mark key="." line="271" column="26" />
       </file>
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1592820745832">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="51" column="39" />
-        <mark key="." line="20" column="4" />
-        <mark key="^" line="18" column="46" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" timestamp="1592824307969">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" timestamp="1592881271794">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="^" line="59" column="26" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_search_prepare.xml" timestamp="1592882065879">
+        <mark key="[" line="36" column="38" />
+        <mark key="]" line="36" column="39" />
+        <mark key="^" line="36" column="39" />
+        <mark key="." line="36" column="38" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_recommend_second_op_top.xml" timestamp="1592822327148" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_image_edit.xml" timestamp="1592882979086">
+        <mark key="[" line="381" column="9" />
+        <mark key="]" line="381" column="47" />
+        <mark key="." line="381" column="46" />
+        <mark key="^" line="381" column="47" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/jkeypanel/src/main/java/cn/dreamtobe/kpswitch/IPanelHeightTarget.java" timestamp="1592824786572" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" timestamp="1592821662518" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" timestamp="1592883026321">
+        <mark key="'" line="272" column="4" />
+        <mark key="[" line="297" column="0" />
+        <mark key="]" line="297" column="0" />
+        <mark key="." line="297" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/listener/OnKeyboardUpListener.kt" timestamp="1592823942149">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="22" />
@@ -117,27 +131,37 @@
         <mark key="^" line="57" column="48" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1592824591080">
-        <mark key="'" line="209" column="59" />
-        <mark key="[" line="147" column="29" />
-        <mark key="]" line="147" column="36" />
-        <mark key="^" line="147" column="36" />
-        <mark key="." line="147" column="35" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1592882174852">
+        <mark key="'" line="221" column="59" />
+        <mark key="]" line="143" column="8" />
+        <mark key="^" line="143" column="8" />
+        <mark key="." line="143" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" timestamp="1592824505448" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetLegacyInterface.kt" timestamp="1592882691778">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="13" column="1" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" timestamp="1592882951744">
+        <mark key="'" line="64" column="34" />
+        <mark key="[" line="194" column="66" />
+        <mark key="]" line="195" column="26" />
+        <mark key="^" line="195" column="26" />
+        <mark key="." line="195" column="25" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/build.gradle" timestamp="1592825003730">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="329" column="0" />
         <mark key="]" line="329" column="49" />
       </file>
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomLayout.kt" timestamp="1592825913327">
+      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomLayout.kt" timestamp="1592880048204">
         <mark key="'" line="2" column="3" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
+        <mark key="[" line="116" column="16" />
+        <mark key="]" line="116" column="22" />
+        <mark key="^" line="116" column="22" />
+        <mark key="." line="116" column="21" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1592821127118" />
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/RVAdapter.java" timestamp="1592820789249" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_second_op_demo.xml" timestamp="1592824177834">
         <mark key="[" line="18" column="47" />
         <mark key="]" line="19" column="32" />
@@ -160,34 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1157" column="20" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
-      <jump line="118" column="16" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" />
-      <jump line="446" column="55" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/BgSelectView.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RowAdapter.kt" />
-      <jump line="83" column="24" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" />
-      <jump line="132" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" />
-      <jump line="99" column="16" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/values/strings.xml" />
-      <jump line="140" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" />
-      <jump line="155" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" />
-      <jump line="131" column="23" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" />
-      <jump line="24" column="19" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_recommend.xml" />
-      <jump line="98" column="16" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" />
-      <jump line="217" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" />
-      <jump line="153" column="55" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" />
-      <jump line="536" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" />
-      <jump line="363" column="130" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/FilterOpView.java" />
-      <jump line="996" column="91" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" />
-      <jump line="426" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" />
-      <jump line="97" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" />
-      <jump line="71" column="52" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" />
-      <jump line="41" column="73" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" />
-      <jump line="77" column="50" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" />
-      <jump line="78" column="28" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" />
-      <jump line="163" column="35" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/model/StickerItemDefault.java" />
-      <jump line="84" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/widget/RenderOverlayFrameLayout.java" />
-      <jump line="222" column="24" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/BgSelectView.java" />
-      <jump line="978" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
       <jump line="13" column="25" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/EditSaasReq.java" />
       <jump line="55" column="29" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/EditSaasReq.java" />
       <jump line="2" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/AndroidManifest.xml" />
@@ -260,6 +256,34 @@
       <jump line="214" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" />
       <jump line="209" column="59" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" />
       <jump line="63" column="40" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/view/HomeScrollView.java" />
+      <jump line="298" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="27" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="31" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="35" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="41" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="45" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="55" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="69" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="131" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="176" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="182" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="186" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="200" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="207" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="210" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="229" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="248" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="253" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="257" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="263" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="267" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="272" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" />
+      <jump line="63" column="12" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" />
+      <jump line="33" column="11" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" />
+      <jump line="64" column="34" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" />
+      <jump line="1269" column="60" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -272,7 +296,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlTGF5b3V0UGFyYW1zIHsKICAgICAgICAgICAgICAgIHRoaXMuaGVpZ2h0ID0gdGhpc0BTZWNvbmRCb3R0b21MYXlvdXQuaGVpZ2h0ICsgZHlVbmNvbnN1bWVkCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -282,40 +306,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PFZpZXdHcm91cC5MYXlvdXRQYXJhbXM+</text>
+        <text>com.versa.ui.widget.BottomSheetView</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PCsrPg==</text>
+        <text>public</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5jb3JlOmNvcmUta3R4OjEuMy4wIgo=</text>
+      <register name="0" type="4">
+        <text>public void setDragAble(boolean dragAble)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlTGF5b3V0UGFyYW1zIHsKICAgICAgICAgICAgICAgIHRoaXMuaGVpZ2h0ID0gdGhpc0BTZWNvbmRCb3R0b21MYXlvdXQuaGVpZ2h0ICsgZHlVbmNvbnN1bWVkCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlTGF5b3V0UGFyYW1zPFZpZXdHcm91cC5MYXlvdXRQYXJhbXM+IHsgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB1cGRhdGVMYXlvdXRQYXJhbXM8Vmlld0dyb3VwLkxheW91dFBhcmFtcz4geyBscCAtPgovLy8vICAgICAgICAgICAgICAgIGxwLmhlaWdodCA9IGhlaWdodCArIGR5VW5jb25zdW1lZAovLyAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHsKICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxjb20udmVyc2EudWkud2lkZ2V0LlNlY29uZEJvdHRvbUxheW91dAogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iYm90dG9tIgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL3doaXRlIj4KCiAgICAgICAgPGNvbS52ZXJzYS51aS5pbWFnZWVkaXQuc2Vjb25kb3Audmlldy5yZWNvbW1lbmQuUmVjb21tZW5kU2Vjb25kT3BWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcnNvdiIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAvPgogICAgICAgIDwhLS0gICAgPGNvbS52ZXJzYS51aS5pbWFnZWVkaXQuc2Vjb25kb3Audmlldy5zdGlja2VyLlN0aWNrZXJTZWNvbmRPcFZpZXctLT4KICAgICAgICA8IS0tICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Jzb3YiLS0+CiAgICAgICAgPCEtLSAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KICAgICAgICA8IS0tICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIgLz4tLT4KCiAgICAgICAgPCEtLSAgICA8Y29tLnZlcnNhLnVpLmltYWdlZWRpdC5zZWNvbmRvcC52aWV3LmZpbHRlci5GaWx0ZXJTZWNvbmRPcE5vcm1hbFZpZXctLT4KICAgICAgICA8IS0tICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Jzb3YiLS0+CiAgICAgICAgPCEtLSAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KICAgICAgICA8IS0tICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIgLz4tLT4KCiAgICAgICAgPCEtLSAgICA8Y29tLnZlcnNhLnVpLmltYWdlZWRpdC5zZWNvbmRvcC52aWV3LmJnLkNoYW5nZUJnU2Vjb25kT3BWaWV3LS0+CiAgICAgICAgPCEtLSAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yc292Ii0tPgogICAgICAgIDwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CiAgICAgICAgPCEtLSAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiIC8+LS0+CgogICAgPC9jb20udmVyc2EudWkud2lkZ2V0LlNlY29uZEJvdHRvbUxheW91dD4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNhbGxiYWNrID0gY2IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmltcG9ydCBhbmRyb2lkLmFuaW1hdGlvbi5BbmltYXRvcgppbXBvcnQgYW5kcm9pZC5hbmltYXRpb24uQW5pbWF0b3JMaXN0ZW5lckFkYXB0ZXIKaW1wb3J0IGFuZHJvaWQuYW5pbWF0aW9uLlZhbHVlQW5pbWF0b3IKaW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0CmltcG9ydCBhbmRyb2lkLnV0aWwuQXR0cmlidXRlU2V0CmltcG9ydCBhbmRyb2lkLnV0aWwuTG9nCmltcG9ydCBhbmRyb2lkLnZpZXcuVmlldwppbXBvcnQgYW5kcm9pZC52aWV3LmFuaW1hdGlvbi5EZWNlbGVyYXRlSW50ZXJwb2xhdG9yCmltcG9ydCBhbmRyb2lkLndpZGdldC5GcmFtZUxheW91dAppbXBvcnQgYW5kcm9pZHguYW5ub3RhdGlvbi5JbnREZWYKaW1wb3J0IGFuZHJvaWR4LmNvcmUudmlldy5OZXN0ZWRTY3JvbGxpbmdQYXJlbnQyCmltcG9ydCBjb20uaHV5bi5iYXNlZnJhbWV3b3JrLnV0aWxzLlN5c1V0aWwKCmNvbnN0IHZhbCBTRUNPTkRfQk9UVE9NX0hBTEYgPSAwCmNvbnN0IHZhbCBTRUNPTkRfQk9UVE9NX0ZVTEwgPSAyCmNvbnN0IHZhbCBTRUNPTkRfQk9UVE9NX0NMT1NFID0gNAoKQEludERlZih2YWx1ZSA9IFtTRUNPTkRfQk9UVE9NX0hBTEYsIFNFQ09ORF9CT1RUT01fRlVMTCwgU0VDT05EX0JPVFRPTV9DTE9TRV0pCmFubm90YXRpb24gY2xhc3MgU2Vjb25kQm90dG9tU3RhdGUKCmludGVyZmFjZSBTZWNvbmRCb3R0b21MaXN0ZW5lciB7CiAgICBmdW4gb25TdGF0ZUNoYW5nZWQoQFNlY29uZEJvdHRvbVN0YXRlIHN0YXRlOiBJbnQpCn0KCmNsYXNzIFNlY29uZEJvdHRvbUxheW91dCA6IEZyYW1lTGF5b3V0LCBOZXN0ZWRTY3JvbGxpbmdQYXJlbnQyIHsKICAgIHByaXZhdGUgdmFsIFRBRyA9ICJCb3R0b21TaGVldFZpZXciCiAgICBwcml2YXRlIHZhbCBzY3JlZW5IZWlnaHQ6IEludAoKICAgIHZhciBzZWNvbmRCb3R0b21MaXN0ZW5lcjogU2Vjb25kQm90dG9tTGlzdGVuZXI/ID0gbnVsbAoKICAgIGNvbnN0cnVjdG9yKGNvbnRleHQ6IENvbnRleHQpIDogdGhpcyhjb250ZXh0LCBudWxsKSB7fQogICAgY29uc3RydWN0b3IoY29udGV4dDogQ29udGV4dCwgYXR0cnM6IEF0dHJpYnV0ZVNldD8pIDogdGhpcyhjb250ZXh0LCBhdHRycywgMCkge30KICAgIGNvbnN0cnVjdG9yKGNvbnRleHQ6IENvbnRleHQsIGF0dHJzOiBBdHRyaWJ1dGVTZXQ/LCBkZWZTdHlsZUF0dHI6IEludCkgOiBzdXBlcihjb250ZXh0LCBhdHRycywgZGVmU3R5bGVBdHRyKSB7CiAgICAgICAgc2NyZWVuSGVpZ2h0ID0gU3lzVXRpbC5nZXRTY3JlZW5IZWlnaHQoY29udGV4dCkKICAgICAgICBpbml0KCkKICAgIH0KCiAgICBAU2Vjb25kQm90dG9tU3RhdGUKICAgIHByaXZhdGUgdmFyIG1TdGF0ZTogSW50ID0gU0VDT05EX0JPVFRPTV9IQUxGCiAgICBAU2Vjb25kQm90dG9tU3RhdGUKICAgIHByaXZhdGUgdmFyIGFuaW1hdGVUb1N0YXRlOiBJbnQgPSBTRUNPTkRfQk9UVE9NX0hBTEYKICAgIHByaXZhdGUgdmFyIHZhbHVlQW5pbWF0b3IgPSBWYWx1ZUFuaW1hdG9yKCkuYXBwbHkgewogICAgICAgIGR1cmF0aW9uID0gMTAwCiAgICAgICAgaW50ZXJwb2xhdG9yID0gRGVjZWxlcmF0ZUludGVycG9sYXRvcigpCiAgICAgICAgYWRkVXBkYXRlTGlzdGVuZXIgewogICAgICAgICAgICB0cmFuc2xhdGlvblkgPSBpdC5hbmltYXRlZFZhbHVlIGFzIEZsb2F0CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgdmFyIGFuaW1hdG9yTGlzdGVuZXIgPSBvYmplY3Q6IEFuaW1hdG9yTGlzdGVuZXJBZGFwdGVyKCkgewogICAgICAgIG92ZXJyaWRlIGZ1biBvbkFuaW1hdGlvbkVuZChhbmltYXRpb246IEFuaW1hdG9yPykgewogICAgICAgICAgICBzdXBlci5vbkFuaW1hdGlvbkVuZChhbmltYXRpb24pCgogICAgICAgICAgICBtU3RhdGUgPSBhbmltYXRlVG9TdGF0ZQogICAgICAgICAgICBzZWNvbmRCb3R0b21MaXN0ZW5lcj8ub25TdGF0ZUNoYW5nZWQobVN0YXRlKQoKICAgICAgICAgICAgYW5pbWF0aW9uPy5yZW1vdmVBbGxMaXN0ZW5lcnMoKQogICAgICAgIH0KCiAgICAgICAgb3ZlcnJpZGUgZnVuIG9uQW5pbWF0aW9uQ2FuY2VsKGFuaW1hdGlvbjogQW5pbWF0b3I/KSB7CiAgICAgICAgICAgIHN1cGVyLm9uQW5pbWF0aW9uQ2FuY2VsKGFuaW1hdGlvbikKICAgICAgICAgICAgYW5pbWF0aW9uPy5yZW1vdmVBbGxMaXN0ZW5lcnMoKQogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIGZ1biBpbml0KCkgewogICAgICAgIHRyYW5zbGF0aW9uWSA9IDAuMmYgKiBzY3JlZW5IZWlnaHQKICAgICAgICBtU3RhdGUgPSBTRUNPTkRfQk9UVE9NX0hBTEYKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25NZWFzdXJlKHdpZHRoTWVhc3VyZVNwZWM6IEludCwgaGVpZ2h0TWVhc3VyZVNwZWM6IEludCkgewogICAgICAgIHN1cGVyLm9uTWVhc3VyZSh3aWR0aE1lYXN1cmVTcGVjLCBoZWlnaHRNZWFzdXJlU3BlYykKCi8vICAgICAgICB2YWwgc2NyZWVuSGVpZ2h0ID0gU3lzVXRpbC5nZXRTY3JlZW5IZWlnaHQoY29udGV4dCkKICAgICAgICB2YWwgc2VsZWN0UGhvdG9IZWlnaHQgPSAoc2NyZWVuSGVpZ2h0ICogMC42NWYpLnRvSW50KCkKCiAgICAgICAgdmFsIG1heEhlaWdodE1lYXN1cmVTcGVjID0gTWVhc3VyZVNwZWMubWFrZU1lYXN1cmVTcGVjKHNlbGVjdFBob3RvSGVpZ2h0LCBNZWFzdXJlU3BlYy5FWEFDVExZKQogICAgICAgIHN1cGVyLm9uTWVhc3VyZSh3aWR0aE1lYXN1cmVTcGVjLCBtYXhIZWlnaHRNZWFzdXJlU3BlYykKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25TdGFydE5lc3RlZFNjcm9sbChjaGlsZDogVmlldywgdGFyZ2V0OiBWaWV3LCBheGVzOiBJbnQsIHR5cGU6IEludCk6IEJvb2xlYW4gewogICAgICAgIHJldHVybiB0cnVlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIG9uTmVzdGVkU2Nyb2xsQWNjZXB0ZWQoY2hpbGQ6IFZpZXcsIHRhcmdldDogVmlldywgYXhlczogSW50LCB0eXBlOiBJbnQpIHt9CgogICAgb3ZlcnJpZGUgZnVuIG9uU3RvcE5lc3RlZFNjcm9sbCh0YXJnZXQ6IFZpZXcsIHR5cGU6IEludCkgewogICAgICAgIExvZy5lKFRBRywgIm9uU3RvcE5lc3RlZFNjcm9sbDogIiArIHR5cGUpCgovLyAgICAgICAgaWYgKHR5cGUgPT0gVmlld0NvbXBhdC5UWVBFX1RPVUNIKSB7Ci8vICAgICAgICAgICAgcmV0dXJuCi8vICAgICAgICB9CiAgICAgICAgLy8g5Yik5pat5b2T5YmN5bqU6K+l5aaC5L2V5YGa5Yqo55S7CiAgICAgICAgd2hlbiAodHJhbnNsYXRpb25ZKSB7CiAgICAgICAgICAgIGluIDBmLi4oMC4xZiAqIHNjcmVlbkhlaWdodCkgLT4gewogICAgICAgICAgICAgICAgLy8gRlVMTCDmqKHlvI8KICAgICAgICAgICAgICAgIGFuaW1hdGVUbyhTRUNPTkRfQk9UVE9NX0ZVTEwpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaW4gKDAuMWYgKiBzY3JlZW5IZWlnaHQpLi4oMC40MjVmICogc2NyZWVuSGVpZ2h0KSAtPiB7CiAgICAgICAgICAgICAgICAvLyDljYrmqKHlvI8KICAgICAgICAgICAgICAgIGFuaW1hdGVUbyhTRUNPTkRfQk9UVE9NX0hBTEYpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaW4gKDAuNDI1ZiAqIHNjcmVlbkhlaWdodCkuLigwLjY1ZiAqIHNjcmVlbkhlaWdodCkgLT4gewogICAgICAgICAgICAgICAgLy8gY2xvc2UKICAgICAgICAgICAgICAgIGFuaW1hdGVUbyhTRUNPTkRfQk9UVE9NX0NMT1NFKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBvbk5lc3RlZFNjcm9sbCh0YXJnZXQ6IFZpZXcsIGR4Q29uc3VtZWQ6IEludCwgZHlDb25zdW1lZDogSW50LCBkeFVuY29uc3VtZWQ6IEludCwgZHlVbmNvbnN1bWVkOiBJbnQsIHR5cGU6IEludCkgewogICAgICAgIExvZy5lKFRBRywgIm9uTmVzdGVkU2Nyb2xsOiBkeUM6ICRkeUNvbnN1bWVkLCBkeVVDOiAkZHlVbmNvbnN1bWVkIikKLy8gICAgICAgIGlmICh0eXBlID09IFZpZXdDb21wYXQuVFlQRV9OT05fVE9VQ0gpIHsKLy8gICAgICAgICAgICBzdG9wTmVzdGVkU2Nyb2xsKCk7Ci8vICAgICAgICAgICAgcmV0dXJuOwovLyAgICAgICAgfQogICAgICAgIGlmICh2YWx1ZUFuaW1hdG9yLmlzUnVubmluZykgewogICAgICAgICAgICB2YWx1ZUFuaW1hdG9yLmNhbmNlbCgpCiAgICAgICAgfQogICAgICAgIGlmIChkeVVuY29uc3VtZWQgPiAwKSB7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdmFsIGRzdFkgPSB0cmFuc2xhdGlvblkgLSBkeVVuY29uc3VtZWQKICAgICAgICAgICAgdHJhbnNsYXRpb25ZID0gZHN0WQogICAgICAgIH0KICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25OZXN0ZWRQcmVTY3JvbGwodGFyZ2V0OiBWaWV3LCBkeDogSW50LCBkeTogSW50LCBjb25zdW1lZDogSW50QXJyYXksIHR5cGU6IEludCkgewogICAgICAgIExvZy5lKFRBRywgIm9uTmVzdGVkUHJlU2Nyb2xsOiBkeTogJGR5IikKLy8gICAgICAgIGlmICh0eXBlID09IFZpZXdDb21wYXQuVFlQRV9OT05fVE9VQ0gpIHsKLy8gICAgICAgICAgICByZXR1cm47Ci8vICAgICAgICB9CgogICAgICAgIGlmICh2YWx1ZUFuaW1hdG9yLmlzUnVubmluZykgewogICAgICAgICAgICB2YWx1ZUFuaW1hdG9yLmNhbmNlbCgpCiAgICAgICAgfQogICAgICAgIGlmIChkeSA+IDApIHsKICAgICAgICAgICAgLy8g5YWI5LiN566hCiAgICAgICAgICAgIHZhciBkc3RZID0gdHJhbnNsYXRpb25ZIC0gZHkKICAgICAgICAgICAgaWYgKGRzdFkgPCAwKSB7CiAgICAgICAgICAgICAgICBkc3RZID0gMGYKICAgICAgICAgICAgfQogICAgICAgICAgICB2YWwgY29uc3VtZWRZID0gLShkc3RZIC0gdHJhbnNsYXRpb25ZKQogICAgICAgICAgICB0cmFuc2xhdGlvblkgPSBkc3RZCiAgICAgICAgICAgIGNvbnN1bWVkWzFdID0gY29uc3VtZWRZLnRvSW50KCkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyDlvoDkuIvmi4kKCi8vICAgICAgICAgICAgZmxvYXQgZHN0WSA9IGdldFRyYW5zbGF0aW9uWSgpIC0gZHk7Ci8vICAgICAgICAgICAgc2V0VHJhbnNsYXRpb25ZKGRzdFkpOwogICAgICAgIH0KICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25OZXN0ZWRGbGluZyh0YXJnZXQ6IFZpZXcsIHZlbG9jaXR5WDogRmxvYXQsIHZlbG9jaXR5WTogRmxvYXQsIGNvbnN1bWVkOiBCb29sZWFuKTogQm9vbGVhbiB7CiAgICAgICAgdmFsIG5lc3RlZEZsaW5nID0gc3VwZXIub25OZXN0ZWRGbGluZyh0YXJnZXQsIHZlbG9jaXR5WCwgdmVsb2NpdHlZLCBjb25zdW1lZCkKICAgICAgICBMb2cuZShUQUcsICJvbk5lc3RlZEZsaW5nOiB2ZWxvY2l0eVg6ICR2ZWxvY2l0eVgsIHZlbG9jaXR5WTogJHZlbG9jaXR5WSwgY29uc3VtZWQ6ICRjb25zdW1lZCwgcmV0OiAkbmVzdGVkRmxpbmciKQogICAgICAgIGlmICh2ZWxvY2l0eVkgPCAwKSB7CiAgICAgICAgICAgIC8vIOS4i+aLiQogICAgICAgICAgICAvLyDojrflj5bml7bplb8KLy8gICAgICAgICAgICBpbnQgZHVyYXRpb24gPSBnZXRTcGxpbmVGbGluZ0R1cmF0aW9uKChpbnQpIHZlbG9jaXR5WSk7Ci8vICAgICAgICAgICAgLy8g6I635Y+W6Led56a7Ci8vICAgICAgICAgICAgZG91YmxlIGRpc3RhbmNlID0gZ2V0U3BsaW5lRmxpbmdEaXN0YW5jZSgoaW50KSB2ZWxvY2l0eVkpOwovLwovLy8vICAgICAgICAgICAgc2Nyb2xsVG8oKTsKLy8gICAgICAgICAgICBmbG9hdCBvbGRUcmFuc2xhdGlvblkgPSBnZXRUcmFuc2xhdGlvblkoKTsKLy8gICAgICAgICAgICBmbG9hdCBkc3RUcmFuc2xhdGlvblkgPSAoZmxvYXQpIChvbGRUcmFuc2xhdGlvblkgKyBkaXN0YW5jZSk7Ci8vICAgICAgICAgICAgYW5pbWF0b3Iuc2V0RmxvYXRWYWx1ZXMob2xkVHJhbnNsYXRpb25ZLCBkc3RUcmFuc2xhdGlvblkpOwovLyAgICAgICAgICAgIExvZy5lKFRBRywgImR1cmF0aW9uOiAiICsgZHVyYXRpb24gKyAiLCBkaXN0YW5jZTogIiArIGRpc3RhbmNlICsgIiwgb2xkWTogIiArIG9sZFRyYW5zbGF0aW9uWSArICIsIGRzdFk6ICIgKyBkc3RUcmFuc2xhdGlvblkpOwovLyAgICAgICAgICAgIGFuaW1hdG9yLnNldER1cmF0aW9uKGR1cmF0aW9uKTsKLy8gICAgICAgICAgICBhbmltYXRvci5zdGFydCgpOwogICAgICAgICAgICByZXR1cm4gdHJ1ZQogICAgICAgIH0KICAgICAgICByZXR1cm4gbmVzdGVkRmxpbmcKICAgIH0KCiAgICBmdW4gb3BlbigpIHsKICAgICAgICBhbmltYXRlVG8oU0VDT05EX0JPVFRPTV9GVUxMKQogICAgfQoKICAgIGZ1biBoYWxmKCkgewogICAgICAgIGFuaW1hdGVUbyhTRUNPTkRfQk9UVE9NX0hBTEYpCiAgICB9CgogICAgZnVuIGNsb3NlKCkgewogICAgICAgIGFuaW1hdGVUbyhTRUNPTkRfQk9UVE9NX0NMT1NFKQogICAgfQoKICAgIHByaXZhdGUgZnVuIGFuaW1hdGVUbyhAU2Vjb25kQm90dG9tU3RhdGUgc2Vjb25kQm90dG9tU3RhdGU6IEludCkgewogICAgICAgIHdoZW4gKHNlY29uZEJvdHRvbVN0YXRlKSB7CiAgICAgICAgICAgIFNFQ09ORF9CT1RUT01fRlVMTCAtPiB7CiAgICAgICAgICAgICAgICB2YWx1ZUFuaW1hdG9yLnNldEZsb2F0VmFsdWVzKHRyYW5zbGF0aW9uWSwgMGYpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgU0VDT05EX0JPVFRPTV9IQUxGIC0+IHsKICAgICAgICAgICAgICAgIHZhbHVlQW5pbWF0b3Iuc2V0RmxvYXRWYWx1ZXModHJhbnNsYXRpb25ZLCAwLjJmICogc2NyZWVuSGVpZ2h0KQogICAgICAgICAgICB9CiAgICAgICAgICAgIFNFQ09ORF9CT1RUT01fQ0xPU0UgLT4gewogICAgICAgICAgICAgICAgdmFsdWVBbmltYXRvci5zZXRGbG9hdFZhbHVlcyh0cmFuc2xhdGlvblksIDAuNjVmICogc2NyZWVuSGVpZ2h0KQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGFuaW1hdGVUb1N0YXRlID0gc2Vjb25kQm90dG9tU3RhdGUKICAgICAgICB2YWx1ZUFuaW1hdG9yLmFkZExpc3RlbmVyKGFuaW1hdG9yTGlzdGVuZXIpCiAgICAgICAgdmFsdWVBbmltYXRvci5zdGFydCgpCiAgICB9Cn0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -327,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">PCsrPg==</last-search>
+      <last-search>public</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PCsrPg==</last-pattern>
+      <last-pattern>public</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
