@@ -82,38 +82,38 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/layer/LayerOp.kt" timestamp="1592899308483" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_image_edit.xml" timestamp="1592901838853" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" timestamp="1592900515780">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="35" />
-        <mark key="." line="3" column="34" />
-        <mark key="^" line="3" column="35" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1592906689080" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_image_edit.xml" timestamp="1592907436175">
+        <mark key="[" line="427" column="24" />
+        <mark key="]" line="427" column="36" />
+        <mark key="." line="427" column="35" />
+        <mark key="^" line="427" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/AdjustOpView.java" timestamp="1592905557908" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" timestamp="1592906352566">
-        <mark key="'" line="294" column="18" />
-        <mark key="[" line="184" column="12" />
-        <mark key="]" line="185" column="16" />
-        <mark key="." line="185" column="15" />
-        <mark key="^" line="185" column="16" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" timestamp="1592906937685">
+        <mark key="'" line="302" column="18" />
+        <mark key="[" line="224" column="52" />
+        <mark key="]" line="225" column="48" />
+        <mark key="." line="225" column="47" />
+        <mark key="^" line="225" column="48" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/layout_beauty_op.xml" timestamp="1592906627763">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/LayerConfigAdapter.kt" timestamp="1592905901440" />
-      <file name="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomLayout.kt" timestamp="1592900911425">
-        <mark key="'" line="255" column="28" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="22" column="29" />
-        <mark key="." line="239" column="0" />
-        <mark key="^" line="239" column="5" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/CharacterPositionRecommendChain.java" timestamp="1592905977333" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/drawable/bg_tool_sheet.xml" timestamp="1592907156056" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/beauty/BeautyOp.java" timestamp="1592906487971" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/AdjustOp.java" timestamp="1592904457556" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1592904981430">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1592907052429">
         <mark key="'" line="907" column="47" />
-        <mark key="[" line="906" column="49" />
-        <mark key="]" line="906" column="87" />
-        <mark key="^" line="906" column="87" />
-        <mark key="." line="906" column="86" />
+        <mark key="[" line="1138" column="61" />
+        <mark key="]" line="1138" column="76" />
+        <mark key="." line="1138" column="75" />
+        <mark key="^" line="1138" column="76" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/blur/BlurOp.java" timestamp="1592905364704" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/LayerConfigFactory.kt" timestamp="1592905954297" />
@@ -125,7 +125,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/TemplateListItem.kt" timestamp="1592905889280" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/layout_single_menu_rv.xml" timestamp="1592906044744" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core-ktx/1.3.0/98b0507bcf3cd12d671bf6dac09262757b60351d/core-ktx-1.3.0-sources.jar!/androidx/core/view/View.kt" timestamp="1592901265306" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_layer_op.xml" timestamp="1592905210625">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="31" />
@@ -257,7 +256,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>layout_marginTop</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -267,45 +266,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>layout_marginTop</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
       </register>
-      <register name="0" type="8">
-        <text>if (mState == SECOND_BOTTOM_CLOSE) {
-    callback?.onClose()
-}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2Vjb25kQmFyQW5pbSA9IE9iamVjdEFuaW1hdG9yLm9mRmxvYXQobVNlY29uZExldmVsQmFyLCAiYWxwaGEiLCAxLCAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxjb20udmVyc2EudWkuaW1hZ2VlZGl0LnNlY29uZG9wLmFkanVzdC5BZGp1c3RQcm9ncmVzc0JhcgogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcHJvZ3Jlc3MiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXJfdmVydGljYWwiCiAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iMjRkcCIKICAgICAgICBhbmRyb2lkOnBhZGRpbmdSaWdodD0iMjRkcCIgLz4KCiAgICA8YW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5SZWN5Y2xlclZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3JlY3ljbGVyX3ZpZXciCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjYwZHAiCiAgICAgICAgYW5kcm9pZDpjbGlwVG9QYWRkaW5nPSJmYWxzZSIKICAgICAgICBhbmRyb2lkOnBhZGRpbmdMZWZ0PSIxMmRwIgogICAgICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSIxMmRwIgogICAgICAgIGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iMTBkcCIgLz4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">cm9vdC51cGRhdGVMYXlvdXRQYXJhbXM8TGluZWFyTGF5b3V0LkxheW91dFBhcmFtcz4geyAKICAgICAgICB9</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbWVhc3VyZWRIZWlnaHQgPSBic3YuZ2V0TWVhc3VyZWRIZWlnaHQoKTsKICAgICAgICBpbnQgYnN2SGVpZ2h0ID0gYnN2LmdldEhlaWdodCgpOwogICAgICAgIGludCBzb3ZNZWFzdXJlSGVpZ2h0ID0gc2Vjb25kT3BWaWV3LmdldE1lYXN1cmVkSGVpZ2h0KCk7CiAgICAgICAgaW50IHNvdkhlaWdodCA9IHNlY29uZE9wVmlldy5nZXRIZWlnaHQoKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQ2xvc2UoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBtU3RhdGUgPSBhbmltYXRlVG9TdGF0ZQovLyAgICAgICAgICAgIHNlY29uZEJvdHRvbUxpc3RlbmVyPy5vblN0YXRlQ2hhbmdlZChtU3RhdGUpCi8vICAgICAgICAgICAgaWYgKG1TdGF0ZSA9PSBTRUNPTkRfQk9UVE9NX0NMT1NFKSB7Ci8vICAgICAgICAgICAgICAgIGNhbGxiYWNrPy5vbkNsb3NlKCkKLy8gICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FsbGJhY2s/Lm9uQ2xvc2UoKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgb3ZlcnJpZGUgZnVuIG9uTWVhc3VyZSh3aWR0aE1lYXN1cmVTcGVjOiBJbnQsIGhlaWdodE1lYXN1cmVTcGVjOiBJbnQpIHsKLy8gICAgICAgIHZhciBoZWlnaHRNb2RlID0gTWVhc3VyZVNwZWMuZ2V0TW9kZShoZWlnaHRNZWFzdXJlU3BlYykKLy8gICAgICAgIHZhciBoZWlnaHRTaXplID0gTWVhc3VyZVNwZWMuZ2V0U2l6ZShoZWlnaHRNZWFzdXJlU3BlYykKLy8KLy8gICAgICAgIHZhbCBzY3JlZW5IZWlnaHQgPSBTeXNVdGlsLmdldFNjcmVlbkhlaWdodChjb250ZXh0KQovLyAgICAgICAgdmFsIHNlbGVjdFBob3RvSGVpZ2h0ID0gKHNjcmVlbkhlaWdodCAqIDAuNTVmKS50b0ludCgpCi8vCi8vICAgICAgICBoZWlnaHRTaXplID0gaWYgKGhlaWdodFNpemUgPD0gc2VsZWN0UGhvdG9IZWlnaHQpIGhlaWdodFNpemUgZWxzZSBzZWxlY3RQaG90b0hlaWdodAovLwovLyAgICAgICAgdmFsIG1heEhlaWdodE1lYXN1cmVTcGVjID0gTWVhc3VyZVNwZWMubWFrZU1lYXN1cmVTcGVjKGhlaWdodFNpemUsIE1lYXN1cmVTcGVjLkFUX01PU1QpCi8vICAgICAgICBzdXBlci5vbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYywgbWF4SGVpZ2h0TWVhc3VyZVNwZWMpOwovLyAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
