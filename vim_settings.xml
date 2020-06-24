@@ -124,12 +124,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/CharacterPositionRecommendChain.java" timestamp="1592905977333" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/drawable/bg_tool_sheet.xml" timestamp="1592907156056" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/beauty/BeautyOp.java" timestamp="1592908203125" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1592970273640">
-        <mark key="'" line="1932" column="16" />
-        <mark key="[" line="1944" column="32" />
-        <mark key="]" line="1944" column="50" />
-        <mark key="^" line="1944" column="50" />
-        <mark key="." line="1944" column="49" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1592978924908">
+        <mark key="'" line="1935" column="16" />
+        <mark key="[" line="1282" column="11" />
+        <mark key="]" line="1276" column="13" />
+        <mark key="^" line="1276" column="13" />
+        <mark key="." line="1276" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/blur/BlurOp.java" timestamp="1592972260207" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" timestamp="1592971427420">
