@@ -90,7 +90,7 @@
         <mark key="^" line="2342" column="57" />
         <mark key="." line="2342" column="56" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_image_edit.xml" timestamp="1592978994288">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_image_edit.xml" timestamp="1592982278274">
         <mark key="[" line="424" column="46" />
         <mark key="]" line="424" column="68" />
         <mark key="^" line="395" column="20" />
@@ -125,12 +125,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/CharacterPositionRecommendChain.java" timestamp="1592905977333" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/drawable/bg_tool_sheet.xml" timestamp="1592907156056" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/beauty/BeautyOp.java" timestamp="1592908203125" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1592980536996">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1592982317055">
         <mark key="'" line="1283" column="29" />
-        <mark key="[" line="1283" column="51" />
-        <mark key="]" line="1284" column="13" />
-        <mark key="." line="1284" column="12" />
-        <mark key="^" line="1284" column="13" />
+        <mark key="[" line="1004" column="60" />
+        <mark key="]" line="1005" column="58" />
+        <mark key="." line="1005" column="57" />
+        <mark key="^" line="1005" column="58" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/blur/BlurOp.java" timestamp="1592972260207" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" timestamp="1592971427420">
