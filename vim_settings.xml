@@ -156,11 +156,11 @@
         <mark key="^" line="224" column="89" />
         <mark key="." line="224" column="88" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" timestamp="1592987645970">
-        <mark key="[" line="789" column="24" />
-        <mark key="]" line="789" column="48" />
-        <mark key="." line="789" column="47" />
-        <mark key="^" line="789" column="48" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" timestamp="1592988245127">
+        <mark key="[" line="577" column="77" />
+        <mark key="]" line="577" column="77" />
+        <mark key="." line="577" column="77" />
+        <mark key="^" line="577" column="79" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/AreaEditActivity.java" timestamp="1592987192696">
         <mark key="'" line="101" column="20" />
@@ -298,7 +298,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>animateBottomSheetView</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -308,7 +308,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>animateBottomSheetView</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
