@@ -90,6 +90,12 @@
         <mark key="^" line="2342" column="57" />
         <mark key="." line="2342" column="56" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/MenuController.java" timestamp="1592985020789">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="46" />
+        <mark key="^" line="11" column="46" />
+        <mark key="." line="11" column="45" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_image_edit.xml" timestamp="1592984598436">
         <mark key="[" line="395" column="43" />
         <mark key="]" line="395" column="55" />
@@ -122,8 +128,8 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/drawable/bg_tool_sheet.xml" timestamp="1592907156056" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/beauty/BeautyOp.java" timestamp="1592908203125" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/layout_thirdly_op.xml" timestamp="1592984963267" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1592984458592">
         <mark key="'" line="1284" column="29" />
         <mark key="[" line="1281" column="57" />
@@ -131,12 +137,23 @@
         <mark key="." line="1281" column="81" />
         <mark key="^" line="1281" column="82" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/blur/BlurOp.java" timestamp="1592972260207" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" timestamp="1592971427420">
-        <mark key="[" line="740" column="119" />
-        <mark key="]" line="740" column="119" />
-        <mark key="." line="740" column="118" />
-        <mark key="^" line="740" column="119" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/blur/BlurOp.java" timestamp="1592985109517">
+        <mark key="[" line="510" column="82" />
+        <mark key="]" line="510" column="85" />
+        <mark key="^" line="510" column="85" />
+        <mark key="." line="510" column="84" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/thirdly/ThirdlyOpView.java" timestamp="1592985059370">
+        <mark key="[" line="224" column="86" />
+        <mark key="]" line="224" column="89" />
+        <mark key="^" line="224" column="89" />
+        <mark key="." line="224" column="88" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" timestamp="1592985136458">
+        <mark key="[" line="782" column="82" />
+        <mark key="]" line="782" column="83" />
+        <mark key="." line="782" column="83" />
+        <mark key="^" line="782" column="85" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/AreaEditActivity.java" timestamp="1592968195574">
         <mark key="[" line="60" column="0" />
@@ -150,7 +167,6 @@
         <mark key="." line="782" column="0" />
         <mark key="^" line="781" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/layout_single_menu_rv.xml" timestamp="1592906044744" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_layer_op.xml" timestamp="1592909423419">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="39" />
