@@ -83,18 +83,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1593421497775">
-        <mark key="'" line="2358" column="16" />
-        <mark key="[" line="2168" column="9" />
-        <mark key="]" line="2169" column="53" />
-        <mark key="^" line="2169" column="53" />
-        <mark key="." line="2169" column="52" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpSearchAdapter.kt" timestamp="1593418944605">
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="49" column="32" />
-        <mark key="^" line="49" column="32" />
-        <mark key="." line="49" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1593423200536">
+        <mark key="'" line="2363" column="16" />
+        <mark key="[" line="2369" column="41" />
+        <mark key="]" line="2369" column="51" />
+        <mark key="^" line="2369" column="51" />
+        <mark key="." line="2369" column="50" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditContract.java" timestamp="1593421469077">
         <mark key="[" line="112" column="36" />
@@ -102,8 +96,12 @@
         <mark key="^" line="112" column="53" />
         <mark key="." line="112" column="52" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/model/StickerItemDefault.java" timestamp="1593418345750">
-        <mark key="'" line="67" column="25" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" timestamp="1593423012955">
+        <mark key="'" line="204" column="26" />
+        <mark key="[" line="163" column="15" />
+        <mark key="]" line="163" column="16" />
+        <mark key="." line="163" column="16" />
+        <mark key="^" line="163" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerSecondOpSearchViewHolder.kt" timestamp="1593419484354">
         <mark key="'" line="57" column="11" />
@@ -111,9 +109,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerTask.java" timestamp="1593418965734">
-        <mark key="'" line="301" column="55" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/Replace.kt" timestamp="1593422701541" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendRowFavAdapter.kt" timestamp="1593419829797" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/NewRecommendOverlayView.java" timestamp="1593421265172">
         <mark key="[" line="54" column="44" />
@@ -121,12 +117,12 @@
         <mark key="." line="55" column="40" />
         <mark key="^" line="55" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1593421458516">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1593423228590">
         <mark key="'" line="1953" column="16" />
-        <mark key="[" line="564" column="58" />
-        <mark key="]" line="564" column="59" />
-        <mark key="." line="564" column="58" />
-        <mark key="^" line="564" column="59" />
+        <mark key="[" line="1961" column="4" />
+        <mark key="]" line="1964" column="34" />
+        <mark key="^" line="1964" column="34" />
+        <mark key="." line="1964" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_sticker_search.xml" timestamp="1593419512379">
         <mark key="[" line="17" column="8" />
@@ -154,19 +150,12 @@
         <mark key="^" line="46" column="42" />
         <mark key="." line="46" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1593418806961">
-        <mark key="'" line="223" column="59" />
-        <mark key="[" line="108" column="46" />
-        <mark key="]" line="109" column="73" />
-        <mark key="^" line="109" column="73" />
-        <mark key="." line="109" column="72" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/StickerSearchModel.kt" timestamp="1593418251820">
-        <mark key="'" line="50" column="10" />
-        <mark key="[" line="52" column="5" />
-        <mark key="]" line="54" column="31" />
-        <mark key="." line="54" column="30" />
-        <mark key="^" line="54" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/AddPhotoRecommendChain.kt" timestamp="1593422619027" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/MenuController.java" timestamp="1593423163692">
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="31" column="53" />
+        <mark key="^" line="31" column="53" />
+        <mark key="." line="31" column="52" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/ISecondLevelOp.java" timestamp="1593421513972">
         <mark key="[" line="118" column="8" />
@@ -174,20 +163,17 @@
         <mark key="^" line="118" column="8" />
         <mark key="." line="118" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1593421682925">
-        <mark key="'" line="74" column="27" />
-        <mark key="[" line="793" column="8" />
-        <mark key="]" line="793" column="48" />
-        <mark key="." line="793" column="47" />
-        <mark key="^" line="793" column="48" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/AreaEditActivity.java" timestamp="1593423236459">
+        <mark key="'" line="111" column="20" />
+        <mark key="[" line="116" column="47" />
+        <mark key="]" line="116" column="65" />
+        <mark key="." line="116" column="47" />
+        <mark key="^" line="111" column="58" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/widget/RenderOverlayFrameLayout.java" timestamp="1593421010675" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/widget/ComparableOverlayLayout.java" timestamp="1593420582664" />
     </filemarks>
     <jumps>
-      <jump line="756" column="24" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/OverScroller.java" />
-      <jump line="61" column="36" filename="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" />
-      <jump line="157" column="0" filename="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" />
       <jump line="277" column="9" filename="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/BottomSheetView.java" />
       <jump line="14" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" />
       <jump line="90" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.1/ae10d2e1965b944830c2c2aaf154765ceb32e0bc/core-1.0.1-sources.jar!/androidx/core/view/NestedScrollingParentHelper.java" />
@@ -285,6 +271,9 @@
       <jump line="85" column="75" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpSearchViewHolder.kt" />
       <jump line="118" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpSearchViewHolder.kt" />
       <jump line="74" column="27" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
+      <jump line="111" column="20" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/AreaEditActivity.java" />
+      <jump line="2363" column="16" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
+      <jump line="657" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -297,7 +286,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>boolean isDisabled</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -307,13 +296,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>boolean isDisabled</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
       </register>
-      <register name="0" type="4">
-        <text>mVersaLoadingView</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtTWVudUNvbnRyb2xsZXIuZGlzYWJsZVNjcm9sbEZvckJvdHRvbVZpZXcodHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNMb2FkaW5nKCkpIHsKLy8gICAgICAgICAgICBmb2xsb3dSZW5kZXJWaWV3KCk7CiAgICAgICAgfQo=</text>
@@ -362,31 +351,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed K</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed J</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
