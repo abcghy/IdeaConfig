@@ -90,11 +90,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" timestamp="1593512942393">
         <mark key="[" line="494" column="5" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" timestamp="1593506488631">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="76" column="34" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="75" column="77" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" timestamp="1593517400945">
+        <mark key="'" line="414" column="12" />
+        <mark key="[" line="235" column="143" />
+        <mark key="]" line="235" column="158" />
+        <mark key="." line="235" column="157" />
+        <mark key="^" line="235" column="158" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/TemplateListItem.kt" timestamp="1593512719079">
         <mark key="[" line="116" column="0" />
@@ -273,7 +274,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>HALF_HEIGHT_DIFF_FACTOR + 0.01f</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -283,13 +284,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>HALF_HEIGHT_DIFF_FACTOR + 0.01f</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZWdpb24KICAgICAgICB2YXIgY29sdW1uSW5kZXggPSAtMQogICAgICAgIHZhciByb3dJbmRleCA9IC0xCiAgICAgICAgcnVuIGJyZWFraW5nQCB7CiAgICAgICAgICAgIGNvbHVtbkl0ZW1zLmZvckVhY2hJbmRleGVkIGNvbnRpbnVpbmdAIHsgaW5kZXgsIGNvbHVtbkl0ZW0gLT4KICAgICAgICAgICAgICAgIGlmIChjb2x1bW5JdGVtIGlzIENvbHVtbkRpc3BsYXkpIHsKICAgICAgICAgICAgICAgICAgICByb3dJbmRleCA9IGNvbHVtbkl0ZW0uZGlzcGxheUl0ZW1zLmluZGV4T2ZGaXJzdCB7CiAgICAgICAgICAgICAgICAgICAgICAgIGl0Lml0ZW0gPT0gYW55CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGlmIChyb3dJbmRleCAhPSAtMSkgewogICAgICAgICAgICAgICAgICAgICAgICBjb2x1bW5JbmRleCA9IGluZGV4CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbkl0ZW0uZGlzcGxheUl0ZW1zW3Jvd0luZGV4XS5pc0ZhdiA9IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuQGJyZWFraW5nCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIC8vIGVuZHJlZ2lvbgoKICAgICAgICBpZiAoY29sdW1uSW5kZXggIT0gLTEgJiYgcm93SW5kZXggIT0gLTEpIHsKICAgICAgICAgICAgLy8g5Yi35pawCiAgICAgICAgICAgIG5vdGlmeUl0ZW1DaGFuZ2VkKGNvbHVtbkluZGV4LCBDSEFOR0VfU0VMRUNUKQogICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>HALF_HEIGHT_DIFF_FACTOR</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
