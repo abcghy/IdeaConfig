@@ -20,6 +20,7 @@
         <entry>nohlsearch</entry>
         <entry>w</entry>
         <entry>640</entry>
+        <entry encoding="base64">JzwsJz5zb3VyY2UgJE1ZVklNUkM=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -92,12 +93,12 @@
         <mark key="." line="2369" column="50" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/FilterRecommendChain.kt" timestamp="1593426159318" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" timestamp="1593423012955">
-        <mark key="'" line="204" column="26" />
-        <mark key="[" line="163" column="15" />
-        <mark key="]" line="163" column="16" />
-        <mark key="." line="163" column="16" />
-        <mark key="^" line="163" column="16" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" timestamp="1593486940220">
+        <mark key="'" line="406" column="12" />
+        <mark key="[" line="214" column="33" />
+        <mark key="]" line="214" column="54" />
+        <mark key="." line="214" column="53" />
+        <mark key="^" line="214" column="54" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/CharacterAdjustRecommendChain.kt" timestamp="1593425812183" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/NewRecommendOverlayView.java" timestamp="1593429128460">
@@ -105,12 +106,12 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1593429989265">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1593485913020">
         <mark key="'" line="1274" column="8" />
-        <mark key="[" line="2503" column="63" />
-        <mark key="]" line="2504" column="16" />
-        <mark key="^" line="2504" column="16" />
-        <mark key="." line="2504" column="15" />
+        <mark key="[" line="2684" column="75" />
+        <mark key="]" line="2684" column="103" />
+        <mark key="^" line="2684" column="87" />
+        <mark key="." line="2684" column="75" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/LayerConfigFactory.kt" timestamp="1593426213775" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/view_select_photo.xml" timestamp="1593428792013" />
@@ -122,7 +123,7 @@
         <mark key="^" line="986" column="61" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/TemplateListItem.kt" timestamp="1593426121492" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/photo/SelectPhotoView.kt" timestamp="1593429726714" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/photo/SelectPhotoView.kt" timestamp="1593485713018" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/FilterOverlayView.java" timestamp="1593427137658">
         <mark key="[" line="40" column="8" />
         <mark key="]" line="40" column="42" />
@@ -161,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="14" filename="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomView.kt" />
       <jump line="53" column="12" filename="$USER_HOME$/code/BottomSheetViewDemo/app/src/main/java/com/example/bottomsheetview/SecondBottomView.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/build.gradle" />
       <jump line="107" column="10" filename="$USER_HOME$/AndroidStudioProjects/Versa/baselib/src/main/java/com/huyn/baseframework/utils/SysUtil.java" />
@@ -261,6 +261,7 @@
       <jump line="877" column="35" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
       <jump line="1469" column="9" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" />
       <jump line="1291" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" />
+      <jump line="406" column="12" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -273,7 +274,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICArIERpc3BsYXlVdGlsLmRpcDJweCh0aGlzLCAyNSk=</text>
+        <text>(FULL_HEIGHT_FACTOR - HALF_HEIGHT_FACTOR / 2)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -283,14 +284,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICArIERpc3BsYXlVdGlsLmRpcDJweCh0aGlzLCAyNSk=</text>
+        <text>(FULL_HEIGHT_FACTOR - HALF_HEIGHT_FACTOR / 2)</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
       </register>
       <register name="0" type="4">
-        <text>(mSecondLevelBar.getVisibility() == View.VISIBLE ? mSecondLevelBar.getHeight() : 0)
-                + DisplayUtil.dip2px(this, 25);</text>
+        <text>DisplayUtil.dip2px(this, 25)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIGZsb2F0IGN1cnJlbnRCb3R0b20gPSBVdGlscy5kaXAycHgoNDQpICsgYnN2LmdldE1lYXN1cmVkSGVpZ2h0KCkgLSBic3YuZ2V0VHJhbnNsYXRpb25ZKCk7Cg==</text>
