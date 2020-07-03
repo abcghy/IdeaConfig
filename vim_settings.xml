@@ -96,32 +96,25 @@
         <mark key="^" line="59" column="107" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1593761377933">
-        <mark key="'" line="1175" column="4" />
-        <mark key="[" line="423" column="59" />
-        <mark key="]" line="423" column="73" />
-        <mark key="^" line="423" column="73" />
-        <mark key="." line="423" column="72" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1593765572784">
+        <mark key="[" line="2369" column="8" />
+        <mark key="]" line="2369" column="36" />
+        <mark key="^" line="2369" column="36" />
+        <mark key="." line="2369" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/drawable/text_gradient_bg.xml" timestamp="1593764606226" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1593761009039">
-        <mark key="'" line="185" column="0" />
-        <mark key="[" line="186" column="66" />
-        <mark key="]" line="186" column="80" />
-        <mark key="." line="186" column="79" />
-        <mark key="^" line="186" column="80" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/MenuController.java" timestamp="1593765550815">
+        <mark key="[" line="31" column="31" />
+        <mark key="]" line="33" column="31" />
+        <mark key="^" line="33" column="31" />
+        <mark key="." line="33" column="30" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditContract.java" timestamp="1593765760720" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" timestamp="1593761385179">
         <mark key="[" line="111" column="58" />
         <mark key="]" line="111" column="72" />
         <mark key="." line="111" column="71" />
         <mark key="^" line="111" column="72" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerSecondOpSearchViewHolder.kt" timestamp="1593759798712">
-        <mark key="[" line="31" column="56" />
-        <mark key="]" line="31" column="71" />
-        <mark key="^" line="31" column="71" />
-        <mark key="." line="31" column="70" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/values/strings.xml" timestamp="1593763576336">
         <mark key="'" line="788" column="18" />
@@ -129,6 +122,12 @@
         <mark key="]" line="809" column="39" />
         <mark key="^" line="809" column="25" />
         <mark key="." line="809" column="39" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1593765752829">
+        <mark key="[" line="1951" column="8" />
+        <mark key="]" line="1951" column="19" />
+        <mark key="^" line="1951" column="19" />
+        <mark key="." line="1951" column="18" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_filter.xml" timestamp="1593764978621" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/home/tabs/fragment/NewTabCommunityFragment.java" timestamp="1593761538240">
@@ -150,17 +149,11 @@
         <mark key="." line="31" column="79" />
         <mark key="^" line="31" column="80" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1593761345811">
-        <mark key="[" line="238" column="20" />
-        <mark key="]" line="238" column="20" />
-        <mark key="." line="238" column="19" />
-        <mark key="^" line="238" column="20" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/listener/OnSearchListener.kt" timestamp="1593761002244">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="57" />
-        <mark key="^" line="3" column="57" />
-        <mark key="." line="3" column="56" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1593765767081">
+        <mark key="[" line="239" column="32" />
+        <mark key="]" line="239" column="54" />
+        <mark key="." line="239" column="53" />
+        <mark key="^" line="239" column="54" />
       </file>
       <file name="/Dummy.txt" timestamp="1593764471387">
         <mark key="[" line="0" column="0" />
@@ -190,13 +183,6 @@
         <mark key="]" line="456" column="19" />
         <mark key="." line="456" column="18" />
         <mark key="^" line="456" column="19" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpSearchViewHolder.kt" timestamp="1593759824033">
-        <mark key="'" line="40" column="33" />
-        <mark key="[" line="40" column="56" />
-        <mark key="]" line="40" column="71" />
-        <mark key="^" line="40" column="71" />
-        <mark key="." line="40" column="70" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_change_bg.xml" timestamp="1593764684937" />
     </filemarks>
@@ -313,7 +299,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ff</text>
+        <text>openBottomSheetView</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -323,7 +309,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ff</text>
+        <text>openBottomSheetView</text>
       </register>
       <register name="/" type="4">
         <text>fragment</text>
