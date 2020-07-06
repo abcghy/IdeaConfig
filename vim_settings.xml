@@ -91,6 +91,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/view/state/view/StateView.java" timestamp="1594007669850" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerColumnAdapter.kt" timestamp="1594016976668">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="61" />
+        <mark key="^" line="101" column="45" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/view/state/StateLayout.java" timestamp="1594007629851" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/HotWordModel.kt" timestamp="1594006763996" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" timestamp="1594006894633">
@@ -118,11 +123,6 @@
         <mark key="]" line="220" column="74" />
         <mark key="." line="220" column="73" />
         <mark key="^" line="220" column="74" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" timestamp="1594004802016">
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/values/strings.xml" timestamp="1594008000750">
         <mark key="'" line="595" column="48" />
@@ -160,13 +160,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sensorsdata.analytics.android/SensorsAnalyticsSDK/3.2.9/3bb50f972f730a2b21b7bcdfe05030ab02013a08/SensorsAnalyticsSDK-3.2.9-sources.jar!/com/sensorsdata/analytics/android/sdk/SensorsDataAPI.java" timestamp="1594006207542" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/view/HomeSearchBorderLayout.kt" timestamp="1594006604735" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/view/state/view/ErrorView.java" timestamp="1594007586105" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1594005067214">
-        <mark key="'" line="1175" column="4" />
-        <mark key="[" line="1212" column="0" />
-        <mark key="]" line="1213" column="85" />
-        <mark key="." line="1212" column="73" />
-        <mark key="^" line="1212" column="74" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/view/state/view/DefaultErrorView.java" timestamp="1594007649861" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1594006451617">
         <mark key="'" line="805" column="4" />
@@ -174,6 +167,12 @@
         <mark key="]" line="807" column="44" />
         <mark key="." line="807" column="43" />
         <mark key="^" line="807" column="44" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_column_title.xml" timestamp="1594017009534">
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="40" column="42" />
+        <mark key="." line="40" column="41" />
+        <mark key="^" line="40" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -289,7 +288,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>啊哦，出错了</text>
+        <text>完成</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -299,7 +298,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>啊哦，出错了</text>
+        <text>完成</text>
       </register>
       <register name="/" type="4">
         <text>fragment</text>
