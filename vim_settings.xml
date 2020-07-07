@@ -90,13 +90,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594090312969">
-        <mark key="[" line="1732" column="72" />
-        <mark key="]" line="1732" column="80" />
-        <mark key="." line="1732" column="79" />
-        <mark key="^" line="1732" column="80" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_workspace.xml" timestamp="1594092351611" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594093923901">
+        <mark key="[" line="2017" column="34" />
+        <mark key="]" line="2017" column="49" />
+        <mark key="." line="2017" column="48" />
+        <mark key="^" line="2017" column="49" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/model/StickerItemDefault.java" timestamp="1594090424870" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/selectphoto/SelectPhotoPagerAdapter.kt" timestamp="1594094084717" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" timestamp="1594091459674">
         <mark key="'" line="345" column="12" />
         <mark key="[" line="23" column="0" />
@@ -104,18 +106,12 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/imageedit/StickerModel.java" timestamp="1594091310706" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/ViewConfiguration.java" timestamp="1594030801209" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/TemplateListItem.kt" timestamp="1594090502655" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/AbsSecondLevelOp.java" timestamp="1594089902970">
         <mark key="]" line="39" column="24" />
         <mark key="^" line="39" column="24" />
         <mark key="." line="39" column="23" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/TouchDelegate.java" timestamp="1594031847929">
-        <mark key="'" line="100" column="11" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/home/PreviewPresenter.java" timestamp="1594032342240" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/util/NewBitmapUtil.kt" timestamp="1594089799039" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/helper/ApiHelper.java" timestamp="1594091447746">
         <mark key="'" line="67" column="29" />
       </file>
@@ -128,20 +124,16 @@
         <mark key="]" line="78" column="41" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1594090710306">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1594092915171">
         <mark key="'" line="1175" column="4" />
-        <mark key="[" line="1234" column="0" />
-        <mark key="]" line="1237" column="85" />
-        <mark key="." line="1212" column="73" />
-        <mark key="^" line="1212" column="74" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/imageedit/ResourcesModel.java" timestamp="1594030374543" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/video/CommunityCardView.java" timestamp="1594033556052">
-        <mark key="'" line="244" column="0" />
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="242" column="5" />
+        <mark key="[" line="1251" column="50" />
+        <mark key="]" line="1252" column="63" />
+        <mark key="." line="1252" column="62" />
+        <mark key="^" line="1252" column="63" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/service/BaseService.java" timestamp="1594091158518" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/photo/SelectMaterialAdapter.kt" timestamp="1594094642801" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/photo/AlbumPresenter.java" timestamp="1594094763670" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1594090230190">
         <mark key="'" line="805" column="4" />
         <mark key="[" line="806" column="33" />
@@ -149,8 +141,15 @@
         <mark key="." line="807" column="43" />
         <mark key="^" line="807" column="44" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/selectphoto/SelectPhotoActivity.java" timestamp="1594094934810">
+        <mark key="[" line="355" column="52" />
+        <mark key="]" line="355" column="52" />
+        <mark key="^" line="355" column="52" />
+        <mark key="." line="355" column="51" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/util/BitmapUtils.java" timestamp="1594089807106" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1594032576747" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditContext.java" timestamp="1594092536411" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/photo/SelectMaterialFragment.kt" timestamp="1594094265016" />
     </filemarks>
     <jumps>
       <jump line="1" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_sticker.xml" />
@@ -265,7 +264,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52ZXJzYS5tb2RlbC50ZW1wbGF0ZS5UZW1wbGF0ZUxpc3RJdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgiIikK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -284,7 +283,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRpc3RpY1dyYXBwZXIucmVwb3J0KG1Db250ZXh0LCBTdGF0aXN0aWNFdmVudHMuU2Vjb25kU2VhcmNoUmVzdWx0X2J0bkNsaWNrLAogICAgICAgICAgICAgICAgICAgICAgICAidG9vbENvZGUiLCBnZXRUb29sQ29kZSgpLAogICAgICAgICAgICAgICAgICAgICAgICAicG9zaXRpb24iLCByb3dQb3NpdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgInRlbXBsYXRlQ29kZSIsICgoVGVtcGxhdGVMaXN0SXRlbSkgaXRlbSkuZ2V0VGVtcGxhdGVDb2RlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52ZXJzYS5tb2RlbC50ZW1wbGF0ZS5UZW1wbGF0ZUxpc3RJdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgiIikK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -293,25 +292,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhdGlzdGljV3JhcHBlci5yZXBvcnQobUNvbnRleHQsIFN0YXRpc3RpY0V2ZW50cy5TZWNvbmRTZWFyY2hSZXN1bHRfYnRuQ2xpY2ssCiAgICAgICAgICAgICAgICAgICAgInRvb2xDb2RlIiwgZ2V0VG9vbENvZGUoKSwKICAgICAgICAgICAgICAgICAgICAicG9zaXRpb24iLCByb3dQb3NpdGlvbiwKICAgICAgICAgICAgICAgICAgICAidGVtcGxhdGVDb2RlIiwgKChTdGlja2VyU2VhcmNoSXRlbSkgaXRlbSkuZ2V0U3RpY2tlckNvZGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbW92ZUxvbmdQcmVzc0NhbGxiYWNrKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobVNlY29uZExldmVsT3AgaW5zdGFuY2VvZiBDaGFuZ2VCZ09wKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS52ZXJzYS5tb2RlbC50ZW1wbGF0ZS5UZW1wbGF0ZUxpc3RJdGVtOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RhdGlzdGljV3JhcHBlci5yZXBvcnQobUNvbnRleHQsIFN0YXRpc3RpY0V2ZW50cy5TZWNvbmRTZWFyY2hSZXN1bHRfYnRuQ2xpY2ssCiAgICAgICAgICAgICAgICAgICAgInRvb2xDb2RlIiwgZ2V0VG9vbENvZGUoKSwKICAgICAgICAgICAgICAgICAgICAicG9zaXRpb24iLCByb3dQb3NpdGlvbiwKICAgICAgICAgICAgICAgICAgICAidGVtcGxhdGVDb2RlIiwgKChTdGlja2VyU2VhcmNoSXRlbSkgaXRlbSkuZ2V0U3RpY2tlckNvZGUoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbW92ZUxvbmdQcmVzc0NhbGxiYWNrKCkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1WaWV3LnBlcmZvcm1DbGljaygpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
