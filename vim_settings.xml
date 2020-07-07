@@ -90,7 +90,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/GlobalFilterOp.java" timestamp="1594104066698" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594105816684">
         <mark key="[" line="2017" column="34" />
         <mark key="]" line="2017" column="49" />
@@ -103,6 +102,7 @@
         <mark key="^" line="61" column="24" />
         <mark key="." line="61" column="23" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/CharacterAdjustRecommendChain.kt" timestamp="1594111429840" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/menu/Menu.java" timestamp="1594105883195" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" timestamp="1594108738591">
         <mark key="'" line="79" column="22" />
@@ -111,17 +111,7 @@
         <mark key="^" line="115" column="56" />
         <mark key="." line="115" column="55" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" timestamp="1594104123313">
-        <mark key="'" line="167" column="69" />
-        <mark key="[" line="167" column="70" />
-        <mark key="]" line="167" column="88" />
-        <mark key="." line="167" column="87" />
-        <mark key="^" line="167" column="88" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/imageedit/MenuEditingModel.java" timestamp="1594105012358">
-        <mark key="[" line="71" column="35" />
-        <mark key="]" line="71" column="49" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/LayerConfigFactory.kt" timestamp="1594111527966" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" timestamp="1594109567306">
         <mark key="'" line="648" column="8" />
         <mark key="[" line="491" column="12" />
@@ -129,17 +119,12 @@
         <mark key="." line="491" column="24" />
         <mark key="^" line="491" column="25" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/AppliedPhotoCharacter.kt" timestamp="1594111299312" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/menu/BackgroundMenu.java" timestamp="1594106507732">
         <mark key="[" line="52" column="86" />
         <mark key="]" line="53" column="24" />
         <mark key="^" line="53" column="24" />
         <mark key="." line="53" column="23" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/FilterMenuFetcher.kt" timestamp="1594104285523">
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="71" />
-        <mark key="^" line="24" column="71" />
-        <mark key="." line="24" column="70" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RowViewHolder.kt" timestamp="1594109609018">
         <mark key="'" line="103" column="20" />
@@ -174,7 +159,8 @@
         <mark key="." line="186" column="79" />
         <mark key="^" line="186" column="80" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerMenuFetcher.kt" timestamp="1594103959064" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/NewFilterRecommendChain.kt" timestamp="1594111260903" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/RecommendChainGroup.kt" timestamp="1594111286628" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1594107963385">
         <mark key="'" line="225" column="69" />
         <mark key="[" line="298" column="44" />
