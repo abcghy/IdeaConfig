@@ -90,20 +90,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594105816684">
-        <mark key="[" line="2017" column="34" />
-        <mark key="]" line="2017" column="49" />
-        <mark key="." line="2017" column="48" />
-        <mark key="^" line="2017" column="49" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/menu/GlobalMenu.java" timestamp="1594106471374">
-        <mark key="[" line="60" column="101" />
-        <mark key="]" line="61" column="24" />
-        <mark key="^" line="61" column="24" />
-        <mark key="." line="61" column="23" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/realop/RealCharacterFilterOp.java" timestamp="1594112375163" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/FilterRecommendChain.kt" timestamp="1594112268886">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="33" column="33" />
+        <mark key="." line="33" column="32" />
+        <mark key="^" line="33" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/CharacterAdjustRecommendChain.kt" timestamp="1594111429840" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/menu/Menu.java" timestamp="1594105883195" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" timestamp="1594108738591">
         <mark key="'" line="79" column="22" />
         <mark key="[" line="115" column="26" />
@@ -112,6 +107,13 @@
         <mark key="." line="115" column="55" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/LayerConfigFactory.kt" timestamp="1594111527966" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" timestamp="1594112630571">
+        <mark key="'" line="167" column="69" />
+        <mark key="[" line="167" column="70" />
+        <mark key="]" line="167" column="88" />
+        <mark key="." line="167" column="87" />
+        <mark key="^" line="167" column="88" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" timestamp="1594109567306">
         <mark key="'" line="648" column="8" />
         <mark key="[" line="491" column="12" />
@@ -119,6 +121,7 @@
         <mark key="." line="491" column="24" />
         <mark key="^" line="491" column="25" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/realop/RealFilterOp.java" timestamp="1594112575867" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/AppliedPhotoCharacter.kt" timestamp="1594111299312" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/menu/BackgroundMenu.java" timestamp="1594106507732">
         <mark key="[" line="52" column="86" />
@@ -133,25 +136,13 @@
         <mark key="." line="54" column="36" />
         <mark key="^" line="54" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1594106278242">
-        <mark key="'" line="394" column="0" />
-        <mark key="[" line="195" column="77" />
-        <mark key="]" line="195" column="78" />
-        <mark key="^" line="195" column="78" />
-        <mark key="." line="195" column="77" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RowAdapter.kt" timestamp="1594109940383">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
         <mark key="^" line="67" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/menu/CharacterMenu.java" timestamp="1594106498417">
-        <mark key="[" line="90" column="101" />
-        <mark key="]" line="91" column="24" />
-        <mark key="^" line="91" column="24" />
-        <mark key="." line="91" column="23" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/util/AsyncToFutureUtil.java" timestamp="1594112665097" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1594108216752">
         <mark key="'" line="185" column="0" />
         <mark key="[" line="186" column="66" />
@@ -168,13 +159,7 @@
         <mark key="." line="298" column="98" />
         <mark key="^" line="298" column="99" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgMenuFetcher.kt" timestamp="1594106146009">
-        <mark key="'" line="50" column="28" />
-        <mark key="[" line="14" column="82" />
-        <mark key="]" line="14" column="103" />
-        <mark key="^" line="14" column="108" />
-        <mark key="." line="14" column="82" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/RecommendChain.java" timestamp="1594112220670" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" timestamp="1594108679353">
         <mark key="'" line="247" column="22" />
         <mark key="[" line="201" column="0" />
@@ -191,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="32" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
       <jump line="1337" column="25" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
       <jump line="1085" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
       <jump line="877" column="35" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
@@ -291,6 +275,7 @@
       <jump line="394" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
       <jump line="295" column="51" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
       <jump line="228" column="69" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
+      <jump line="131" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/FilterRecommendChain.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,7 +288,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAocGF5bG9hZCA9PSBDSEFOR0VfU0VMRUNUX05PTkUgJiYgaG9sZGVyIGlzIFJvd1ZpZXdIb2xkZXIpIHsKLy8gICAgICAgICAgICAgICAgaG9sZGVyLmJpbmQoY29sdW1uSXRlbS5pc1NlbGVjdGVkKQovLyAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9IGVsc2UgaWYgKHBheWxvYWQgPT0gQ0hBTkdFX1NFTEVDVCAmJiBob2xkZXIgaXMgUm93Vmlld0hvbGRlcikgewovLyAgICAgICAgICAgICAgICBob2xkZXIuYmluZChjdXJyZW50Um93U2VsZWN0ZWRQb3NpdGlvbiA9PSBwb3NpdGlvbikKLy8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVhbEZpbHRlck9wLmluaXQoKQogICAgICAgICAgICBpZiAocmVzb3VyY2VJdGVtLmlzSW5uZXJGaWx0ZXIpIHsKICAgICAgICAgICAgICAgIHJlYWxGaWx0ZXJPcC5hcHBseUlubmVyRmlsdGVyKCkKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJlYWxGaWx0ZXJPcC5kb0ZpbHRlckFsbCgpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmVhbEZpbHRlck9wLm1vZGlmeUFscGhhKCkKICAgICAgICAgICAgcmVhbEZpbHRlck9wLmNsZWFuKCkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -313,43 +298,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PCsrPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvd0Zhdkljb24odGhpcy5pc0ZhdiB8fCBpc0ZhdikK</text>
+        <text encoding="base64">ICAgICAgICByZWFsRmlsdGVyT3AuaW5pdCgpCiAgICAgICAgaWYgKHJlc291cmNlSXRlbS5pc0lubmVyRmlsdGVyKSB7CiAgICAgICAgICAgIHJlYWxGaWx0ZXJPcC5hcHBseUlubmVyRmlsdGVyKCkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZWFsRmlsdGVyT3AuZG9GaWx0ZXJBbGwoKQogICAgICAgIH0KICAgICAgICByZWFsRmlsdGVyT3AubW9kaWZ5QWxwaGEoKQogICAgICAgIHJlYWxGaWx0ZXJPcC5jbGVhbigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAocGF5bG9hZCA9PSBDSEFOR0VfU0VMRUNUX05PTkUgJiYgaG9sZGVyIGlzIFJvd1ZpZXdIb2xkZXIpIHsKLy8gICAgICAgICAgICAgICAgaG9sZGVyLmJpbmQoY29sdW1uSXRlbS5pc1NlbGVjdGVkKQovLyAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9IGVsc2UgaWYgKHBheWxvYWQgPT0gQ0hBTkdFX1NFTEVDVCAmJiBob2xkZXIgaXMgUm93Vmlld0hvbGRlcikgewovLyAgICAgICAgICAgICAgICBob2xkZXIuYmluZChjdXJyZW50Um93U2VsZWN0ZWRQb3NpdGlvbiA9PSBwb3NpdGlvbikKLy8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVhbEZpbHRlck9wLmluaXQoKQogICAgICAgICAgICBpZiAocmVzb3VyY2VJdGVtLmlzSW5uZXJGaWx0ZXIpIHsKICAgICAgICAgICAgICAgIHJlYWxGaWx0ZXJPcC5hcHBseUlubmVyRmlsdGVyKCkKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJlYWxGaWx0ZXJPcC5kb0ZpbHRlckFsbCgpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmVhbEZpbHRlck9wLm1vZGlmeUFscGhhKCkKICAgICAgICAgICAgcmVhbEZpbHRlck9wLmNsZWFuKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKHBheWxvYWQgPT0gUk9XX1NFTEVDVCkgewovLwovLyAgICAgICAgICAgICAgICB9IGVsc2UgewovLwovLyAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWFsRmlsdGVyT3AuaW5pdCgpCiAgICAgICAgaWYgKHJlc291cmNlSXRlbS5pc0lubmVyRmlsdGVyKSB7CiAgICAgICAgICAgIHJlYWxGaWx0ZXJPcC5hcHBseUlubmVyRmlsdGVyKCkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZWFsRmlsdGVyT3AuZG9GaWx0ZXJBbGwoKQogICAgICAgIH0KICAgICAgICByZWFsRmlsdGVyT3AubW9kaWZ5QWxwaGEoKQogICAgICAgIHJlYWxGaWx0ZXJPcC5jbGVhbigpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHZhbCByZWFsRmlsdGVyT3A6IFJlYWxGaWx0ZXJPcCA9IFJlYWxDaGFyYWN0ZXJGaWx0ZXJPcChjb250ZXh0LAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNvdXJjZUl0ZW0sIGN1cnJlbnRFZGl0UmVjb3JkLCBjaGFyYWN0ZXIsIHZhbHVlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvd0Zhdkljb24odGhpcy5pc0ZhdiB8fCBpc0ZhdikK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHJlYWxGaWx0ZXJPcC5pbml0KCkKLy8gICAgICAgICAgICAgICAgICAgIGlmIChyZXNvdXJjZUl0ZW0uaXNJbm5lckZpbHRlcikgewovLyAgICAgICAgICAgICAgICAgICAgICAgIHJlYWxGaWx0ZXJPcC5hcHBseUlubmVyRmlsdGVyKCkKLy8gICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgcmVhbEZpbHRlck9wLmRvRmlsdGVyQWxsKCkKLy8gICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgICAgIHJlYWxGaWx0ZXJPcC5tb2RpZnlBbHBoYSgpCi8vICAgICAgICAgICAgICAgICAgICByZWFsRmlsdGVyT3AuY2xlYW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvd0Zhdkljb24odGhpcy5pc0ZhdiB8fCBpc0ZhdikK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgRnBVdGlscy5maW5kRmlyc3QoY3VycmVudEVkaXRSZWNvcmQuY2hhcmFjdGVycwovLyAgICAgICAgICAgICAgICApIHsgY2hhcmFjdGVyOiBJbWFnZUVkaXRSZWNvcmQuQ2hhcmFjdGVyIC0+IGNoYXJhY3RlcklkID09IGNoYXJhY3Rlci5pZCB9Ci8vICAgICAgICAgICAgICAgICAgICAgICAgLmlmUHJlc2VudCB7IGNoYXJhY3RlcjogSW1hZ2VFZGl0UmVjb3JkLkNoYXJhY3Rlcj8gLT4KLy8gICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE1lbnVFZGl0aW5nTW9kZWwuSXRlbS5DYXRlZ28K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCByZWFsRmlsdGVyT3A6IFJlYWxGaWx0ZXJPcCA9IFJlYWxDaGFyYWN0ZXJGaWx0ZXJPcChjb250ZXh0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNvdXJjZUl0ZW0sIGN1cnJlbnRFZGl0UmVjb3JkLCBjaGFyYWN0ZXIsIHZhbHVlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVhbEZpbHRlck9wLmluaXQoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlc291cmNlSXRlbS5pc0lubmVyRmlsdGVyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVhbEZpbHRlck9wLmFwcGx5SW5uZXJGaWx0ZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWFsRmlsdGVyT3AuZG9GaWx0ZXJBbGwoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVhbEZpbHRlck9wLm1vZGlmeUFscGhhKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlYWxGaWx0ZXJPcC5jbGVhbigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
