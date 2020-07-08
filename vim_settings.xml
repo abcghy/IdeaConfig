@@ -91,21 +91,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1594194511190">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ad/inmobi/InmobiSplashAdManager.java" timestamp="1594199626497" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/config/WaitRef.java" timestamp="1594197870650">
         <mark key="'" line="61" column="20" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ad/AdManager.java" timestamp="1594198512124" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/concurrent/CyclicBarrier.java" timestamp="1594197075050" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/home/splash/SplashFragment.java" timestamp="1594196492014" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594194801760" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SplashActivity.java" timestamp="1594198148280">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SplashActivity.java" timestamp="1594198558958">
         <mark key="'" line="228" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ad/VersaSplashAdManager.kt" timestamp="1594198230429">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ad/VersaSplashAdManager.kt" timestamp="1594199671990">
         <mark key="[" line="16" column="99" />
         <mark key="]" line="21" column="4" />
         <mark key="^" line="21" column="4" />
@@ -119,13 +116,25 @@
         <mark key="." line="86" column="47" />
         <mark key="^" line="86" column="48" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/module/AdLoader.java" timestamp="1594198252334" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/module/AdLoader.java" timestamp="1594198541632" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/ad/AdFragment.java" timestamp="1594199257439" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/ad/module/AdImageModule.java" timestamp="1594199315171" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/module/PermissionGetter.java" timestamp="1594195594333" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/module/VideoOpener.java" timestamp="1594196525026" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ad/tt/TTSplashAdManager.java" timestamp="1594198188160">
-        <mark key="'" line="25" column="13" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ad/SplashAdShowCallback.java" timestamp="1594199549968">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/module/AdOpener.kt" timestamp="1594196607918" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ad/tt/TTSplashAdManager.java" timestamp="1594199540267">
+        <mark key="'" line="25" column="13" />
+        <mark key="]" line="132" column="51" />
+        <mark key="^" line="132" column="51" />
+        <mark key="." line="132" column="50" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/ad/module/AdVideoModule.java" timestamp="1594199344931" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/module/AdOpener.kt" timestamp="1594199189066" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/config/Configs.java" timestamp="1594197426264" />
     </filemarks>
     <jumps>
@@ -240,8 +249,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -251,7 +260,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PCsrPg==</text>
