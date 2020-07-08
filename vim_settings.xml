@@ -96,51 +96,39 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/SplashConfigLoader.kt" timestamp="1594196191432">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/config/WaitRef.java" timestamp="1594197870650">
+        <mark key="'" line="61" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpNormalView.kt" timestamp="1594192069666">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/concurrent/CyclicBarrier.java" timestamp="1594195481051" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/filter/FilterSecondOpNormalView.kt" timestamp="1594192057277">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="31" column="16" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpNormalView.kt" timestamp="1594192032990">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/module/PermissionGetter.java" timestamp="1594195594333" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/concurrent/CyclicBarrier.java" timestamp="1594197075050" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/home/splash/SplashFragment.java" timestamp="1594196492014" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594194801760" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ad/tt/TTSplashAdManager.java" timestamp="1594195216270">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SplashActivity.java" timestamp="1594198148280">
+        <mark key="'" line="228" column="4" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ad/VersaSplashAdManager.kt" timestamp="1594198230429">
+        <mark key="[" line="16" column="99" />
+        <mark key="]" line="21" column="4" />
+        <mark key="^" line="21" column="4" />
+        <mark key="." line="21" column="3" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/VersaHomeActivity.java" timestamp="1594196557467" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/SplashConfigLoader.kt" timestamp="1594197745447">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="82" column="5" />
+        <mark key="]" line="86" column="48" />
+        <mark key="." line="86" column="47" />
+        <mark key="^" line="86" column="48" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/module/AdLoader.java" timestamp="1594198252334" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/module/PermissionGetter.java" timestamp="1594195594333" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/module/VideoOpener.java" timestamp="1594196525026" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ad/tt/TTSplashAdManager.java" timestamp="1594198188160">
         <mark key="'" line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerSecondOpNormalView.kt" timestamp="1594192124604">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SplashActivity.java" timestamp="1594196016792">
-        <mark key="'" line="155" column="28" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpNormalView.kt" timestamp="1594192457873">
-        <mark key="'" line="115" column="0" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/module/AdOpener.kt" timestamp="1594196607918" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/config/Configs.java" timestamp="1594197426264" />
     </filemarks>
     <jumps>
-      <jump line="200" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/search/HomeSearchTemplateFragment.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/values-zh-rCN/strings.xml" />
-      <jump line="157" column="46" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" />
-      <jump line="159" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" />
-      <jump line="86" column="12" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" />
-      <jump line="97" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnViewHolder.kt" />
-      <jump line="98" column="5" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnViewHolder.kt" />
       <jump line="40" column="33" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/SecondOpSearchViewHolder.kt" />
       <jump line="33" column="27" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_second_op_search.xml" />
       <jump line="73" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sticker/StickerRowFavAdapter.kt" />
@@ -234,6 +222,13 @@
       <jump line="270" column="48" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" />
       <jump line="155" column="28" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SplashActivity.java" />
       <jump line="25" column="13" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ad/tt/TTSplashAdManager.java" />
+      <jump line="222" column="25" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SplashActivity.java" />
+      <jump line="42" column="7" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/SplashConfigLoader.kt" />
+      <jump line="33" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/SplashConfigLoader.kt" />
+      <jump line="111" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SplashActivity.java" />
+      <jump line="106" column="12" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SplashActivity.java" />
+      <jump line="133" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SplashActivity.java" />
+      <jump line="61" column="20" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/config/WaitRef.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -246,7 +241,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text>-XX:+UseCompressedOops</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -256,7 +251,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PCsrPg==</text>
@@ -265,34 +260,34 @@
         <text>funcSchema</text>
       </register>
       <register name="1" type="2">
-        <text>-XX:+UseCompressedOops</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LVhYOk1heFBlcm1TaXplPTM1MG0KLVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT0yMjVtCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY3ljbGljQmFycmllciA9IEN5Y2xpY0JhcnJpZXIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LVhtczI1NjBtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LVhteDQwOTZtCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBhZGRGYXYocG9zOiBJbnQpIHsKICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0aW5rZXIg6L+Z6YeM5Yik5pat5piv5ZCm5piv5Y2O5Li677yM5aaC5p6c5piv5Y2O5Li677yM5YiZ6K6+572uIHBhbmdvbGluQWRPcGVuIOS4umZhbHNlCiAgICAgICAgaWYgKE9iamVjdHMuZXF1YWxzKENvbnN0YW50LkFQUF9TT1VSQ0UsICJodWF3ZWkiKSkgewogICAgICAgICAgICBpc0h1YXdlaSA9IGZhbHNlCiAgICAgICAgfQoKICAgICAgICBtUGVybWlzc2lvbi5zZXRPblBlcm1pc3Npb25MaXN0ZW5lciB7CiAgICAgICAgICAgIG1QZXJtaXNzaW9uR3JhbnRlZCA9IHRydWUKICAgICAgICAgICAgYXR0ZW1wdFRvR29TcGxhc2hGcmFnbWVudCgpCiAgICAgICAgfQogICAgICAgIG1BZExvYWRlci5zZXRPbkFkTG9hZGVyTGlzdGVuZXIgeyBhZEl0ZW0gLT4KICAgICAgICAgICAgbUFkSXRlbSA9IGFkSXRlbQogICAgICAgICAgICBtQWRMb2FkZWQgPSB0cnVlCiAgICAgICAgICAgIGF0dGVtcHRUb0dvU3BsYXNoRnJhZ21lbnQoKQogICAgICAgIH0KICAgICAgICBwYW5nb2xpbkFkTG9hZGVyLnNldE1MaXN0ZW5lcihvYmplY3QgOiBQYW5nb2xpbkFkTG9hZGVyLk9uQWRMb2FkZXJMaXN0ZW5lciB7CiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkFkTG9hZCh0dFNwbGFzaEFkOiBUVFNwbGFzaEFkPykgewogICAgICAgICAgICAgICAgbVR0U3BsYXNoQWQgPSB0dFNwbGFzaEFkCiAgICAgICAgICAgICAgICBtUGFuZ29saW5Mb2FkZWQgPSB0cnVlCiAgICAgICAgICAgICAgICBhdHRlbXB0VG9Hb1NwbGFzaEZyYWdtZW50KCkKICAgICAgICAgICAgfQogICAgICAgIH0pCiAgICAgICAgbUNvbmZpZ01vbml0b3Iuc2V0T25Db25maWdMb2FkTGlzdGVuZXIgewogICAgICAgICAgICBtQ29uZmlnTG9hZGVkID0gdHJ1ZQogICAgICAgICAgICBhdHRlbXB0VG9Hb1NwbGFzaEZyYWdtZW50KCkKICAgICAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBhZGRGYXYocG9zOiBJbnQpIHsKICAgICAgICBydkFkYXB0ZXIubm90aWZ5SXRlbUNoYW5nZWQocG9zLCBDb2x1bW5BZGFwdGVyLkFERF9GQVYpCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gYWRkRmF2KHBvczogSW50KSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aW5rZXIg6L+Z6YeM5Yik5pat5piv5ZCm5piv5Y2O5Li677yM5aaC5p6c5piv5Y2O5Li677yM5YiZ6K6+572uIHBhbmdvbGluQWRPcGVuIOS4umZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
