@@ -95,8 +95,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/config/WaitRef.java" timestamp="1594197870650">
         <mark key="'" line="61" column="20" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/content/Context.java" timestamp="1594264252029" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ad/AdManager.java" timestamp="1594198512124" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/concurrent/CyclicBarrier.java" timestamp="1594197075050" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/column/ColumnAdapter.kt" timestamp="1594208618760">
         <mark key="'" line="157" column="12" />
         <mark key="[" line="165" column="8" />
@@ -113,7 +113,6 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/VersaHomeActivity.java" timestamp="1594196557467" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/SplashConfigLoader.kt" timestamp="1594197745447">
         <mark key="'" line="38" column="4" />
         <mark key="[" line="82" column="5" />
@@ -122,13 +121,14 @@
         <mark key="^" line="86" column="48" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpNormalView.kt" timestamp="1594208434746">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/module/AdLoader.java" timestamp="1594198541632" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/ad/AdFragment.java" timestamp="1594199257439" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/column/RecommendColumnAdapter.kt" timestamp="1594208465160" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1594264227298" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/ad/module/AdImageModule.java" timestamp="1594199315171" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ad/SplashAdShowCallback.java" timestamp="1594199549968">
         <mark key="[" line="16" column="4" />
@@ -146,7 +146,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/splash/module/AdOpener.kt" timestamp="1594199189066" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/config/Configs.java" timestamp="1594197426264" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpNormalView.kt" timestamp="1594208473434">
-        <mark key="'" line="115" column="0" />
+        <mark key="'" line="116" column="0" />
       </file>
     </filemarks>
     <jumps>
