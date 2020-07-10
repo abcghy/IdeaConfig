@@ -102,12 +102,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" timestamp="1594352460863">
-        <mark key="'" line="259" column="11" />
-        <mark key="[" line="346" column="23" />
-        <mark key="]" line="346" column="26" />
-        <mark key="." line="346" column="25" />
-        <mark key="^" line="346" column="26" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/SecondOpDemoActivity.kt" timestamp="1594362785935">
+        <mark key="'" line="254" column="11" />
+        <mark key="[" line="347" column="54" />
+        <mark key="]" line="347" column="64" />
+        <mark key="." line="347" column="63" />
+        <mark key="^" line="347" column="64" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyRowFavAdapter.kt" timestamp="1594352205747">
         <mark key="'" line="58" column="12" />
@@ -131,7 +131,8 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="39" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changesky/SkySelectView.java" timestamp="1594352799386">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changesky/SkySelectView.java" timestamp="1594362707604">
+        <mark key="'" line="106" column="8" />
         <mark key="[" line="106" column="8" />
         <mark key="]" line="290" column="8" />
         <mark key="^" line="114" column="51" />
@@ -147,7 +148,10 @@
         <mark key="^" line="27" column="30" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/menu/SkyMenu.java" timestamp="1594352639975" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/menu/SkyMenu.java" timestamp="1594362724376">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="63" column="38" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/item_sky.xml" timestamp="1594351343579">
         <mark key="'" line="30" column="32" />
         <mark key="[" line="1" column="0" />
@@ -161,12 +165,12 @@
         <mark key="." line="621" column="31" />
         <mark key="^" line="621" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyMenuFetcher.kt" timestamp="1594353826396">
-        <mark key="'" line="259" column="0" />
-        <mark key="[" line="199" column="75" />
-        <mark key="]" line="199" column="76" />
-        <mark key="^" line="199" column="76" />
-        <mark key="." line="199" column="75" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyMenuFetcher.kt" timestamp="1594363302236">
+        <mark key="'" line="230" column="20" />
+        <mark key="[" line="190" column="21" />
+        <mark key="]" line="191" column="58" />
+        <mark key="^" line="191" column="58" />
+        <mark key="." line="191" column="57" />
       </file>
       <file name="/Dummy.txt" timestamp="1594351287949">
         <mark key="[" line="0" column="0" />
@@ -194,8 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="71" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" />
-      <jump line="11" column="6" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" />
       <jump line="50" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" />
       <jump line="8" column="13" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/statistics/StatisticEvents.java" />
       <jump line="1163" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
@@ -294,6 +296,8 @@
       <jump line="18" column="6" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendMenuFetcher.kt" />
       <jump line="79" column="14" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyMenuFetcher.kt" />
       <jump line="244" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyMenuFetcher.kt" />
+      <jump line="238" column="20" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyMenuFetcher.kt" />
+      <jump line="106" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changesky/SkySelectView.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,7 +310,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>//网络层 前置校验 保证数据</text>
+        <text>this, MenuEditingModel.Item.CATEGORY_GLOBAL</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -316,43 +320,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNreVRlbXBsYXRlcw==</text>
+        <text>this, MenuEditingModel.Item.CATEGORY_GLOBAL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PCsrPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>//网络层 前置校验 保证数据</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lbnVFZGl0aW5nTW9kZWwuSXRlbSBkZWZhdWx0TWVudSA9IEZwVXRpbHMuZmluZEZpcnN0KENvbmZpZ3MuZ2V0KCkuZ2V0TWVudUVkaXRpbmdNb2RlbCgpLnJlc3VsdCwKICAgICAgICAgICAgICAgICAgICAgICAgaXRlbSAtPiBNZW51RWRpdGluZ01vZGVsLkl0ZW0uQ09ERV9TS1kuZXF1YWxzKGl0ZW0uY29kZSkpLmdldCgpOwogICAgICAgICAgICAgICAgcmV0dXJuIEZwVXRpbHMuZmluZEZpcnN0KGRlZmF1bHRNZW51LmNoaWxkTGlzdCwgbWVudSAtPiBtZW51LmNvZGUuZXF1YWxzKE1lbnVFZGl0aW5nTW9kZWwuSXRlbS5DT0RFX0RZTkFNSUNfU0tZKSkKICAgICAgICAgICAgICAgICAgICAgICAgLm1hcChpdGVtIC0+IG5ldyBDaGFuZ2VTa3lPcChtQ29udGV4dCwgaW1hZ2VFZGl0Q29udGV4dCwgbWVudUl0ZW0uZ2V0TmFtZSgpLCBpbWFnZUVkaXRWaWV3LCBtZW51Q29udHJvbGxlciwgaXRlbS5jaGlsZExpc3QpKQogICAgICAgICAgICAgICAgICAgICAgICAub3JFbHNlKG51bGwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY29kZVRlbXBsYXRlTWFwID0gSGFzaE1hcDxTdHJpbmcsIFRlbXBsYXRlTGlzdEl0ZW0+KCkKICAgICAgICBDb25maWdzLmdldCgpLnRlbXBsYXRlTGlzdC5tYXAgewogICAgICAgICAgICBjb2RlVGVtcGxhdGVNYXBbaXQudGVtcGxhdGVDb2RlXSA9IGl0CiAgICAgICAgfQoKICAgICAgICB2YWwgcmVjb21tZW5kTWVudSA9IENvbmZpZ3MuZ2V0KCkubWVudUVkaXRpbmdNb2RlbD8ucmVzdWx0Py5maXJzdE9yTnVsbCB7IGl0ZW0gLT4KICAgICAgICAgICAgaXRlbS5jYXRlZ29yaWVzICE9IG51bGwgJiYgaXRlbS5jYXRlZ29yaWVzLmNvbnRhaW5zKGNhdGVnb3J5S2V5KQogICAgICAgIH0/LmNoaWxkTGlzdD8uZmlyc3RPck51bGwgewogICAgICAgICAgICBpdC5jb2RlID09IE1lbnVFZGl0aW5nTW9kZWwuSXRlbS5DT0RFX1JFQ09NTUVORAogICAgICAgIH0KCiAgICAgICAgLy8gcmVnaW9uIOaUtuiXj+WMuuWfnwogICAgICAgIHJldHVyblZhbHVlLmFkZChDb2x1bW5UaXRsZShjb250ZXh0LmdldFN0cmluZyhSLnN0cmluZy5teV9mYXZvcml0ZSkpKQoKICAgICAgICAvLyDpmo/mnLrnqb/otooKICAgICAgICB2YWwgZmF2SXRlbXMgPSBNdXRhYmxlTGlzdCgxKSB7CiAgICAgICAgICAgIFNlbGVjdFdyYXBwZXIoIiIpCiAgICAgICAgfQoKICAgICAgICAvLyDlt7LmlLbol48KICAgICAgICBmYXZJdGVtcy5hZGRBbGwoVGVtcGxhdGVGYXZvcml0ZU1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5nZXRMaXN0QnlVaWQoKS5tYXAgeyBTZWxlY3RXcmFwcGVyKGl0KSB9KQoKICAgICAgICAvLyDplb/mjInlj6/ku6XmlLbol4/mj5DnpLoKLy8gICAgICAgIGlmIChmYXZJdGVtcy5zaXplID09IDEpIHsKLy8gICAgICAgICAgICBmYXZJdGVtcy5hZGQoU2VsZWN0V3JhcHBlcihFbXB0eUhpbnQoKSkpCi8vICAgICAgICB9CgogICAgICAgIHJldHVyblZhbHVlLmFkZChDb2x1bW5GYXYoZmF2SXRlbXMpKQogICAgICAgIC8vIGVuZHJlZ2lvbgoKICAgICAgICAvLyByZWdpb24g5pWw5o2u5bGV56S65Yy65Z+fCiAgICAgICAgd2hlbiAoVGVtcGxhdGVTdGF0aWNIb2xkZXIuY3VycmVudE1vZGUpIHsKICAgICAgICAgICAgVGVtcGxhdGVTdGF0aWNIb2xkZXIuQ0FURUdPUllfTk9fVEVNUExBVEUgLT4gewogICAgICAgICAgICAgICAgcmVjb21tZW5kTWVudT8uY2hpbGRMaXN0Py5mb3JFYWNoIHsgZ3JvdXAgLT4KICAgICAgICAgICAgICAgICAgICBpZiAoZ3JvdXAucmVzb3VyY2VzICE9IG51bGwgJiYgZ3JvdXAubmFtZSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVyblZhbHVlLmFkZChDb2x1bW5UaXRsZShncm91cC5uYW1lKSkKICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHRlbXBsYXRlSXRlbXMgPSBBcnJheUxpc3QoZ3JvdXAucmVzb3VyY2VzLm1hcE5vdE51bGwgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuQG1hcE5vdE51bGwgY29kZVRlbXBsYXRlTWFwW2l0XQogICAgICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgICAgICBpZiAoZ3JvdXAuY29kZSA9PSBUZW1wbGF0ZVN0YXRpY0hvbGRlci50ZW1wbGF0ZUNhdGVnb3J5Q29kZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGVtcGxhdGVJdGVtcy5hZGQoVGVtcGxhdGVTdGF0aWNIb2xkZXIudGVtcGxhdGVMaXN0SXRlbSkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5WYWx1ZS5hZGQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29sdW1uRGlzcGxheSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlbXBsYXRlSXRlbXMubWFwIHsgU2VsZWN0V3JhcHBlcihpdCkgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBUZW1wbGF0ZVN0YXRpY0hvbGRlci5CQUNLX1RSQUNFX0hBVkVfQ0FURUdPUlkgLT4gewogICAgICAgICAgICAgICAgLy8g5Zyo5pyA5YmN6Z2i5re75Yqg5LiA5Liq5qih54mI5YiG57G7CiAgICAgICAgICAgICAgICBUZW1wbGF0ZVN0YXRpY0hvbGRlci50ZW1wbGF0ZU1vZGVsPy5sZXQgeyB0ZW1wbGF0ZU1vZGVsIC0+CiAgICAgICAgICAgICAgICAgICAgaWYgKCF0ZW1wbGF0ZU1vZGVsLnRlbXBsYXRlTGlzdC5pc051bGxPckVtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuVmFsdWUuYWRkKENvbHVtblRpdGxlKHRlbXBsYXRlTW9kZWwudGVtcGxhdGVDYXRlZ29yeU5hbWUpKQogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5WYWx1ZS5hZGQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29sdW1uRGlzcGxheSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlbXBsYXRlTW9kZWwudGVtcGxhdGVMaXN0Lm1hcCB7IFNlbGVjdFdyYXBwZXIoaXQpIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBhcHBlbmRNZW51RGF0YShyZWNvbW1lbmRNZW51LCByZXR1cm5WYWx1ZSwgY29kZVRlbXBsYXRlTWFwKQogICAgICAgICAgICB9CiAgICAgICAgICAgIFRlbXBsYXRlU3RhdGljSG9sZGVyLkJBQ0tfVFJBQ0VfTk9fQ0FURUdPUlkgLT4gewogICAgICAgICAgICAgICAgVGVtcGxhdGVTdGF0aWNIb2xkZXIudGVtcGxhdGVMaXN0SXRlbT8ubGV0IHsKICAgICAgICAgICAgICAgICAgICByZXR1cm5WYWx1ZS5hZGQoQ29sdW1uVGl0bGUoVGVtcGxhdGVTdGF0aWNIb2xkZXIudGVtcGxhdGVDYXRlZ29yeU5hbWUgPzogIiIpKQogICAgICAgICAgICAgICAgICAgIHJldHVyblZhbHVlLmFkZChDb2x1bW5EaXNwbGF5KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbGlzdE9mKGl0KS5tYXAgeyBTZWxlY3RXcmFwcGVyKGl0KSB9CiAgICAgICAgICAgICAgICAgICAgKSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGFwcGVuZE1lbnVEYXRhKHJlY29tbWVuZE1lbnUsIHJldHVyblZhbHVlLCBjb2RlVGVtcGxhdGVNYXApCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSAtPiB7CiAgICAgICAgICAgICAgICBhcHBlbmRNZW51RGF0YShyZWNvbW1lbmRNZW51LCByZXR1cm5WYWx1ZSwgY29kZVRlbXBsYXRlTWFwKQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGxpc3QgPSBTa3lNZW51RmV0Y2hlcih0aGlzLCBNZW51RWRpdGluZ01vZGVsLkl0ZW0uQ0FURUdPUllfR0xPQkFMKS5mZXRjaCgpCiAgICAgICAgICAgIHRoZVJlYWxEYXRhLmFkZEFsbChsaXN0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHZhbCBpdGVtczogTGlzdDxUZW1wbGF0ZUxpc3RJdGVtPiA9IEZwVXRpbHMuZmlsdGVyKENvbmZpZ3MuZ2V0KCkuc2t5VGVtcGxhdGUpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQ6IFRlbXBsYXRlTGlzdEl0ZW0gLT4gZ3JvdXAucmVzb3VyY2VzICE9IG51bGwgJiYgZ3JvdXAucmVzb3VyY2VzLmNvbnRhaW5zKHJlc3VsdC50ZW1wbGF0ZUNvZGUpCi8vICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgZmluYWxJID0gaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIG1Ta3lJdGVtcy5hZGQoU2t5SXRlbS5TUExJVF9MSU5FKQovLyAgICAgICAgICAgICAgICAgICAgbVNreUdyb3Vwcy5hZGQoU2t5R3JvdXAoZ3JvdXAubmFtZSwgbVNreUl0ZW1zLnNpemUpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHZhbCBjb2x1bW5EaXNwbGF5ID0gQ29sdW1uRGlzcGxheSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PExpbmVhckxheW91dCB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCI+CiAgICAKICAgIAoKPC9MaW5lYXJMYXlvdXQ+</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIEZwVXRpbHMuZm9yRWFjaChpdGVtcykgeyByZXN1bHQ6IFRlbXBsYXRlTGlzdEl0ZW0gLT4KLy8gICAgICAgICAgICAgICAgICAgICAgICBpZiAocmVzdWx0LmNvbmZpZyA9PSBudWxsKSByZXR1cm5AZm9yRWFjaAovLyAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBsYXllckNvbmZpZ0xpc3QgPSByZXN1bHQuY29uZmlnISEubGF5ZXJDb25maWcgLy/nvZHnu5zlsYIg5YmN572u5qCh6aqMIOS/neivgeaVsOaNrgovLyAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBza3lMYXllckNvbmZpZ09wdGlvbmFsOiBPcHRpb25hbDxMYXllckNvbmZpZz4gPSBGcFV0aWxzLmZpbmRGaXJzdChsYXllckNvbmZpZ0xpc3QKLy8gICAgICAgICAgICAgICAgICAgICAgICApIHsgbGF5ZXJDb25maWc6IExheWVyQ29uZmlnPyAtPiBsYXllckNvbmZpZyBpcyBTa3lMYXllckNvbmZpZyB9Ci8vICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFza3lMYXllckNvbmZpZ09wdGlvbmFsLmlzUHJlc2VudCkgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cuZSgiV2l0aG91dFNreUxheWVyIiwgcmVzdWx0LnRlbXBsYXRlQ29kZSkKLy8gICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgKF8sIGNvbmZpZykgPSBza3lMYXllckNvbmZpZ09wdGlvbmFsLmdldCgpIGFzIFNreUxheWVyQ29uZmlnCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChjb25maWcgIT0gbnVsbCkgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVNreUl0ZW1zLmFkZCgKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU2t5SXRlbShmaW5hbEksIGdyb3VwLmdldENvZGUoKSwgZ3JvdXAubmFtZSwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQudGVtcGxhdGVDb2RlLCAgLy9za3lMYXllckNvbmZpZy5nZXRDb2RlKCksCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0LnRlbXBsYXRlTmFtZSwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25maWchIS5pbWFnZVVybCwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQuZnVuY1RodW1ibmFpbFVybCwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25maWchIS5jb3ZlclR5cGUsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uZmlnISEudmlzaWJpbGl0eSwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQuaXNWaXAsIHJlc3VsdC51bmxvY2tGbGFnKCkpKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuQG1hcE5vdE51bGwgaWYgKGhhc1NreUxheWVyQ29uZmlnKSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgb3ZlcnJpZGUgZnVuIG9uQmluZFZpZXdIb2xkZXIoaG9sZGVyOiBSZWN5Y2xlclZpZXcuVmlld0hvbGRlciwgcG9zaXRpb246IEludCkgewovLyAgICAgICAgd2hlbiB7Ci8vICAgICAgICAgICAgaG9sZGVyIGlzIFJvd1ZpZXdIb2xkZXIgLT4gewovLyAgICAgICAgICAgICAgICAoaG9sZGVyLm5vcm1hbENoaWxkSXRlbSBhcz8gRmF2Q2hpbGRJdGVtKT8uc2V0RGVsZXRlKGlzRGVsZXRlKQovLyAgICAgICAgICAgICAgICBob2xkZXIuYmluZChpdGVtc1twb3NpdGlvbl0uaXRlbSkKLy8KLy8vLyAgICAgICAgICAgICAgICBpZiAoaG9sZGVyLm5vcm1hbENoaWxkSXRlbSBpcyBGaWx0ZXJDaGlsZEl0ZW0pIHsKLy8vLyAgICAgICAgICAgICAgICAgICAgKGl0ZW1zW3Bvc2l0aW9uXSBhcz8gUmVzb3VyY2VzTW9kZWwuUmVzb3VyY2VJdGVtKT8ubGV0IHsKLy8vLyAgICAgICAgICAgICAgICAgICAgICAgIGZpbHRlclRodW1ibmFpbEdlbmVyYXRvcj8ub25UaHVtYm5haWxHZW5lcmF0ZShpdCkKLy8vLyAgICAgICAgICAgICAgICAgICAgfQovLy8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Ci8vICAgIH0KCiAgICAvLyDlhYjkuI3nrqHmlLbol4/nmoQKLy8gICAgb3ZlcnJpZGUgZnVuIG9uVmlld1JlY3ljbGVkKGhvbGRlcjogUmVjeWNsZXJWaWV3LlZpZXdIb2xkZXIpIHsKLy8gICAgICAgIHN1cGVyLm9uVmlld1JlY3ljbGVkKGhvbGRlcikKLy8KLy8gICAgICAgIHdoZW4gewovLyAgICAgICAgICAgIGhvbGRlciBpcyBDb2x1bW5GYXZDaGlsZFZpZXdIb2xkZXIgLT4gewovLyAgICAgICAgICAgICAgICBpZiAoaG9sZGVyLm5vcm1hbENoaWxkSXRlbSBpcyBGaWx0ZXJDaGlsZEl0ZW0pIHsKLy8KLy8gICAgICAgICAgICAgICAgICAgIChpdGVtcy5nZXRPck51bGwoaG9sZGVyLmxheW91dFBvc2l0aW9uKSBhcz8gUmVzb3VyY2VzTW9kZWwuUmVzb3VyY2VJdGVtKT8ubGV0IHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBmaWx0ZXJUaHVtYm5haWxHZW5lcmF0b3I/Lm9uVGh1bWJuYWlsRGVzdHJveShpdCkKLy8gICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0KLy8gICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
