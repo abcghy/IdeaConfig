@@ -124,9 +124,6 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1594349755577">
-        <mark key="'" line="274" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/filter/FilterColumnAdapter.kt" timestamp="1594349912686">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="39" column="9" />
@@ -165,6 +162,9 @@
         <mark key="." line="621" column="31" />
         <mark key="^" line="621" column="32" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/AreaEditActivity.java" timestamp="1594364006430">
+        <mark key="'" line="243" column="30" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyMenuFetcher.kt" timestamp="1594363302236">
         <mark key="'" line="230" column="20" />
         <mark key="[" line="190" column="21" />
@@ -198,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendSecondOpView.kt" />
       <jump line="8" column="13" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/statistics/StatisticEvents.java" />
       <jump line="1163" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
       <jump line="116" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpNormalView.kt" />
@@ -298,6 +297,7 @@
       <jump line="244" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyMenuFetcher.kt" />
       <jump line="238" column="20" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyMenuFetcher.kt" />
       <jump line="106" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changesky/SkySelectView.java" />
+      <jump line="243" column="30" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/AreaEditActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
