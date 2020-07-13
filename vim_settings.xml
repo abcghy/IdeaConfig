@@ -179,11 +179,11 @@
         <mark key="^" line="38" column="67" />
         <mark key="." line="52" column="87" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/AlbumSaver.kt" timestamp="1594637331715">
-        <mark key="[" line="30" column="9" />
-        <mark key="]" line="32" column="24" />
-        <mark key="." line="32" column="23" />
-        <mark key="^" line="32" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/AlbumSaver.kt" timestamp="1594638489230">
+        <mark key="[" line="25" column="59" />
+        <mark key="]" line="25" column="63" />
+        <mark key="." line="25" column="62" />
+        <mark key="^" line="25" column="63" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/share/EraserController.java" timestamp="1594636137379" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/Generator.kt" timestamp="1594635082455">
@@ -306,8 +306,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>savedFile</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -317,7 +317,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>savedFile</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
@@ -332,9 +332,27 @@
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ5IHsKICAgICAgICAgICAgdHJ1ZQogICAgICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICAgICAgICAgIGZhbHNlCiAgICAgICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQWxidW1TY2FubmVyLnNhdmVTdHlsaXplZFJlc3VsdChjb250ZXh0LCBudWxsLCBzYXZlZEZpbGUuYWJzb2x1dGVQYXRoLAogICAgICAgICAgICAgICAgICAgIHRydWUsIHRydWUsIGZhbHNlLCB0cnVlKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNhdmVkRmlsZSA9IHdpdGhDb250ZXh0KERpc3BhdGNoZXJzLklPKSB7CiAgICAgICAgICAgICAgICBmaWxlCiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBmaWxlID0gRmlsZSgiIikKICAgICAgICAgICAgICAgIHZhbCBmaWxlT3V0cHV0U3RyZWFtID0gRmlsZU91dHB1dFN0cmVhbShmaWxlKQogICAgICAgICAgICAgICAgaXRlbS5jb21wcmVzcyhCaXRtYXAuQ29tcHJlc3NGb3JtYXQuUE5HLCAxMDAsIGZpbGVPdXRwdXRTdHJlYW0pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgc2F2ZWRGaWxlID0gd2l0aENvbnRleHQoRGlzcGF0Y2hlcnMuSU8pIHsKICAgICAgICAgICAgdmFsIGZpbGUgPSBGaWxlKCIiKQogICAgICAgICAgICB2YWwgZmlsZU91dHB1dFN0cmVhbSA9IEZpbGVPdXRwdXRTdHJlYW0oZmlsZSkKICAgICAgICAgICAgaXRlbS5jb21wcmVzcyhCaXRtYXAuQ29tcHJlc3NGb3JtYXQuUE5HLCAxMDAsIGZpbGVPdXRwdXRTdHJlYW0pCiAgICAgICAgICAgIGZpbGUKICAgICAgICB9CiAgICAgICAgQWxidW1TY2FubmVyLnNhdmVTdHlsaXplZFJlc3VsdChjb250ZXh0LCBudWxsLCBzYXZlZEZpbGUuYWJzb2x1dGVQYXRoLAogICAgICAgICAgICAgICAgdHJ1ZSwgdHJ1ZSwgZmFsc2UsIHRydWUpCiAgICAgICAgcmV0dXJuIHRydWUK</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>ile = withContext(Dispatchers.IO) {
             val file = File(&quot;&quot;)
             val fileOutputStream = FileOutputStream(file)
@@ -344,24 +362,6 @@
         AlbumScanner.saveStylizedResult(context, null, savedFile.absolutePath,
                 true, true, false, true)
         return true</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBydW5CbG9ja2luZyB7IAogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source $MYVIMRC</text>
