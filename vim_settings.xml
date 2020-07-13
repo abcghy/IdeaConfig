@@ -115,7 +115,7 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1594630164221" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1594632171818" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/share/ShareActivity.java" timestamp="1594623960349" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594627850297">
         <mark key="[" line="1319" column="0" />
@@ -124,11 +124,11 @@
         <mark key="^" line="1272" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/widget/TopRenderView.kt" timestamp="1594629400051" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_image_edit.xml" timestamp="1594630706775">
-        <mark key="[" line="462" column="73" />
-        <mark key="]" line="463" column="52" />
-        <mark key="^" line="463" column="52" />
-        <mark key="." line="463" column="51" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/activity_image_edit.xml" timestamp="1594632477059">
+        <mark key="[" line="465" column="61" />
+        <mark key="]" line="466" column="45" />
+        <mark key="^" line="466" column="45" />
+        <mark key="." line="466" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/WatermarkStamper.kt" timestamp="1594629946046">
         <mark key="[" line="52" column="87" />
