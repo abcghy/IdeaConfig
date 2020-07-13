@@ -99,7 +99,7 @@
         <mark key="^" line="8" column="30" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/os/AsyncTask.java" timestamp="1594635587349" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/share/ShareActivity.java" timestamp="1594636277227">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/share/ShareActivity.java" timestamp="1594639443928">
         <mark key="[" line="1131" column="0" />
         <mark key="]" line="1132" column="41" />
         <mark key="^" line="1131" column="44" />
@@ -112,7 +112,7 @@
         <mark key="." line="1442" column="18" />
         <mark key="^" line="1442" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594635192343">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594639573376">
         <mark key="'" line="2132" column="16" />
         <mark key="[" line="2152" column="13" />
         <mark key="]" line="2153" column="5" />
@@ -139,7 +139,7 @@
         <mark key="." line="553" column="18" />
         <mark key="^" line="553" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/album/AlbumScanner.java" timestamp="1594637298413" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/album/AlbumScanner.java" timestamp="1594639308162" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1594635129185">
         <mark key="'" line="1758" column="8" />
         <mark key="[" line="1866" column="37" />
@@ -179,14 +179,14 @@
         <mark key="^" line="38" column="67" />
         <mark key="." line="52" column="87" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/AlbumSaver.kt" timestamp="1594638489230">
-        <mark key="[" line="25" column="59" />
-        <mark key="]" line="25" column="63" />
-        <mark key="." line="25" column="62" />
-        <mark key="^" line="25" column="63" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/AlbumSaver.kt" timestamp="1594639523532">
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="40" />
+        <mark key="^" line="22" column="40" />
+        <mark key="." line="22" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/share/EraserController.java" timestamp="1594636137379" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/Generator.kt" timestamp="1594635082455">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/Generator.kt" timestamp="1594639645647">
         <mark key="'" line="14" column="23" />
         <mark key="[" line="38" column="41" />
         <mark key="]" line="38" column="42" />
@@ -307,7 +307,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>savedFile</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -317,7 +317,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>savedFile</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
