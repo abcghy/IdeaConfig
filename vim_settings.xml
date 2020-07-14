@@ -13,8 +13,8 @@
         <entry>public</entry>
         <entry>cet</entry>
         <entry>fragment</entry>
-        <entry encoding="base64">PCsrPg==</entry>
         <entry>url</entry>
+        <entry encoding="base64">PCsrPg==</entry>
       </history-search>
       <history-cmd>
         <entry>154</entry>
@@ -26,9 +26,9 @@
         <entry>500</entry>
         <entry>707</entry>
         <entry>34</entry>
-        <entry>nohlsearch</entry>
         <entry>w</entry>
         <entry>source $MYVIMRC</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,11 +112,10 @@
         <mark key="." line="1442" column="18" />
         <mark key="^" line="1442" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594696534100">
-        <mark key="[" line="2160" column="38" />
-        <mark key="]" line="2161" column="44" />
-        <mark key="^" line="2161" column="44" />
-        <mark key="." line="2161" column="43" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594697056074">
+        <mark key="[" line="2157" column="0" />
+        <mark key="]" line="2193" column="19" />
+        <mark key="." line="2157" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changesky/ChangeSkyOp.java" timestamp="1594633974951">
         <mark key="'" line="123" column="33" />
@@ -134,6 +133,7 @@
         <mark key="^" line="553" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/album/AlbumScanner.java" timestamp="1594639308162" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/SnapshotSaver.kt" timestamp="1594697367907" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1594639940405">
         <mark key="'" line="1866" column="21" />
         <mark key="[" line="152" column="0" />
@@ -151,17 +151,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateActivity.kt" timestamp="1594640613766">
         <mark key="'" line="117" column="6" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/AbsSecondLevelOp.java" timestamp="1594633920006">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="313" column="5" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1594633949166">
-        <mark key="'" line="84" column="13" />
-        <mark key="[" line="1014" column="15" />
-        <mark key="]" line="1014" column="19" />
-        <mark key="." line="1014" column="18" />
-        <mark key="^" line="1014" column="19" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/selectphoto/SelectPhotoActivity.java" timestamp="1594636269590" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/WatermarkStamper.kt" timestamp="1594694762057">
         <mark key="'" line="16" column="82" />
@@ -176,16 +165,21 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/share/EraserController.java" timestamp="1594636137379" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/Generator.kt" timestamp="1594695708730">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/Generator.kt" timestamp="1594697181891">
         <mark key="'" line="75" column="3" />
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="16" />
-        <mark key="." line="20" column="15" />
-        <mark key="^" line="20" column="16" />
+        <mark key="[" line="37" column="38" />
+        <mark key="]" line="37" column="6" />
+        <mark key="." line="37" column="5" />
+        <mark key="^" line="37" column="6" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/SnapshotSaver.java" timestamp="1594697423199">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="54" />
+        <mark key="." line="4" column="53" />
+        <mark key="^" line="4" column="54" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="49" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/realop/RealFilterOp.java" />
       <jump line="123" column="50" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/realop/RealFilterOp.java" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/values/strings.xml" />
       <jump line="174" column="36" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/childitem/FilterChildItem.kt" />
@@ -285,6 +279,7 @@
       <jump line="18" column="20" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/AlbumSaver.kt" />
       <jump line="14" column="82" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/WatermarkStamper.kt" />
       <jump line="117" column="6" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateActivity.kt" />
+      <jump line="52" column="20" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/SnapshotSaver.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -297,7 +292,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>hello</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -307,16 +302,18 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>hello</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text encoding="base64">PCsrPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVNlY29uZExldmVsT3Auc3RvcExvYWRpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICBJbWFnZUdlbmVyYXRvciBnZW5lcmF0b3IgPSBuZXcgSW1hZ2VHZW5lcmF0b3IoKTsKICAgICAgICBJbWFnZVdhdGVybWFya1N0YW1wZXIgd2F0ZXJtYXJrU3RhbXBlciA9IG5ldyBJbWFnZVdhdGVybWFya1N0YW1wZXIobUNvbnRleHQpOwogICAgICAgIEltYWdlQWxidW1TYXZlciBpbWFnZUFsYnVtU2F2ZXIgPSBuZXcgSW1hZ2VBbGJ1bVNhdmVyKG1Db250ZXh0KTsKICAgICAgICBTaW5nbGU8U3RyaW5nPiBzaW5nbGUgPSBnZW5lcmF0b3IuZ2VuZXJhdGUobUltYWdlRWRpdFZpZXcsIG1JbWFnZUVkaXRDb250ZXh0KQogICAgICAgICAgICAgICAgLmNvbXBvc2UodXBzdHJlYW0gLT4gewogICAgICAgICAgICAgICAgICAgIC8vIOWmguaenOeUqOaIt+ayoeacieeZu+W9le+8jOaIluiAheS4jeaYr+S8muWRmO+8jOWImeWKoOS4iuawtOWNsAogICAgICAgICAgICAgICAgICAgIFVzZXJJbmZvIHVzZXJJbmZvID0gTG9naW5TdGF0ZS5nZXRVc2VySW5mbyhtQ29udGV4dCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKHVzZXJJbmZvID09IG51bGwgfHwgIXVzZXJJbmZvLnJlc3VsdC5pc1BybygpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB1cHN0cmVhbS5mbGF0TWFwKChGdW5jdGlvbjxCaXRtYXAsIFNpbmdsZVNvdXJjZTxCaXRtYXA+Pikgd2F0ZXJtYXJrU3RhbXBlcjo6c3RhbXApOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gdXBzdHJlYW07CiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgLm1hcChiaXRtYXAgLT4gewogICAgICAgICAgICAgICAgICAgIGltYWdlQWxidW1TYXZlci5zYXZlVG9BbGJ1bShiaXRtYXApOwogICAgICAgICAgICAgICAgICAgIHJldHVybiAiZW5kIjsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgIHNpbmdsZS5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCiAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkKICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUobmV3IFNpbmdsZU9ic2VydmVyPFN0cmluZz4oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25TdWJzY3JpYmUoRGlzcG9zYWJsZSBkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG1TZWNvbmRMZXZlbE9wLnN0YXJ0TG9hZGluZygpOwogICAgICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEVTVFRURkZGIiwgIm9uU3Vic2NyaWJlIik7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvblN1Y2Nlc3MoU3RyaW5nIHN0cikgewogICAgICAgICAgICAgICAgICAgICAgICBtU2Vjb25kTGV2ZWxPcC5zdG9wTG9hZGluZygpOwogICAgICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEVTVFRURkZGIiwgIm9uU3VjY2VzcyAiICsgc3RyKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uRXJyb3IoVGhyb3dhYmxlIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbVNlY29uZExldmVsT3Auc3RvcExvYWRpbmcoKTsKICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIlRFU1RUVEZGRiIsICJvbkVycm9yIiwgZSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>class SnapshotSaver {
+    
+}</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -325,38 +322,36 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZ2VuZXJhdG9yID0gSW1hZ2VHZW5lcmF0b3IoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1biBzYXZlVG9BbGJ1bShpdGVtOiBUKSB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBHZW5lcmF0b3IgZ2VuZXJhdG9yID0gbmV3IEltYWdlR2VuZXJhdG9yKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmbGF0TWFwKG9iamVjdCA6IEZ1bmN0aW9uPFQsIFNpbmdsZVNvdXJjZTxUPj4oKSB7CiAgICAgICAgICAgIAogICAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-            o
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgZnVuIFNpbmdsZTxUPi5zdGFtcCgpOiBTaW5nbGU8VD4gewovLyAgICAgICAgcmV0dXJuIHRoaXMubWFwIHsKLy8gICAgICAgICAgICBzdGFtcChpdCwgb2JqZWN0IDogQWRkV2F0ZXJtYXJrTGlzdGVuZXI8VD4gewovLyAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25TdWNjZXNzKGl0ZW06IFQpIHsKLy8KLy8gICAgICAgICAgICAgICAgfQovLwovLyAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25FcnJvcigpIHsKLy8KLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH0pCi8vICAgICAgICB9Ci8vICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>source $MYVIMRC</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>url</last-search>
+      <last-search encoding="base64">PCsrPg==</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern encoding="base64">PCsrPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
