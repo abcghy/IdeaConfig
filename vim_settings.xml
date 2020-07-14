@@ -98,6 +98,9 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="8" column="30" />
       </file>
+      <file name="/a.dummy" timestamp="1594698598897">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/os/AsyncTask.java" timestamp="1594635587349" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/share/ShareActivity.java" timestamp="1594639443928">
         <mark key="[" line="1131" column="0" />
@@ -105,14 +108,7 @@
         <mark key="^" line="1131" column="44" />
         <mark key="." line="1131" column="43" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1594633964128">
-        <mark key="'" line="118" column="13" />
-        <mark key="[" line="1442" column="15" />
-        <mark key="]" line="1442" column="19" />
-        <mark key="." line="1442" column="18" />
-        <mark key="^" line="1442" column="19" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594697056074">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594699156022">
         <mark key="[" line="2157" column="0" />
         <mark key="]" line="2193" column="19" />
         <mark key="." line="2157" column="0" />
@@ -133,7 +129,7 @@
         <mark key="^" line="553" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/album/AlbumScanner.java" timestamp="1594639308162" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/SnapshotSaver.kt" timestamp="1594697367907" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/SnapshotSaver.kt" timestamp="1594699195067" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1594639940405">
         <mark key="'" line="1866" column="21" />
         <mark key="[" line="152" column="0" />
@@ -165,18 +161,18 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/share/EraserController.java" timestamp="1594636137379" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/Generator.kt" timestamp="1594697181891">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/Generator.kt" timestamp="1594699363741">
         <mark key="'" line="75" column="3" />
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="37" column="6" />
-        <mark key="." line="37" column="5" />
-        <mark key="^" line="37" column="6" />
+        <mark key="[" line="16" column="50" />
+        <mark key="]" line="16" column="50" />
+        <mark key="." line="16" column="49" />
+        <mark key="^" line="16" column="50" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/SnapshotSaver.java" timestamp="1594697423199">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="54" />
-        <mark key="." line="4" column="53" />
-        <mark key="^" line="4" column="54" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/SnapshotSaver.java" timestamp="1594698590582">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="5" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -292,7 +288,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>hello</text>
+        <text>SaverData</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -302,7 +298,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hello</text>
+        <text>SaverData</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PCsrPg==</text>
@@ -311,36 +307,36 @@
         <text encoding="base64">ICAgICAgICBJbWFnZUdlbmVyYXRvciBnZW5lcmF0b3IgPSBuZXcgSW1hZ2VHZW5lcmF0b3IoKTsKICAgICAgICBJbWFnZVdhdGVybWFya1N0YW1wZXIgd2F0ZXJtYXJrU3RhbXBlciA9IG5ldyBJbWFnZVdhdGVybWFya1N0YW1wZXIobUNvbnRleHQpOwogICAgICAgIEltYWdlQWxidW1TYXZlciBpbWFnZUFsYnVtU2F2ZXIgPSBuZXcgSW1hZ2VBbGJ1bVNhdmVyKG1Db250ZXh0KTsKICAgICAgICBTaW5nbGU8U3RyaW5nPiBzaW5nbGUgPSBnZW5lcmF0b3IuZ2VuZXJhdGUobUltYWdlRWRpdFZpZXcsIG1JbWFnZUVkaXRDb250ZXh0KQogICAgICAgICAgICAgICAgLmNvbXBvc2UodXBzdHJlYW0gLT4gewogICAgICAgICAgICAgICAgICAgIC8vIOWmguaenOeUqOaIt+ayoeacieeZu+W9le+8jOaIluiAheS4jeaYr+S8muWRmO+8jOWImeWKoOS4iuawtOWNsAogICAgICAgICAgICAgICAgICAgIFVzZXJJbmZvIHVzZXJJbmZvID0gTG9naW5TdGF0ZS5nZXRVc2VySW5mbyhtQ29udGV4dCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKHVzZXJJbmZvID09IG51bGwgfHwgIXVzZXJJbmZvLnJlc3VsdC5pc1BybygpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB1cHN0cmVhbS5mbGF0TWFwKChGdW5jdGlvbjxCaXRtYXAsIFNpbmdsZVNvdXJjZTxCaXRtYXA+Pikgd2F0ZXJtYXJrU3RhbXBlcjo6c3RhbXApOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gdXBzdHJlYW07CiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgLm1hcChiaXRtYXAgLT4gewogICAgICAgICAgICAgICAgICAgIGltYWdlQWxidW1TYXZlci5zYXZlVG9BbGJ1bShiaXRtYXApOwogICAgICAgICAgICAgICAgICAgIHJldHVybiAiZW5kIjsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgIHNpbmdsZS5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCiAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkKICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUobmV3IFNpbmdsZU9ic2VydmVyPFN0cmluZz4oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25TdWJzY3JpYmUoRGlzcG9zYWJsZSBkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG1TZWNvbmRMZXZlbE9wLnN0YXJ0TG9hZGluZygpOwogICAgICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEVTVFRURkZGIiwgIm9uU3Vic2NyaWJlIik7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvblN1Y2Nlc3MoU3RyaW5nIHN0cikgewogICAgICAgICAgICAgICAgICAgICAgICBtU2Vjb25kTGV2ZWxPcC5zdG9wTG9hZGluZygpOwogICAgICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEVTVFRURkZGIiwgIm9uU3VjY2VzcyAiICsgc3RyKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uRXJyb3IoVGhyb3dhYmxlIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbVNlY29uZExldmVsT3Auc3RvcExvYWRpbmcoKTsKICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIlRFU1RUVEZGRiIsICJvbkVycm9yIiwgZSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>class SnapshotSaver {
-    
-}</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgQml0bWFwU2F2ZXJEYXRhIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZ2VuZXJhdG9yID0gSW1hZ2VHZW5lcmF0b3IoKQo=</text>
+        <text encoding="base64">ICAgIHZhciBpdGVtOiBCaXRtYXA/ID0gbnVsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGl0ZW06IFQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBHZW5lcmF0b3IgZ2VuZXJhdG9yID0gbmV3IEltYWdlR2VuZXJhdG9yKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgYXJyMVswXSA9IGFycjJbMF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>class SnapshotSaver {
+    
+}</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZ2VuZXJhdG9yID0gSW1hZ2VHZW5lcmF0b3IoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
