@@ -108,9 +108,9 @@
         <mark key="^" line="1131" column="44" />
         <mark key="." line="1131" column="43" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594709075631">
-        <mark key="[" line="2162" column="0" />
-        <mark key="]" line="2166" column="21" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594710743735">
+        <mark key="[" line="2190" column="0" />
+        <mark key="]" line="2191" column="57" />
         <mark key="." line="2157" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changesky/ChangeSkyOp.java" timestamp="1594633974951">
@@ -129,10 +129,12 @@
         <mark key="^" line="553" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/album/AlbumScanner.java" timestamp="1594639308162" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/SnapshotSaver.kt" timestamp="1594709245475">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/SnapshotSaver.kt" timestamp="1594710488620">
+        <mark key="'" line="21" column="35" />
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1594639940405">
         <mark key="'" line="1866" column="21" />
@@ -180,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/values/strings.xml" />
       <jump line="174" column="36" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/childitem/FilterChildItem.kt" />
       <jump line="31" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/childitem/TransparentChildItem.kt" />
       <jump line="34" column="88" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/filter/FilterColumnAdapter.kt" />
@@ -280,6 +281,7 @@
       <jump line="117" column="6" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateActivity.kt" />
       <jump line="52" column="20" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/SnapshotSaver.kt" />
       <jump line="17" column="47" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/Generator.kt" />
+      <jump line="21" column="35" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/SnapshotSaver.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -291,8 +293,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">OiBHZW5lcmF0b3I8Pz4=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -302,13 +304,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TODO(&quot;Not yet implemented&quot;)</text>
+        <text encoding="base64">OiBHZW5lcmF0b3I8Pz4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PCsrPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDlpoLmnpznlKjmiLfmsqHmnInnmbvlvZXvvIzmiJbogIXkuI3mmK/kvJrlkZjvvIzliJnliqDkuIrmsLTljbAKICAgICAgICAgICAgICAgICAgICBVc2VySW5mbyB1c2VySW5mbyA9IExvZ2luU3RhdGUuZ2V0VXNlckluZm8obUNvbnRleHQpOwogICAgICAgICAgICAgICAgICAgIGlmICh1c2VySW5mbyA9PSBudWxsIHx8ICF1c2VySW5mby5yZXN1bHQuaXNQcm8oKSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gdXBzdHJlYW0uZmxhdE1hcCgoRnVuY3Rpb248Qml0bWFwLCBTaW5nbGVTb3VyY2U8Qml0bWFwPj4pIHdhdGVybWFya1N0YW1wZXI6OnN0YW1wKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVNlY29uZExldmVsT3Auc3RvcExvYWRpbmcoKTsKICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIlRFU1RUVEZGRiIsICJvbkVycm9yIiwgZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
