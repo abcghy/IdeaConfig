@@ -112,11 +112,11 @@
         <mark key="." line="1442" column="18" />
         <mark key="^" line="1442" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594640869278">
-        <mark key="[" line="2142" column="61" />
-        <mark key="]" line="2142" column="61" />
-        <mark key="." line="2142" column="60" />
-        <mark key="^" line="2142" column="61" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594694237868">
+        <mark key="[" line="2145" column="62" />
+        <mark key="]" line="2146" column="5" />
+        <mark key="." line="2146" column="4" />
+        <mark key="^" line="2146" column="5" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changesky/ChangeSkyOp.java" timestamp="1594633974951">
         <mark key="'" line="123" column="33" />
@@ -163,12 +163,12 @@
         <mark key="^" line="1014" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/selectphoto/SelectPhotoActivity.java" timestamp="1594636269590" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/WatermarkStamper.kt" timestamp="1594640158967">
-        <mark key="'" line="14" column="82" />
-        <mark key="[" line="39" column="39" />
-        <mark key="]" line="39" column="56" />
-        <mark key="^" line="39" column="56" />
-        <mark key="." line="39" column="55" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/WatermarkStamper.kt" timestamp="1594694453286">
+        <mark key="'" line="15" column="82" />
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="19" />
+        <mark key="^" line="21" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/AlbumSaver.kt" timestamp="1594640355783">
         <mark key="[" line="29" column="0" />
@@ -297,7 +297,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -307,43 +307,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmF0b3IuZ2VuZXJhdGUobUltYWdlRWRpdFZpZXcsIG1JbWFnZUVkaXRDb250ZXh0LCBuZXcgR2VuZXJhdGVMaXN0ZW5lcjxCaXRtYXA+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25HZW5lcmF0ZVN1Y2Nlc3MoQml0bWFwIGl0ZW0pIHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkdlbmVyYXRlRXJyb3IoKSB7CgogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>noWatermarkBitmap: T</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmF0b3IuZ2VuZXJhdGUobUltYWdlRWRpdFZpZXcsIG1JbWFnZUVkaXRDb250ZXh0LCBuZXcgR2VuZXJhdGVMaXN0ZW5lcjxCaXRtYXA+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25HZW5lcmF0ZVN1Y2Nlc3MoQml0bWFwIGl0ZW0pIHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkdlbmVyYXRlRXJyb3IoKSB7CgogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBXYXRlcm1hcmtTdGFtcGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5lcmF0b3IuZ2VuZXJhdGUobUltYWdlRWRpdFZpZXcsIG1JbWFnZUVkaXRDb250ZXh0LCBuZXcgR2VuZXJhdGVMaXN0ZW5lcjxCaXRtYXA+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25HZW5lcmF0ZVN1Y2Nlc3MoQml0bWFwIGl0ZW0pIHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkdlbmVyYXRlRXJyb3IoKSB7CgogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQub25TdWNjZXNzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cmV0dXJuIE9ic2VydmFibGUuY3JlYXRlPEJpdG1hcD4geyAKLy8gICAgICAgICAgICBpdC5vbkNvbXBsZXRlKCkKLy8gICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXQub25TdWNjZXNzKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cmV0dXJuIE9ic2VydmFibGUuY3JlYXRlPEJpdG1hcD4geyAKLy8gICAgICAgICAgICBpdC5vbkNvbXBsZXRlKCkKLy8gICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>source $MYVIMRC</text>
