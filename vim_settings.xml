@@ -112,11 +112,11 @@
         <mark key="." line="1442" column="18" />
         <mark key="^" line="1442" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594640410621">
-        <mark key="[" line="2144" column="56" />
-        <mark key="]" line="2145" column="16" />
-        <mark key="." line="2145" column="15" />
-        <mark key="^" line="2145" column="16" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594640869278">
+        <mark key="[" line="2142" column="61" />
+        <mark key="]" line="2142" column="61" />
+        <mark key="." line="2142" column="60" />
+        <mark key="^" line="2142" column="61" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changesky/ChangeSkyOp.java" timestamp="1594633974951">
         <mark key="'" line="123" column="33" />
@@ -125,7 +125,7 @@
         <mark key="^" line="294" column="20" />
         <mark key="." line="294" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateParserIntoEdit.kt" timestamp="1594640640240" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/template/TemplateParserIntoEdit.kt" timestamp="1594640697571" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" timestamp="1594634014387">
         <mark key="'" line="60" column="13" />
         <mark key="[" line="553" column="15" />
@@ -176,12 +176,12 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/share/EraserController.java" timestamp="1594636137379" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/Generator.kt" timestamp="1594640578156">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/Generator.kt" timestamp="1594640841589">
         <mark key="'" line="75" column="3" />
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="24" column="21" />
-        <mark key="." line="24" column="20" />
-        <mark key="^" line="24" column="21" />
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="15" />
+        <mark key="^" line="20" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -296,8 +296,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -307,22 +307,22 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBhbGJ1bVNhdmVyTGlzdGVuZXI6IEFsYnVtU2F2ZXJMaXN0ZW5lcjxCaXRtYXA+</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBbGJ1bVNjYW5uZXIuc2F2ZVN0eWxpemVkUmVzdWx0KHRoaXMsIG1Gcm9tQ2FtZXJhID8gbU9yaWdpbkZpbGUgOiBudWxsLCBtVGFyZ2V0UGF0aCwKICAgICAgICAgICAgICAgIGlzUG5nLCB0cnVlLCB0cnVlLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBnZW5lcmF0b3IuZ2VuZXJhdGUobUltYWdlRWRpdFZpZXcsIG1JbWFnZUVkaXRDb250ZXh0LCBuZXcgR2VuZXJhdGVMaXN0ZW5lcjxCaXRtYXA+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25HZW5lcmF0ZVN1Y2Nlc3MoQml0bWFwIGl0ZW0pIHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkdlbmVyYXRlRXJyb3IoKSB7CgogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBnZW5lcmF0b3IuZ2VuZXJhdGUobUltYWdlRWRpdFZpZXcsIG1JbWFnZUVkaXRDb250ZXh0LCBuZXcgR2VuZXJhdGVMaXN0ZW5lcjxCaXRtYXA+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25HZW5lcmF0ZVN1Y2Nlc3MoQml0bWFwIGl0ZW0pIHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkdlbmVyYXRlRXJyb3IoKSB7CgogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cmV0dXJuIE9ic2VydmFibGUuY3JlYXRlPEJpdG1hcD4geyAKLy8gICAgICAgICAgICBpdC5vbkNvbXBsZXRlKCkKLy8gICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -331,19 +331,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQWxidW1TY2FubmVyLnNhdmVTdHlsaXplZFJlc3VsdChjb250ZXh0LCBudWxsLCBmaWxlLmFic29sdXRlUGF0aCwKICAgICAgICAgICAgICAgICAgICB0cnVlLCB0cnVlLCBmYWxzZSwgdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQub25TdWNjZXNzKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">cmV0dXJuIE9ic2VydmFibGUuY3JlYXRlPEJpdG1hcD4geyAKLy8gICAgICAgICAgICBpdC5vbkNvbXBsZXRlKCkKLy8gICAgICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBWZXJzYUV4ZWN1dG9yLmJhY2tncm91bmQoKS5zdWJtaXQgewogICAgICAgICAgICB2YWwgZmlsZU5hbWUgPSBTdG9yYWdlVXRpbC5jcmVhdGVDYWNoZUZpbGUoY29udGV4dCwgVVVJRC5yYW5kb21VVUlEKCkudG9TdHJpbmcoKSkKICAgICAgICAgICAgdmFsIGZpbGUgPSBGaWxlKGZpbGVOYW1lKQogICAgICAgICAgICB2YWwgZmlsZU91dHB1dFN0cmVhbSA9IEZpbGVPdXRwdXRTdHJlYW0oZmlsZSkKICAgICAgICAgICAgaXRlbS5jb21wcmVzcyhCaXRtYXAuQ29tcHJlc3NGb3JtYXQuUE5HLCAxMDAsIGZpbGVPdXRwdXRTdHJlYW0pCiAgICAgICAgICAgIEFsYnVtU2Nhbm5lci5zYXZlU3R5bGl6ZWRSZXN1bHQoY29udGV4dCwgbnVsbCwgc2F2ZWRGaWxlLmFic29sdXRlUGF0aCwKICAgICAgICAgICAgICAgICAgICB0cnVlLCB0cnVlLCBmYWxzZSwgdHJ1ZSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ5IHsKICAgICAgICAgICAgdHJ1ZQogICAgICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICAgICAgICAgIGZhbHNlCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source $MYVIMRC</text>
