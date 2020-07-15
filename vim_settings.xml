@@ -93,24 +93,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1594781584040">
-        <mark key="'" line="1675" column="28" />
-        <mark key="[" line="2194" column="43" />
-        <mark key="]" line="2194" column="47" />
-        <mark key="^" line="2194" column="47" />
-        <mark key="." line="2194" column="46" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/AdjustItem.java" timestamp="1594785120296" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/AdjustOpView.java" timestamp="1594793161128" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" timestamp="1594724071173">
-        <mark key="'" line="60" column="13" />
-        <mark key="[" line="354" column="46" />
-        <mark key="]" line="355" column="44" />
-        <mark key="." line="355" column="43" />
-        <mark key="^" line="355" column="44" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/AdjustOpView.java" timestamp="1594793973408" />
       <file name="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/library/src/main/java/jp/co/cyberagent/android/gpuimage/custom/component/tools/VersaTwoLutFilter.java" timestamp="1594785518331">
         <mark key="'" line="27" column="22" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/workspce/gpurender/GPUAdjustValue.java" timestamp="1594796454963">
+        <mark key="[" line="84" column="49" />
+        <mark key="]" line="85" column="41" />
+        <mark key="^" line="85" column="41" />
+        <mark key="." line="85" column="40" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/AdjustOp.java" timestamp="1594784561289">
         <mark key="[" line="79" column="107" />
@@ -118,27 +110,27 @@
         <mark key="^" line="80" column="16" />
         <mark key="." line="80" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/gpufilter/BrightnessFilter.java" timestamp="1594785140288" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1594724425261">
-        <mark key="'" line="1533" column="20" />
-        <mark key="[" line="1980" column="8" />
-        <mark key="]" line="1981" column="88" />
-        <mark key="." line="1981" column="87" />
-        <mark key="^" line="1981" column="88" />
+      <file name="/Clipboard.txt" timestamp="1594795142707">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/RealAdjustOp.java" timestamp="1594793138558" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/gpufilter/BrightnessFilter.java" timestamp="1594785140288" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/RealAdjustOp.java" timestamp="1594794745377" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/LayerConfigFactory.kt" timestamp="1594784009665" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/ISecondLevelOp.java" timestamp="1594781612319">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="123" column="23" />
-        <mark key="]" line="125" column="32" />
-        <mark key="^" line="125" column="32" />
-        <mark key="." line="125" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/workspce/gpurender/GPUImageFilterTools.java" timestamp="1594796618356">
+        <mark key="[" line="104" column="14" />
+        <mark key="]" line="104" column="15" />
+        <mark key="^" line="106" column="22" />
+        <mark key="." line="104" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/RecommendChainFactory.java" timestamp="1594783972694" />
-      <file name="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/GPUImageCustomFilterTools.kt" timestamp="1594784818333" />
+      <file name="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/GPUImageCustomFilterTools.kt" timestamp="1594796462832" />
       <file name="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/library/src/main/java/jp/co/cyberagent/android/gpuimage/custom/FrameBuffer.java" timestamp="1594784089253" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/workspce/gpurender/RenderThread.java" timestamp="1594785766520" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/workspce/gpurender/RenderThread.java" timestamp="1594795923331">
+        <mark key="[" line="147" column="39" />
+        <mark key="]" line="148" column="81" />
+        <mark key="^" line="148" column="81" />
+        <mark key="." line="148" column="80" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/AbsSecondLevelOp.java" timestamp="1594782591371">
         <mark key="'" line="23" column="50" />
         <mark key="[" line="61" column="33" />
@@ -148,10 +140,14 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CustomProActivity.kt" timestamp="1594784479705" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/layout/layout_single_menu_rv.xml" timestamp="1594783096813" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageSharpenFilter.java" timestamp="1594795350810">
+        <mark key="'" line="101" column="4" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/custom/VersaSharpenFilter.java" timestamp="1594796671769">
+        <mark key="'" line="82" column="8" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="6" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RowViewHolder.kt" />
-      <jump line="222" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
       <jump line="141" column="60" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/search/HomeSearchUserFragment.kt" />
       <jump line="203" column="23" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/search/HomeSearchUserFragment.kt" />
       <jump line="274" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" />
@@ -250,6 +246,8 @@
       <jump line="1654" column="20" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
       <jump line="1675" column="28" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
       <jump line="27" column="22" filename="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/library/src/main/java/jp/co/cyberagent/android/gpuimage/custom/component/tools/VersaTwoLutFilter.java" />
+      <jump line="101" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageSharpenFilter.java" />
+      <jump line="82" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/custom/VersaSharpenFilter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -262,7 +260,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>mSecondLevelOp.isProItem()</text>
+        <text>0f 2f</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -272,7 +270,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mSecondLevelOp.isProItem()</text>
+        <text>0f 2f</text>
       </register>
       <register name="/" type="4">
         <text>mSecondLevelOp</text>
