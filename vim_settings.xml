@@ -101,7 +101,7 @@
         <mark key="." line="2194" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/AdjustItem.java" timestamp="1594785120296" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/AdjustOpView.java" timestamp="1594783968386" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/AdjustOpView.java" timestamp="1594793161128" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" timestamp="1594724071173">
         <mark key="'" line="60" column="13" />
         <mark key="[" line="354" column="46" />
@@ -126,14 +126,8 @@
         <mark key="." line="1981" column="87" />
         <mark key="^" line="1981" column="88" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/RealAdjustOp.java" timestamp="1594793138558" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/LayerConfigFactory.kt" timestamp="1594784009665" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" timestamp="1594724049214">
-        <mark key="'" line="91" column="22" />
-        <mark key="[" line="1475" column="63" />
-        <mark key="]" line="1477" column="12" />
-        <mark key="^" line="1477" column="12" />
-        <mark key="." line="1477" column="11" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/ISecondLevelOp.java" timestamp="1594781612319">
         <mark key="'" line="29" column="4" />
         <mark key="[" line="123" column="23" />
