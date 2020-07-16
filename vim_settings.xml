@@ -145,12 +145,12 @@
         <mark key="'" line="172" column="56" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/library/src/main/java/jp/co/cyberagent/android/gpuimage/custom/component/tools/VersaContrastToolFilter.java" timestamp="1594804202961" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" timestamp="1594811084464">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" timestamp="1594866925504">
         <mark key="'" line="126" column="17" />
-        <mark key="[" line="280" column="15" />
-        <mark key="]" line="280" column="30" />
-        <mark key="." line="280" column="29" />
-        <mark key="^" line="280" column="30" />
+        <mark key="[" line="287" column="33" />
+        <mark key="]" line="287" column="33" />
+        <mark key="." line="287" column="33" />
+        <mark key="^" line="281" column="63" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnViewHolder.kt" timestamp="1594810223078">
         <mark key="'" line="84" column="19" />
@@ -274,7 +274,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>将星星图标取消</text>
+        <text>ColumnAdapter.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -284,7 +284,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>将星星图标取消</text>
+        <text>ColumnAdapter.</text>
       </register>
       <register name="/" type="4">
         <text>mSecondLevelOp</text>
