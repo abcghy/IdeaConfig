@@ -106,6 +106,12 @@
         <mark key="." line="2171" column="34" />
         <mark key="^" line="2170" column="30" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1595241540471">
+        <mark key="[" line="67" column="53" />
+        <mark key="]" line="67" column="53" />
+        <mark key="^" line="67" column="53" />
+        <mark key="." line="67" column="52" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/sticker/StickerOp.java" timestamp="1595233175453">
         <mark key="[" line="550" column="0" />
         <mark key="]" line="550" column="0" />
@@ -151,7 +157,6 @@
         <mark key="^" line="477" column="79" />
         <mark key="." line="477" column="78" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" timestamp="1595229494621" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/workspce/preprocess/ImgProcessUtil.java" timestamp="1595236660066" />
     </filemarks>
     <jumps>
