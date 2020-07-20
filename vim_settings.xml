@@ -112,16 +112,18 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1595214557526">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1595229260757">
         <mark key="'" line="109" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ad/own/OwnSplashManager.java" timestamp="1595228291160" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" timestamp="1594896911440">
         <mark key="'" line="114" column="17" />
         <mark key="[" line="468" column="0" />
         <mark key="]" line="468" column="0" />
         <mark key="." line="468" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RandomColumnAdapter.kt" timestamp="1595216773713">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RandomColumnAdapter.kt" timestamp="1595228844839">
+        <mark key="'" line="34" column="38" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="^" line="44" column="12" />
@@ -133,12 +135,6 @@
         <mark key="]" line="41" column="35" />
         <mark key="^" line="41" column="35" />
         <mark key="." line="41" column="34" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/src/main/java/com/example/glidedemo/SecondActivity.kt" timestamp="1594895389221">
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="38" />
-        <mark key="." line="20" column="37" />
-        <mark key="^" line="20" column="38" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/BiggestCharacterSelector.kt" timestamp="1595214401953" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/view/HomeScrollView.java" timestamp="1595227252668" />
@@ -156,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="13" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyRowFavAdapter.kt" />
       <jump line="121" column="113" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" />
       <jump line="281" column="17" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" />
       <jump line="12" column="6" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpView.kt" />
@@ -256,6 +251,7 @@
       <jump line="78" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.60/d1717ea2b34537140fe051ef0e2e8cbd91c650b8/kotlin-stdlib-common-1.2.60-sources.jar!/kotlin/util/Standard.kt" />
       <jump line="38" column="7" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyColumnAdapter.kt" />
       <jump line="273" column="15" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" />
+      <jump line="34" column="38" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RandomColumnAdapter.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
