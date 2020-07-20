@@ -94,46 +94,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyColumnAdapter.kt" timestamp="1595217505722" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.60/d1717ea2b34537140fe051ef0e2e8cbd91c650b8/kotlin-stdlib-common-1.2.60-sources.jar!/kotlin/util/Standard.kt" timestamp="1595217020628">
+        <mark key="'" line="78" column="2" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.3.0/1acbde5fef5f77f6920e9f9a5dbe1ca217a64bc0/core-1.3.0-sources.jar!/androidx/core/view/NestedScrollingParent.java" timestamp="1595227063818" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/BottomSheetView.java" timestamp="1595226604909" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" timestamp="1595227720532" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/Replace.kt" timestamp="1595214458504" />
+      <file name="/Clipboard.txt" timestamp="1594898690975">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendRowFavAdapter.kt" timestamp="1594895658396" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" timestamp="1595217537565">
-        <mark key="'" line="11" column="0" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
-        <mark key="^" line="102" column="30" />
+        <mark key="^" line="2" column="30" />
         <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1595214557526">
         <mark key="'" line="109" column="0" />
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="29" />
-        <mark key="^" line="16" column="30" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyColumnAdapter.kt" timestamp="1595217505722">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="17" column="13" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.60/d1717ea2b34537140fe051ef0e2e8cbd91c650b8/kotlin-stdlib-common-1.2.60-sources.jar!/kotlin/util/Standard.kt" timestamp="1595217020628">
-        <mark key="'" line="78" column="2" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/favorite/BaseUserFavoriteManager.kt" timestamp="1594893483764">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="64" column="29" />
-        <mark key="^" line="64" column="29" />
-        <mark key="." line="64" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" timestamp="1594896911440">
         <mark key="'" line="114" column="17" />
         <mark key="[" line="468" column="0" />
         <mark key="]" line="468" column="0" />
         <mark key="." line="468" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/build.gradle" timestamp="1594894552770">
-        <mark key="[" line="37" column="53" />
-        <mark key="]" line="40" column="67" />
-        <mark key="^" line="40" column="67" />
-        <mark key="." line="40" column="66" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RandomColumnAdapter.kt" timestamp="1595216773713">
         <mark key="[" line="50" column="0" />
@@ -155,38 +141,21 @@
         <mark key="^" line="20" column="38" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/BiggestCharacterSelector.kt" timestamp="1595214401953" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/AdapterHelper.java" timestamp="1594894034959" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/view/HomeScrollView.java" timestamp="1595227252668" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/CommonColumnTitleViewHolder.kt" timestamp="1595217792324">
         <mark key="]" line="12" column="17" />
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/favorite/TemplateFavoriteManager.kt" timestamp="1594893265221">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/Replace.kt" timestamp="1595214458504" />
-      <file name="/Clipboard.txt" timestamp="1594898690975">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" timestamp="1595212852798">
-        <mark key="'" line="423" column="4" />
-        <mark key="[" line="371" column="44" />
-        <mark key="]" line="371" column="44" />
-        <mark key="." line="371" column="44" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" timestamp="1594894076872" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1595227021720" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RowViewHolder.kt" timestamp="1594896521049">
         <mark key="[" line="47" column="24" />
         <mark key="]" line="48" column="26" />
         <mark key="^" line="48" column="26" />
         <mark key="." line="48" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendRowFavAdapter.kt" timestamp="1594895658396" />
     </filemarks>
     <jumps>
-      <jump line="273" column="45" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changesky/ChangeSkyOp.java" />
       <jump line="34" column="13" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyRowFavAdapter.kt" />
       <jump line="121" column="113" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" />
       <jump line="281" column="17" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" />
@@ -286,6 +255,7 @@
       <jump line="22" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RandomColumnAdapter.kt" />
       <jump line="78" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.60/d1717ea2b34537140fe051ef0e2e8cbd91c650b8/kotlin-stdlib-common-1.2.60-sources.jar!/kotlin/util/Standard.kt" />
       <jump line="38" column="7" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyColumnAdapter.kt" />
+      <jump line="273" column="15" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -297,8 +267,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgdmFyIG9uUmFuZG9tU2VsZWN0ZWRMaXN0ZW5lcjogT25SYW5kb21TZWxlY3RMaXN0ZW5lcj8gPSBudWxsCi8vICAgIHByaXZhdGUgdmFsIF9vblJhbmRvbVNlbGVjdGVkTGlzdGVuZXI6IE9uUmFuZG9tU2VsZWN0TGlzdGVuZXIgPSBvYmplY3QgOiBPblJhbmRvbVNlbGVjdExpc3RlbmVyIHsKLy8gICAgICAgIG92ZXJyaWRlIGZ1biBvblJhbmRvbVNlbGVjdCgpIHsKLy8gICAgICAgICAgICB2YWwgY29sdW1uRGlzcGxheSA9IGNvbHVtbkl0ZW1zLmZpbHRlcklzSW5zdGFuY2U8Q29sdW1uRGlzcGxheT4oKS5yYW5kb20oKQovLyAgICAgICAgICAgIHZhbCBjb2x1bW5Qb3NpdGlvbiA9IGNvbHVtbkl0ZW1zLmluZGV4T2YoY29sdW1uRGlzcGxheSkKLy8KLy8gICAgICAgICAgICB2YWwgcmFuZG9tUG9zID0gaWYgKGNvbHVtblBvc2l0aW9uID09IDEpIHsKLy8gICAgICAgICAgICAgICAgKDEgdW50aWwgY29sdW1uRGlzcGxheS5kaXNwbGF5SXRlbXMuc2l6ZSkKLy8gICAgICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICAgICAoY29sdW1uRGlzcGxheS5kaXNwbGF5SXRlbXMuaW5kaWNlcykKLy8gICAgICAgICAgICB9LnJhbmRvbSgpCi8vCi8vICAgICAgICAgICAgdmFsIGl0ZW0gPSBjb2x1bW5EaXNwbGF5LmRpc3BsYXlJdGVtcy5lbGVtZW50QXQocmFuZG9tUG9zKQovLyAgICAgICAgICAgIHZhbCByb3dQb3NpdGlvbiA9IGNvbHVtbkRpc3BsYXkuZGlzcGxheUl0ZW1zLmluZGV4T2YoaXRlbSkKLy8KLy8gICAgICAgICAgICAvLyDnu5kgZmF2IOeahOesrOS4gOS4qiByYW5kb20g5re75Yqg6IOM5pmv77yM5bm25LiU6YCJ5Lit5LuWCi8vICAgICAgICAgICAgdmFsIGluZGV4ID0gY29sdW1uSXRlbXMuaW5kZXhPZkZpcnN0IHsgaXQgaXMgQ29sdW1uRGlzcGxheSB9Ci8vICAgICAgICAgICAgaWYgKGluZGV4ID09IC0xKSByZXR1cm4KLy8gICAgICAgICAgICAoY29sdW1uSXRlbXNbaW5kZXhdIGFzIENvbHVtbkRpc3BsYXkpLmRpc3BsYXlJdGVtcy5hbHNvIHsKLy8gICAgICAgICAgICAgICAgLy8gdG9kbyBnaHkKLy8gICAgICAgICAgICAgICAgKGl0WzBdLml0ZW0gYXM/IFJhbmRvbUhvbGRlcik/Lml0ZW0gPSBpdGVtLml0ZW0KLy8gICAgICAgICAgICAgICAgbm90aWZ5SXRlbUNoYW5nZWQoaW5kZXgsIFJhbmRvbVBvc2l0aW9uKDApKQovLyAgICAgICAgICAgIH0KLy8KLy8gICAgICAgICAgICBvblJhbmRvbVNlbGVjdGVkTGlzdGVuZXI/Lm9uUmFuZG9tU2VsZWN0KCkKLy8gICAgICAgICAgICBfb25GYXZTZWxlY3RlZExpc3RlbmVyLm9uSXRlbVNlbGVjdGVkKGl0ZW0uaXRlbSwgY29sdW1uUG9zaXRpb24sIHJvd1Bvc2l0aW9uLCBmYWxzZSwgaXRlbS5pc0ZhdikKLy8gICAgICAgIH0KLy8gICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>super.onNestedFling(target, velocityX, velocityY, consumed)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -308,7 +278,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}.random()</text>
+        <text>super.onNestedFling(target, velocityX, velocityY, consumed)</text>
       </register>
       <register name="/" type="4">
         <text>mSecondLevelOp</text>
