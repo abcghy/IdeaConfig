@@ -95,7 +95,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/mine/LoginState.java" timestamp="1595232514434" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1595235607525" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1595243193130">
+        <mark key="'" line="810" column="8" />
+        <mark key="[" line="1446" column="97" />
+        <mark key="]" line="1447" column="16" />
+        <mark key="." line="1447" column="15" />
+        <mark key="^" line="1447" column="16" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/share/ShareActivity.java" timestamp="1595236934175">
         <mark key="'" line="677" column="36" />
       </file>
@@ -106,7 +112,7 @@
         <mark key="." line="2171" column="34" />
         <mark key="^" line="2170" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1595241540471">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/BaseSecondOpView.kt" timestamp="1595242658232">
         <mark key="[" line="67" column="53" />
         <mark key="]" line="67" column="53" />
         <mark key="^" line="67" column="53" />
@@ -133,7 +139,10 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ad/own/OwnSplashManager.java" timestamp="1595231323718" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/ISecondLevelOp.java" timestamp="1595235596781" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/AbsSecondLevelOp.java" timestamp="1595236283614" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/AbsSecondLevelOp.java" timestamp="1595243065767">
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="99" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" timestamp="1595234803805" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/selectphoto/SelectPhotoActivity.java" timestamp="1595236703323">
         <mark key="'" line="594" column="41" />
@@ -148,7 +157,7 @@
         <mark key="." line="38" column="71" />
         <mark key="^" line="38" column="72" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/util/BitmapUtils.java" timestamp="1595237679301" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/util/BitmapUtils.java" timestamp="1595242754262" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/ReadingPicFileTask.kt" timestamp="1595237392186" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/statistics/StatisticEvents.java" timestamp="1595235420044">
         <mark key="'" line="8" column="13" />
@@ -160,9 +169,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/workspce/preprocess/ImgProcessUtil.java" timestamp="1595236660066" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/build.gradle" />
-      <jump line="1753" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" />
-      <jump line="311" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/AbsSecondLevelOp.java" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/AbsSecondLevelOp.java" />
       <jump line="29" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/ISecondLevelOp.java" />
       <jump line="84" column="13" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
@@ -260,6 +266,9 @@
       <jump line="2165" column="16" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
       <jump line="594" column="41" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/selectphoto/SelectPhotoActivity.java" />
       <jump line="677" column="36" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/share/ShareActivity.java" />
+      <jump line="1251" column="22" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
+      <jump line="1446" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
+      <jump line="810" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -272,7 +281,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>photoUrl</text>
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -282,48 +291,48 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>photoUrl</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>mSecondLevelOp</text>
       </register>
       <register name="0" type="4">
-        <text>templateCode</text>
+        <text>lastBgItem = BgSelectView.BgItem.sTransparentItem;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5pbnZhbGlkYXRlU2F2ZVNuYXBzaG90UHJvSWNvbigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVpY2tTYXZlTWFwLnB1dCgicGhvdG9VcmwiLCBwaG90b1VybCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBxdWlja1NhdmVNYXAucHV0KCJwaG90b1VybCIsICkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobVNlY29uZExldmVsT3AgaW5zdGFuY2VvZiBSZWNvbW1lbmRPcCkgewogICAgICAgICAgICBTdHJpbmcgdGVtcGxhdGVDb2RlID0gbVNlY29uZExldmVsT3AuZ2V0U2VsZWN0ZWRJdGVtSWQoKTsKICAgICAgICAgICAgaWYgKHRlbXBsYXRlQ29kZSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBxdWlja1NhdmVNYXAucHV0KCIiKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHF1aWNrU2F2ZU1hcC5wdXQoInBob3RvVXJsIiwgKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcXVpY2tTYXZlTWFwLnB1dCgicGhvdG9VcmwiLCBwaG90b1VybCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBxdWlja1NhdmVNYXAucHV0KCJwaG90b1VybCIsICkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobVNlY29uZExldmVsT3AgaW5zdGFuY2VvZiBSZWNvbW1lbmRPcCkgewogICAgICAgICAgICBTdHJpbmcgdGVtcGxhdGVDb2RlID0gbVNlY29uZExldmVsT3AuZ2V0U2VsZWN0ZWRJdGVtSWQoKTsKICAgICAgICAgICAgaWYgKHRlbXBsYXRlQ29kZSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBxdWlja1NhdmVNYXAucHV0KCIiKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHF1aWNrU2F2ZU1hcC5wdXQoInBob3RvVXJsIiwgKQo=</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcXVpY2tTYXZlTWFwLnB1dCgiIikK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>&quot;photoUrl&quot;, &quot;&quot;,
                 &quot;templateCode&quot;, &quot;&quot;,
                 &quot;&quot;, &quot;&quot;</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>, StatisticEvents.Quickly_Save_btnClick,
                 &quot;photoUrl&quot;, &quot;&quot;,
                 &quot;templateCode&quot;, &quot;&quot;,
                 &quot;&quot;, &quot;&quot;</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
