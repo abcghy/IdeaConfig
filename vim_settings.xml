@@ -123,6 +123,7 @@
         <mark key="]" line="550" column="0" />
         <mark key="." line="550" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/Replace.kt" timestamp="1595298403693" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/photo/AlbumPresenter.java" timestamp="1595236624098" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/values/strings.xml" timestamp="1595231786070">
         <mark key="'" line="0" column="0" />
@@ -137,8 +138,10 @@
         <mark key="]" line="1987" column="0" />
         <mark key="." line="1987" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ad/own/OwnSplashManager.java" timestamp="1595231323718" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/ISecondLevelOp.java" timestamp="1595235596781" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/ISecondLevelOp.java" timestamp="1595298611489">
+        <mark key="'" line="89" column="22" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-versalibrary-release.aar/6015bf98a9bac6188d9ad5efc1494591/jars/classes.jar!/versa/recognize/api/SkySegApi.class" timestamp="1595298598155" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/AbsSecondLevelOp.java" timestamp="1595243065767">
         <mark key="[" line="322" column="0" />
         <mark key="]" line="322" column="99" />
@@ -169,7 +172,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/workspce/preprocess/ImgProcessUtil.java" timestamp="1595236660066" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/AbsSecondLevelOp.java" />
       <jump line="29" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/ISecondLevelOp.java" />
       <jump line="84" column="13" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
       <jump line="118" column="13" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
@@ -269,6 +271,7 @@
       <jump line="1251" column="22" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
       <jump line="1446" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
       <jump line="810" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
+      <jump line="89" column="22" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/ISecondLevelOp.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
