@@ -94,91 +94,63 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1595385939010" />
+      <file name="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/library/src/main/java/jp/co/cyberagent/android/gpuimage/custom/component/tools/VersaExposureToolFilter.java" timestamp="1595404362038" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/guide/GuideHelper.java" timestamp="1595387905150" />
+      <file name="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/library/src/main/java/jp/co/cyberagent/android/gpuimage/custom/component/tools/VersaTwoLutFilter.java" timestamp="1595404543022">
+        <mark key="'" line="106" column="7" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/workspce/gpurender/GPUAdjustValue.java" timestamp="1595405972963">
+        <mark key="'" line="286" column="0" />
+        <mark key="]" line="11" column="46" />
+        <mark key="^" line="11" column="46" />
+        <mark key="." line="11" column="45" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageExposureFilter.java" timestamp="1595404283558" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/function/mask/MaskHelper.java" timestamp="1595388019081" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/stroke/StrokeStyleOp.java" timestamp="1595321662787">
-        <mark key="[" line="204" column="45" />
-        <mark key="]" line="204" column="46" />
-        <mark key="^" line="204" column="46" />
-        <mark key="." line="204" column="45" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/custom/VersaContrastToolFilter.java" timestamp="1595406283529">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="5" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="22" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/stroke/StrokeStyleOpValue.java" timestamp="1595321423809" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/statistics/StatisticEvents.java" timestamp="1595328884947">
-        <mark key="'" line="361" column="46" />
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/pro/ProActivity.java" timestamp="1595329805472">
-        <mark key="'" line="118" column="57" />
-        <mark key="[" line="192" column="34" />
-        <mark key="]" line="193" column="28" />
-        <mark key="." line="193" column="27" />
-        <mark key="^" line="193" column="28" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/pro/helper/ProHelper.java" timestamp="1595386142783">
-        <mark key="[" line="84" column="37" />
-        <mark key="]" line="84" column="54" />
-        <mark key="^" line="84" column="54" />
-        <mark key="." line="84" column="53" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/opencv341/java/src/org/opencv/imgproc/Imgproc.java" timestamp="1595324323544">
-        <mark key="'" line="128" column="28" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/function/fusion/FusionHelper.java" timestamp="1595404036481" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1595400201644">
-        <mark key="[" line="1477" column="0" />
-        <mark key="]" line="1477" column="0" />
-        <mark key="^" line="1476" column="56" />
-        <mark key="." line="1477" column="0" />
+        <mark key="[" line="1460" column="0" />
+        <mark key="]" line="1460" column="0" />
+        <mark key="^" line="1459" column="56" />
+        <mark key="." line="1460" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/Thread.java" timestamp="1595321706752" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/widget/TopRenderView.kt" timestamp="1595390624206" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/AndroidManifest.xml" timestamp="1595329842248" />
+      <file name="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/library/src/main/java/jp/co/cyberagent/android/gpuimage/custom/component/tools/VersaBrightnessToolFilter.java" timestamp="1595404350894" />
+      <file name="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/library/src/main/java/jp/co/cyberagent/android/gpuimage/custom/component/tools/VersaSaturationToolFilter.java" timestamp="1595404509220" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageContrastFilter.java" timestamp="1595406448145">
+        <mark key="'" line="31" column="20" />
+        <mark key="[" line="71" column="29" />
+        <mark key="]" line="71" column="37" />
+        <mark key="^" line="71" column="29" />
+        <mark key="." line="71" column="29" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpNormalView.kt" timestamp="1595399599985" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1595387055162">
-        <mark key="'" line="109" column="0" />
-        <mark key="[" line="105" column="90" />
-        <mark key="]" line="105" column="95" />
-        <mark key="^" line="105" column="95" />
-        <mark key="." line="105" column="94" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/AdjustOp.java" timestamp="1595403844959">
+        <mark key="'" line="112" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/blend/BlendOp.java" timestamp="1595386499250">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="82" column="17" />
-        <mark key="]" line="82" column="44" />
-        <mark key="." line="82" column="43" />
-        <mark key="^" line="82" column="44" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/custom/VersaTwoLutFilter.java" timestamp="1595404473797" />
+      <file name="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/GPUImageCustomFilterTools.kt" timestamp="1595404640286" />
+      <file name="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/library/src/main/java/jp/co/cyberagent/android/gpuimage/custom/component/tools/VersaContrastToolFilter.java" timestamp="1595404356213" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/cache/ImageEditRecord.java" timestamp="1595405818089">
+        <mark key="'" line="164" column="13" />
+        <mark key="[" line="359" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/stroke/RealStrokeOp.java" timestamp="1595321709618" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/cache/ImageEditRecord.java" timestamp="1595386106157">
-        <mark key="[" line="66" column="36" />
-        <mark key="]" line="66" column="68" />
-        <mark key="^" line="66" column="68" />
-        <mark key="." line="66" column="67" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/stroke/StrokeTask.java" timestamp="1595384598709">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/stroke/StrokeTask.java" timestamp="1595403826780">
         <mark key="'" line="135" column="65" />
-        <mark key="[" line="141" column="95" />
-        <mark key="]" line="142" column="0" />
-        <mark key="^" line="142" column="0" />
-        <mark key="." line="142" column="0" />
+        <mark key="[" line="126" column="61" />
+        <mark key="]" line="126" column="61" />
+        <mark key="^" line="126" column="61" />
+        <mark key="." line="126" column="60" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/opencv341/java/src/org/opencv/android/Utils.java" timestamp="1595323945634" />
     </filemarks>
     <jumps>
-      <jump line="1533" column="20" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" />
-      <jump line="17" column="25" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/MenuController.java" />
-      <jump line="51" column="59" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/MenuController.java" />
-      <jump line="1465" column="18" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
-      <jump line="1484" column="54" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
-      <jump line="936" column="100" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
-      <jump line="40" column="13" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changesky/ChangeSkyOp.java" />
-      <jump line="1621" column="35" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
-      <jump line="1622" column="35" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
-      <jump line="1623" column="34" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
-      <jump line="1625" column="34" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
-      <jump line="1630" column="57" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
-      <jump line="1636" column="46" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
       <jump line="1640" column="20" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
       <jump line="1642" column="27" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
       <jump line="1645" column="27" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
@@ -266,6 +238,19 @@
       <jump line="137" column="65" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/stroke/StrokeTask.java" />
       <jump line="118" column="57" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/pro/ProActivity.java" />
       <jump line="50" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/blend/BlendOp.java" />
+      <jump line="112" column="25" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/AdjustOp.java" />
+      <jump line="106" column="7" filename="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/library/src/main/java/jp/co/cyberagent/android/gpuimage/custom/component/tools/VersaTwoLutFilter.java" />
+      <jump line="74" column="12" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/workspce/gpurender/GPUAdjustValue.java" />
+      <jump line="286" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/workspce/gpurender/GPUAdjustValue.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageContrastFilter.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageContrastFilter.java" />
+      <jump line="164" column="13" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/cache/ImageEditRecord.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageContrastFilter.java" />
+      <jump line="45" column="11" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageContrastFilter.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageContrastFilter.java" />
+      <jump line="7" column="13" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/custom/VersaContrastToolFilter.java" />
+      <jump line="28" column="65" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageContrastFilter.java" />
+      <jump line="31" column="20" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageContrastFilter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -277,8 +262,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>contrast</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -288,43 +273,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>contrast</text>
       </register>
       <register name="/" type="4">
         <text>mSecondLevelOp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobVN0eWxlSXRlbSAhPSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBtU3R5bGVJdGVtLmlzUHJvKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICBzZXRMZWZ0Qml0bWFwKEJpdG1hcEZhY3RvcnkuZGVjb2RlUmVzb3VyY2UoQXBwVXRpbC5jb250ZXh0LmdldFJlc291cmNlcygpLCBSLmRyYXdhYmxlLmNvbnRyYXN0X2xlZnQpKTsKICAgICAgICBzZXRSaWdodEJpdG1hcChCaXRtYXBGYWN0b3J5LmRlY29kZVJlc291cmNlKEFwcFV0aWwuY29udGV4dC5nZXRSZXNvdXJjZXMoKSwgUi5kcmF3YWJsZS5jb250cmFzdF9yaWdodCkpOwogICAgICAgIHNldEx1dFNxdWFyZUVkZ2UoNTEyLjBmKTsKICAgICAgICBzZXRMdXRTaGVldEVkZ2UoOC4wZik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc1RyYW5zcGFyZW50SXRlbSA9IG5ldyBCZ0l0ZW0oMCwgY29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcudHJhbnNwYXJlbnRfYmcpLCBudWxsLCBudWxsLCBudWxsLCAweEZGMzMzMzMzLCBudWxsLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IDIwMjAvNy8xNCBnaHkK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmbG9hdCByYW5nZShmbG9hdCBvbGRWYWx1ZSwgZmxvYXQgb2xkQm90dG9tLCBmbG9hdCBvbGRUb3AsIGZsb2F0IG5ld0JvdHRvbSwgZmxvYXQgbmV3VG9wKSB7CiAgICAgICAgcmV0dXJuIChvbGRWYWx1ZSAtIG9sZEJvdHRvbSkgLyAob2xkVG9wIC0gb2xkQm90dG9tKSAqIChuZXdUb3AgLSBuZXdCb3R0b20pICsgbmV3Qm90dG9tOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc291cmNlCg==</text>
+        <text encoding="base64">ICAgIC8vIDAgfiA0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJVc2VyQ29tZUZyb20iLCBtQWN0aXZpdHkuZ2V0VXNlckNvbWVGcm9tKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZXRJbnRlbnNpdHkoY29udHJhc3QpOwogICAgICAgIHNldEludGVuc2l0eShjb250cmFzdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICwK</text>
+        <text encoding="base64">ICAgICAgICBsdXRTaGVldEVkZ2UgPSA4LjBmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsdXRTcXVhcmVFZGdlID0gNTEyLjBmCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
