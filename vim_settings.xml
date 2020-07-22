@@ -94,20 +94,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1595316901461">
-        <mark key="'" line="2169" column="16" />
-        <mark key="[" line="2202" column="46" />
-        <mark key="]" line="2202" column="52" />
-        <mark key="." line="2202" column="51" />
-        <mark key="^" line="2202" column="52" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changesky/ChangeSkyOp.java" timestamp="1595320168685" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/view/ShareAppDialog.java" timestamp="1595316225653">
-        <mark key="[" line="145" column="87" />
-        <mark key="]" line="145" column="121" />
-        <mark key="^" line="145" column="121" />
-        <mark key="." line="145" column="120" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/pro/module/pro/ProPayModule.java" timestamp="1595316571000">
         <mark key="[" line="271" column="68" />
         <mark key="]" line="271" column="71" />
@@ -132,7 +119,7 @@
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/pro/ProActivity.java" timestamp="1595329531081">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/pro/ProActivity.java" timestamp="1595329805472">
         <mark key="'" line="118" column="57" />
         <mark key="[" line="192" column="34" />
         <mark key="]" line="193" column="28" />
@@ -151,6 +138,7 @@
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/Thread.java" timestamp="1595321706752" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/AdjustProgressBar.java" timestamp="1595320986560" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/AndroidManifest.xml" timestamp="1595329842248" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/ref/SoftReference.java" timestamp="1595321392430" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpNormalView.kt" timestamp="1595320030175" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/stroke/RealStrokeOp.java" timestamp="1595321709618" />
@@ -161,7 +149,7 @@
         <mark key="^" line="66" column="68" />
         <mark key="." line="66" column="67" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/stroke/StrokeTask.java" timestamp="1595329502237">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/stroke/StrokeTask.java" timestamp="1595384598709">
         <mark key="'" line="135" column="65" />
         <mark key="[" line="141" column="95" />
         <mark key="]" line="142" column="0" />
