@@ -95,7 +95,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" timestamp="1595385939010" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/guide/GuideHelper.java" timestamp="1595385792907" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/guide/GuideHelper.java" timestamp="1595387905150" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/function/mask/MaskHelper.java" timestamp="1595388019081" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/stroke/StrokeStyleOp.java" timestamp="1595321662787">
         <mark key="[" line="204" column="45" />
         <mark key="]" line="204" column="46" />
@@ -132,7 +133,6 @@
         <mark key="." line="1460" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/Thread.java" timestamp="1595321706752" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/AdjustProgressBar.java" timestamp="1595320986560" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/AndroidManifest.xml" timestamp="1595329842248" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/ref/SoftReference.java" timestamp="1595321392430" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1595387055162">
