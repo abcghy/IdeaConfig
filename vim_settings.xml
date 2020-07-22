@@ -125,17 +125,16 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/opencv341/java/src/org/opencv/imgproc/Imgproc.java" timestamp="1595324323544">
         <mark key="'" line="128" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1595386579395">
-        <mark key="'" line="829" column="16" />
-        <mark key="[" line="1460" column="0" />
-        <mark key="]" line="1460" column="0" />
-        <mark key="^" line="1459" column="56" />
-        <mark key="." line="1460" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1595400201644">
+        <mark key="[" line="1477" column="0" />
+        <mark key="]" line="1477" column="0" />
+        <mark key="^" line="1476" column="56" />
+        <mark key="." line="1477" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/Thread.java" timestamp="1595321706752" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/widget/TopRenderView.kt" timestamp="1595390624206" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/AndroidManifest.xml" timestamp="1595329842248" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/ref/SoftReference.java" timestamp="1595321392430" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgSecondOpNormalView.kt" timestamp="1595399599985" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" timestamp="1595387055162">
         <mark key="'" line="109" column="0" />
         <mark key="[" line="105" column="90" />
