@@ -115,19 +115,13 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/gpufilter/BrightnessFilter.java" timestamp="1595410141300">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="8" />
-        <mark key="." line="25" column="7" />
-        <mark key="^" line="25" column="8" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1595833689576">
         <mark key="'" line="486" column="8" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/model/template/LayerConfigFactory.kt" timestamp="1595410251416" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/function/sky/SkyMaker.java" timestamp="1595413758789">
         <mark key="'" line="122" column="8" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/CustomInterceptor.java" timestamp="1595845133564" />
       <file name="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" timestamp="1595818931631" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/widget/ImageRenderView.java" timestamp="1595416729996">
         <mark key="[" line="501" column="104" />
@@ -157,7 +151,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0-rc01/48c3ea69e323dada14ea4e82a87153e392ed27a6/appcompat-1.2.0-rc01-sources.jar!/androidx/appcompat/widget/AppCompatImageView.java" timestamp="1595414062666">
         <mark key="'" line="110" column="42" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/Request.java" timestamp="1595839758170">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/VersaUrlBuilder.kt" timestamp="1595847007499" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/Request.java" timestamp="1595846102462">
         <mark key="'" line="39" column="10" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/custom/VersaBrightnessToolFilter.java" timestamp="1595410974342">
