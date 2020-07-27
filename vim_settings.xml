@@ -123,7 +123,7 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/CustomInterceptor.java" timestamp="1595845133564" />
       <file name="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" timestamp="1595818931631" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/widget/ImageRenderView.java" timestamp="1595416729996">
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/widget/ImageRenderView.java" timestamp="1595848643469">
         <mark key="[" line="501" column="104" />
         <mark key="]" line="501" column="105" />
         <mark key="^" line="501" column="105" />
@@ -139,9 +139,9 @@
         <mark key="^" line="986" column="74" />
         <mark key="." line="986" column="73" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/AndroidManifest.xml" timestamp="1595848649112" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changesky/RealChangeSkyOp.java" timestamp="1595410276782" />
       <file name="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" timestamp="1595818767605" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/chain/ChangeSkyRecommendChain.java" timestamp="1595410257611" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/SnapshotSaver.kt" timestamp="1595413771979">
         <mark key="[" line="13" column="62" />
         <mark key="]" line="13" column="91" />
@@ -151,7 +151,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0-rc01/48c3ea69e323dada14ea4e82a87153e392ed27a6/appcompat-1.2.0-rc01-sources.jar!/androidx/appcompat/widget/AppCompatImageView.java" timestamp="1595414062666">
         <mark key="'" line="110" column="42" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/VersaUrlBuilder.kt" timestamp="1595847007499" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/VersaUrlBuilder.kt" timestamp="1595847144259" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/Request.java" timestamp="1595846102462">
         <mark key="'" line="39" column="10" />
       </file>
@@ -335,7 +335,7 @@
       <last-replace>~</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
