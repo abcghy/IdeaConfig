@@ -16,6 +16,7 @@
         <entry>url</entry>
         <entry encoding="base64">PCsrPg==</entry>
         <entry>mSecondLevelOp</entry>
+        <entry>builder</entry>
       </history-search>
       <history-cmd>
         <entry>154</entry>
@@ -156,7 +157,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0-rc01/48c3ea69e323dada14ea4e82a87153e392ed27a6/appcompat-1.2.0-rc01-sources.jar!/androidx/appcompat/widget/AppCompatImageView.java" timestamp="1595414062666">
         <mark key="'" line="110" column="42" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/Request.java" timestamp="1595834212986" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/Request.java" timestamp="1595836437382">
+        <mark key="'" line="39" column="10" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/custom/VersaBrightnessToolFilter.java" timestamp="1595410974342">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -164,8 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/filter/FilterColumnAdapter.kt" />
-      <jump line="135" column="16" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyColumnAdapter.kt" />
       <jump line="148" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" />
       <jump line="57" column="18" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" />
       <jump line="47" column="16" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnTitleViewHolder.kt" />
@@ -264,6 +265,8 @@
       <jump line="122" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/function/sky/SkyMaker.java" />
       <jump line="110" column="42" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0-rc01/48c3ea69e323dada14ea4e82a87153e392ed27a6/appcompat-1.2.0-rc01-sources.jar!/androidx/appcompat/widget/AppCompatImageView.java" />
       <jump line="486" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" />
+      <jump line="44" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/Request.java" />
+      <jump line="39" column="10" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/Request.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -289,7 +292,7 @@
         <text>//</text>
       </register>
       <register name="/" type="4">
-        <text>mSecondLevelOp</text>
+        <text>builder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBWaWV3IGV4dFZpZXcgPSBmaW5kVmlld1dpdGhUYWcoVEFHX0VYVF9GSVJTVF9GTE9PUl9WSUVXKTsKICAgICAgICBpZiAoZXh0VmlldyAhPSBudWxsKSB7CiAgICAgICAgICAgIHJlbW92ZVZpZXcoZXh0Vmlldyk7CiAgICAgICAgfQo=</text>
@@ -331,13 +334,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>mSecondLevelOp</last-search>
+      <last-search>builder</last-search>
       <last-offset />
-      <last-pattern>mSecondLevelOp</last-pattern>
+      <last-pattern>builder</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
