@@ -118,6 +118,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1595833689576">
         <mark key="'" line="486" column="8" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" timestamp="1595903994043">
+        <mark key="'" line="306" column="0" />
+        <mark key="[" line="1511" column="35" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/function/sky/SkyMaker.java" timestamp="1595413758789">
         <mark key="'" line="122" column="8" />
       </file>
@@ -140,7 +144,6 @@
         <mark key="." line="986" column="73" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/AndroidManifest.xml" timestamp="1595849998474" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changesky/RealChangeSkyOp.java" timestamp="1595410276782" />
       <file name="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" timestamp="1595818767605" />
       <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/SnapshotSaver.kt" timestamp="1595413771979">
         <mark key="[" line="13" column="62" />
