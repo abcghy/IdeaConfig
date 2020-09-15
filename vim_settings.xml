@@ -14,14 +14,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ApiService.java" timestamp="1600137734375">
-        <mark key="." line="423" column="98" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ApiService.java" timestamp="1600137777944">
+        <mark key="." line="339" column="88" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/README.md" timestamp="1600136989400" />
       <file name="/Dummy.txt" timestamp="1600132797621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/layout_activity_drawer.xml" timestamp="1600075340933" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/activities/BaseActivity.java" timestamp="1600075550200">
         <mark key="'" line="22" column="29" />
       </file>
