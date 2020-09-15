@@ -17,37 +17,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/categories/notificationcenter/InkNotificationPagerAdapter.java" timestamp="1600141751540" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/categories/notificationcenter/InkNotificationCenterView.java" timestamp="1600141632007" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/res/layout/item_card_shelf_product.xml" timestamp="1600149208702" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/util/sincerely/DataUtil.java" timestamp="1600147706853" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/category/twowayview/TwoWayLayoutManager.java" timestamp="1600148680163" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/categories/InkCardCategoriesFragment.java" timestamp="1600147570305" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1600147724796">
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/category/twowayview/TwoWayLayoutManager.java" timestamp="1600148761828" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1600150422092">
         <mark key="'" line="105" column="46" />
         <mark key="." line="0" column="45" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" timestamp="1600151479289" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/util/android/FragmentUtil.java" timestamp="1600147922463" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/res/layout/item_ink_category.xml" timestamp="1600146485585" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/category/InkCardShelfFragment.java" timestamp="1600147774295" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/category/InkCardShelfFragment.java" timestamp="1600148971240" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/res/layout/fragment_card_shelf.xml" timestamp="1600148300918" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/network/InkProductHandler.java" timestamp="1600147712713" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/misc/bus/InkBusClasses.java" timestamp="1600147580352" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/categories/notificationcenter/InkNotificationCenterSlideBarView.java" timestamp="1600141579744" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/category/twowayview/GridLayoutManager.java" timestamp="1600148565426">
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/model/product/TextAppearance.java" timestamp="1600150584520" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/model/Style.java" timestamp="1600150731063" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeMessageFragment.java" timestamp="1600151096489" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/network/InkProductHandler.java" timestamp="1600150318434" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/model/CardPack.java" timestamp="1600150756499" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/category/twowayview/GridLayoutManager.java" timestamp="1600148930147">
         <mark key="'" line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/model/notificationcenter/Layer.java" timestamp="1600140852541" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/categories/notificationcenter/InkNotificationView.java" timestamp="1600146176742">
-        <mark key="'" line="183" column="20" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/categories/InkCardCategoriesAdapter.java" timestamp="1600147354695">
-        <mark key="'" line="46" column="28" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/category/InkCardShelfAdapter.java" timestamp="1600150008095" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/category/twowayview/BaseLayoutManager.java" timestamp="1600148848734" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/activities/BaseActivity.java" timestamp="1600147806476">
         <mark key="'" line="22" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/category/twowayview/TwoWayView.java" timestamp="1600148462351" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/res/layout/layout_notification_center_item.xml" timestamp="1600141939402" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/model/InkProduct.java" timestamp="1600150781360" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/model/product/Appearance.java" timestamp="1600150519025" />
     </filemarks>
     <jumps>
       <jump line="374" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" />
