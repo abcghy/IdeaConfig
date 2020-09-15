@@ -1,343 +1,68 @@
 <application>
   <component name="VimEditorSettings">
     <editor>
-      <key-repeat enabled="true" />
+      <key-repeat enabled="false" />
     </editor>
-  </component>
-  <component name="VimHistorySettings">
-    <history>
-      <history-search>
-        <entry>mOperationView</entry>
-        <entry>rvsearch</entry>
-        <entry encoding="base64">XDx9XD4=</entry>
-        <entry>public</entry>
-        <entry>cet</entry>
-        <entry>fragment</entry>
-        <entry>url</entry>
-        <entry encoding="base64">PCsrPg==</entry>
-        <entry>mSecondLevelOp</entry>
-        <entry>builder</entry>
-      </history-search>
-      <history-cmd>
-        <entry>154</entry>
-        <entry>967</entry>
-        <entry>640</entry>
-        <entry encoding="base64">JzwsJz5zb3VyY2UgJE1ZVklNUkM=</entry>
-        <entry>81</entry>
-        <entry>247</entry>
-        <entry>500</entry>
-        <entry>707</entry>
-        <entry>34</entry>
-        <entry>nohlsearch</entry>
-        <entry>286</entry>
-        <entry>source $MYVIMRC</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
   </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed K</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed J</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/custom/VersaExposureToolFilter.java" timestamp="1595410383148">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="30" />
-        <mark key="." line="11" column="102" />
-        <mark key="^" line="11" column="103" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ApiService.java" timestamp="1600137734375">
+        <mark key="." line="423" column="98" />
       </file>
-      <file name="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/PreviewEffectActivity.java" timestamp="1595818968314" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/gpufilter/BrightnessNewFilter.java" timestamp="1595410932553">
-        <mark key="'" line="19" column="30" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="22" column="27" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/README.md" timestamp="1600136989400" />
+      <file name="/Dummy.txt" timestamp="1600132797621">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageExposureFilter.java" timestamp="1595410960945">
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="38" column="3" />
-        <mark key="^" line="38" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/layout_activity_drawer.xml" timestamp="1600075340933" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/activities/BaseActivity.java" timestamp="1600075550200">
+        <mark key="'" line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" timestamp="1595833689576">
-        <mark key="'" line="486" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/activities/BaseCardActivity.java" timestamp="1600075543508">
+        <mark key="'" line="198" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" timestamp="1595904119231">
-        <mark key="'" line="306" column="0" />
-        <mark key="[" line="1511" column="35" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/responses/addressbook/GroupCreateResponse.java" timestamp="1600076384628">
+        <mark key="'" line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/function/sky/SkyMaker.java" timestamp="1595413758789">
-        <mark key="'" line="122" column="8" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/f3908d76273ad2498add8bb89d7fb787f3061b1d/retrofit-1.9.0-sources.jar!/retrofit/mime/TypedFile.java" timestamp="1600076828266">
+        <mark key="[" line="25" column="1" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/CustomInterceptor.java" timestamp="1595845133564" />
-      <file name="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java" timestamp="1595818931631" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/widget/ImageRenderView.java" timestamp="1595848643469">
-        <mark key="[" line="501" column="104" />
-        <mark key="]" line="501" column="105" />
-        <mark key="^" line="501" column="105" />
-        <mark key="." line="501" column="104" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1600066163879">
+        <mark key="'" line="105" column="46" />
+        <mark key="." line="0" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageLookupForAdjustFilter.java" timestamp="1595410978016">
-        <mark key="'" line="70" column="11" />
-      </file>
-      <file name="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/core/preview/PreviewEffectHelper.java" timestamp="1595819228766" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" timestamp="1595416366733">
-        <mark key="[" line="986" column="74" />
-        <mark key="]" line="986" column="74" />
-        <mark key="^" line="986" column="74" />
-        <mark key="." line="986" column="73" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/AndroidManifest.xml" timestamp="1595849998474" />
-      <file name="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" timestamp="1595818767605" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/shortsave/SnapshotSaver.kt" timestamp="1595413771979">
-        <mark key="[" line="13" column="62" />
-        <mark key="]" line="13" column="91" />
-        <mark key="." line="13" column="90" />
-        <mark key="^" line="13" column="91" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0-rc01/48c3ea69e323dada14ea4e82a87153e392ed27a6/appcompat-1.2.0-rc01-sources.jar!/androidx/appcompat/widget/AppCompatImageView.java" timestamp="1595414062666">
-        <mark key="'" line="110" column="42" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/newnet/VersaUrlBuilder.kt" timestamp="1595847144259" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/Request.java" timestamp="1595846102462">
-        <mark key="'" line="39" column="10" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/custom/VersaBrightnessToolFilter.java" timestamp="1595410974342">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ApiClient.java" timestamp="1600132756865">
+        <mark key="'" line="653" column="98" />
+        <mark key="." line="648" column="190" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" />
-      <jump line="57" column="18" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" />
-      <jump line="47" column="16" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnTitleViewHolder.kt" />
-      <jump line="95" column="26" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" />
-      <jump line="43" column="37" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" />
-      <jump line="42" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/filter/FilterColumnAdapter.kt" />
-      <jump line="14" column="13" filename="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/src/main/java/com/example/glidedemo/SecondActivity.kt" />
-      <jump line="114" column="17" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/childitem.kt" />
-      <jump line="423" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/ColumnAdapter.kt" />
-      <jump line="80" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" />
-      <jump line="71" column="56" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyColumnAdapter.kt" />
-      <jump line="38" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" />
-      <jump line="26" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" />
-      <jump line="105" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/bg/ChangeBgColumnAdapter.kt" />
-      <jump line="131" column="16" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" />
-      <jump line="11" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/recommend/RecommendColumnAdapter.kt" />
-      <jump line="22" column="4" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RandomColumnAdapter.kt" />
-      <jump line="78" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.60/d1717ea2b34537140fe051ef0e2e8cbd91c650b8/kotlin-stdlib-common-1.2.60-sources.jar!/kotlin/util/Standard.kt" />
-      <jump line="38" column="7" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/sky/SkyColumnAdapter.kt" />
-      <jump line="273" column="15" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/widget/SecondBottomState.kt" />
-      <jump line="34" column="38" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/view/base/RandomColumnAdapter.kt" />
-      <jump line="1372" column="39" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/res/values/strings.xml" />
-      <jump line="218" column="19" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" />
-      <jump line="8" column="13" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/statistics/StatisticEvents.java" />
-      <jump line="2165" column="16" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditPresenter.java" />
-      <jump line="594" column="41" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/selectphoto/SelectPhotoActivity.java" />
-      <jump line="677" column="36" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/share/ShareActivity.java" />
-      <jump line="1251" column="22" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
-      <jump line="1446" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
-      <jump line="810" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
-      <jump line="89" column="22" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/ISecondLevelOp.java" />
-      <jump line="361" column="46" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/statistics/StatisticEvents.java" />
-      <jump line="107" column="31" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.60/d1717ea2b34537140fe051ef0e2e8cbd91c650b8/kotlin-stdlib-common-1.2.60-sources.jar!/kotlin/util/Standard.kt" />
-      <jump line="22" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.60/d1717ea2b34537140fe051ef0e2e8cbd91c650b8/kotlin-stdlib-common-1.2.60-sources.jar!/kotlin/internal/contracts/Effect.kt" />
-      <jump line="98" column="25" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/ISecondLevelOp.java" />
-      <jump line="23" column="51" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/AbsSecondLevelOp.java" />
-      <jump line="827" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
-      <jump line="84" column="13" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
-      <jump line="761" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/recommend/RecommendOp.java" />
-      <jump line="160" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/AbsSecondLevelOp.java" />
-      <jump line="70" column="24" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/blend/BlendOp.java" />
-      <jump line="19" column="6" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/layer/LayerOp.kt" />
-      <jump line="66" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/layer/LayerOp.kt" />
-      <jump line="91" column="22" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" />
-      <jump line="305" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/AbsFilterOp.java" />
-      <jump line="82" column="24" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/pro/ProActivity.java" />
-      <jump line="116" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/pro/ProActivity.java" />
-      <jump line="829" column="16" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/changebg/ChangeBgOp.java" />
-      <jump line="38" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.72/28f81264fad20dd20cc692003f4a27d355632073/kotlin-stdlib-1.3.72-sources.jar!/kotlin/Ranges.kt" />
-      <jump line="129" column="12" filename="$USER_HOME$/AndroidStudioProjects/Versa/opencv341/java/src/org/opencv/imgproc/Imgproc.java" />
-      <jump line="128" column="28" filename="$USER_HOME$/AndroidStudioProjects/Versa/opencv341/java/src/org/opencv/imgproc/Imgproc.java" />
-      <jump line="137" column="65" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/stroke/StrokeTask.java" />
-      <jump line="118" column="57" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/pro/ProActivity.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/blend/BlendOp.java" />
-      <jump line="112" column="25" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/adjust/AdjustOp.java" />
-      <jump line="106" column="7" filename="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/library/src/main/java/jp/co/cyberagent/android/gpuimage/custom/component/tools/VersaTwoLutFilter.java" />
-      <jump line="74" column="12" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/workspce/gpurender/GPUAdjustValue.java" />
-      <jump line="286" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/workspce/gpurender/GPUAdjustValue.java" />
-      <jump line="69" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageContrastFilter.java" />
-      <jump line="70" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageContrastFilter.java" />
-      <jump line="164" column="13" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/cache/ImageEditRecord.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageContrastFilter.java" />
-      <jump line="45" column="11" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageContrastFilter.java" />
-      <jump line="79" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageContrastFilter.java" />
-      <jump line="7" column="13" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/custom/VersaContrastToolFilter.java" />
-      <jump line="28" column="65" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageContrastFilter.java" />
-      <jump line="31" column="20" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageContrastFilter.java" />
-      <jump line="31" column="16" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageSaturationFilter.java" />
-      <jump line="73" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageSaturationFilter.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageSaturationFilter.java" />
-      <jump line="54" column="15" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageSaturationFilter.java" />
-      <jump line="8" column="13" filename="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/library/src/main/java/jp/co/cyberagent/android/gpuimage/custom/component/tools/VersaTwoLutFilter.java" />
-      <jump line="76" column="22" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageSaturationFilter.java" />
-      <jump line="83" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageSaturationFilter.java" />
-      <jump line="78" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageContrastFilter.java" />
-      <jump line="8" column="13" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/custom/VersaTwoLutFilter.java" />
-      <jump line="65" column="48" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/workspce/gpurender/GPUAdjustValue.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/workspce/gpurender/GPUAdjustValue.java" />
-      <jump line="49" column="11" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageSaturationFilter.java" />
-      <jump line="39" column="11" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageExposureFilter.java" />
-      <jump line="77" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageExposureFilter.java" />
-      <jump line="78" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageExposureFilter.java" />
-      <jump line="191" column="40" filename="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/library/src/main/java/jp/co/cyberagent/android/gpuimage/custom/component/tools/VersaTemperatureFilter.java" />
-      <jump line="123" column="24" filename="$USER_HOME$/AndroidStudioProjects/android_advanced_filters_base_GPUImage/library/src/main/java/jp/co/cyberagent/android/gpuimage/custom/component/tools/VersaTwoLutFilter.java" />
-      <jump line="30" column="66" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageExposureFilter.java" />
-      <jump line="79" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageExposureFilter.java" />
-      <jump line="80" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageExposureFilter.java" />
-      <jump line="55" column="10" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageExposureFilter.java" />
-      <jump line="86" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageExposureFilter.java" />
-      <jump line="89" column="0" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageExposureFilter.java" />
-      <jump line="70" column="44" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageExposureFilter.java" />
-      <jump line="25" column="30" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/gpufilter/BrightnessNewFilter.java" />
-      <jump line="0" column="56" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/secondop/filter/gpufilter/BrightnessNewFilter.java" />
-      <jump line="70" column="11" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/gpufilter/jp/co/cyberagent/android/gpuimage/GPUImageLookupForAdjustFilter.java" />
-      <jump line="122" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/function/sky/SkyMaker.java" />
-      <jump line="110" column="42" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0-rc01/48c3ea69e323dada14ea4e82a87153e392ed27a6/appcompat-1.2.0-rc01-sources.jar!/androidx/appcompat/widget/AppCompatImageView.java" />
-      <jump line="486" column="8" filename="$USER_HOME$/AndroidStudioProjects/Versa/app/src/main/java/com/versa/ui/imageedit/ImageEditActivity.java" />
-      <jump line="44" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/Request.java" />
-      <jump line="39" column="10" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/66942a30c13605d8c415529cd889b67dc84d38ac/okhttp-3.12.1-sources.jar!/okhttp3/Request.java" />
+      <jump line="374" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" />
+      <jump line="105" column="46" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" />
+      <jump line="198" column="16" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/activities/BaseCardActivity.java" />
+      <jump line="22" column="29" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/activities/BaseActivity.java" />
+      <jump line="10" column="4" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/responses/addressbook/GroupCreateResponse.java" />
+      <jump line="8" column="54" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/responses/addressbook/GroupCreateResponse.java" />
+      <jump line="128" column="83" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ApiClient.java" />
+      <jump line="228" column="26" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ApiClient.java" />
+      <jump line="643" column="32" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ApiClient.java" />
+      <jump line="655" column="58" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ApiClient.java" />
+      <jump line="653" column="98" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ApiClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
-    <registers>
-      <register name="a" type="4">
-        <keys>
-          <key char="49" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="65535" code="91" mods="130" />
-        </keys>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50RWRpdFJlY29yZCgpLnNldEJhY2tncm91bmRJbWFnZShJbWFnZUNhY2hlLmZyb21CaXRtYXAoKSk7Cg==</text>
-      </register>
-      <register name="i" type="4">
-        <keys>
-          <key char="65535" code="91" mods="130" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="91" mods="130" />
-        </keys>
-      </register>
-      <register name="-" type="4">
-        <text>//</text>
-      </register>
-      <register name="/" type="4">
-        <text>builder</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBWaWV3IGV4dFZpZXcgPSBmaW5kVmlld1dpdGhUYWcoVEFHX0VYVF9GSVJTVF9GTE9PUl9WSUVXKTsKICAgICAgICBpZiAoZXh0VmlldyAhPSBudWxsKSB7CiAgICAgICAgICAgIHJlbW92ZVZpZXcoZXh0Vmlldyk7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50RWRpdFJlY29yZCgpLnNldEJhY2tncm91bmRJbWFnZShJbWFnZUNhY2hlLmZyb21CaXRtYXAoKSk7Cg==</text>
-      </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuQml0bWFwRmFjdG9yeTsKCmltcG9ydCBjb20uaHV5bi5iYXNlZnJhbWV3b3JrLnV0aWxzLkFwcFV0aWw7CmltcG9ydCBjb20udmVyc2EuUjsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8KLy8gICAgQE92ZXJyaWRlCi8vICAgIHB1YmxpYyB2b2lkIG9uSW5pdCgpIHsKLy8gICAgICAgIHN1cGVyLm9uSW5pdCgpOwovLyAgICAgICAgbUV4cG9zdXJlTG9jYXRpb24gPSBHTEVTMjAuZ2xHZXRVbmlmb3JtTG9jYXRpb24oZ2V0UHJvZ3JhbSgpLCAiZXhwb3N1cmUiKTsKLy8gICAgfQovLwovLyAgICBAT3ZlcnJpZGUKLy8gICAgcHVibGljIHZvaWQgb25Jbml0aWFsaXplZCgpIHsKLy8gICAgICAgIHN1cGVyLm9uSW5pdGlhbGl6ZWQoKTsKLy8gICAgICAgIHNldEV4cG9zdXJlKG1FeHBvc3VyZSk7Ci8vICAgIH0KLy8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHN1cGVyKE5PX0ZJTFRFUl9WRVJURVhfU0hBREVSLCBFWFBPU1VSRV9GUkFHTUVOVF9TSEFERVIpOwovLyAgICAgICAgbUV4cG9zdXJlID0gZXhwb3N1cmU7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgRVhQT1NVUkVfRlJBR01FTlRfU0hBREVSID0gT3BlbkdsRml4ZXIuZml4U2hhZGVyKCIiICsKLy8gICAgICAgICAgICAiIHZhcnlpbmcgaGlnaHAgdmVjMiB0ZXh0dXJlQ29vcmRpbmF0ZTtcbiIgKwovLyAgICAgICAgICAgICIgXG4iICsKLy8gICAgICAgICAgICAiIHVuaWZvcm0gc2FtcGxlcjJEIGlucHV0SW1hZ2VUZXh0dXJlO1xuIiArCi8vICAgICAgICAgICAgIiB1bmlmb3JtIGhpZ2hwIGZsb2F0IGV4cG9zdXJlO1xuIiArCi8vICAgICAgICAgICAgIiBcbiIgKwovLyAgICAgICAgICAgICIgdm9pZCBtYWluKClcbiIgKwovLyAgICAgICAgICAgICIge1xuIiArCi8vICAgICAgICAgICAgIiAgICAgaGlnaHAgdmVjNCB0ZXh0dXJlQ29sb3IgPSB0ZXh0dXJlMkQoaW5wdXRJbWFnZVRleHR1cmUsIHRleHR1cmVDb29yZGluYXRlKTtcbiIgKwovLyAgICAgICAgICAgICIgICAgIFxuIiArCi8vICAgICAgICAgICAgIiAgICAgZ2xfRnJhZ0NvbG9yID0gdmVjNCh2ZWMzKHRleHR1cmVDb2xvci5yZ2IrdmVjMygxLjAsMS4wLDEuMCkvMTAyNC4wKSAqIHBvdygyLjAsIGV4cG9zdXJlKSwgdGV4dHVyZUNvbG9yLncpO1xuIiArCi8vICAgICAgICAgICAgIiB9ICIpOwovLwovLyAgICBwcml2YXRlIGludCBtRXhwb3N1cmVMb2NhdGlvbjsKLy8gICAgcHJpdmF0ZSBmbG9hdCBtRXhwb3N1cmU7Ci8vCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1Mb29rdXBGaWx0ZXIuc2V0SW50ZW5zaXR5KE1hdGguYWJzKGJyaWdodG5lc3MpKTsKLy8gICAgICAgIG1Mb29rdXBGaWx0ZXIuc2V0Qml0bWFwKG1TYXZlci5nZXRMb29rdXBCaXRtYXAoYnJpZ2h0bmVzcykpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1Mb29rdXBGaWx0ZXIgPSBuZXcgR1BVSW1hZ2VMb29rdXBGb3JBZGp1c3RGaWx0ZXIoKTsKLy8gICAgICAgIGFkZEZpbHRlcihtTG9va3VwRmlsdGVyKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-    </registers>
+    <registers />
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>builder</last-search>
-      <last-offset />
-      <last-pattern>builder</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute>R</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
