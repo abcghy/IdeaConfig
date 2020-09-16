@@ -20,12 +20,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/util/AbstractMap.java" timestamp="1600220236534" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/viewmodel/MessageViewModel.java" timestamp="1600220579352" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/res/layout/fragment_color_selection.xml" timestamp="1600222231608" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFragment.java" timestamp="1600221002520" />
-      <file name="/CheckoutRecipientsView.java" timestamp="1600224572607" />
+      <file name="/CheckoutRecipientsView.java" timestamp="1600224733123" />
       <file name="/CardCheckoutFragment.java" timestamp="1600223146330" />
+      <file name="/BaseContactsAdapter.java" timestamp="1600224992358" />
       <file name="/InkActivity.java" timestamp="1600220676528" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1600220786746">
         <mark key="." line="0" column="45" />
@@ -33,10 +32,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" timestamp="1600222217860" />
       <file name="/CardCustomizerView.java" timestamp="1600222490916" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" timestamp="1600222855239" />
+      <file name="/ContactsNameAdapter.java" timestamp="1600225061194" />
       <file name="/InkCardCustomizeMessageFragment.java" timestamp="1600221795987" />
       <file name="/DebugUtil.java" timestamp="1600222752724" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1600225721846" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/misc/bus/SynergyBusClasses.java" timestamp="1600220653012" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/util/InkCacheUtil.java" timestamp="1600220562934" />
       <file name="/InkCheckoutFragment.java" timestamp="1600221852327" />
       <file name="/CardApiModule.java" timestamp="1600222956342" />
       <file name="/layout_card_customize.xml" timestamp="1600222608442" />
