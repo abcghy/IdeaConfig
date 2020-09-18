@@ -60,11 +60,10 @@
         <mark key="]" line="1197" column="0" />
         <mark key="." line="1197" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" timestamp="1600400464695">
-        <mark key="'" line="57" column="54" />
-        <mark key="[" line="409" column="0" />
-        <mark key="]" line="409" column="0" />
-        <mark key="." line="409" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" timestamp="1600405988251">
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardView.java" timestamp="1600398681109">
         <mark key="'" line="1102" column="36" />
@@ -113,6 +112,7 @@
         <mark key="." line="58" column="35" />
         <mark key="^" line="58" column="35" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeMessageFragment.java" timestamp="1600405804590" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeViewLayout.java" timestamp="1600395337704">
         <mark key="'" line="185" column="16" />
         <mark key="[" line="78" column="30" />
@@ -125,7 +125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2549" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" />
       <jump line="114" column="13" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" />
       <jump line="71" column="13" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" />
@@ -225,15 +224,16 @@
       <jump line="162" column="28" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" />
       <jump line="1185" column="17" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeView.java" />
       <jump line="57" column="54" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" />
+      <jump line="214" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBDYXJkQ3VzdG9taXplclZpZXcuc2V0Rm9udE5hbWUoIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>font</text>
+        <text>mCardView</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
@@ -242,31 +242,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIENhcmRDdXN0b21pemVyVmlldy5zZXRGb250TmFtZShmb250KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDYXJkQ3VzdG9taXplclZpZXcuc2V0Rm9udE5hbWUoIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IDIwMjAvOS8xNyBIYXJyeSBHYW8KLy8gICAgQE92ZXJyaWRlCi8vICAgIHByb3RlY3RlZCB2b2lkIHNldEZ1bmN0aW9uU3RhdGUoaW50IGZ1bmN0aW9uU3RhdGUpIHsKLy8gICAgICAgIHN1cGVyLnNldEZ1bmN0aW9uU3RhdGUoZnVuY3Rpb25TdGF0ZSk7Ci8vICAgICAgICBzd2l0Y2ggKGZ1bmN0aW9uU3RhdGUpIHsKLy8gICAgICAgICAgICBjYXNlIFNUQVRFX0NMQVNTSUNfQkFDSzoKLy8gICAgICAgICAgICBjYXNlIFNUQVRFX0NBUkRfT1BFTjoKLy8gICAgICAgICAgICAgICAgLy8gYmFjayB0byBkZWZhdWx0IHN0YXRlLCBmb3JiaWQgZmxpcAovLyAgICAgICAgICAgICAgICBmcmVlemVDYXJkVmlldygpOwovLyAgICAgICAgICAgICAgICBtVmlldy5zaG93TWVzc2FnZVRvb2xiYXIoKTsKLy8vLyAgICAgICAgICAgICAgICBtRnJhbWVMYXlvdXRFZGl0TW9kZVRvb2xiYXIuc2V0VmlzaWJpbGl0eShWSVNJQkxFKTsKLy8KLy8vLyAgICAgICAgICAgICAgICBpZiAobUltYWdlVmlld0VudmVsb3BlICE9IG51bGwpIHsKLy8vLyAgICAgICAgICAgICAgICAgICAgc2hpZnRFbnZlbG9wZShmYWxzZSwgdHJ1ZSk7Ci8vLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBicmVhazsKLy8gICAgICAgIH0KLy8gICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25EZXN0cm95VmlldygpIHsKICAgICAgICBDYXJkQ3VzdG9taXplclZpZXcuc2V0Rm9udE5hbWUoIiIpOwogICAgICAgIHN1cGVyLm9uRGVzdHJveVZpZXcoKTsKICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgIC8vIGZvcmJpZCB0b3VjaCBldmVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1WaWV3LmdldENhcmRWaWV3KCkuc2V0T25Ub3VjaExpc3RlbmVyKG51bGwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25EZXN0cm95VigpIHsKICAgICAgICBzdXBlci5vbkRlc3Ryb3koKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBtQ2FyZFZpZXcuc2V0T25Ub3VjaExpc3RlbmVyKG51bGwpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBDYXJkQ3VzdG9taXplclZpZXcuc2V0Rm9udE5hbWUoIiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uRGVzdHJveSgpIHsKICAgICAgICBzdXBlci5vbkRlc3Ryb3koKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25EZXN0cm95VmlldygpIHsKICAgICAgICBDYXJkQ3VzdG9taXplclZpZXcuc2V0Rm9udE5hbWUoIiIpOwogICAgICAgIHN1cGVyLm9uRGVzdHJveVZpZXcoKTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbG9yICE9IENhcmRDdXN0b21pemVyVmlldy5Db2xvclBhbGV0dGVGcmFnbWVudC5JTlZBTElEX0NPTE9SKSB7CiAgICAgICAgICAgICAgICBtVmlldy5nZXRDYXJkVmlldygpLmdldENsYXNzaWNCYWNrVmlldygpLnNldFRleHRDb2xvcihjb2xvcik7CiAgICAgICAgICAgICAgICBtVmlldy5nZXRDYXJkVmlldygpLmdldFByZW1pdW1CYWNrVmlldygpLnNldFRleHRDb2xvcihjb2xvcik7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>488</text>
