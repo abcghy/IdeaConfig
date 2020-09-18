@@ -49,24 +49,22 @@
         <mark key="[" line="188" column="0" />
         <mark key="]" line="191" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardView.java" timestamp="1600393468986">
-        <mark key="'" line="1102" column="36" />
-        <mark key="[" line="468" column="0" />
-        <mark key="]" line="473" column="72" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardSideView.java" timestamp="1600395593223">
+        <mark key="'" line="297" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardSideView.java" timestamp="1600334154609">
-        <mark key="'" line="128" column="41" />
+      <file name="/InkActivity.java" timestamp="1600395656768">
+        <mark key="[" line="846" column="0" />
+        <mark key="]" line="865" column="5" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" timestamp="1600392311726">
-        <mark key="'" line="321" column="12" />
-        <mark key="[" line="667" column="23" />
-        <mark key="]" line="667" column="28" />
-        <mark key="." line="667" column="27" />
-        <mark key="^" line="667" column="28" />
+      <file name="/InkCardModel.java" timestamp="1600395664058">
+        <mark key="[" line="407" column="0" />
+        <mark key="]" line="431" column="5" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" timestamp="1600391266807">
-        <mark key="'" line="2221" column="21" />
-        <mark key="[" line="1412" column="50" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" timestamp="1600395822281">
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="425" column="8" />
+        <mark key="^" line="425" column="8" />
+        <mark key="." line="425" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeView.java" timestamp="1600394778681">
         <mark key="'" line="117" column="43" />
@@ -75,29 +73,22 @@
         <mark key="." line="1200" column="0" />
         <mark key="^" line="1201" column="49" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkStyleSelectView.java" timestamp="1600335308436">
-        <mark key="'" line="118" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" timestamp="1600396232117" />
+      <file name="/InkBusClasses.java" timestamp="1600395660825">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="132" column="5" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkEditTextsHandler.java" timestamp="1600334492534">
-        <mark key="'" line="140" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkInsideTextView.java" timestamp="1600334481849" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeViewLayout.java" timestamp="1600395337704">
         <mark key="'" line="185" column="16" />
         <mark key="[" line="78" column="30" />
         <mark key="]" line="78" column="30" />
         <mark key="." line="78" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardBackView.java" timestamp="1600333027962">
-        <mark key="[" line="412" column="0" />
-        <mark key="]" line="426" column="5" />
+      <file name="/InkCardApiModule.java" timestamp="1600395666979">
+        <mark key="[" line="527" column="0" />
+        <mark key="]" line="532" column="5" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkSelectCardTypeView.java" timestamp="1600391108293" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkClassicBackView.java" timestamp="1600334052455">
-        <mark key="'" line="29" column="13" />
-        <mark key="[" line="257" column="5" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1600395180840">
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1600395492405">
         <mark key="'" line="49" column="13" />
         <mark key="[" line="229" column="0" />
         <mark key="]" line="229" column="83" />
@@ -120,10 +111,12 @@
         <mark key="." line="580" column="19" />
         <mark key="^" line="568" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/cardcustomize/model/Style.java" timestamp="1600392627422" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeMessageFragment.java" timestamp="1600335685665">
-        <mark key="'" line="174" column="0" />
+      <file name="/InkCheckoutFragment.java" timestamp="1600395712291">
+        <mark key="[" line="806" column="0" />
+        <mark key="]" line="829" column="5" />
       </file>
+      <file name="/UkCardCustomizeMessageFragment.java" timestamp="1600395747774" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeMessageFragment.java" timestamp="1600396495774" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/model/InkCardModel.java" timestamp="1600394748246">
         <mark key="'" line="427" column="25" />
         <mark key="[" line="49" column="0" />
@@ -131,7 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="28" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/categories/InkCardCategoriesAdapter.java" />
       <jump line="15" column="10" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/model/notificationcenter/Notification.java" />
       <jump line="183" column="20" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/categories/notificationcenter/InkNotificationView.java" />
       <jump line="25" column="13" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/category/twowayview/GridLayoutManager.java" />
@@ -231,6 +223,7 @@
       <jump line="65" column="34" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/model/InkCardModel.java" />
       <jump line="1102" column="36" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardView.java" />
       <jump line="52" column="31" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/model/InkCardModel.java" />
+      <jump line="297" column="22" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardSideView.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
