@@ -13,8 +13,12 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern pattern="\btodo\b.*ghy" />
+    <pattern pattern="\btodo\b.*i18n" />
     <filter name="mine">
       <pattern index="2" />
+    </filter>
+    <filter name="i18n">
+      <pattern index="3" />
     </filter>
   </component>
 </application>
