@@ -80,11 +80,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/DaggerDemo/build/generated/sources/annotationProcessor/java/main/HelloWorldCommand_Factory.java" timestamp="1600604676679" />
-      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/LoginCommandModule.java" timestamp="1600606518900">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="9" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/LoginCommandModule.java" timestamp="1600610339181">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="20" />
       </file>
       <file name="$USER_HOME$/code/DaggerDemo/src/main/java/output/SystemOutModule.java" timestamp="1600605586625">
         <mark key="[" line="9" column="15" />
@@ -108,8 +108,8 @@
         <mark key="^" line="20" column="29" />
         <mark key="." line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/CommandRouterFactory.java" timestamp="1600610302438">
-        <mark key="'" line="6" column="16" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/CommandRouterFactory.java" timestamp="1600610352765">
+        <mark key="'" line="9" column="15" />
         <mark key="[" line="6" column="16" />
         <mark key="]" line="6" column="40" />
         <mark key="^" line="6" column="40" />
@@ -122,6 +122,12 @@
         <mark key="^" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/code/DaggerDemo/build/generated/sources/annotationProcessor/java/main/DaggerCommandRouterFactory.java" timestamp="1600604668258" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/CommandRouter.java" timestamp="1600610373259">
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="48" />
+        <mark key="." line="6" column="47" />
+        <mark key="^" line="6" column="48" />
+      </file>
       <file name="$USER_HOME$/code/DaggerDemo/src/main/java/Command.java" timestamp="1600602914190">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="4" column="41" />
@@ -149,8 +155,12 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="67" />
       </file>
-      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/HelloWorldModule.java" timestamp="1600605810431">
-        <mark key="'" line="8" column="39" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/HelloWorldModule.java" timestamp="1600610327800">
+        <mark key="'" line="12" column="39" />
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="20" />
       </file>
       <file name="$USER_HOME$/code/DaggerDemo/build/generated/sources/annotationProcessor/java/main/CommandRouter_Factory.java" timestamp="1600604647390" />
       <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/SingleArgCommand.java" timestamp="1600606346153">
@@ -167,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="39" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
       <jump line="161" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
       <jump line="124" column="28" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
       <jump line="101" column="16" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageFilter.java" />
@@ -267,6 +276,7 @@
       <jump line="5" column="11" filename="$USER_HOME$/code/DaggerDemo/src/main/java/HelloWorldModule.java" />
       <jump line="6" column="16" filename="$USER_HOME$/code/DaggerDemo/src/main/java/command/CommandRouterFactory.java" />
       <jump line="8" column="39" filename="$USER_HOME$/code/DaggerDemo/src/main/java/command/HelloWorldModule.java" />
+      <jump line="9" column="15" filename="$USER_HOME$/code/DaggerDemo/src/main/java/command/CommandRouterFactory.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -279,7 +289,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>HelloWorldModule</text>
+        <text encoding="base64">PSBuZXcgSGFzaE1hcDw+KCk7</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -289,7 +299,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HelloWorldModule</text>
+        <text encoding="base64">PSBuZXcgSGFzaE1hcDw+KCk7</text>
       </register>
       <register name="/" type="4">
         <text>rvsearch</text>
@@ -298,32 +308,32 @@
         <text>2.29.1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21tYW5kcy5wdXQoY29tbWFuZC5rZXkoKSwgY29tbWFuZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBrZXkoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBrZXkoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGRhZ2dlci5Qcm92aWRlczsK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBrZXkoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGRhZ2dlci5Qcm92aWRlczsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>public HelloWorldCommand() {
     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRub3RpZnkoewogICAgICAgICAgdGl0bGU6ICfmj5DnpLonLAogICAgICAgICAgbWVzc2FnZTogJ+ebruWJjeayoeacieivpeWKn+iDvScsCiAgICAgICAgICB0eXBlOiAnd2FybmluZycKICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRub3RpZnkoewogICAgICAgICAgdGl0bGU6ICfmj5DnpLonLAogICAgICAgICAgbWVzc2FnZTogJ+ebruWJjeayoeacieivpeWKn+iDvScsCiAgICAgICAgICB0eXBlOiAnd2FybmluZycKICAgICAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
