@@ -15,6 +15,7 @@
         <entry>nohlsearch</entry>
         <entry>154</entry>
         <entry>source $MYVIMRC</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -79,6 +80,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/DaggerDemo/build/generated/sources/annotationProcessor/java/main/HelloWorldCommand_Factory.java" timestamp="1600604676679" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/output/SystemOutModule.java" timestamp="1600605586625">
+        <mark key="[" line="9" column="15" />
+      </file>
       <file name="$USER_HOME$/code/DaggerDemo/src/main/java/CommandRouterFactory.java" timestamp="1600604543792">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="2" column="21" />
@@ -86,38 +90,36 @@
         <mark key="^" line="2" column="37" />
         <mark key="." line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/HelloWorldCommand.java" timestamp="1600605500146">
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="26" column="36" />
+        <mark key="^" line="26" column="36" />
+        <mark key="." line="26" column="35" />
+      </file>
       <file name="$USER_HOME$/code/DaggerDemo/src/main/java/HelloWorldCommand.java" timestamp="1600602942209">
         <mark key="[" line="20" column="15" />
         <mark key="]" line="20" column="29" />
         <mark key="^" line="20" column="29" />
         <mark key="." line="20" column="28" />
       </file>
-      <file name="/node_entity [114.55.140.19]" timestamp="1593628902104">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/CommandRouterFactory.java" timestamp="1600605808541">
+        <mark key="'" line="6" column="16" />
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/output/Outputter.java" timestamp="1600605468224">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/code/DaggerDemo/build/generated/sources/annotationProcessor/java/main/DaggerCommandRouterFactory.java" timestamp="1600604668258" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593629380408">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/masterserver.transmission_entity_path" timestamp="1593628662153">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasRepository.java" timestamp="1593629213344">
-        <mark key="[" line="15" column="50" />
-        <mark key="]" line="15" column="47" />
-        <mark key="^" line="15" column="47" />
-        <mark key="." line="15" column="46" />
-      </file>
-      <file name="/user [114.55.140.19]" timestamp="1593629346667">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/trans/TransmissionController.kt" timestamp="1593628880500">
-        <mark key="[" line="75" column="84" />
-        <mark key="]" line="76" column="35" />
-        <mark key="^" line="76" column="35" />
-        <mark key="." line="76" column="34" />
       </file>
       <file name="$USER_HOME$/code/DaggerDemo/src/main/java/Command.java" timestamp="1600602914190">
         <mark key="[" line="4" column="36" />
@@ -132,18 +134,12 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="42" />
       </file>
-      <file name="/transmission_entity_path [114.55.140.19]" timestamp="1593628662139">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/DaggerDemo/src/main/java/HelloWorldModule.java" timestamp="1600604347285">
         <mark key="'" line="5" column="11" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="5" column="10" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="/masterserver.user" timestamp="1593629346678">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/DaggerDemo/build.gradle" timestamp="1600593800377">
         <mark key="[" line="17" column="59" />
@@ -154,9 +150,6 @@
       <file name="/foo.bar" timestamp="1593629346688">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/masterserver.node_entity" timestamp="1593628902127">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/DaggerDemo/src/main/java/CommandLineATM.java" timestamp="1600604737311">
         <mark key="'" line="8" column="28" />
         <mark key="[" line="6" column="38" />
@@ -164,11 +157,12 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="67" />
       </file>
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/HelloWorldModule.java" timestamp="1600605810431">
+        <mark key="'" line="8" column="39" />
+      </file>
       <file name="$USER_HOME$/code/DaggerDemo/build/generated/sources/annotationProcessor/java/main/CommandRouter_Factory.java" timestamp="1600604647390" />
     </filemarks>
     <jumps>
-      <jump line="147" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/opengl/FrameBuffer.java" />
-      <jump line="133" column="12" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
       <jump line="129" column="39" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
       <jump line="161" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
       <jump line="124" column="28" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
@@ -267,6 +261,8 @@
       <jump line="3" column="28" filename="$USER_HOME$/code/DaggerDemo/src/main/java/CommandLineATM.java" />
       <jump line="4" column="4" filename="$USER_HOME$/code/DaggerDemo/src/main/java/CommandRouterFactory.java" />
       <jump line="5" column="11" filename="$USER_HOME$/code/DaggerDemo/src/main/java/HelloWorldModule.java" />
+      <jump line="6" column="16" filename="$USER_HOME$/code/DaggerDemo/src/main/java/command/CommandRouterFactory.java" />
+      <jump line="8" column="39" filename="$USER_HOME$/code/DaggerDemo/src/main/java/command/HelloWorldModule.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -279,7 +275,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>HelloWorldCommand</text>
+        <text>, SystemOutModule.class</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -289,7 +285,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HelloWorldCommand</text>
+        <text>, SystemOutModule.class</text>
       </register>
       <register name="/" type="4">
         <text>rvsearch</text>
@@ -326,7 +322,7 @@
         <text encoding="base64">ICAgICAgICAgICAgYmluZENoYW5nZURlbGV0ZShjdXJyZW50RGVsZXRlU3RhdGUpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>source $MYVIMRC</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
