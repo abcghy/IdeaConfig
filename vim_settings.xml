@@ -78,6 +78,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/CommandRouterFactory.java" timestamp="1600602952399">
+        <mark key="'" line="4" column="4" />
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/HelloWorldCommand.java" timestamp="1600602942209">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="29" />
+        <mark key="^" line="20" column="29" />
+        <mark key="." line="20" column="28" />
+      </file>
+      <file name="/node_entity [114.55.140.19]" timestamp="1593628902104">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/DaggerDemo/build/generated/sources/annotationProcessor/java/main/DaggerCommandRouterFactory.java" timestamp="1600594077178" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593629380408">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/masterserver.transmission_entity_path" timestamp="1593628662153">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/SaasRepository.java" timestamp="1593629213344">
         <mark key="[" line="15" column="50" />
         <mark key="]" line="15" column="47" />
@@ -96,23 +121,18 @@
         <mark key="^" line="76" column="35" />
         <mark key="." line="76" column="34" />
       </file>
-      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/Command.java" timestamp="1600593008954">
-        <mark key="[" line="4" column="44" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="14" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/Command.java" timestamp="1600602914190">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="41" />
+        <mark key="^" line="4" column="41" />
+        <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/CommandRouter.java" timestamp="1600593473620">
-        <mark key="'" line="6" column="40" />
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="12" />
-        <mark key="^" line="24" column="12" />
-        <mark key="." line="24" column="11" />
-      </file>
-      <file name="$USER_HOME$/code/backend/src/main/resources/application.properties" timestamp="1593441032674">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/CommandRouter.java" timestamp="1600603189836">
+        <mark key="'" line="12" column="40" />
+        <mark key="[" line="12" column="69" />
+        <mark key="]" line="13" column="37" />
+        <mark key="^" line="13" column="37" />
+        <mark key="." line="13" column="36" />
       </file>
       <file name="/transmission_entity_path [114.55.140.19]" timestamp="1593628662139">
         <mark key="[" line="0" column="0" />
@@ -126,24 +146,18 @@
         <mark key="^" line="16" column="40" />
         <mark key="." line="17" column="59" />
       </file>
-      <file name="/a.sql" timestamp="1593440767059">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/foo.bar" timestamp="1593629346688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/masterserver.node_entity" timestamp="1593628902127">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/CommandLineATM.java" timestamp="1600593519224">
-        <mark key="'" line="7" column="28" />
-        <mark key="[" line="8" column="51" />
-        <mark key="]" line="8" column="52" />
-        <mark key="^" line="8" column="52" />
-        <mark key="." line="8" column="51" />
-      </file>
-      <file name="/node_entity [114.55.140.19]" timestamp="1593628902104">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/CommandLineATM.java" timestamp="1600594034716">
+        <mark key="'" line="8" column="28" />
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="68" />
+        <mark key="^" line="6" column="68" />
+        <mark key="." line="6" column="67" />
       </file>
       <file name="/masterserver.saasentity" timestamp="1593628627105">
         <mark key="[" line="0" column="0" />
@@ -151,20 +165,8 @@
       <file name="/masterserver.transmission_entity" timestamp="1593628637290">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/saasentity [114.55.140.19]" timestamp="1593628627103">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593629380408">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/masterserver.transmission_entity_path" timestamp="1593628662153">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/WelcomeActivity.java" />
       <jump line="78" column="64" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/core/EffectRender.java" />
       <jump line="147" column="0" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/opengl/FrameBuffer.java" />
       <jump line="133" column="12" filename="$USER_HOME$/Downloads/logs/v3.9.0（特效版）（ddl0515）/byted_effect_andr/androidsample/BytedEffects/app/src/main/java/com/bytedance/labcv/demo/BeautyFilter.kt" />
@@ -264,6 +266,7 @@
       <jump line="55" column="29" filename="$USER_HOME$/code/backend/src/main/java/com/anban/duotiaoMasterServer/saas/EditSaasReq.java" />
       <jump line="8" column="40" filename="$USER_HOME$/code/DaggerDemo/src/main/java/CommandRouter.java" />
       <jump line="3" column="28" filename="$USER_HOME$/code/DaggerDemo/src/main/java/CommandLineATM.java" />
+      <jump line="4" column="4" filename="$USER_HOME$/code/DaggerDemo/src/main/java/CommandRouterFactory.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -276,7 +279,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>2.x</text>
+        <text>Collections.emptyMap();</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -286,7 +289,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2.x</text>
+        <text>Collections.emptyMap();</text>
       </register>
       <register name="/" type="4">
         <text>rvsearch</text>
@@ -297,29 +300,30 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRub3RpZnkoewogICAgICAgICAgdGl0bGU6ICfmj5DnpLonLAogICAgICAgICAgbWVzc2FnZTogJ+ebruWJjeayoeacieivpeWKn+iDvScsCiAgICAgICAgICB0eXBlOiAnd2FybmluZycKICAgICAgICB9KQo=</text>
+      <register name="2" type="4">
+        <text>public HelloWorldCommand() {
+    }</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRub3RpZnkoewogICAgICAgICAgdGl0bGU6ICfmj5DnpLonLAogICAgICAgICAgbWVzc2FnZTogJ+ebruWJjeayoeacieivpeWKn+iDvScsCiAgICAgICAgICB0eXBlOiAnd2FybmluZycKICAgICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZENoYW5nZURlbGV0ZShjdXJyZW50RGVsZXRlU3RhdGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZENoYW5nZURlbGV0ZShjdXJyZW50RGVsZXRlU3RhdGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2l2RGVsZXRlIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIxNmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMTZkcCIKICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ljX3NlY29uZF9vcF9kZWxldGUiCiAgICAgICAgLz4KCiAgICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2RGVsZXRlQ29tcGxldGUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOnRleHQ9IuWujOaIkCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSI1ZHAiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IiNDQzAwMDAwMCIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source $MYVIMRC</text>
