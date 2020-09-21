@@ -7,10 +7,15 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</entry>
+        <entry encoding="base64">PCsrPg==</entry>
+        <entry>mOperationView</entry>
+        <entry>rvsearch</entry>
       </history-search>
       <history-cmd>
-        <entry>488</entry>
+        <entry>nohlsearch</entry>
+        <entry>154</entry>
+        <entry>source $MYVIMRC</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -19,114 +24,149 @@
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed K</text>
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardView.java" timestamp="1600398681109">
-        <mark key="'" line="1102" column="36" />
-        <mark key="[" line="468" column="0" />
-        <mark key="]" line="473" column="72" />
+      <file name="$USER_HOME$/code/DaggerDemo/build/generated/sources/annotationProcessor/java/main/HelloWorldCommand_Factory.java" timestamp="1600604676679" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/LoginCommandModule.java" timestamp="1600610339181">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardSideView.java" timestamp="1600397222715">
-        <mark key="'" line="297" column="22" />
-        <mark key="[" line="58" column="35" />
-        <mark key="]" line="58" column="40" />
-        <mark key="." line="58" column="35" />
-        <mark key="^" line="58" column="35" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/output/SystemOutModule.java" timestamp="1600605586625">
+        <mark key="[" line="9" column="15" />
       </file>
-      <file name="/InkActivity.java" timestamp="1600395656768">
-        <mark key="[" line="846" column="0" />
-        <mark key="]" line="865" column="5" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/HelloWorldCommand.java" timestamp="1600605500146">
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="26" column="36" />
+        <mark key="^" line="26" column="36" />
+        <mark key="." line="26" column="35" />
       </file>
-      <file name="/InkCardModel.java" timestamp="1600395664058">
-        <mark key="[" line="407" column="0" />
-        <mark key="]" line="431" column="5" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/CommandRouterFactory.java" timestamp="1600689209532">
+        <mark key="'" line="13" column="15" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" timestamp="1600399190274">
-        <mark key="[" line="8" column="51" />
-        <mark key="]" line="425" column="8" />
-        <mark key="^" line="425" column="8" />
-        <mark key="." line="425" column="7" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/LoginCommand.java" timestamp="1600612147624">
+        <mark key="[" line="24" column="61" />
+        <mark key="]" line="24" column="81" />
+        <mark key="^" line="24" column="81" />
+        <mark key="." line="24" column="80" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeView.java" timestamp="1600398577031">
-        <mark key="'" line="1470" column="41" />
-        <mark key="[" line="1200" column="0" />
-        <mark key="]" line="1200" column="0" />
-        <mark key="." line="1200" column="0" />
-        <mark key="^" line="1201" column="49" />
+      <file name="$USER_HOME$/code/DaggerDemo/build/generated/sources/annotationProcessor/java/main/command/LoginCommand_Factory.java" timestamp="1600614724092" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/DepositCommand.java" timestamp="1600614475640">
+        <mark key="'" line="8" column="25" />
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="29" />
+        <mark key="." line="31" column="28" />
+        <mark key="^" line="31" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" timestamp="1600398858322" />
-      <file name="/InkBusClasses.java" timestamp="1600395660825">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="132" column="5" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/output/Outputter.java" timestamp="1600605468224">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeViewLayout.java" timestamp="1600395337704">
-        <mark key="'" line="185" column="16" />
-        <mark key="[" line="78" column="30" />
-        <mark key="]" line="78" column="30" />
-        <mark key="." line="78" column="30" />
+      <file name="$USER_HOME$/code/DaggerDemo/build/generated/sources/annotationProcessor/java/main/DaggerCommandRouterFactory.java" timestamp="1600604668258" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/CommandRouter.java" timestamp="1600617403301">
+        <mark key="'" line="5" column="13" />
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="48" />
+        <mark key="." line="6" column="47" />
+        <mark key="^" line="6" column="48" />
       </file>
-      <file name="/InkCardApiModule.java" timestamp="1600395666979">
-        <mark key="[" line="527" column="0" />
-        <mark key="]" line="532" column="5" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/Database.java" timestamp="1600614612360">
+        <mark key="'" line="37" column="31" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1600398087610">
-        <mark key="'" line="49" column="13" />
-        <mark key="[" line="229" column="75" />
-        <mark key="]" line="230" column="85" />
-        <mark key="." line="230" column="84" />
-        <mark key="^" line="230" column="85" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/DepositCommandModule.java" timestamp="1600614535293">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" timestamp="1600399220308">
-        <mark key="'" line="418" column="0" />
-        <mark key="[" line="418" column="0" />
-        <mark key="]" line="418" column="0" />
-        <mark key="." line="418" column="0" />
-        <mark key="^" line="421" column="26" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/CommandLineATM.java" timestamp="1600604737311">
+        <mark key="'" line="8" column="28" />
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="68" />
+        <mark key="^" line="6" column="68" />
+        <mark key="." line="6" column="67" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkTextView.java" timestamp="1600397843381">
-        <mark key="'" line="126" column="55" />
-        <mark key="[" line="50" column="26" />
-        <mark key="]" line="51" column="21" />
-        <mark key="^" line="51" column="21" />
-        <mark key="." line="51" column="20" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/CommandLineATM.java" timestamp="1600617406684" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/HelloWorldModule.java" timestamp="1600610327800">
+        <mark key="'" line="12" column="39" />
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/model/InkCardModel.java" timestamp="1600395150144">
-        <mark key="'" line="52" column="31" />
-        <mark key="[" line="580" column="19" />
-        <mark key="]" line="580" column="19" />
-        <mark key="." line="580" column="19" />
-        <mark key="^" line="568" column="41" />
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/SingleArgCommand.java" timestamp="1600606346153">
+        <mark key="[" line="7" column="50" />
+        <mark key="]" line="7" column="75" />
+        <mark key="." line="7" column="74" />
+        <mark key="^" line="7" column="75" />
       </file>
-      <file name="/InkCheckoutFragment.java" timestamp="1600395712291">
-        <mark key="[" line="806" column="0" />
-        <mark key="]" line="829" column="5" />
+      <file name="/fragment.java" timestamp="1600612080048">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/cardcustomize/model/Style.java" timestamp="1600397280335" />
-      <file name="/UkCardCustomizeMessageFragment.java" timestamp="1600395747774" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeMessageFragment.java" timestamp="1600399073341" />
     </filemarks>
     <jumps>
       <jump line="117" column="19" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/CardCustomizePremiumPackSwitch.java" />
@@ -233,6 +273,23 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="49" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+        </keys>
+      </register>
+      <register name="&quot;" type="4">
+        <text>provide</text>
+      </register>
+      <register name="i" type="4">
+        <keys>
+          <key char="65535" code="91" mods="130" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+        </keys>
+      </register>
       <register name="+" type="2">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uRGVzdHJveSgpIHsKICAgICAgICBzdXBlci5vbkRlc3Ryb3koKTsKICAgIH0K</text>
       </register>
