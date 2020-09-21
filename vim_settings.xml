@@ -59,12 +59,12 @@
         <mark key="[" line="71" column="0" />
         <mark key="]" line="90" column="5" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/checkout/UkCheckoutCardView.java" timestamp="1600672516987">
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/checkout/UkCheckoutCardView.java" timestamp="1600674172960">
         <mark key="'" line="153" column="24" />
-        <mark key="[" line="86" column="24" />
-        <mark key="]" line="86" column="33" />
-        <mark key="." line="86" column="24" />
-        <mark key="^" line="86" column="24" />
+        <mark key="[" line="88" column="12" />
+        <mark key="]" line="88" column="72" />
+        <mark key="." line="88" column="71" />
+        <mark key="^" line="88" column="72" />
       </file>
       <file name="/CheckoutRecipientsView.java" timestamp="1600669148772">
         <mark key="'" line="201" column="6" />
@@ -75,9 +75,9 @@
         <mark key="[" line="840" column="0" />
         <mark key="]" line="845" column="5" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/checkout/InkCheckoutCardView.java" timestamp="1600672876389">
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/checkout/InkCheckoutCardView.java" timestamp="1600673669585">
         <mark key="'" line="41" column="13" />
-        <mark key="[" line="572" column="8" />
+        <mark key="[" line="572" column="0" />
         <mark key="]" line="574" column="9" />
         <mark key="^" line="571" column="8" />
         <mark key="." line="572" column="0" />
@@ -95,7 +95,7 @@
         <mark key="." line="360" column="12" />
         <mark key="^" line="360" column="13" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/checkout/InkCheckoutCardView.java" timestamp="1600669395229" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/checkout/InkCheckoutCardView.java" timestamp="1600674157377" />
       <file name="/InkActivity.java" timestamp="1600668242490">
         <mark key="[" line="871" column="0" />
         <mark key="]" line="876" column="55" />
@@ -231,17 +231,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCB1cGRhdGVJbWFnZUJpdG1hcChCaXRtYXAgYml0bWFwKXsKICAgICAgICAgICAgaW1hZ2VWaWV3TWVzc2FnZS5zZXRJbWFnZUJpdG1hcChiaXRtYXApOwogICAgICAgIH0K</text>
+      <register name="+" type="4">
+        <text>mBackSnapShot</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwgSW1hZ2VWaWV3IA==</text>
+        <text>mBackSnapShot</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCB1cGRhdGVJbWFnZUJpdG1hcChCaXRtYXAgYml0bWFwKXsKICAgICAgICAgICAgaW1hZ2VWaWV3TWVzc2FnZS5zZXRJbWFnZUJpdG1hcChiaXRtYXApOwogICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>backTextField</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VWaWV3TWVzc2FnZSA9IG5ldyBJbWFnZVZpZXcoZ2V0Q29udGV4dCgpKTsKCiAgICAgICAgICAgIGZpbmFsIENhbnZhc0RpbWVuc2lvbnMgY2FudmFzRGltZW5zaW9ucyA9CiAgICAgICAgICAgICAgICBtSW5rQ2FyZE1vZGVsLmdldFNlbGVjdGVkVGVtcGxhdGUoKS5nZXRNZXNzYWdlQmFja0RpbWVuc2lvbnMoKTsKCiAgICAgICAgICAgIGlmIChtSW5rQ2FyZE1vZGVsLmdldENhcmRCYWNrTWVzc2FnZVNuYXBzaG90KCkgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgbUdsaWRlci5sb2FkKG1JbmtDYXJkTW9kZWwuZ2V0Q2FyZEJhY2tNZXNzYWdlU25hcHNob3RQYXRoKCkpCiAgICAgICAgICAgICAgICAgICAgICAgLmRpc2tDYWNoZVN0cmF0ZWd5KERpc2tDYWNoZVN0cmF0ZWd5Lk5PTkUpCiAgICAgICAgICAgICAgICAgICAgICAgLnNraXBNZW1vcnlDYWNoZSh0cnVlKQogICAgICAgICAgICAgICAgICAgICAgIC5pbnRvKGltYWdlVmlld01lc3NhZ2UpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgaWYgKG1CYWNrU25hcFNob3QgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGltYWdlVmlld01lc3NhZ2Uuc2V0SW1hZ2VCaXRtYXAobUJhY2tTbmFwU2hvdCk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIGltYWdlVmlld01lc3NhZ2Uuc2V0SW1hZ2VCaXRtYXAobUlua0NhcmRNb2RlbC5nZXRDYXJkQmFja01lc3NhZ2VTbmFwc2hvdCgpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
