@@ -45,72 +45,106 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFlowFragment.java" timestamp="1600653381293">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="37" column="5" />
+      <file name="/layout_card_checkout_recipient_row.xml" timestamp="1600654862538">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="35" />
       </file>
-      <file name="/InkCardCustomizeMessageFragment.java" timestamp="1600651249072" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/viewmodel/MessageViewModel.java" timestamp="1600653715879" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/recyclerviews/BaseContactsRecyclerViewLayout.java" timestamp="1600653223358" />
-      <file name="/MessageViewModel.java" timestamp="1600653773540" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/views/recyclerviews/BaseContactsRecyclerViewLayout.java" timestamp="1600653100898">
-        <mark key="[" line="76" column="48" />
-        <mark key="]" line="77" column="47" />
-        <mark key="^" line="77" column="47" />
-        <mark key="." line="77" column="46" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFragment.java" timestamp="1600654181376">
+        <mark key="[" line="265" column="0" />
+        <mark key="]" line="265" column="94" />
+        <mark key="." line="265" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/adapters/BaseContactsAdapter.java" timestamp="1600653270957">
-        <mark key="[" line="172" column="46" />
-        <mark key="]" line="172" column="90" />
-        <mark key="^" line="172" column="90" />
-        <mark key="." line="172" column="89" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/res/layout/card_checkout/layout/layout_card_checkout_recipient_row.xml" timestamp="1600654848691">
+        <mark key="[" line="51" column="30" />
+        <mark key="]" line="51" column="42" />
+        <mark key="." line="51" column="41" />
+        <mark key="^" line="51" column="42" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1600422029912">
-        <mark key="[" line="512" column="36" />
-        <mark key="]" line="512" column="52" />
-        <mark key="." line="512" column="51" />
-        <mark key="^" line="512" column="52" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/views/recyclerviews/BaseContactsRecyclerViewLayout.java" timestamp="1600654258266">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="82" column="5" />
+        <mark key="." line="75" column="0" />
       </file>
-      <file name="/BaseContactsAdapter.java" timestamp="1600652424503" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" timestamp="1600422925900">
-        <mark key="'" line="76" column="13" />
-        <mark key="[" line="360" column="4" />
-        <mark key="]" line="360" column="13" />
-        <mark key="." line="360" column="12" />
-        <mark key="^" line="360" column="13" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/views/ContactsViewPager.java" timestamp="1600654373042">
+        <mark key="'" line="85" column="52" />
+        <mark key="[" line="207" column="5" />
+        <mark key="]" line="208" column="4" />
+        <mark key="." line="208" column="3" />
+        <mark key="^" line="208" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFlowFragment.java" timestamp="1600653613471">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/checkout/UkCheckoutCardView.java" timestamp="1600655427169">
+        <mark key="^" line="81" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/viewmodel/MessageViewModel.java" timestamp="1600653753103" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeMessageFragment.java" timestamp="1600651904989">
-        <mark key="'" line="373" column="35" />
+      <file name="/CheckoutRecipientsView.java" timestamp="1600654681319">
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="242" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1600653760196" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/model/AppSettings.java" timestamp="1600653000757" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/adapters/ContactsNameAdapter.java" timestamp="1600652775732">
+      <file name="/ContactsFlowFragment.java" timestamp="1600654121961">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="147" column="5" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/checkout/CheckoutRecipientsView.java" timestamp="1600654727650">
+        <mark key="'" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/checkout/InkCheckoutFragment.java" timestamp="1600655350209">
+        <mark key="[" line="927" column="0" />
+        <mark key="]" line="927" column="0" />
+        <mark key="." line="927" column="0" />
+      </file>
+      <file name="/ContactsViewPager.java" timestamp="1600654362236">
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="213" column="5" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFlowFragment.java" timestamp="1600654126228">
+        <mark key="'" line="42" column="73" />
+        <mark key="[" line="128" column="5" />
+        <mark key="]" line="129" column="4" />
+        <mark key="^" line="129" column="4" />
+        <mark key="." line="129" column="3" />
+      </file>
+      <file name="/BaseContactsRecyclerViewLayout.java" timestamp="1600654254158">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="76" column="5" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/EditContactFragment.java" timestamp="1600654220404">
+        <mark key="'" line="184" column="12" />
+        <mark key="[" line="183" column="37" />
+        <mark key="]" line="183" column="44" />
+        <mark key="." line="183" column="43" />
+        <mark key="^" line="183" column="44" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/checkout/CheckoutRecipientsView.java" timestamp="1600654684876">
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="221" column="5" />
+        <mark key="." line="180" column="0" />
+        <mark key="^" line="151" column="31" />
+      </file>
+      <file name="/InkCheckoutFragment.java" timestamp="1600655163103">
+        <mark key="[" line="909" column="0" />
+        <mark key="]" line="910" column="93" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/viewmodel/MessageViewModel.java" timestamp="1600655970999">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="80" column="5" />
+        <mark key="]" line="81" column="4" />
+        <mark key="." line="81" column="3" />
+        <mark key="^" line="81" column="4" />
+      </file>
+      <file name="/ContactsFragment.java" timestamp="1600654178503">
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="94" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/adapters/ContactsNameAdapter.java" timestamp="1600654071972">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/util/CardCacheHelp.java" timestamp="1600422231811">
-        <mark key="[" line="40" column="0" />
+      <file name="/InkCheckoutCardView.java" timestamp="1600654993472">
+        <mark key="[" line="674" column="0" />
+        <mark key="]" line="678" column="17" />
       </file>
-      <file name="/ContactsNameAdapter.java" timestamp="1600653020489">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="90" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/adapters/BaseContactsAdapter.java" timestamp="1600653237494" />
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/values/strings.xml" />
-      <jump line="8" column="29" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/res/layout/layout_card_customize.xml" />
-      <jump line="1" column="36" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/layout_card_customize.xml" />
-      <jump line="188" column="8" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" />
-      <jump line="38" column="13" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/SignatureView.java" />
       <jump line="68" column="48" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" />
       <jump line="532" column="53" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/checkout/InkCheckoutFragment.java" />
       <jump line="251" column="77" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkClassicBackView.java" />
@@ -206,48 +240,53 @@
       <jump line="76" column="13" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" />
       <jump line="55" column="73" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" />
       <jump line="371" column="35" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeMessageFragment.java" />
+      <jump line="40" column="73" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFlowFragment.java" />
+      <jump line="184" column="12" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/EditContactFragment.java" />
+      <jump line="85" column="52" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/views/ContactsViewPager.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/checkout/CheckoutRecipientsView.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/viewmodel/MessageViewModel.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1DYXJkVmlldy5zZXRCYWNrVGV4dFNuYXBTaG90KG1lc3NhZ2VWaWV3TW9kZWwuZ2V0QmFja1RleHRTbmFwQml0bWFwKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>String contactId</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25SZXN1bWUoKSB7CiAgICAgICAgc3VwZXIub25SZXN1bWUoKTsKICAgICAgICAvLyB3aGVuIGRlbGV0ZSB0aGUgY29udGFjdCAsIHdlIHNob3VsZCByZWZyZXNoIHRoZSBsaXN0KHNob3cgb3IgaGlkZSBDdXN0b21pemUgVGV4dFZpZXcpCiAgICAgICAgbUNvbnRhY3RzVmlld1BhZ2VyLnNldEN1c3RvbU1lc3NhZ2VDb250YWN0SWRzKG1lc3NhZ2VWaWV3TW9kZWwuZ2V0Q3VzdG9tQ29udGFjdElkcygpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyB3aGVuIGRlbGV0ZSBtZXNzYWdlICwgd2Ugc2hvdWxkIHJlZnJlc2ggdGhlIHJlY2lwaWVudHMgdWkuCiAgICAgICAgbUNoZWNrb3V0UmVjaXBpZW50Vmlldy5pbml0Q3VzdG9tTWVzc2FnZVZpZXcobWVzc2FnZVZpZXdNb2RlbC5nZXRDdXN0b21Db250YWN0SWRzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1DYXJkVmlldy5zZXRCYWNrVGV4dFNuYXBTaG90KG1lc3NhZ2VWaWV3TW9kZWwuZ2V0QmFja1RleHRTbmFwQml0bWFwKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtQ2FyZFZpZXcK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CnBhZGVsZWU4OApQYWRlIExlZQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlVmlld01lc3NhZ2Uuc2V0SW1hZ2VCaXRtYXAobUlua0NhcmRNb2RlbC5nZXRDYXJkQmFja01lc3NhZ2VTbmFwc2hvdCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3MK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjcmVhdGVFZGl0TWVzc2FnZVZpZXcoQXJyYXlMaXN0PFN0cmluZz4gY29udGFjdElkcywgYm9vbGVhbiBpc0NhcmRQYWNrLCBUZXh0VmlldyBtVHZFZGl0TWVzc2FnZSwgQ29udGFjdCBjb250YWN0KSB7CiAgICAgICAgaWYgKGlzQ2FyZFBhY2spewogICAgICAgICAgICBtVHZFZGl0TWVzc2FnZS5zZXRWaXNpYmlsaXR5KFZpZXcuR09ORSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgU3RyaW5nIGNvbnRhY3RJZCA9IGNvbnRhY3QuZ2V0SWQoKTsKICAgICAgICAgICAgYm9vbGVhbiBpc01lc3NhZ2VFZGl0ZWQgPSBjb250YWN0SWRzLmNvbnRhaW5zKGNvbnRhY3RJZCk7CiAgICAgICAgICAgIG1UdkVkaXRNZXNzYWdlLnNldE9uQ2xpY2tMaXN0ZW5lcih2IC0+IG1MaXN0ZW5lci5vbkVkaXRNZXNzYWdlTGlzdGVuZXIoY29udGFjdCkpOwogICAgICAgICAgICBtVHZFZGl0TWVzc2FnZQogICAgICAgICAgICAgICAgICAgIC5zZXRUZXh0KGlzTWVzc2FnZUVkaXRlZCA/IFJlc0hlbHBlci5nZXRTdHJpbmcoUi5zdHJpbmcuZWRpdF9tZXNzYWdlKSA6IFJlc0hlbHBlci5nZXRTdHJpbmcoUi5zdHJpbmcuY3VzdG9taXplX21lc3NhZ2UpKTsKICAgICAgICAgICAgbVR2RWRpdE1lc3NhZ2Uuc2V0VGV4dENvbG9yKGlzTWVzc2FnZUVkaXRlZCA/IFJlc0hlbHBlci5nZXRDb2xvcihSLmNvbG9yLmNvbG9yUHJpbWFyeSkgOiBSZXNIZWxwZXIuZ2V0Q29sb3IoUi5jb2xvci5tYXRlcmlhbF93YXJtX2dyZXkpKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlRWRpdE1lc3NhZ2VWaWV3KGNvbnRhY3RJZHMsIGlzQ2FyZFBhY2ssIG1UdkVkaXRNZXNzYWdlLCBjb250YWN0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdldEJhY2tNZXNzYWdlKCkgewogICAgICAgIGlmIChtRnVuY3Rpb25TdGF0ZSA9PSBDYXJkU3RhdGUuU1RBVEVfQ0xBU1NJQ19CQUNLKSB7CiAgICAgICAgICAgIHJldHVybiBtQ2FyZFZpZXcuZ2V0Q2xhc3NpY0JhY2tWaWV3KCkuZ2V0VGV4dE1lc3NhZ2UoVWtDYXJkVmlldy5CQUNLX1RFWFRfTUVTU0FHRV9QT1NJVElPTik7CiAgICAgICAgfSBlbHNlIGlmIChtRnVuY3Rpb25TdGF0ZSA9PSBDYXJkU3RhdGUuU1RBVEVfQ0FSRF9PUEVOKSB7CiAgICAgICAgICAgIFVrSW5uZXJUZXh0U2lkZVZpZXcgYmFja1ZpZXcgPSBtQ2FyZFZpZXcuZ2V0UHJlbWl1bUJhY2tWaWV3KCk7CiAgICAgICAgICAgIHJldHVybiBiYWNrVmlldy5nZXRUZXh0TWVzc2FnZShVa0NhcmRWaWV3LkJBQ0tfVEVYVF9NRVNTQUdFX1BPU0lUSU9OKTsKICAgICAgICB9CgoKICAgICAgICBpZiAoIVRleHRVdGlscy5pc0VtcHR5KG1JbmtQcm9kdWN0LmdldENhdGVnb3J5RGVmYXVsdFRleHQoKSkpIHsKICAgICAgICAgICAgcmV0dXJuIG1JbmtQcm9kdWN0LmdldENhdGVnb3J5RGVmYXVsdFRleHQoKTsKICAgICAgICB9CgogICAgICAgIGlmICghVGV4dFV0aWxzLmlzRW1wdHkobUlua1Byb2R1Y3QuZ2V0RGVmYXVsdE1lc3NhZ2UoKSkpIHsKICAgICAgICAgICAgcmV0dXJuIG1JbmtQcm9kdWN0LmdldERlZmF1bHRNZXNzYWdlKCk7CiAgICAgICAgfQoKICAgICAgICBpZiAobVNlc3Npb24uZ2V0QXBwU2V0dGluZ3MoKSAhPSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBtU2Vzc2lvbi5nZXRBcHBTZXR0aW5ncygpLmdldERlZmF1bHRDYXJkTWVzc2FnZSgpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIFJlc0hlbHBlci5nZXRTdHJpbmcoUi5zdHJpbmcuZGVmYXVsdF9pbmtfbWVzc2FnZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEVkaXRDb250YWN0SWRzKExpc3Q8U3RyaW5nPiBjb250YWN0SWRzKXsKICAgICAgICBtQ29udGFjdFJlY3ljbGVyVmlld05hbWVzLnN5bmNFZGl0Q29udGFjdChjb250YWN0SWRzKTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHN5bmNFZGl0Q29udGFjdChMaXN0PFN0cmluZz4gY29udGFjdElkcyl7CiAgICAgICAgbUNvbnRhY3RBZGFwdGVyLnN5bmNDb250YWN0KGNvbnRhY3RJZHMpOwogICAgICAgIG1Db250YWN0QWRhcHRlci5ub3RpZnlEYXRhU2V0Q2hhbmdlZCgpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbUNoZWNrb3V0UmVjaXBpZW50Vmlldy5pbml0UmVjaXBpZW50cyhtQ29udGFjdHMsIG1EZWZhdWx0QmlsbGluZ0luZm8uZ2V0UmVjaXBpZW50cygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBtQ29udGFjdHNWaWV3UGFnZXIuc2V0Q3VzdG9tKG1lc3NhZ2VWaWV3TW9kZWwuZ2V0RWRpdENvbnRhY3QoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbUNoZWNrb3V0UmVjaXBpZW50Vmlldy5pbml0UmVjaXBpZW50cyhtQ29udGFjdHMsIG1EZWZhdWx0QmlsbGluZ0luZm8uZ2V0UmVjaXBpZW50cygpKTsK</text>
+        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBlZGl0Q29udGFjdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>source $MYVIMRC</text>
