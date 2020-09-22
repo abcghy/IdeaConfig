@@ -76,16 +76,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" timestamp="1600760257979" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/views/injectedviews/InjectedFrameLayout.java" timestamp="1600761941735" />
+      <file name="/UkCardView.java" timestamp="1600767701042" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardView.java" timestamp="1600762984492" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkTextView.java" timestamp="1600767702115" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/views/customviews/photopicker/filter/FilterHorizontalListViewAdapter.java" timestamp="1600762319862" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/util/android/ViewUtil.java" timestamp="1600762292090" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylib/src/main/java/com/sincerely/libcommons/views/customviews/photopicker/filter/transformations/NormalTransformation.java" timestamp="1600762322296" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylib/src/main/java/com/sincerely/libcommons/views/customviews/photopicker/filter/transformations/AbsPhotoFilterTransformation.java" timestamp="1600762310863" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/SincerelyComponent.java" timestamp="1600761685595" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardHelper.java" timestamp="1600763545674" />
-      <file name="/Dummy.txt" timestamp="1600764107922">
+      <file name="/Dummy.txt" timestamp="1600767456765">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -97,23 +97,33 @@
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkClassicBackView.java" timestamp="1600763142529">
         <mark key="'" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/Glider.java" timestamp="1600762197638" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1600763180624">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="1288" column="45" />
-        <mark key="." line="1288" column="44" />
-        <mark key="^" line="1288" column="45" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeView.java" timestamp="1600768617159">
+        <mark key="[" line="425" column="43" />
+        <mark key="]" line="425" column="49" />
+        <mark key="." line="425" column="48" />
+        <mark key="^" line="425" column="49" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/dagger/InkModule.java" timestamp="1600761709831" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/application/InkApp.java" timestamp="1600761760287" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/dagger/InkComponent.java" timestamp="1600761677008" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" timestamp="1600768820796">
+        <mark key="'" line="276" column="22" />
+        <mark key="[" line="57" column="75" />
+        <mark key="]" line="58" column="23" />
+        <mark key="." line="58" column="22" />
+        <mark key="^" line="58" column="23" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" timestamp="1600768555001">
+        <mark key="'" line="268" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/Glider.java" timestamp="1600762197638" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/network/responses/misc/SelectCardTypeExperiment.java" timestamp="1600767595450" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1600768040236">
+        <mark key="[" line="1312" column="50" />
+        <mark key="]" line="1312" column="54" />
+        <mark key="." line="1312" column="53" />
+        <mark key="^" line="1312" column="54" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/DataModule.java" timestamp="1600761931796" />
     </filemarks>
     <jumps>
-      <jump line="8" column="12" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/res/values/strings.xml" />
-      <jump line="51" column="15" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFlowFragment.java" />
-      <jump line="115" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFlowFragment.java" />
-      <jump line="334" column="4" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFragment.java" />
       <jump line="471" column="32" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFragment.java" />
       <jump line="262" column="27" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFragment.java" />
       <jump line="166" column="50" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/checkout/CheckoutRecipientsView.java" />
@@ -210,6 +220,10 @@
       <jump line="52" column="54" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkInnerTextSideView.java" />
       <jump line="29" column="13" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkClassicBackView.java" />
       <jump line="584" column="18" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" />
+      <jump line="502" column="38" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" />
+      <jump line="268" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" />
+      <jump line="107" column="36" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" />
+      <jump line="268" column="22" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -231,44 +245,44 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text>UkCardHelper.sSelectedEditText</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBVa1RleHRWaWV3IGdldFNlbGVjdGVkRWRpdFRleHQoKSB7CiAgICAgICAgaWYgKG1FZGl0VGV4dHMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gbUVkaXRUZXh0cy5nZXQoZWRpdFRleHRJZHgpOwogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>cacheCardCustomizerClickListener</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGRvbid0IGtub3cgd2h5IHRoaXMgc3RhdGkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIFVrVGV4dFZpZXcgZ2V0U2VsZWN0ZWRFZGl0VGV4dCgpIHsKLy8gICAgICAgIGlmIChtRWRpdFRleHRzLmlzRW1wdHkoKSkgewovLyAgICAgICAgICAgIHJldHVybiBudWxsOwovLyAgICAgICAgfQovLyAgICAgICAgcmV0dXJuIG1FZGl0VGV4dHMuZ2V0KFVrQ2FyZEhlbHBlci5zU2VsZWN0ZWRFZGl0VGV4dCk7Ci8vICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIGRvbid0IGtub3cgd2h5IHRoaXMgaXMgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1DYXJkVmlldy5zZXRzbGlkZQo=</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIFVrVGV4dFZpZXcgZ2V0U2VsZWN0ZWRFZGl0VGV4dCgpIHsKLy8gICAgICAgIGlmIChtRWRpdFRleHRzLmlzRW1wdHkoKSkgewovLyAgICAgICAgICAgIHJldHVybiBudWxsOwovLyAgICAgICAgfQovLyAgICAgICAgcmV0dXJuIG1FZGl0VGV4dHMuZ2V0KFVrQ2FyZEhlbHBlci5zU2VsZWN0ZWRFZGl0VGV4dCk7Ci8vICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFVrQ2FyZFNpZGVWaWV3IGN1cnJlbnRTaWRlID0gbVZpZXcuZ2V0Q2FyZFZpZXcoKS5nZXRDdXJyZW50U2hvd25TaWRlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1DYXJkVmlldy5zZXRzbGlkZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGN1cnJlbnRTaWRlIGluc3RhbmNlb2YgVWtJbm5lclRleHRTaWRlVmlldykgewo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFVrQ2FyZFNpZGVWaWV3IGN1cnJlbnRTaWRlID0gbVZpZXcuZ2V0Q2FyZFZpZXcoKS5nZXRDdXJyZW50U2hvd25TaWRlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3VycmVudFNpZGUgaW5zdGFuY2VvZiBVa0NsYXNzaWNCYWNrVmlldykgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobVZpZXcubUZ1bmN0aW9uU3RhdGUgPT0gU1RBVEVfQ0xBU1NJQ19CQUNLKSB7CiAgICAgICAgICAgIAogICAgICAgIH0gZWxzZSBpZiAobVZpZXcubUZ1bmN0aW9uU3RhdGUgPT0gKQo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGN1cnJlbnRTaWRlIGluc3RhbmNlb2YgVWtJbm5lclRleHRTaWRlVmlldykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>488</text>
