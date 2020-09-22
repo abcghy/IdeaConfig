@@ -89,8 +89,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylib/src/main/java/com/sincerely/libcommons/views/customviews/photopicker/filter/transformations/NormalTransformation.java" timestamp="1600762322296" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylib/src/main/java/com/sincerely/libcommons/views/customviews/photopicker/filter/transformations/AbsPhotoFilterTransformation.java" timestamp="1600762310863" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/SincerelyComponent.java" timestamp="1600761685595" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardHelper.java" timestamp="1600762965742" />
-      <file name="/Dummy.txt" timestamp="1600756079001">
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardHelper.java" timestamp="1600763545674" />
+      <file name="/Dummy.txt" timestamp="1600763765187">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -98,17 +98,10 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkInnerTextSideView.java" timestamp="1600763140100">
         <mark key="'" line="52" column="54" />
-        <mark key="[" line="296" column="0" />
-        <mark key="]" line="301" column="5" />
-        <mark key="." line="300" column="40" />
-        <mark key="^" line="300" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkClassicBackView.java" timestamp="1600763142529">
         <mark key="'" line="29" column="13" />
         <mark key="[" line="261" column="5" />
-        <mark key="]" line="262" column="4" />
-        <mark key="." line="262" column="3" />
-        <mark key="^" line="262" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/Glider.java" timestamp="1600762197638" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1600763180624">
