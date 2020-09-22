@@ -76,6 +76,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" timestamp="1600756114925" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardPhotoSideView.java" timestamp="1600754325425" />
       <file name="/UkCardCustomizeMessageFragment.java" timestamp="1600742927550">
         <mark key="[" line="264" column="0" />
@@ -87,7 +88,7 @@
         <mark key="." line="191" column="0" />
       </file>
       <file name="/CardCacheHelp.java" timestamp="1600742887218" />
-      <file name="/Dummy.txt" timestamp="1600751952035">
+      <file name="/Dummy.txt" timestamp="1600756079001">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
