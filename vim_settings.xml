@@ -76,6 +76,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardPhotoSideView.java" timestamp="1600754325425" />
+      <file name="/UkCardCustomizeMessageFragment.java" timestamp="1600742927550">
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="264" column="63" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/SignatureView.java" timestamp="1600744414006">
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
+      </file>
+      <file name="/CardCacheHelp.java" timestamp="1600742887218" />
       <file name="/Dummy.txt" timestamp="1600751952035">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
@@ -87,48 +98,25 @@
         <mark key="]" line="295" column="0" />
         <mark key="." line="295" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/views/ContactsViewPager.java" timestamp="1600678042370">
-        <mark key="'" line="112" column="4" />
-        <mark key="[" line="207" column="5" />
-        <mark key="]" line="208" column="4" />
-        <mark key="." line="208" column="3" />
-        <mark key="^" line="208" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/util/debug/DebugUtil.java" timestamp="1600755715962" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeView.java" timestamp="1600754843801">
+        <mark key="[" line="1887" column="0" />
+        <mark key="]" line="1887" column="0" />
+        <mark key="." line="1887" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" timestamp="1600745169981">
-        <mark key="'" line="386" column="8" />
-        <mark key="[" line="387" column="28" />
-        <mark key="]" line="387" column="48" />
-        <mark key="." line="387" column="47" />
-        <mark key="^" line="387" column="48" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeView.java" timestamp="1600744071966" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardView.java" timestamp="1600680526167">
-        <mark key="'" line="1114" column="16" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/res/values/strings.xml" timestamp="1600755710799" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkEditTextsHandler.java" timestamp="1600738184454">
         <mark key="[" line="13" column="56" />
         <mark key="]" line="13" column="64" />
         <mark key="^" line="13" column="64" />
         <mark key="." line="13" column="63" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFragment.java" timestamp="1600678037389">
-        <mark key="'" line="474" column="0" />
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="94" />
-        <mark key="." line="265" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkTextView.java" timestamp="1600680290128">
-        <mark key="'" line="125" column="55" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1600744077216">
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1600754841326">
         <mark key="'" line="576" column="5" />
-        <mark key="[" line="512" column="36" />
-        <mark key="]" line="512" column="52" />
-        <mark key="." line="512" column="51" />
-        <mark key="^" line="512" column="52" />
+        <mark key="[" line="1340" column="33" />
+        <mark key="]" line="1341" column="45" />
+        <mark key="." line="1341" column="44" />
+        <mark key="^" line="1341" column="45" />
       </file>
       <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/CommandRouterFactory.java" timestamp="1600689209532">
         <mark key="'" line="13" column="15" />
@@ -137,6 +125,7 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="9" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkOpenCardSlideHandler.java" timestamp="1600754610244" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkInsideTextView.java" timestamp="1600741388791">
         <mark key="'" line="147" column="81" />
         <mark key="[" line="13" column="64" />
@@ -144,22 +133,10 @@
         <mark key="^" line="13" column="72" />
         <mark key="." line="13" column="71" />
       </file>
-      <file name="/UkCardCustomizeMessageFragment.java" timestamp="1600742927550">
-        <mark key="[" line="264" column="0" />
-        <mark key="]" line="264" column="63" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardSideView.java" timestamp="1600679583336">
-        <mark key="^" line="58" column="35" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" timestamp="1600741718137">
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" timestamp="1600754361053">
         <mark key="'" line="512" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/SignatureView.java" timestamp="1600744414006">
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
-      </file>
-      <file name="/CardCacheHelp.java" timestamp="1600742887218" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardViewTouchListener.java" timestamp="1600754035793" />
     </filemarks>
     <jumps>
       <jump line="2549" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" />
@@ -283,8 +260,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="+" type="4">
-        <text>getClassicBackView</text>
+      <register name="+" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1DYXJkVmlldy5zZXRzbGlkZQo=</text>
       </register>
       <register name="-" type="4">
         <text>getClassicBackView</text>
@@ -296,31 +273,31 @@
         <text>mView.getCardView().getClassicBackView()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFVrQ2FyZFNpZGVWaWV3IGN1cnJlbnRTaWRlID0gbVZpZXcuZ2V0Q2FyZFZpZXcoKS5nZXRDdXJyZW50U2hvd25TaWRlKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1DYXJkVmlldy5zZXRzbGlkZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFVrQ2FyZFNpZGVWaWV3IGN1cnJlbnRTaWRlID0gbVZpZXcuZ2V0Q2FyZFZpZXcoKS5nZXRDdXJyZW50U2hvd25TaWRlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGN1cnJlbnRTaWRlIGluc3RhbmNlb2YgVWtJbm5lclRleHRTaWRlVmlldykgewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3VycmVudFNpZGUgaW5zdGFuY2VvZiBVa0NsYXNzaWNCYWNrVmlldykgewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobVZpZXcubUZ1bmN0aW9uU3RhdGUgPT0gU1RBVEVfQ0xBU1NJQ19CQUNLKSB7CiAgICAgICAgICAgIAogICAgICAgIH0gZWxzZSBpZiAobVZpZXcubUZ1bmN0aW9uU3RhdGUgPT0gKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGN1cnJlbnRTaWRlIGluc3RhbmNlb2YgVWtJbm5lclRleHRTaWRlVmlldykgewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoY3VycmVudFNpZGUgaW5zdGFuY2VvZiBVa0NsYXNzaWNCYWNrVmlldykgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobVZpZXcubUZ1bmN0aW9uU3RhdGUgPT0gU1RBVEVfQ0xBU1NJQ19CQUNLKSB7CiAgICAgICAgICAgIAogICAgICAgIH0gZWxzZSBpZiAobVZpZXcubUZ1bmN0aW9uU3RhdGUgPT0gKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2FyZFNpZGVJZCAhPSBJbmtDYXJkVmlldy5GUk9OVF9TSURFX1NIT1dOKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNhYmxlU2lnbmF0dXJlVmlldyhzaWRlVG9TaG93bik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2FyZFNpZGVJZCAhPSBJbmtDYXJkVmlldy5GUk9OVF9TSURFX1NIT1dOKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNhYmxlU2lnbmF0dXJlVmlldyhzaWRlVG9TaG93bik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>488</text>
