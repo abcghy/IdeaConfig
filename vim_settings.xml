@@ -122,11 +122,11 @@
         <mark key="^" line="13" column="64" />
         <mark key="." line="13" column="63" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkInsideTextView.java" timestamp="1600738976411">
-        <mark key="[" line="556" column="25" />
-        <mark key="]" line="556" column="64" />
-        <mark key="^" line="556" column="64" />
-        <mark key="." line="556" column="63" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkInsideTextView.java" timestamp="1600739156877">
+        <mark key="[" line="372" column="64" />
+        <mark key="]" line="372" column="72" />
+        <mark key="^" line="372" column="72" />
+        <mark key="." line="372" column="71" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylib/src/main/java/com/sincerely/libcommons/model/Font.java" timestamp="1600738484090" />
     </filemarks>
@@ -235,11 +235,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text>me</text>
+      <register name="+" type="4">
+        <text>ratio</text>
       </register>
       <register name="-" type="4">
-        <text>backTextField</text>
+        <text>ratio</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
