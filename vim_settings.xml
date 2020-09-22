@@ -82,23 +82,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFlowFragment.java" timestamp="1600676903436">
-        <mark key="[" line="81" column="5" />
-        <mark key="]" line="37" column="5" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/views/ContactsViewPager.java" timestamp="1600678042370">
         <mark key="'" line="112" column="4" />
         <mark key="[" line="207" column="5" />
         <mark key="]" line="208" column="4" />
         <mark key="." line="208" column="3" />
         <mark key="^" line="208" column="4" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" timestamp="1600741826724">
-        <mark key="'" line="316" column="24" />
-        <mark key="[" line="318" column="0" />
-        <mark key="]" line="318" column="88" />
-        <mark key="." line="318" column="0" />
-        <mark key="^" line="278" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/ContactsViewPager.java" timestamp="1600677975136">
         <mark key="'" line="94" column="18" />
@@ -145,24 +134,20 @@
         <mark key="^" line="13" column="72" />
         <mark key="." line="13" column="71" />
       </file>
-      <file name="/UkCardCustomizeMessageFragment.java" timestamp="1600677070250">
+      <file name="/UkCardCustomizeMessageFragment.java" timestamp="1600742927550">
         <mark key="[" line="264" column="0" />
         <mark key="]" line="264" column="63" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardSideView.java" timestamp="1600679583336">
         <mark key="^" line="58" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeMessageFragment.java" timestamp="1600677349521">
-        <mark key="'" line="373" column="35" />
-        <mark key="[" line="311" column="0" />
-        <mark key="]" line="311" column="88" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" timestamp="1600741718137">
-        <mark key="'" line="509" column="0" />
+        <mark key="'" line="512" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFragment.java" timestamp="1600677971012">
         <mark key="'" line="450" column="0" />
       </file>
+      <file name="/CardCacheHelp.java" timestamp="1600742887218" />
     </filemarks>
     <jumps>
       <jump line="49" column="39" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/mycards/DraftsAdapter.java" />
