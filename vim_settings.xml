@@ -65,7 +65,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/misc/bus/SynergyBusClasses.java" timestamp="1600676797146">
         <mark key="'" line="380" column="62" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardBackView.java" timestamp="1600680535123" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardBackView.java" timestamp="1600738471142" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardSideView.java" timestamp="1600679583336">
         <mark key="^" line="58" column="35" />
       </file>
@@ -107,7 +107,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFragment.java" timestamp="1600677971012">
         <mark key="'" line="450" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1600681249388">
+      <file name="/Dummy.txt" timestamp="1600738687549">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -116,18 +116,19 @@
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/ContactsViewPager.java" timestamp="1600677975136">
         <mark key="'" line="94" column="18" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkEditTextsHandler.java" timestamp="1600680824333">
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkEditTextsHandler.java" timestamp="1600738184454">
         <mark key="[" line="13" column="56" />
         <mark key="]" line="13" column="64" />
         <mark key="^" line="13" column="64" />
         <mark key="." line="13" column="63" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkInsideTextView.java" timestamp="1600680166180">
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkInsideTextView.java" timestamp="1600738976411">
         <mark key="[" line="556" column="25" />
         <mark key="]" line="556" column="64" />
         <mark key="^" line="556" column="64" />
         <mark key="." line="556" column="63" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylib/src/main/java/com/sincerely/libcommons/model/Font.java" timestamp="1600738484090" />
     </filemarks>
     <jumps>
       <jump line="62" column="49" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/uk_message_toolbar.xml" />
