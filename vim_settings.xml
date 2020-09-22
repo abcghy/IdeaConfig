@@ -76,7 +76,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1600741169726">
+      <file name="/Dummy.txt" timestamp="1600741847031">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -93,11 +93,12 @@
         <mark key="." line="208" column="3" />
         <mark key="^" line="208" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" timestamp="1600677157308">
-        <mark key="[" line="316" column="0" />
-        <mark key="]" line="316" column="88" />
-        <mark key="." line="316" column="0" />
-        <mark key="^" line="276" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" timestamp="1600741826724">
+        <mark key="'" line="316" column="24" />
+        <mark key="[" line="318" column="0" />
+        <mark key="]" line="318" column="88" />
+        <mark key="." line="318" column="0" />
+        <mark key="^" line="278" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/ContactsViewPager.java" timestamp="1600677975136">
         <mark key="'" line="94" column="18" />
@@ -156,13 +157,14 @@
         <mark key="[" line="311" column="0" />
         <mark key="]" line="311" column="88" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" timestamp="1600741718137">
+        <mark key="'" line="509" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFragment.java" timestamp="1600677971012">
         <mark key="'" line="450" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1283" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/NumberPicker.java" />
-      <jump line="844" column="87" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardView.java" />
       <jump line="49" column="39" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/mycards/DraftsAdapter.java" />
       <jump line="2549" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" />
@@ -261,6 +263,8 @@
       <jump line="158" column="31" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" />
       <jump line="418" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" />
       <jump line="147" column="81" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkInsideTextView.java" />
+      <jump line="512" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" />
+      <jump line="314" column="24" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -283,7 +287,7 @@
         </keys>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uRGVzdHJveSgpIHsKICAgICAgICBzdXBlci5vbkRlc3Ryb3koKTsKICAgIH0K</text>
+        <text>HEAD</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -295,31 +299,31 @@
         <text>CardCustomizerView.ColorPaletteFragment.INVALID_COLOR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uRGVzdHJveSgpIHsKICAgICAgICBzdXBlci5vbkRlc3Ryb3koKTsKICAgIH0K</text>
+        <text>HEAD</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uRGVzdHJveSgpIHsKICAgICAgICBzdXBlci5vbkRlc3Ryb3koKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbG9yICE9IENhcmRDdXN0b21pemVyVmlldy5Db2xvclBhbGV0dGVGcmFnbWVudC5JTlZBTElEX0NPTE9SKSB7CiAgICAgICAgICAgICAgICBtVmlldy5nZXRDYXJkVmlldygpLmdldENsYXNzaWNCYWNrVmlldygpLnNldFRleHRDb2xvcihjb2xvcik7CiAgICAgICAgICAgICAgICBtVmlldy5nZXRDYXJkVmlldygpLmdldFByZW1pdW1CYWNrVmlldygpLnNldFRleHRDb2xvcihjb2xvcik7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGNvbG9yID0gY3VzdG9tTWVzc2FnZS5nZXRNZXNzYWdlRm9udENvbG9yKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbG9yICE9IENhcmRDdXN0b21pemVyVmlldy5Db2xvclBhbGV0dGVGcmFnbWVudC5JTlZBTElEX0NPTE9SKSB7CiAgICAgICAgICAgICAgICBtVmlldy5nZXRDYXJkVmlldygpLmdldENsYXNzaWNCYWNrVmlldygpLnNldFRleHRDb2xvcihjb2xvcik7CiAgICAgICAgICAgICAgICBtVmlldy5nZXRDYXJkVmlldygpLmdldFByZW1pdW1CYWNrVmlldygpLnNldFRleHRDb2xvcihjb2xvcik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGNvbG9yID0gY3VzdG9tTWVzc2FnZS5nZXRNZXNzYWdlRm9udENvbG9yKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwb3N0RGVsYXllZCgoKSAtPiB7Ci8vICAgICAgICAgICAgICAgIG1DYXJkU2lkZUNsYXNzaWNCYWNrLnNldFRleHRDb2xvcihDb2xvci5SRUQpOwovLyAgICAgICAgICAgICAgICBtQ2FyZFNpZGVJbm5lclRleHQuc2V0VGV4dENvbG9yKENvbG9yLlJFRCk7Ci8vICAgICAgICAgICAgfSwgMTAwMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBwb3N0RGVsYXllZCgoKSAtPiB7Ci8vICAgICAgICAgICAgICAgIG1DYXJkU2lkZUNsYXNzaWNCYWNrLnNldFRleHRDb2xvcihDb2xvci5SRUQpOwovLyAgICAgICAgICAgICAgICBtQ2FyZFNpZGVJbm5lclRleHQuc2V0VGV4dENvbG9yKENvbG9yLlJFRCk7Ci8vICAgICAgICAgICAgfSwgMTAwMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUNhcmRTaWRlSW5uZXJUZXh0LnNldFRleHRDb2xvcihDb2xvci5SRUQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUNhcmRTaWRlSW5uZXJUZXh0LnNldFRleHRDb2xvcihDb2xvci5SRUQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>488</text>
