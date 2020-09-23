@@ -86,12 +86,13 @@
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/build.gradle" timestamp="1600830103071">
         <mark key="'" line="50" column="22" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCustomizeBusEvents.java" timestamp="1600833266233" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/NetworkModule.java" timestamp="1600826379713" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/model/product/Category.java" timestamp="1600831505126" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/f3908d76273ad2498add8bb89d7fb787f3061b1d/retrofit-1.9.0-sources.jar!/retrofit/Platform.java" timestamp="1600826084880" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/category/InkCardShelfFragment.java" timestamp="1600831948174" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1600831328341" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkTextView.java" timestamp="1600832027273" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkTextView.java" timestamp="1600833345676" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/model/product/Product.java" timestamp="1600831748174" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/application/AppConfig.java" timestamp="1600826126352" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/ink/src/main/java/com/sincerely/android/ink/model/InkProduct.java" timestamp="1600831520019" />
@@ -107,7 +108,6 @@
         <mark key="." line="180" column="23" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/application/AppConfig.java" timestamp="1600826274435" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/DataModule.java" timestamp="1600824769700" />
     </filemarks>
     <jumps>
       <jump line="1" column="36" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/layout_card_customize.xml" />
