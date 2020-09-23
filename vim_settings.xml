@@ -77,31 +77,24 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/util/sincerely/DataUtil.java" timestamp="1600823901117" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/network/ApiClient.java" timestamp="1600824499269" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/network/ApiClient.java" timestamp="1600827034087" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/network/responses/product/ProductListResponse.java" timestamp="1600824183666" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/f3908d76273ad2498add8bb89d7fb787f3061b1d/retrofit-1.9.0-sources.jar!/retrofit/RestAdapter.java" timestamp="1600825998452" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.3.8/4b6a9c1ba2bdf4b6f79d21a96107b8934c377f0a/rxjava-1.3.8-sources.jar!/rx/Observable.java" timestamp="1600826691060" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/network/ApiService.java" timestamp="1600824486188" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/category/InkCardShelfAdapter.java" timestamp="1600823557775" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.3.8/4b6a9c1ba2bdf4b6f79d21a96107b8934c377f0a/rxjava-1.3.8-sources.jar!/rx/internal/operators/CachedObservable.java" timestamp="1600827023267" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/categories/InkCardCategoriesFragment.java" timestamp="1600822856162">
         <mark key="'" line="169" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/NetworkModule.java" timestamp="1600825038911" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkTouchView.java" timestamp="1600769450868" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1600769655090" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" timestamp="1600822826434">
-        <mark key="'" line="287" column="46" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/NetworkModule.java" timestamp="1600826379713" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/f3908d76273ad2498add8bb89d7fb787f3061b1d/retrofit-1.9.0-sources.jar!/retrofit/Platform.java" timestamp="1600826084880" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/category/InkCardShelfFragment.java" timestamp="1600823726252" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/categories/InkCardCategoriesFragment.java" timestamp="1600823007051" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1600823817959" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/CardAnimHelper.java" timestamp="1600822640075" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/cardcustomize/model/Style.java" timestamp="1600769608823" />
-      <file name="/Dummy.txt" timestamp="1600773096808">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/network/InkProductHandler.java" timestamp="1600824051055" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/application/AppConfig.java" timestamp="1600826126352" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/network/InkProductHandler.java" timestamp="1600826391800" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/application/AppConfig.java" timestamp="1600826274435" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/fragment_categories.xml" timestamp="1600822984201" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/DataModule.java" timestamp="1600824769700" />
     </filemarks>
