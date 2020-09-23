@@ -15,6 +15,10 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz4zNDE=</entry>
         <entry>341</entry>
+        <entry>171</entry>
+        <entry>807</entry>
+        <entry>729</entry>
+        <entry>276</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -83,20 +87,24 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/f3908d76273ad2498add8bb89d7fb787f3061b1d/retrofit-1.9.0-sources.jar!/retrofit/RestAdapter.java" timestamp="1600825998452" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.3.8/4b6a9c1ba2bdf4b6f79d21a96107b8934c377f0a/rxjava-1.3.8-sources.jar!/rx/Observable.java" timestamp="1600826691060" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.3.8/4b6a9c1ba2bdf4b6f79d21a96107b8934c377f0a/rxjava-1.3.8-sources.jar!/rx/internal/operators/CachedObservable.java" timestamp="1600827023267" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/build.gradle" timestamp="1600830103071">
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/build.gradle" timestamp="1600840156325">
         <mark key="'" line="50" column="22" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCustomizeBusEvents.java" timestamp="1600833266233" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/NetworkModule.java" timestamp="1600826379713" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/model/product/Category.java" timestamp="1600831505126" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" timestamp="1600840635737" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/f3908d76273ad2498add8bb89d7fb787f3061b1d/retrofit-1.9.0-sources.jar!/retrofit/Platform.java" timestamp="1600826084880" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/category/InkCardShelfFragment.java" timestamp="1600831948174" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1600831328341" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkTextView.java" timestamp="1600833345676" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkTextView.java" timestamp="1600840061347">
+        <mark key="[" line="340" column="0" />
+        <mark key="]" line="340" column="8" />
+        <mark key="." line="340" column="8" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/model/product/Product.java" timestamp="1600831748174" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/application/AppConfig.java" timestamp="1600826126352" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/ink/src/main/java/com/sincerely/android/ink/model/InkProduct.java" timestamp="1600831520019" />
-      <file name="/Dummy.txt" timestamp="1600832444635">
+      <file name="/Dummy.txt" timestamp="1600839187712">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -231,8 +239,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="+" type="4">
-        <text encoding="base64">LmZvckVhY2gobmV3IENvbnN1bWVyPENhdGVnb3J5PigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KENhdGVnb3J5IGNhdGVnb3J5KSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOw==</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobVdyYXBwZXIgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="-" type="4">
         <text>setenable</text>
@@ -243,35 +251,35 @@
       <register name="0" type="4">
         <text>cacheCardCustomizerClickListener</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LmZvckVhY2gobmV3IENvbnN1bWVyPENhdGVnb3J5PigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KENhdGVnb3J5IGNhdGVnb3J5KSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobVdyYXBwZXIgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGFmdGVyIGNhcmQgb3BlbiwgdGhlIGxlZnQgcGhvdG8gYXJlYSBzaG91bGQgYmUgY2xpY2thYmxlCiAgICAgICAgICAgICAgICBtQ2FyZFNpZGVJbm5lclBob3RvLnNldFNpZGVWaWV3RW5hYmxlKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">LmZvckVhY2gobmV3IENvbnN1bWVyPENhdGVnb3J5PigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KENhdGVnb3J5IGNhdGVnb3J5KSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGRvbid0IGtub3cgd2h5IHRoaXMgc3RhdGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGFmdGVyIGNhcmQgb3BlbiwgdGhlIGxlZnQgcGhvdG8gYXJlYSBzaG91bGQgYmUgY2xpY2thYmxlCiAgICAgICAgICAgICAgICBtQ2FyZFNpZGVJbm5lclBob3RvLnNldFNpZGVWaWV3RW5hYmxlKHRydWUpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGRvbid0IGtub3cgd2h5IHRoaXMgaXMgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGRvbid0IGtub3cgd2h5IHRoaXMgc3RhdGkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIFVrVGV4dFZpZXcgZ2V0U2VsZWN0ZWRFZGl0VGV4dCgpIHsKLy8gICAgICAgIGlmIChtRWRpdFRleHRzLmlzRW1wdHkoKSkgewovLyAgICAgICAgICAgIHJldHVybiBudWxsOwovLyAgICAgICAgfQovLyAgICAgICAgcmV0dXJuIG1FZGl0VGV4dHMuZ2V0KFVrQ2FyZEhlbHBlci5zU2VsZWN0ZWRFZGl0VGV4dCk7Ci8vICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIGRvbid0IGtub3cgd2h5IHRoaXMgaXMgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1DYXJkVmlldy5zZXRzbGlkZQo=</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIFVrVGV4dFZpZXcgZ2V0U2VsZWN0ZWRFZGl0VGV4dCgpIHsKLy8gICAgICAgIGlmIChtRWRpdFRleHRzLmlzRW1wdHkoKSkgewovLyAgICAgICAgICAgIHJldHVybiBudWxsOwovLyAgICAgICAgfQovLyAgICAgICAgcmV0dXJuIG1FZGl0VGV4dHMuZ2V0KFVrQ2FyZEhlbHBlci5zU2VsZWN0ZWRFZGl0VGV4dCk7Ci8vICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>341</text>
+        <text>276</text>
       </register>
     </registers>
   </component>
