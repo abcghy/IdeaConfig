@@ -13,6 +13,8 @@
         <entry>488</entry>
         <entry>source $MYVIMRC</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz4zNDE=</entry>
+        <entry>341</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -76,32 +78,38 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/util/sincerely/DataUtil.java" timestamp="1600823901117" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/util/sincerely/DataUtil.java" timestamp="1600831277949" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/network/ApiClient.java" timestamp="1600827034087" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/network/responses/product/ProductListResponse.java" timestamp="1600824183666" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/f3908d76273ad2498add8bb89d7fb787f3061b1d/retrofit-1.9.0-sources.jar!/retrofit/RestAdapter.java" timestamp="1600825998452" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.3.8/4b6a9c1ba2bdf4b6f79d21a96107b8934c377f0a/rxjava-1.3.8-sources.jar!/rx/Observable.java" timestamp="1600826691060" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/network/ApiService.java" timestamp="1600824486188" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/category/InkCardShelfAdapter.java" timestamp="1600823557775" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.3.8/4b6a9c1ba2bdf4b6f79d21a96107b8934c377f0a/rxjava-1.3.8-sources.jar!/rx/internal/operators/CachedObservable.java" timestamp="1600827023267" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/categories/InkCardCategoriesFragment.java" timestamp="1600822856162">
-        <mark key="'" line="169" column="40" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/build.gradle" timestamp="1600830103071">
+        <mark key="'" line="50" column="22" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/NetworkModule.java" timestamp="1600826379713" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/model/product/Category.java" timestamp="1600831505126" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/f3908d76273ad2498add8bb89d7fb787f3061b1d/retrofit-1.9.0-sources.jar!/retrofit/Platform.java" timestamp="1600826084880" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/category/InkCardShelfFragment.java" timestamp="1600823726252" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/categories/InkCardCategoriesFragment.java" timestamp="1600823007051" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1600823817959" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/category/InkCardShelfFragment.java" timestamp="1600831948174" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1600831328341" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkTextView.java" timestamp="1600832027273" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/model/product/Product.java" timestamp="1600831748174" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/application/AppConfig.java" timestamp="1600826126352" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/network/InkProductHandler.java" timestamp="1600826391800" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/ink/src/main/java/com/sincerely/android/ink/model/InkProduct.java" timestamp="1600831520019" />
+      <file name="/Dummy.txt" timestamp="1600832444635">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/network/InkProductHandler.java" timestamp="1600830854698">
+        <mark key="]" line="180" column="24" />
+        <mark key="^" line="180" column="24" />
+        <mark key="." line="180" column="23" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/application/AppConfig.java" timestamp="1600826274435" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/fragment_categories.xml" timestamp="1600822984201" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/DataModule.java" timestamp="1600824769700" />
     </filemarks>
     <jumps>
-      <jump line="433" column="21" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/checkout/CardCheckoutFragment.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/values/strings.xml" />
-      <jump line="8" column="29" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/res/layout/layout_card_customize.xml" />
       <jump line="1" column="36" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/layout_card_customize.xml" />
       <jump line="188" column="8" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" />
       <jump line="38" column="13" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/SignatureView.java" />
@@ -199,6 +207,9 @@
       <jump line="585" column="4" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" />
       <jump line="287" column="46" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" />
       <jump line="169" column="40" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/categories/InkCardCategoriesFragment.java" />
+      <jump line="262" column="4" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/build.gradle" />
+      <jump line="52" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/build.gradle" />
+      <jump line="50" column="22" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -220,8 +231,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGFmdGVyIGNhcmQgb3BlbiwgdGhlIGxlZnQgcGhvdG8gYXJlYSBzaG91bGQgYmUgY2xpY2thYmxlCiAgICAgICAgICAgICAgICBtQ2FyZFNpZGVJbm5lclBob3RvLnNldFNpZGVWaWV3RW5hYmxlKHRydWUpOwo=</text>
+      <register name="+" type="4">
+        <text encoding="base64">LmZvckVhY2gobmV3IENvbnN1bWVyPENhdGVnb3J5PigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KENhdGVnb3J5IGNhdGVnb3J5KSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOw==</text>
       </register>
       <register name="-" type="4">
         <text>setenable</text>
@@ -232,35 +243,35 @@
       <register name="0" type="4">
         <text>cacheCardCustomizerClickListener</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">LmZvckVhY2gobmV3IENvbnN1bWVyPENhdGVnb3J5PigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KENhdGVnb3J5IGNhdGVnb3J5KSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOw==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGFmdGVyIGNhcmQgb3BlbiwgdGhlIGxlZnQgcGhvdG8gYXJlYSBzaG91bGQgYmUgY2xpY2thYmxlCiAgICAgICAgICAgICAgICBtQ2FyZFNpZGVJbm5lclBob3RvLnNldFNpZGVWaWV3RW5hYmxlKHRydWUpOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIC8vIGRvbid0IGtub3cgd2h5IHRoaXMgc3RhdGkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIC8vIGRvbid0IGtub3cgd2h5IHRoaXMgaXMgCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgcHVibGljIFVrVGV4dFZpZXcgZ2V0U2VsZWN0ZWRFZGl0VGV4dCgpIHsKLy8gICAgICAgIGlmIChtRWRpdFRleHRzLmlzRW1wdHkoKSkgewovLyAgICAgICAgICAgIHJldHVybiBudWxsOwovLyAgICAgICAgfQovLyAgICAgICAgcmV0dXJuIG1FZGl0VGV4dHMuZ2V0KFVrQ2FyZEhlbHBlci5zU2VsZWN0ZWRFZGl0VGV4dCk7Ci8vICAgIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Ly8gICAgICAgIG1DYXJkVmlldy5zZXRzbGlkZQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFVrQ2FyZFNpZGVWaWV3IGN1cnJlbnRTaWRlID0gbVZpZXcuZ2V0Q2FyZFZpZXcoKS5nZXRDdXJyZW50U2hvd25TaWRlKCk7Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>488</text>
+        <text>341</text>
       </register>
     </registers>
   </component>
