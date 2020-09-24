@@ -82,21 +82,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/res/layout/item_order_history_print.xml" timestamp="1600927689249" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1600925238062" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/orderhistory/CardOrderHistoryDetailFragment.java" timestamp="1600924426590" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/orderhistory/CardOrderHistoryDetailFragment.java" timestamp="1600927627166" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardBackView.java" timestamp="1600924110738" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/model/InkCardModel.java" timestamp="1600925382045" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/util/sincerely/AppearanceUtil.java" timestamp="1600917796444">
         <mark key="'" line="7" column="10" />
         <mark key="^" line="7" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/InkOrderHistoryDetailFragment.java" timestamp="1600924737224">
-        <mark key="'" line="196" column="36" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/InkOrderHistoryDetailFragment.java" timestamp="1600927461657">
+        <mark key="'" line="76" column="60" />
       </file>
       <file name="/Dummy.txt" timestamp="1600917940229">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/views/injectedviews/InjectedEditText.java" timestamp="1600915031005" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/orderhistory/HistorySupportOptionsDialogFragment.java" timestamp="1600924394799" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/network/InkApiService.java" timestamp="1600924667837" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/misc/bus/InkBusClasses.java" timestamp="1600924749866" />
@@ -110,10 +110,10 @@
       <file name="/Clipboard.txt" timestamp="1600916262670">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/res/layout/fragment_order_history_detail.xml" timestamp="1600927653959" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/model/InkProduct.java" timestamp="1600925604677" />
     </filemarks>
     <jumps>
-      <jump line="44" column="24" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCustomizeToolbar.java" />
       <jump line="334" column="9" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeView.java" />
       <jump line="1213" column="25" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeView.java" />
       <jump line="1168" column="39" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeView.java" />
@@ -213,6 +213,7 @@
       <jump line="118" column="10" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/util/sincerely/AppearanceUtil.java" />
       <jump line="503" column="63" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkInsideTextView.java" />
       <jump line="196" column="36" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/InkOrderHistoryDetailFragment.java" />
+      <jump line="76" column="60" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/InkOrderHistoryDetailFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
