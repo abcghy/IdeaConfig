@@ -89,11 +89,11 @@
         <mark key="^" line="15" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/misc/adapters/AbsBaseAdapter.java" timestamp="1601002733182" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/multisig/MultiSignatureViewHolder.java" timestamp="1601002525727">
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="33" column="8" />
-        <mark key="." line="33" column="7" />
-        <mark key="^" line="33" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/multisig/MultiSignatureViewHolder.java" timestamp="1601003709234">
+        <mark key="[" line="19" column="94" />
+        <mark key="]" line="19" column="100" />
+        <mark key="." line="19" column="99" />
+        <mark key="^" line="19" column="100" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/mydealslib/src/main/java/com/planetart/MyDealsSDKManager.java" timestamp="1600938640224">
         <mark key="[" line="220" column="72" />
@@ -135,17 +135,17 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/view_multi_signature.xml" timestamp="1601002811231">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="40" column="31" />
-        <mark key="." line="40" column="30" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/view_multi_signature.xml" timestamp="1601004014340">
+        <mark key="[" line="39" column="28" />
+        <mark key="]" line="39" column="33" />
+        <mark key="^" line="39" column="33" />
+        <mark key="." line="39" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/item_multi_signature.xml" timestamp="1601003435636">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="42" />
-        <mark key="." line="12" column="41" />
-        <mark key="^" line="12" column="42" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/item_multi_signature.xml" timestamp="1601003968900">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="38" />
+        <mark key="^" line="9" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkInsideTextView.java" timestamp="1601000208015">
         <mark key="[" line="0" column="0" />
@@ -153,11 +153,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/util/graphics/ImageUtils.java" timestamp="1600996997172" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/MultiSignatureView.java" timestamp="1601003185339">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="11" />
-        <mark key="^" line="24" column="12" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/MultiSignatureView.java" timestamp="1601004077005">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="74" column="31" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="35" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -282,44 +282,44 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="+" type="4">
-        <text>wrap_content</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICBzaWduYXR1cmVzLmFkZCgiSEVMTE8iKTsKICAgICAgICBzaWduYXR1cmVzLmFkZCgiV0hBVCIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text>reate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>rvSignature</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzaWduYXR1cmVzLmFkZCgiSEVMTE8iKTsKICAgICAgICBzaWduYXR1cmVzLmFkZCgiV0hBVCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2l2U2lnbmF0dXJlIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6c2NhbGVUeXBlPSJjZW50ZXJDcm9wIgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ljX3Zlcml6b24iCiAgICAgICAgYW5kcm9pZDpjb250ZW50RGVzY3JpcHRpb249InNpZ25hdHVyZSIvPgoKICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2l2RGVsZXRlU2lnbmF0dXJlIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIzMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMzBkcCIKICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0ibWF0cml4IgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ljX2FjdGlvbl9hYm91dCIKICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXJfdmVydGljYWx8cmlnaHQiCiAgICAgICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IjEwZHAiCiAgICAgICAgYW5kcm9pZDpjb250ZW50RGVzY3JpcHRpb249ImRlbGV0ZSIvPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZWN5Y2xlclZpZXcuSXRlbURlY29yYXRpb24gaXRlbURlY29yYXRpb24gPSBuZXcgUmVjeWNsZXJWaWV3Lkl0ZW1EZWNvcmF0aW9uKCkgewogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEaXZpZGVySXRlbURlY29yYXRpb24gZGl2aWRlckl0ZW1EZWNvcmF0aW9uID0gbmV3IERpdmlkZXJJdGVtRGVjb3JhdGlvbihnZXRDb250ZXh0KCksIDApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZGVsZXRlIHRoZSBvbGQK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjEwZHAiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihpdGVtVmlldyk7Cg==</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSLmloflrZciLz4K</text>
       </register>
       <register name=":" type="4">
         <text>276</text>
