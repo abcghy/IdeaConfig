@@ -107,12 +107,12 @@
         <mark key="^" line="22" column="31" />
         <mark key="." line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" timestamp="1601005137763">
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" timestamp="1601010512012">
         <mark key="'" line="380" column="4" />
-        <mark key="[" line="744" column="82" />
-        <mark key="]" line="745" column="73" />
-        <mark key="^" line="745" column="73" />
-        <mark key="." line="745" column="72" />
+        <mark key="[" line="745" column="54" />
+        <mark key="]" line="745" column="69" />
+        <mark key="^" line="745" column="69" />
+        <mark key="." line="745" column="68" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" timestamp="1600997067663">
         <mark key="'" line="63" column="13" />
@@ -128,14 +128,15 @@
       <file name="/Dummy.txt" timestamp="1601002180767">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeView.java" timestamp="1600997051464">
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeView.java" timestamp="1601010411151">
         <mark key="'" line="391" column="46" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" timestamp="1601005117683">
-        <mark key="'" line="315" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" timestamp="1601010486391">
+        <mark key="'" line="319" column="0" />
+        <mark key="[" line="73" column="5" />
+        <mark key="]" line="76" column="57" />
+        <mark key="." line="76" column="56" />
+        <mark key="^" line="76" column="57" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/view_multi_signature.xml" timestamp="1601004419297">
         <mark key="[" line="23" column="48" />
@@ -283,11 +284,11 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBtVGFiTGF5b3V0LmdldFNlbGVjdGVkVGFiUG9zaXRpb24oKQo=</text>
+      <register name="+" type="4">
+        <text>setToKeyboardTab</text>
       </register>
       <register name="-" type="4">
-        <text>DeviceUtil.hideVirtualKeyboard()</text>
+        <text>setToKeyboardTab</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
@@ -296,31 +297,31 @@
         <text encoding="base64">ICAgICAgICBzaWduYXR1cmVzLmFkZCgiSEVMTE8iKTsKICAgICAgICBzaWduYXR1cmVzLmFkZCgiV0hBVCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtVGFiTGF5b3V0LmdldFNlbGVjdGVkVGFiUG9zaXRpb24oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAob2xkQ3VzdG9taXplclZpc2liaWxpdHkgPT0gVmlldy5WSVNJQkxFICYmIGlzS2V5Ym9hcmRTaG93aW5nKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vIGZha2UgY2xpY2sgZXZlbnQ/CiAgICAgICAgICAgICAgICAgICAgICAgIG1WaWV3LmdldENhcmRDdXN0b21pemVyVmlldygpLnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsKICAgICAgICAgICAgICAgICAgICAgICAgbVZpZXcuZ2V0Q2FyZEN1c3RvbWl6ZXJWaWV3KCkuc2V0VG9LZXlib2FyZFRhYigpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtVGFiTGF5b3V0LmdldFNlbGVjdGVkVGFiUG9zaXRpb24oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgY3VzdG9taXplciB2aWV3IGlzIHNob3dpbmcsIGxldCBpdCBkaXNhcHBlYXIKICAgICAgICAgICAgbVZpZXcuZ2V0Q2FyZEN1c3RvbWl6ZXJWaWV3KCkuc2V0VmlzaWJpbGl0eShWaWV3LklOVklTSUJMRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBzaG91bGQgc2hvdyBjdXN0b21pemVyIGFuZCBrZXlib2FyZCwgb3IganVzdCBmYWtlIGEgY2xpY2sgZXZlbnQ/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc2hvdWxkIGhpZGUgY3VzdG9taXplclZpZXcgY2F1c2Uga2V5Ym9hcmQgc2xpZGUgZG93bgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgY3VzdG9taXplciB2aWV3IGlzIHNob3dpbmcsIGxldCBpdCBkaXNhcHBlYXIKICAgICAgICAgICAgbVZpZXcuZ2V0Q2FyZEN1c3RvbWl6ZXJWaWV3KCkuc2V0VmlzaWJpbGl0eShWaWV3LklOVklTSUJMRSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEJvdHRvbVNoZWV0RGlhbG9nRnJhZ21lbnQgYm90dG9tU2hlZXREaWFsb2dGcmFnbWVudCA9IG5ldyBCb3R0b21TaGVldERpYWxvZ0ZyYWdtZW50KCk7Ci8vICAgICAgICBib3R0b21TaGVldERpYWxvZ0ZyYWdtZW50LnNob3coZ2V0Q2hpbGRGcmFnbWVudE1hbmFnZXIoKSwgInRhZyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBzaG91bGQgc2hvdyBjdXN0b21pemVyIGFuZCBrZXlib2FyZCwgb3IganVzdCBmYWtlIGEgY2xpY2sgZXZlbnQ/Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gc2hvdWxkIGhpZGUgY3VzdG9taXplclZpZXcgY2F1c2Uga2V5Ym9hcmQgc2xpZGUgZG93bgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEJvdHRvbVNoZWV0RGlhbG9nRnJhZ21lbnQgYm90dG9tU2hlZXREaWFsb2dGcmFnbWVudCA9IG5ldyBCb3R0b21TaGVldERpYWxvZ0ZyYWdtZW50KCk7Ci8vICAgICAgICBib3R0b21TaGVldERpYWxvZ0ZyYWdtZW50LnNob3coZ2V0Q2hpbGRGcmFnbWVudE1hbmFnZXIoKSwgInRhZyIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>276</text>
