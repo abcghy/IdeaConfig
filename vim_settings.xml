@@ -88,11 +88,12 @@
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/multisig/MultiSignatureViewHolder.java" timestamp="1601002522023">
-        <mark key="[" line="28" column="51" />
-        <mark key="]" line="28" column="53" />
-        <mark key="." line="28" column="52" />
-        <mark key="^" line="28" column="53" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/misc/adapters/AbsBaseAdapter.java" timestamp="1601002733182" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/multisig/MultiSignatureViewHolder.java" timestamp="1601002525727">
+        <mark key="[" line="32" column="24" />
+        <mark key="]" line="33" column="8" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/mydealslib/src/main/java/com/planetart/MyDealsSDKManager.java" timestamp="1600938640224">
         <mark key="[" line="220" column="72" />
@@ -104,13 +105,12 @@
         <mark key="'" line="259" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/card_customizer_layout.xml" timestamp="1600997243535" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/MultiSignatureAdapter.java" timestamp="1601002062470">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="4" column="63" />
-        <mark key="^" line="4" column="63" />
-        <mark key="." line="4" column="62" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/MultiSignatureAdapter.java" timestamp="1601002794533">
+        <mark key="[" line="21" column="51" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/MyDealsHelper.java" timestamp="1600938235196" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" timestamp="1601001974481">
         <mark key="'" line="379" column="4" />
         <mark key="[" line="733" column="68" />
@@ -135,14 +135,14 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/view_multi_signature.xml" timestamp="1601001927493">
-        <mark key="[" line="39" column="36" />
-        <mark key="]" line="40" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/view_multi_signature.xml" timestamp="1601002811231">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="35" />
         <mark key="^" line="40" column="31" />
         <mark key="." line="40" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/item_multi_signature.xml" timestamp="1601002332462">
-        <mark key="[" line="12" column="27" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/item_multi_signature.xml" timestamp="1601003435636">
+        <mark key="[" line="12" column="30" />
         <mark key="]" line="12" column="42" />
         <mark key="." line="12" column="41" />
         <mark key="^" line="12" column="42" />
@@ -153,10 +153,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/util/graphics/ImageUtils.java" timestamp="1600996997172" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/MultiSignatureView.java" timestamp="1601002015811">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/MultiSignatureView.java" timestamp="1601003185339">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="11" />
+        <mark key="^" line="24" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -282,43 +283,43 @@
         </keys>
       </register>
       <register name="+" type="4">
-        <text>点击</text>
+        <text>wrap_content</text>
       </register>
       <register name="-" type="4">
-        <text>点击</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoaXRlbVZpZXcuZ2V0Q29udGV4dCgpLCAi54K55Ye7IGl2U2lnbmF0dXJlIiwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
+      <register name="0" type="4">
+        <text>rvSignature</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZGVsZXRlIHRoZSBvbGQK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Igo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihpdGVtVmlldyk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZGVsZXRlIHRoZSBvbGQK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCb3R0b21TaGVldERpYWxvZyBib3R0b21TaGVldERpYWxvZyA9IG5ldyBCb3R0b21TaGVldERpYWxvZyhnZXRDb250ZXh0KCkpOwogICAgICAgIGJvdHRvbVNoZWV0RGlhbG9nLnNldENvbnRlbnRWaWV3KG5ldyBNdWx0aVNpZ25hdHVyZVZpZXcoZ2V0Q29udGV4dCgpKSk7CiAgICAgICAgYm90dG9tU2hlZXREaWFsb2cuc2hvdygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib3R0b21TaGVldERpYWxvZ0ZyYWdtZW50Lgo=</text>
+        <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZTsKaW1wb3J0IGphdmEuaW8uRmlsZW5hbWVGaWx0ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihpdGVtVmlldyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>276</text>
