@@ -79,7 +79,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/DaggerDemo/build/generated/sources/annotationProcessor/java/main/HelloWorldCommand_Factory.java" timestamp="1600604676679" />
       <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/LoginCommandModule.java" timestamp="1600610339181">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="11" column="21" />
@@ -89,46 +88,12 @@
       <file name="$USER_HOME$/code/DaggerDemo/src/main/java/output/SystemOutModule.java" timestamp="1600605586625">
         <mark key="[" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/HelloWorldCommand.java" timestamp="1600605500146">
-        <mark key="[" line="25" column="39" />
-        <mark key="]" line="26" column="36" />
-        <mark key="^" line="26" column="36" />
-        <mark key="." line="26" column="35" />
-      </file>
-      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/CommandRouterFactory.java" timestamp="1600689209532">
-        <mark key="'" line="13" column="15" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="9" />
-      </file>
-      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/LoginCommand.java" timestamp="1600612147624">
-        <mark key="[" line="24" column="61" />
-        <mark key="]" line="24" column="81" />
-        <mark key="^" line="24" column="81" />
-        <mark key="." line="24" column="80" />
-      </file>
-      <file name="$USER_HOME$/code/DaggerDemo/build/generated/sources/annotationProcessor/java/main/command/LoginCommand_Factory.java" timestamp="1600614724092" />
       <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/DepositCommand.java" timestamp="1600614475640">
         <mark key="'" line="8" column="25" />
         <mark key="[" line="31" column="15" />
         <mark key="]" line="31" column="29" />
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="29" />
-      </file>
-      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/output/Outputter.java" timestamp="1600605468224">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="6" />
-        <mark key="^" line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/DaggerDemo/build/generated/sources/annotationProcessor/java/main/DaggerCommandRouterFactory.java" timestamp="1600604668258" />
-      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/CommandRouter.java" timestamp="1600617403301">
-        <mark key="'" line="5" column="13" />
-        <mark key="[" line="6" column="48" />
-        <mark key="]" line="6" column="48" />
-        <mark key="." line="6" column="47" />
-        <mark key="^" line="6" column="48" />
       </file>
       <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/Database.java" timestamp="1600614612360">
         <mark key="'" line="37" column="31" />
@@ -143,6 +108,18 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="22" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/Test.kt" timestamp="1600954350356">
+        <mark key="[" line="59" column="36" />
+        <mark key="]" line="60" column="29" />
+        <mark key="." line="60" column="28" />
+        <mark key="^" line="60" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/HelloWorldCommand.java" timestamp="1600605500146">
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="26" column="36" />
+        <mark key="^" line="26" column="36" />
+        <mark key="." line="26" column="35" />
+      </file>
       <file name="$USER_HOME$/code/DaggerDemo/src/main/java/CommandLineATM.java" timestamp="1600604737311">
         <mark key="'" line="8" column="28" />
         <mark key="[" line="6" column="38" />
@@ -150,7 +127,6 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="67" />
       </file>
-      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/CommandLineATM.java" timestamp="1600617406684" />
       <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/HelloWorldModule.java" timestamp="1600610327800">
         <mark key="'" line="12" column="39" />
         <mark key="[" line="10" column="12" />
@@ -158,14 +134,40 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="20" />
       </file>
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/CommandRouterFactory.java" timestamp="1600689209532">
+        <mark key="'" line="13" column="15" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/output/Outputter.java" timestamp="1600605468224">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="7" />
+      </file>
       <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/SingleArgCommand.java" timestamp="1600606346153">
         <mark key="[" line="7" column="50" />
         <mark key="]" line="7" column="75" />
         <mark key="." line="7" column="74" />
         <mark key="^" line="7" column="75" />
       </file>
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/LoginCommand.java" timestamp="1600612147624">
+        <mark key="[" line="24" column="61" />
+        <mark key="]" line="24" column="81" />
+        <mark key="^" line="24" column="81" />
+        <mark key="." line="24" column="80" />
+      </file>
       <file name="/fragment.java" timestamp="1600612080048">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/DaggerDemo/src/main/java/command/CommandRouter.java" timestamp="1600617403301">
+        <mark key="'" line="5" column="13" />
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="48" />
+        <mark key="." line="6" column="47" />
+        <mark key="^" line="6" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -280,8 +282,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>provide</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvciAobXV0YWJsZUVudHJ5IGluIGhhc2hNYXApIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -303,31 +305,31 @@
         <text>CardCustomizerView.ColorPaletteFragment.INVALID_COLOR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uRGVzdHJveSgpIHsKICAgICAgICBzdXBlci5vbkRlc3Ryb3koKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGZvciAobXV0YWJsZUVudHJ5IGluIGhhc2hNYXApIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uRGVzdHJveSgpIHsKICAgICAgICBzdXBlci5vbkRlc3Ryb3koKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbG9yICE9IENhcmRDdXN0b21pemVyVmlldy5Db2xvclBhbGV0dGVGcmFnbWVudC5JTlZBTElEX0NPTE9SKSB7CiAgICAgICAgICAgICAgICBtVmlldy5nZXRDYXJkVmlldygpLmdldENsYXNzaWNCYWNrVmlldygpLnNldFRleHRDb2xvcihjb2xvcik7CiAgICAgICAgICAgICAgICBtVmlldy5nZXRDYXJkVmlldygpLmdldFByZW1pdW1CYWNrVmlldygpLnNldFRleHRDb2xvcihjb2xvcik7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGNvbG9yID0gY3VzdG9tTWVzc2FnZS5nZXRNZXNzYWdlRm9udENvbG9yKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbG9yICE9IENhcmRDdXN0b21pemVyVmlldy5Db2xvclBhbGV0dGVGcmFnbWVudC5JTlZBTElEX0NPTE9SKSB7CiAgICAgICAgICAgICAgICBtVmlldy5nZXRDYXJkVmlldygpLmdldENsYXNzaWNCYWNrVmlldygpLnNldFRleHRDb2xvcihjb2xvcik7CiAgICAgICAgICAgICAgICBtVmlldy5nZXRDYXJkVmlldygpLmdldFByZW1pdW1CYWNrVmlldygpLnNldFRleHRDb2xvcihjb2xvcik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGNvbG9yID0gY3VzdG9tTWVzc2FnZS5nZXRNZXNzYWdlRm9udENvbG9yKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwb3N0RGVsYXllZCgoKSAtPiB7Ci8vICAgICAgICAgICAgICAgIG1DYXJkU2lkZUNsYXNzaWNCYWNrLnNldFRleHRDb2xvcihDb2xvci5SRUQpOwovLyAgICAgICAgICAgICAgICBtQ2FyZFNpZGVJbm5lclRleHQuc2V0VGV4dENvbG9yKENvbG9yLlJFRCk7Ci8vICAgICAgICAgICAgfSwgMTAwMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBwb3N0RGVsYXllZCgoKSAtPiB7Ci8vICAgICAgICAgICAgICAgIG1DYXJkU2lkZUNsYXNzaWNCYWNrLnNldFRleHRDb2xvcihDb2xvci5SRUQpOwovLyAgICAgICAgICAgICAgICBtQ2FyZFNpZGVJbm5lclRleHQuc2V0VGV4dENvbG9yKENvbG9yLlJFRCk7Ci8vICAgICAgICAgICAgfSwgMTAwMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUNhcmRTaWRlSW5uZXJUZXh0LnNldFRleHRDb2xvcihDb2xvci5SRUQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUNhcmRTaWRlSW5uZXJUZXh0LnNldFRleHRDb2xvcihDb2xvci5SRUQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>488</text>
