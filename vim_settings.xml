@@ -82,6 +82,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/product/ToteFragment.java" timestamp="1601257880633" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/base/MDBaseUpsellFragment.java" timestamp="1601257552186" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/mydealslib/src/main/java/com/planetart/MyDealsSDKManager.java" timestamp="1601255252041">
         <mark key="[" line="220" column="72" />
         <mark key="]" line="220" column="72" />
@@ -91,34 +93,18 @@
         <mark key="[" line="35" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/views/customviews/SincerelyDrawerLayout.java" timestamp="1601254516397" />
-      <file name="/InkCardCustomizeFragment.java" timestamp="1601026253928" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/MD_UPSELL_TYPE.java" timestamp="1601255956103" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/mydealslib/src/main/res/layout/md_item_selectsize_image.xml" timestamp="1601256886967" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/mydealslib/src/main/res/layout/activity_upsell.xml" timestamp="1601256095292" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1601255303889" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" timestamp="1601025311385">
-        <mark key="'" line="248" column="36" />
-        <mark key="[" line="2705" column="12" />
-        <mark key="]" line="2705" column="31" />
-        <mark key="." line="2705" column="30" />
-        <mark key="^" line="2705" column="31" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/res/layout/item_multi_signature.xml" timestamp="1601026575009">
-        <mark key="'" line="11" column="40" />
-        <mark key="[" line="29" column="44" />
-        <mark key="]" line="30" column="30" />
-        <mark key="." line="30" column="29" />
-        <mark key="^" line="30" column="30" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/AndroidManifest.xml" timestamp="1601256041993" />
-      <file name="/UkCardCustomizeFragment.java" timestamp="1601026118208">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="66" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/page/UpsellActivity.java" timestamp="1601256199196" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/mydealslib/src/main/java/com/planetart/common/MDCart.java" timestamp="1601258081772" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/page/UpsellActivity.java" timestamp="1601258029987" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/activities/BaseCardActivity.java" timestamp="1601254662247">
         <mark key="'" line="861" column="65" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/MDUpsellManager.java" timestamp="1601255441091" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/mydealslib/src/main/java/com/planetart/views/ImageTouchView.java" timestamp="1601257563899" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/MyDealsHelper.java" timestamp="1601255179165" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/list/MyDealsListActivity.java" timestamp="1601255887872" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFlowFragment.java" timestamp="1601026875967">
@@ -128,16 +114,10 @@
         <mark key="^" line="128" column="46" />
         <mark key="." line="128" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/item_multi_signature.xml" timestamp="1601026385754">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="30" />
-        <mark key="." line="27" column="29" />
-        <mark key="^" line="27" column="30" />
+      <file name="/Dummy.txt" timestamp="1601257335916">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" timestamp="1601026141865">
-        <mark key="'" line="2684" column="4" />
-        <mark key="^" line="783" column="29" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/mydealslib/src/main/res/layout/fragment_upsell_tote.xml" timestamp="1601257735611" />
     </filemarks>
     <jumps>
       <jump line="427" column="25" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/model/InkCardModel.java" />
