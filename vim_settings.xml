@@ -82,6 +82,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1601280729935">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/layout_switch_promo_text.xml" timestamp="1601263405129">
         <mark key="'" line="36" column="40" />
         <mark key="[" line="115" column="47" />
