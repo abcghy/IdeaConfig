@@ -83,38 +83,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/orderhistory/CardOrderHistoryDetailFragment.java" timestamp="1601357036751" />
-      <file name="$USER_HOME$/AndroidStudioProjects/gifts/common_libs_android/FPlib/build.gradle" timestamp="1601348368084" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/7.1.0/38cc21099dfb6c933008b9c4ebcf9ac12a5c2153/facebook-core-7.1.0-sources.jar!/com/facebook/FacebookSdk.java" timestamp="1601349694557" />
-      <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylib/build.gradle" timestamp="1601348429541" />
-      <file name="$USER_HOME$/AndroidStudioProjects/gifts/common_libs_android/CommonLibrary/build.gradle" timestamp="1601348396765" />
-      <file name="$USER_HOME$/AndroidStudioProjects/gifts/postagram/src/main/java/com/sincerely/android/postagram/model/PostagramCardModel.java" timestamp="1601349699627" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/mycards/MyCardsOrdersView.java" timestamp="1601350440806">
-        <mark key="[" line="170" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/gifts/common_libs_android/mydealslib/build.gradle" timestamp="1601348414743" />
-      <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylibInk/build.gradle" timestamp="1601348408478" />
-      <file name="$USER_HOME$/AndroidStudioProjects/gifts/postagram/src/main/AndroidManifest.xml" timestamp="1601349828636" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/InkOrderHistoryDetailFragment.java" timestamp="1601356978408">
         <mark key="'" line="87" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1601357156869">
         <mark key="'" line="832" column="71" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1601350143105" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/fragment_signature.xml" timestamp="1601364336807" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/mycards/MyCardsOrdersView.java" timestamp="1601350534441">
         <mark key="[" line="170" column="0" />
         <mark key="]" line="172" column="9" />
         <mark key="." line="170" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/application/Session.java" timestamp="1601350033279" />
-      <file name="$USER_HOME$/AndroidStudioProjects/gifts/postagram/build.gradle" timestamp="1601348248352" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/util/thirdparty/MarketingHandler.java" timestamp="1601348126238" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/5.11.2/37cb33f1f2e1d1a276520e2d808a4c60b9fe0039/facebook-core-5.11.2-sources.jar!/com/facebook/FacebookSdk.java" timestamp="1601348214303">
-        <mark key="'" line="268" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/mycards/MyCardsOrdersView.java" timestamp="1601350440806">
+        <mark key="[" line="170" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/gifts/common_libs_android/mydealsDependencies.gradle" timestamp="1601348358515" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/fragment_order_history_detail.xml" timestamp="1601357019949" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/AddSignatureFragment.java" timestamp="1601364634034">
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="." line="259" column="0" />
+        <mark key="^" line="385" column="36" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="386" column="8" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" />
@@ -239,7 +228,7 @@
         </keys>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIW1TZXNzaW9uLmlzTG9nZ2VkSW4oKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qaWYgdW5kbyBidXR0b24gaXMgZ3JheSwgaXQgc2hvdWxkbid0IGJlIGNsaWNrYWJsZSovCg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -251,31 +240,31 @@
         <text encoding="base64">ICAgICAgICBpZiAoIW1TZXNzaW9uLmlzTG9nZ2VkSW4oKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBnZXRDb250ZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qaWYgdW5kbyBidXR0b24gaXMgZ3JheSwgaXQgc2hvdWxkbid0IGJlIGNsaWNrYWJsZSovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVByZW1pdW1Td2l0Y2hsYXlvdXQuc2V0TGF5b3V0UGFyYW1zKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBnZXRDb250ZXh0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHAud2lkdGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVsYXRpdmVMYXlvdXQuTGF5b3V0UGFyYW1zIGxwID0gbmV3IExheW91dFBhcmFtcygwLCAxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVByZW1pdW1Td2l0Y2hsYXlvdXQuc2V0TGF5b3V0UGFyYW1zKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgLy9JZiBwcmVtaXVtLCBoaWRlIHRoZSBzd2l0Y2gsIGVsc2Ugc2hvdyB0aGUgc3dpdGNoCiAgICAgICAgaWYgKCBtSW5rQ2FyZE1vZGVsLmdldFNlbGVjdGVkVGVtcGxhdGUoKS5nZXRUeXBlKCkuZXF1YWxzKFBSRU1JVU1fVEVNUExBVEVfS0VZKSApIHsKICAgICAgICAgICAgbVByZW1pdW1Td2l0Y2hsYXlvdXQuc2V0VmlzaWJpbGl0eShWaWV3LklOVklTSUJMRSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbHAud2lkdGgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL0lmIHByZW1pdW0sIGhpZGUgdGhlIHN3aXRjaCwgZWxzZSBzaG93IHRoZSBzd2l0Y2gKICAgICAgICBpZiAoIG1JbmtDYXJkTW9kZWwuZ2V0U2VsZWN0ZWRUZW1wbGF0ZSgpLmdldFR5cGUoKS5lcXVhbHMoUFJFTUlVTV9URU1QTEFURV9LRVkpICkgewogICAgICAgICAgICBtUHJlbWl1bVN3aXRjaGxheW91dC5zZXRWaXNpYmlsaXR5KFZpZXcuSU5WSVNJQkxFKTsKICAgICAgICAgICAgUmVsYXRpdmVMYXlvdXQuTGF5b3V0UGFyYW1zIGxwID0gbmV3IExheW91dFBhcmFtcygwLCAwKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVsYXRpdmVMYXlvdXQuTGF5b3V0UGFyYW1zIGxwID0gbmV3IExheW91dFBhcmFtcygwLCAxMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcHJvYmFibHkgc2hvdWxkIGhpZGUgaXQ/Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLy9JZiBwcmVtaXVtLCBoaWRlIHRoZSBzd2l0Y2gsIGVsc2Ugc2hvdyB0aGUgc3dpdGNoCiAgICAgICAgaWYgKCBtSW5rQ2FyZE1vZGVsLmdldFNlbGVjdGVkVGVtcGxhdGUoKS5nZXRUeXBlKCkuZXF1YWxzKFBSRU1JVU1fVEVNUExBVEVfS0VZKSApIHsKICAgICAgICAgICAgbVByZW1pdW1Td2l0Y2hsYXlvdXQuc2V0VmlzaWJpbGl0eShWaWV3LklOVklTSUJMRSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGluaXRQb3NpdGlvbnNGb3JBbGxUZXh0SW5kaWNhdG9ycygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL0lmIHByZW1pdW0sIGhpZGUgdGhlIHN3aXRjaCwgZWxzZSBzaG93IHRoZSBzd2l0Y2gKICAgICAgICBpZiAoIG1JbmtDYXJkTW9kZWwuZ2V0U2VsZWN0ZWRUZW1wbGF0ZSgpLmdldFR5cGUoKS5lcXVhbHMoUFJFTUlVTV9URU1QTEFURV9LRVkpICkgewogICAgICAgICAgICBtUHJlbWl1bVN3aXRjaGxheW91dC5zZXRWaXNpYmlsaXR5KFZpZXcuSU5WSVNJQkxFKTsKICAgICAgICAgICAgUmVsYXRpdmVMYXlvdXQuTGF5b3V0UGFyYW1zIGxwID0gbmV3IExheW91dFBhcmFtcygwLCAwKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>447</text>
