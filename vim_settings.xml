@@ -89,20 +89,25 @@
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylib/build.gradle" timestamp="1601348429541" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/common_libs_android/CommonLibrary/build.gradle" timestamp="1601348396765" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/postagram/src/main/java/com/sincerely/android/postagram/model/PostagramCardModel.java" timestamp="1601349699627" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/mycards/MyCardsOrdersView.java" timestamp="1601346621701" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/mycards/MyCardsOrdersView.java" timestamp="1601350440806">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="172" column="9" />
+        <mark key="^" line="171" column="20" />
+        <mark key="." line="171" column="19" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/common_libs_android/mydealslib/build.gradle" timestamp="1601348414743" />
-      <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ApiService.java" timestamp="1601345116112" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylibInk/build.gradle" timestamp="1601348408478" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/mycards/InkMyCardsViewPager.java" timestamp="1601346402610" />
+      <file name="$USER_HOME$/AndroidStudioProjects/gifts/postagram/src/main/AndroidManifest.xml" timestamp="1601349828636" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/responses/billing/card/BillingInfoResponse.java" timestamp="1601346997781" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1601350143105" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/5.11.2/37cb33f1f2e1d1a276520e2d808a4c60b9fe0039/facebook-core-5.11.2-sources.jar!/com/facebook/UserSettingsManager.java" timestamp="1601348007418" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/application/Session.java" timestamp="1601350033279" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/postagram/build.gradle" timestamp="1601348248352" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/util/thirdparty/MarketingHandler.java" timestamp="1601347662031" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/util/thirdparty/MarketingHandler.java" timestamp="1601348126238" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/5.11.2/37cb33f1f2e1d1a276520e2d808a4c60b9fe0039/facebook-core-5.11.2-sources.jar!/com/facebook/FacebookSdk.java" timestamp="1601348214303">
         <mark key="'" line="268" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/mycards/InkMyCardsFragment.java" timestamp="1601346376577" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/common_libs_android/mydealsDependencies.gradle" timestamp="1601348358515" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/postagram/src/main/java/com/sincerely/android/postagram/screens/checkout/PostagramCheckoutFragment.java" timestamp="1601346541747">
         <mark key="[" line="432" column="57" />
@@ -232,17 +237,17 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="+" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIW1TZXNzaW9uLmlzTG9nZ2VkSW4oKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>ink_premium_card</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIW1TZXNzaW9uLmlzTG9nZ2VkSW4oKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBnZXRDb250ZXh0KCk7Cg==</text>
