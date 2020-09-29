@@ -83,24 +83,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/orderhistory/CardOrderHistoryDetailFragment.java" timestamp="1601357036751" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/common_libs_android/FPlib/build.gradle" timestamp="1601348368084" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/7.1.0/38cc21099dfb6c933008b9c4ebcf9ac12a5c2153/facebook-core-7.1.0-sources.jar!/com/facebook/appevents/AppEventsLoggerImpl.java" timestamp="1601347938719" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/7.1.0/38cc21099dfb6c933008b9c4ebcf9ac12a5c2153/facebook-core-7.1.0-sources.jar!/com/facebook/FacebookSdk.java" timestamp="1601349694557" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylib/build.gradle" timestamp="1601348429541" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/common_libs_android/CommonLibrary/build.gradle" timestamp="1601348396765" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/postagram/src/main/java/com/sincerely/android/postagram/model/PostagramCardModel.java" timestamp="1601349699627" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/mycards/MyCardsOrdersView.java" timestamp="1601350440806">
         <mark key="[" line="170" column="0" />
-        <mark key="]" line="172" column="9" />
-        <mark key="^" line="171" column="20" />
-        <mark key="." line="171" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/common_libs_android/mydealslib/build.gradle" timestamp="1601348414743" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylibInk/build.gradle" timestamp="1601348408478" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/postagram/src/main/AndroidManifest.xml" timestamp="1601349828636" />
-      <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/responses/billing/card/BillingInfoResponse.java" timestamp="1601346997781" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/InkOrderHistoryDetailFragment.java" timestamp="1601356978408">
+        <mark key="'" line="87" column="26" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1601357156869">
+        <mark key="'" line="832" column="71" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1601350143105" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/5.11.2/37cb33f1f2e1d1a276520e2d808a4c60b9fe0039/facebook-core-5.11.2-sources.jar!/com/facebook/UserSettingsManager.java" timestamp="1601348007418" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/mycards/MyCardsOrdersView.java" timestamp="1601350534441">
         <mark key="[" line="170" column="0" />
         <mark key="]" line="172" column="9" />
@@ -108,15 +109,14 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/application/Session.java" timestamp="1601350033279" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/postagram/build.gradle" timestamp="1601348248352" />
-      <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/util/thirdparty/MarketingHandler.java" timestamp="1601347662031" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/util/thirdparty/MarketingHandler.java" timestamp="1601348126238" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/5.11.2/37cb33f1f2e1d1a276520e2d808a4c60b9fe0039/facebook-core-5.11.2-sources.jar!/com/facebook/FacebookSdk.java" timestamp="1601348214303">
         <mark key="'" line="268" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/common_libs_android/mydealsDependencies.gradle" timestamp="1601348358515" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/fragment_order_history_detail.xml" timestamp="1601357019949" />
     </filemarks>
     <jumps>
-      <jump line="314" column="24" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" />
       <jump line="386" column="8" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" />
       <jump line="1341" column="5" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" />
       <jump line="74" column="61" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkInnerTextSideView.java" />
@@ -216,6 +216,7 @@
       <jump line="83" column="31" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/layout_activity_drawer.xml" />
       <jump line="56" column="32" filename="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/application/SincerelyApp.java" />
       <jump line="268" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/5.11.2/37cb33f1f2e1d1a276520e2d808a4c60b9fe0039/facebook-core-5.11.2-sources.jar!/com/facebook/FacebookSdk.java" />
+      <jump line="87" column="26" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/InkOrderHistoryDetailFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
