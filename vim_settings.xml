@@ -85,40 +85,26 @@
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/FPlib/src/main/java/com/planetart/fplib/FPLib.java" timestamp="1601342892934" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylib/build.gradle" timestamp="1601342688650" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/activities/BaseCardActivity.java" timestamp="1601286766119" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/categories/InkCardCategoriesFragment.java" timestamp="1601286793331">
-        <mark key="[" line="204" column="14" />
-        <mark key="]" line="204" column="15" />
-        <mark key="^" line="204" column="15" />
-        <mark key="." line="204" column="14" />
+      <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylib/src/main/java/com/sincerely/libcommons/screens/checkout/models/Track.java" timestamp="1601344967969" />
+      <file name="$USER_HOME$/AndroidStudioProjects/gifts/common_libs_android/FPlib/src/main/java/com/planetart/fplib/FPLib.java" timestamp="1601344703362" />
+      <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/application/SincerelyApp.java" timestamp="1601344636761">
+        <mark key="'" line="56" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1601286734248">
-        <mark key="'" line="832" column="71" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" timestamp="1601285358044">
-        <mark key="[" line="2719" column="39" />
-        <mark key="]" line="2719" column="36" />
-        <mark key="^" line="2719" column="36" />
-        <mark key="." line="2719" column="35" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/application/SincerelyApp.java" timestamp="1601343794473" />
-      <file name="$USER_HOME$/AndroidStudioProjects/gifts/postagram/build.gradle" timestamp="1601344242809" />
+      <file name="$USER_HOME$/AndroidStudioProjects/gifts/postagram/build.gradle" timestamp="1601344274885" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/7.1.0/38cc21099dfb6c933008b9c4ebcf9ac12a5c2153/facebook-core-7.1.0-sources.jar!/com/facebook/FacebookSdk.java" timestamp="1601343645281" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylib/build.gradle" timestamp="1601343575325" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/util/thirdparty/MarketingHandler.java" timestamp="1601343913253" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/res/layout/fragment_categories.xml" timestamp="1601286706319" />
+      <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/views/customviews/SincerelyNavigationView.java" timestamp="1601344300242" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibGifts/build.gradle" timestamp="1601342049907" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/FPlib/src/main/java/com/planetart/fplib/FPLib.java" timestamp="1601343782841" />
       <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylibGifts/build.gradle" timestamp="1601343229795" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/layout_activity_drawer.xml" timestamp="1601286768764">
-        <mark key="'" line="83" column="31" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/FPlib/src/main/java/com/planetart/fplib/FPLib.java" timestamp="1601342959419" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/application/SincerelyApp.java" timestamp="1601343872829" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/application/SincerelyApp.java" timestamp="1601344617770" />
+      <file name="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ApiService.java" timestamp="1601345116112" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/gifts/build.gradle" timestamp="1601342028930" />
+      <file name="$USER_HOME$/AndroidStudioProjects/gifts/postagram/src/main/java/com/sincerely/android/postagram/screens/checkout/PostagramCheckoutFragment.java" timestamp="1601345240757" />
     </filemarks>
     <jumps>
-      <jump line="147" column="81" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkInsideTextView.java" />
       <jump line="512" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" />
       <jump line="314" column="24" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" />
       <jump line="386" column="8" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeMessageFragment.java" />
@@ -218,6 +204,7 @@
       <jump line="901" column="72" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/checkout/InkCheckoutFragment.java" />
       <jump line="832" column="71" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" />
       <jump line="83" column="31" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/layout_activity_drawer.xml" />
+      <jump line="56" column="32" filename="$USER_HOME$/AndroidStudioProjects/gifts/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/application/SincerelyApp.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
