@@ -128,10 +128,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ReturnAddressFragment.java" timestamp="1601434842233">
         <mark key="'" line="136" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/model/InkProduct.java" timestamp="1601442563491" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/model/InkProduct.java" timestamp="1601442983712">
+        <mark key="'" line="40" column="14" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" />
       <jump line="107" column="36" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" />
       <jump line="268" column="22" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" />
       <jump line="385" column="69" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" />
@@ -231,6 +232,7 @@
       <jump line="138" column="27" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ReturnAddressFragment.java" />
       <jump line="145" column="13" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/BaseAddContactFragment.java" />
       <jump line="101" column="68" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/category/InkCardShelfFragment.java" />
+      <jump line="40" column="14" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/model/InkProduct.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
