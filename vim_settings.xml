@@ -83,7 +83,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/orderhistory/CardOrderHistoryDetailFragment.java" timestamp="1601369580101" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/activities/BaseCardActivity.java" timestamp="1601369790046" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/NewManualAddContactFormView.java" timestamp="1601370063645" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylib/src/main/res/layout/layout_base_fragment.xml" timestamp="1601370233071">
@@ -91,9 +90,6 @@
         <mark key="]" line="29" column="39" />
         <mark key="." line="29" column="38" />
         <mark key="^" line="29" column="39" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/InkOrderHistoryDetailFragment.java" timestamp="1601369556184">
-        <mark key="'" line="57" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/orderhistory/HistorySupportOptionsDialogFragment.java" timestamp="1601369671003">
         <mark key="[" line="36" column="13" />
@@ -109,22 +105,30 @@
         <mark key="^" line="182" column="21" />
         <mark key="." line="182" column="20" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/res/layout/layout_new_add_fragment.xml" timestamp="1601427788358" />
       <file name="/Dummy.txt" timestamp="1601371810869">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/util/android/CacheUtil.java" timestamp="1601371322523" />
-      <file name="$USER_HOME$/AndroidStudioProjects/gift/libraries/sincerelylibGifts/src/main/java/com/sincerely/lib/network/responses/billing/card/BillingInfoResponse.java" timestamp="1601368460086" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/fragment_order_history_detail.xml" timestamp="1601369572594" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/312fad913f027bbdfae804ea4cf1e4e8/reservoir-3.1.0/jars/classes.jar!/com/anupcowkur/reservoir/Reservoir.class" timestamp="1601370783808" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/BaseFragment.java" timestamp="1601370368815">
         <mark key="'" line="141" column="38" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/BaseAddContactFragment.java" timestamp="1601427866322" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/layout_new_add_fragment.xml" timestamp="1601370095217" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/BaseAddContactFragment.java" timestamp="1601372210497" />
+      <file name="/fragment.java" timestamp="1601427953287">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ApiClient.java" timestamp="1601372181065" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ReturnAddressFragment.java" timestamp="1601428428293">
+        <mark key="'" line="202" column="25" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="16" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkInnerTextSideView.java" />
       <jump line="296" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkInnerTextSideView.java" />
       <jump line="52" column="54" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkInnerTextSideView.java" />
       <jump line="29" column="13" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkClassicBackView.java" />
@@ -224,6 +228,7 @@
       <jump line="57" column="26" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/InkOrderHistoryDetailFragment.java" />
       <jump line="141" column="38" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/BaseFragment.java" />
       <jump line="117" column="34" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/ManualAddContactAddressForm.java" />
+      <jump line="200" column="25" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ReturnAddressFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -249,7 +254,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
@@ -261,28 +266,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qaWYgdW5kbyBidXR0b24gaXMgZ3JheSwgaXQgc2hvdWxkbid0IGJlIGNsaWNrYWJsZSovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUVkaXRUZXh0TWFpblJvd05hbWUuc2V0VGV4dChzVXNlck5hbWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBnZXRDb250ZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qaWYgdW5kbyBidXR0b24gaXMgZ3JheSwgaXQgc2hvdWxkbid0IGJlIGNsaWNrYWJsZSovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVByZW1pdW1Td2l0Y2hsYXlvdXQuc2V0TGF5b3V0UGFyYW1zKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBnZXRDb250ZXh0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHAud2lkdGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVsYXRpdmVMYXlvdXQuTGF5b3V0UGFyYW1zIGxwID0gbmV3IExheW91dFBhcmFtcygwLCAxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVByZW1pdW1Td2l0Y2hsYXlvdXQuc2V0TGF5b3V0UGFyYW1zKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgLy9JZiBwcmVtaXVtLCBoaWRlIHRoZSBzd2l0Y2gsIGVsc2Ugc2hvdyB0aGUgc3dpdGNoCiAgICAgICAgaWYgKCBtSW5rQ2FyZE1vZGVsLmdldFNlbGVjdGVkVGVtcGxhdGUoKS5nZXRUeXBlKCkuZXF1YWxzKFBSRU1JVU1fVEVNUExBVEVfS0VZKSApIHsKICAgICAgICAgICAgbVByZW1pdW1Td2l0Y2hsYXlvdXQuc2V0VmlzaWJpbGl0eShWaWV3LklOVklTSUJMRSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbHAud2lkdGgK</text>
       </register>
       <register name=":" type="4">
         <text>447</text>
