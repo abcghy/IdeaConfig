@@ -83,7 +83,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFlowFragment.java" timestamp="1602049646747" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/provider/ContactsContract.java" timestamp="1602051237011" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/AddressCorrectionView.java" timestamp="1602053425314">
         <mark key="'" line="32" column="0" />
@@ -91,21 +90,27 @@
         <mark key="]" line="357" column="5" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/ContactsViewPager.java" timestamp="1602049775342" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/CommonLibrary/src/main/java/com/photoaffections/wrenda/commonlibrary/retrofit/FPApiStores.java" timestamp="1602049571548" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFragment.java" timestamp="1602049664436">
-        <mark key="'" line="490" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/CommonLibrary/src/main/java/com/photoaffections/wrenda/commonlibrary/retrofit/FPApiStores.java" timestamp="1602058351633">
+        <mark key="[" line="67" column="48" />
+        <mark key="]" line="67" column="48" />
+        <mark key="." line="67" column="48" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/product/pcu/PhotoBookPCUActivity.java" timestamp="1602041109710" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/responses/addressbook/BaseContactResponse.java" timestamp="1602052757071" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/contacts/layout/address_correction_view.xml" timestamp="1602053278675" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ApiClient.java" timestamp="1602056059351" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/ImportContactsPopupFragment.java" timestamp="1602050249802" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/activities/BaseCardActivity.java" timestamp="1602052635644" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/MultiAddressSelectView.java" timestamp="1602054485513">
-        <mark key="'" line="418" column="52" />
-        <mark key="[" line="86" column="23" />
-        <mark key="]" line="86" column="23" />
-        <mark key="^" line="97" column="35" />
-        <mark key="." line="86" column="23" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/contacts/layout/item_address_correction.xml" timestamp="1602057642487">
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="33" column="76" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/model/User.java" timestamp="1602056087602" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/MultiAddressSelectView.java" timestamp="1602058635691">
+        <mark key="'" line="224" column="52" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="138" column="34" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/multi_address_select_view.xml" timestamp="1602053280155">
         <mark key="'" line="85" column="0" />
@@ -113,30 +118,24 @@
       <file name="/Dummy.txt" timestamp="1602053266262">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/MyDealsSDKManager.java" timestamp="1602056051349" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/EventGroupAddContactFragment.java" timestamp="1602049901549">
         <mark key="'" line="59" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/base/MDBasePCUActivity.java" timestamp="1602049354904">
-        <mark key="[" line="95" column="61" />
-        <mark key="]" line="95" column="61" />
-        <mark key="^" line="95" column="61" />
-        <mark key="." line="95" column="60" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/repository/AccountRepository.java" timestamp="1602056046960" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/EditContactFragment.java" timestamp="1602052515439">
         <mark key="'" line="179" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/layout_new_add_fragment.xml" timestamp="1602049977379" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/BaseAddContactFragment.java" timestamp="1602055314897">
-        <mark key="'" line="758" column="0" />
-        <mark key="[" line="773" column="5" />
-        <mark key="]" line="773" column="12" />
-        <mark key="^" line="773" column="12" />
-        <mark key="." line="773" column="11" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/BaseAddContactFragment.java" timestamp="1602057964070">
+        <mark key="'" line="300" column="21" />
+        <mark key="[" line="313" column="0" />
+        <mark key="]" line="313" column="0" />
+        <mark key="^" line="298" column="83" />
+        <mark key="." line="313" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/adapters/BaseContactsAdapter.java" timestamp="1602049753180" />
     </filemarks>
     <jumps>
-      <jump line="117" column="20" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/network/InkApiClient.java" />
       <jump line="377" column="4" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" />
       <jump line="76" column="9" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/dagger/InkComponent.java" />
       <jump line="89" column="14" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/model/InkProduct.java" />
@@ -236,6 +235,7 @@
       <jump line="337" column="52" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/MultiAddressSelectView.java" />
       <jump line="85" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/multi_address_select_view.xml" />
       <jump line="758" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/BaseAddContactFragment.java" />
+      <jump line="300" column="21" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/BaseAddContactFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -257,44 +257,44 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="+" type="4">
-        <text>Nullable</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGNvdW50ID0gY3VyLmdldENvdW50KCk7CiAgICAgICAgICAgIExvZy5lKCJURVNUVFRGRkYiLCAiY291bnQ6ICIgKyBjb3VudCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Nullable</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZW50UmVzb2x2ZXIgY3IgPSBnZXRBY3Rpdml0eSgpLmdldENvbnRlbnRSZXNvbHZlcigpOwogICAgICAgIEN1cnNvciBjdXIgPSBudWxsOwogICAgICAgIFN0cmluZyBuYW1lID0iIjsKICAgICAgICBTdHJpbmcgc3RyZWV0ID0gIiI7CiAgICAgICAgU3RyaW5nIGNpdHkgPSAiIjsKICAgICAgICBTdHJpbmcgY291bnRyeSA9ICIiOwogICAgICAgIFN0cmluZyB6aXBjb2RlID0gIiI7CiAgICAgICAgU3RyaW5nIHN0YXRlID0gIiI7CiAgICAgICAgU3RyaW5nIG9yZz0iIjsKICAgICAgICBTdHJpbmcgYmRheT0iIjsKCiAgICAgICAgdHJ5IHsKCiAgICAgICAgICAgIFVyaSByZXN1bHQgPSBkYXRhLmdldERhdGEoKTsKICAgICAgICAgICAgY3VyID0gY3IucXVlcnkocmVzdWx0LCBudWxsLCBudWxsLCBudWxsLCBudWxsKTsKICAgICAgICAgICAgaW50IGNvdW50ID0gY3VyLmdldENvdW50KCk7CiAgICAgICAgICAgIExvZy5lKCJURVNUVFRGRkYiLCAiY291bnQ6ICIgKyBjb3VudCk7CiAgICAgICAgICAgIGlmIChjdXIuZ2V0Q291bnQoKSA+IDApIHsKICAgICAgICAgICAgICAgIHdoaWxlIChjdXIubW92ZVRvTmV4dCgpKSB7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGlkID0gY3VyLmdldFN0cmluZyhjdXIuZ2V0Q29sdW1uSW5kZXgoQ29udGFjdHNDb250cmFjdC5Db250YWN0cy5fSUQpKTsKICAgICAgICAgICAgICAgICAgICBuYW1lID0gY3VyLmdldFN0cmluZyhjdXIuZ2V0Q29sdW1uSW5kZXgoQ29udGFjdHNDb250cmFjdC5Db250YWN0cy5ESVNQTEFZX05BTUUpKTsKCiAgICAgICAgICAgICAgICAgICAgLy9HZXQgUG9zdGFsIEluZm86IFN0cmVldCxBZGRyZXNzLENpdHksWmlwY29kZQogICAgICAgICAgICAgICAgICAgIFVyaSBwb3N0YWxfdXJpID0gQ29udGFjdHNDb250cmFjdC5Db21tb25EYXRhS2luZHMuU3RydWN0dXJlZFBvc3RhbC5DT05URU5UX1VSSTsKICAgICAgICAgICAgICAgICAgICBDdXJzb3IgcG9zdGFsX2N1cnNvciAgPSBjci5xdWVyeShwb3N0YWxfdXJpLG51bGwsICBDb250YWN0c0NvbnRyYWN0LkRhdGEuQ09OVEFDVF9JRCArICI9IitpZCwgbnVsbCxudWxsKTsKICAgICAgICAgICAgICAgICAgICBpbnQgcG9zdGFsQ291bnQgPSBwb3N0YWxfY3Vyc29yLmdldENvdW50KCk7CiAgICAgICAgICAgICAgICAgICAgTG9nLmUoIlRFU1RUVEZGRiIsICJwb3N0YWxDb3VudDogIiArIHBvc3RhbENvdW50KTsKICAgICAgICAgICAgICAgICAgICBpZihwb3N0YWxfY3Vyc29yLmdldENvdW50KCkgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHdoaWxlIChwb3N0YWxfY3Vyc29yLm1vdmVUb05leHQoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RyZWV0ID0gcG9zdGFsX2N1cnNvci5nZXRTdHJpbmcocG9zdGFsX2N1cnNvci5nZXRDb2x1bW5JbmRleChDb250YWN0c0NvbnRyYWN0LkNvbW1vbkRhdGFLaW5kcy5TdHJ1Y3R1cmVkUG9zdGFsLlNUUkVFVCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2l0eSA9IHBvc3RhbF9jdXJzb3IuZ2V0U3RyaW5nKHBvc3RhbF9jdXJzb3IuZ2V0Q29sdW1uSW5kZXgoQ29udGFjdHNDb250cmFjdC5Db21tb25EYXRhS2luZHMuU3RydWN0dXJlZFBvc3RhbC5DSVRZKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGF0ZSA9IHBvc3RhbF9jdXJzb3IuZ2V0U3RyaW5nKHBvc3RhbF9jdXJzb3IuZ2V0Q29sdW1uSW5kZXgoQ29udGFjdHNDb250cmFjdC5Db21tb25EYXRhS2luZHMuU3RydWN0dXJlZFBvc3RhbC5SRUdJT04pKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50cnkgPSBwb3N0YWxfY3Vyc29yLmdldFN0cmluZyhwb3N0YWxfY3Vyc29yLmdldENvbHVtbkluZGV4KENvbnRhY3RzQ29udHJhY3QuQ29tbW9uRGF0YUtpbmRzLlN0cnVjdHVyZWRQb3N0YWwuQ09VTlRSWSkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgemlwY29kZSA9IHBvc3RhbF9jdXJzb3IuZ2V0U3RyaW5nKHBvc3RhbF9jdXJzb3IuZ2V0Q29sdW1uSW5kZXgoQ29udGFjdHNDb250cmFjdC5Db21tb25EYXRhS2luZHMuU3RydWN0dXJlZFBvc3RhbC5QT1NUQ09ERSkpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHBvc3RhbF9jdXJzb3IuY2xvc2UoKTsKCiAgICAgICAgICAgICAgICAgICAgLy9HZXQgT3JnIEluZm86IE9yZ2FuaXphdGlvbiBOYW1lCiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG9yZ1doZXJlID0gQ29udGFjdHNDb250cmFjdC5EYXRhLkNPTlRBQ1RfSUQgKyAiID0gPyBBTkQgIiArIENvbnRhY3RzQ29udHJhY3QuRGF0YS5NSU1FVFlQRSArICIgPSA/IjsKICAgICAgICAgICAgICAgICAgICBTdHJpbmdbXSBvcmdXaGVyZVBhcmFtcyA9IG5ldyBTdHJpbmdbXXtpZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbnRhY3RzQ29udHJhY3QuQ29tbW9uRGF0YUtpbmRzLk9yZ2FuaXphdGlvbi5DT05URU5UX0lURU1fVFlQRX07CiAgICAgICAgICAgICAgICAgICAgQ3Vyc29yIG9yZ19jdXIgPSBjci5xdWVyeShDb250YWN0c0NvbnRyYWN0LkRhdGEuQ09OVEVOVF9VUkksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBudWxsLCBvcmdXaGVyZSwgb3JnV2hlcmVQYXJhbXMsIG51bGwpOwogICAgICAgICAgICAgICAgICAgIGlmKG9yZ19jdXIuZ2V0Q291bnQoKSA+IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgd2hpbGUgKG9yZ19jdXIubW92ZVRvTmV4dCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcmcgPSBvcmdfY3VyLmdldFN0cmluZyhvcmdfY3VyLmdldENvbHVtbkluZGV4KENvbnRhY3RzQ29udHJhY3QuQ29tbW9uRGF0YUtpbmRzLk9yZ2FuaXphdGlvbi5DT01QQU5ZKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgb3JnX2N1ci5jbG9zZSgpOwoKICAgICAgICAgICAgICAgICAgICAvL0dldCBCZGF5IERhdGUKICAgICAgICAgICAgICAgICAgICBDdXJzb3IgYmRheV9jdXIgPSBjci5xdWVyeShhbmRyb2lkLnByb3ZpZGVyLkNvbnRhY3RzQ29udHJhY3QuRGF0YS5DT05URU5UX1VSSSwgbmV3IFN0cmluZ1tdIHsgQ29udGFjdHNDb250cmFjdC5Db21tb25EYXRhS2luZHMuRXZlbnQuREFUQSB9LCBhbmRyb2lkLnByb3ZpZGVyLkNvbnRhY3RzQ29udHJhY3QuRGF0YS5DT05UQUNUX0lEKyIgPSAiK2lkKyIgQU5EICIrIENvbnRhY3RzQ29udHJhY3QuRGF0YS5NSU1FVFlQRSsiID0gJyIrIENvbnRhY3RzQ29udHJhY3QuQ29tbW9uRGF0YUtpbmRzLkV2ZW50LkNPTlRFTlRfSVRFTV9UWVBFKyInIEFORCAiKyBDb250YWN0c0NvbnRyYWN0LkNvbW1vbkRhdGFLaW5kcy5FdmVudC5UWVBFKyIgPSAiKyBDb250YWN0c0NvbnRyYWN0LkNvbW1vbkRhdGFLaW5kcy5FdmVudC5UWVBFX0JJUlRIREFZLCBudWxsLCBhbmRyb2lkLnByb3ZpZGVyLkNvbnRhY3RzQ29udHJhY3QuRGF0YS5ESVNQTEFZX05BTUUpOwogICAgICAgICAgICAgICAgICAgIGlmIChiZGF5X2N1ci5nZXRDb3VudCgpID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICB3aGlsZSAoYmRheV9jdXIubW92ZVRvTmV4dCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiZGF5ID0gYmRheV9jdXIuZ2V0U3RyaW5nKDApOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGJkYXlfY3VyLmNsb3NlKCk7CgogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgfQogICAgICAgICAgICBjdXIuY2xvc2UoKTsKCiAgICAgICAgfSBjYXRjaChFeGNlcHRpb24gZSl7CgogICAgICAgIH0KICAgICAgICBBZGRyZXNzIGFkZHJlc3MgPSBuZXcgQWRkcmVzcyhvcmcsc3RyZWV0LG51bGwsY2l0eSxzdGF0ZSx6aXBjb2RlLGNvdW50cnksZmFsc2UpOwogICAgICAgIGFkZHJlc3Muc2V0TmFtZShuYW1lKTsKICAgICAgICBpZighVGV4dFV0aWxzLmlzRW1wdHkoYmRheSkpIHsKICAgICAgICAgICAgdXBkYXRlQmlydGhEYXlSb3coYmRheSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBhZGRyZXNzOwo=</text>
+      <register name="0" type="4">
+        <text>ImageView_address_correction_item_edit_button</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBZGRyZXNzIGFkZHJlc3MgPSBuZXcgQWRkcmVzcyhvcmcsc3RyZWV0LG51bGwsY2l0eSxzdGF0ZSx6aXBjb2RlLGNvdW50cnksZmFsc2UpOwogICAgICAgIGFkZHJlc3Muc2V0TmFtZShuYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGNvdW50ID0gY3VyLmdldENvdW50KCk7CiAgICAgICAgICAgIExvZy5lKCJURVNUVFRGRkYiLCAiY291bnQ6ICIgKyBjb3VudCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEVTVFRURkZGIiwgInBvc3RhbENvdW50OiAiICsgcG9zdGFsQ291bnQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiZGF5X2N1ci5nZXRDb3VudCgpID4gMCkgewogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgcG9zdGFsQ291bnQgPWQgcG9zdGFsX2N1cnNvci5nZXRDb3VudCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aGlsZSAoYmRheV9jdXIubW92ZVRvTmV4dCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGJkYXkgPSBiZGF5X2N1ci5nZXRTdHJpbmcoMCk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ci8vICAgICAgICB2b2lkIG9uRWRpdENsaWNrZWQoQWRkcmVzcyBhZGRyZXNzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG9yZ19jdXIuZ2V0Q291bnQoKSA+IDApIHsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aGlsZSAob3JnX2N1ci5tb3ZlVG9OZXh0KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgb3JnID0gb3JnX2N1ci5nZXRTdHJpbmcob3JnX2N1ci5nZXRDb2x1bW5JbmRleChDb250YWN0c0NvbnRyYWN0LkNvbW1vbkRhdGFLaW5kcy5Pcmdhbml6YXRpb24uQ09NUEFOWSkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHBvc3RhbF9jdXJzb3IuZ2V0Q291bnQoKSA+IDApIHsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgIGZpbmFsIFN0cmluZyBzdWJUaXRsZVRleHQgPSBhZGRyZXNzQm9va0NyZWF0ZVJlc3BvbnNlLmdldFN1Z2dlc3RlZEFkZHJlc3NTdWJ0aXRsZSgpOwovLyAgICAgICAgaWYgKCFUZXh0VXRpbHMuaXNFbXB0eShzdWJUaXRsZVRleHQpKSB7Ci8vICAgICAgICAgICAgbVRleHRWaWV3U3ViVGl0bGUuc2V0VGV4dChhZGRyZXNzQm9va0NyZWF0ZVJlc3BvbnNlLmdldFN1Z2dlc3RlZEFkZHJlc3NTdWJ0aXRsZSgpKTsKLy8gICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aGlsZSAocG9zdGFsX2N1cnNvci5tb3ZlVG9OZXh0KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgc3RyZWV0ID0gcG9zdGFsX2N1cnNvci5nZXRTdHJpbmcocG9zdGFsX2N1cnNvci5nZXRDb2x1bW5JbmRleChDb250YWN0c0NvbnRyYWN0LkNvbW1vbkRhdGFLaW5kcy5TdHJ1Y3R1cmVkUG9zdGFsLlNUUkVFVCkpOwogICAgICAgICAgICAgICAgICAgICAgICBjaXR5ID0gcG9zdGFsX2N1cnNvci5nZXRTdHJpbmcocG9zdGFsX2N1cnNvci5nZXRDb2x1bW5JbmRleChDb250YWN0c0NvbnRyYWN0LkNvbW1vbkRhdGFLaW5kcy5TdHJ1Y3R1cmVkUG9zdGFsLkNJVFkpKTsKICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUgPSBwb3N0YWxfY3Vyc29yLmdldFN0cmluZyhwb3N0YWxfY3Vyc29yLmdldENvbHVtbkluZGV4KENvbnRhY3RzQ29udHJhY3QuQ29tbW9uRGF0YUtpbmRzLlN0cnVjdHVyZWRQb3N0YWwuUkVHSU9OKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50cnkgPSBwb3N0YWxfY3Vyc29yLmdldFN0cmluZyhwb3N0YWxfY3Vyc29yLmdldENvbHVtbkluZGV4KENvbnRhY3RzQ29udHJhY3QuQ29tbW9uRGF0YUtpbmRzLlN0cnVjdHVyZWRQb3N0YWwuQ09VTlRSWSkpOwogICAgICAgICAgICAgICAgICAgICAgICB6aXBjb2RlID0gcG9zdGFsX2N1cnNvci5nZXRTdHJpbmcocG9zdGFsX2N1cnNvci5nZXRDb2x1bW5JbmRleChDb250YWN0c0NvbnRyYWN0LkNvbW1vbkRhdGFLaW5kcy5TdHJ1Y3R1cmVkUG9zdGFsLlBPU1RDT0RFKSk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1ci5nZXRDb3VudCgpID4gMCkgewoKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBEZXByZWNhdGVkCiAgICBwdWJsaWMgdm9pZCBzZXREYXRhKEFkZHJlc3Mgb3JpZ2luYWxBZGRyZXNzLAogICAgICAgICAgICBBZGRyZXNzQm9va0NyZWF0ZVJlc3BvbnNlIGFkZHJlc3NCb29rQ3JlYXRlUmVzcG9uc2UpIHsKLy8gICAgICAgIG1UZXh0Vmlld1RpdGxlLnNldFRleHQoYWRkcmVzc0Jvb2tDcmVhdGVSZXNwb25zZS5nZXRTdWdnZXN0ZWRBZGRyZXNzVGl0bGUoKSk7Ci8vICAgICAgICBmaW5hbCBTdHJpbmcgc3ViVGl0bGVUZXh0ID0gYWRkcmVzc0Jvb2tDcmVhdGVSZXNwb25zZS5nZXRTdWdnZXN0ZWRBZGRyZXNzU3VidGl0bGUoKTsKLy8gICAgICAgIGlmICghVGV4dFV0aWxzLmlzRW1wdHkoc3ViVGl0bGVUZXh0KSkgewovLyAgICAgICAgICAgIG1UZXh0Vmlld1N1YlRpdGxlLnNldFRleHQoYWRkcmVzc0Jvb2tDcmVhdGVSZXNwb25zZS5nZXRTdWdnZXN0ZWRBZGRyZXNzU3VidGl0bGUoKSk7Ci8vICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgIG1UZXh0Vmlld1N1YlRpdGxlLnNldFZpc2liaWxpdHkoR09ORSk7Ci8vICAgICAgICB9Ci8vCi8vICAgICAgICBpbml0U2Nyb2xsVmlld0hlaWdodChhZGRyZXNzQm9va0NyZWF0ZVJlc3BvbnNlLmdldFN1Z2dlc3RlZEFkZHJlc3NlcygpLnNpemUoKSk7Ci8vCi8vICAgICAgICBpbml0QWRkcmVzc1Jvd3Mob3JpZ2luYWxBZGRyZXNzLCBhZGRyZXNzQm9va0NyZWF0ZVJlc3BvbnNlKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>447</text>
