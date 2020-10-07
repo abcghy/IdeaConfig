@@ -83,15 +83,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/checkout/InkCheckoutFragment.java" timestamp="1602036221667">
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/MyDealsHelper.java" timestamp="1602037614103" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/checkout/InkCheckoutFragment.java" timestamp="1602039403056">
         <mark key="[" line="1723" column="54" />
         <mark key="]" line="1723" column="64" />
         <mark key="^" line="1723" column="64" />
         <mark key="." line="1723" column="63" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1601442531001">
-        <mark key="[" line="1073" column="30" />
-        <mark key="]" line="1073" column="51" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/checkout/CardCheckoutFragment.java" timestamp="1602036350518">
         <mark key="[" line="425" column="57" />
@@ -100,6 +97,7 @@
         <mark key="." line="425" column="57" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/fragment_gift_card_select_merchant.xml" timestamp="1602034374081" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/CommonLibrary/src/main/java/com/photoaffections/wrenda/commonlibrary/data/ServerDevelopMode.java" timestamp="1602040176159" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/giftcard/GiftCardMerchantSelectionFragment.java" timestamp="1602035568050" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/giftcard/GiftCardDetailsFragment.java" timestamp="1602036001852">
         <mark key="'" line="590" column="0" />
@@ -108,30 +106,37 @@
         <mark key="^" line="737" column="76" />
         <mark key="." line="737" column="75" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardHelper.java" timestamp="1601447878849">
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="26" column="23" />
-        <mark key="^" line="26" column="23" />
-        <mark key="." line="26" column="22" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/model/product/TextAppearance.java" timestamp="1601442770246">
-        <mark key="[" line="26" column="10" />
-        <mark key="]" line="26" column="17" />
-        <mark key="^" line="26" column="17" />
-        <mark key="." line="26" column="16" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/CommonLibrary/src/main/java/com/photoaffections/wrenda/commonlibrary/retrofit/FPApiStores.java" timestamp="1602039517343" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/product/pcu/PhotoBookPCUActivity.java" timestamp="1602039461561" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/product/pcu/TilesPCUActivity.java" timestamp="1602039532363" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/checkout/CheckoutOptionsView.java" timestamp="1602034203454" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/network/responses/misc/SelectCardTypeExperiment.java" timestamp="1602033050161" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/MDUpsellManager.java" timestamp="1602039342945" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/MyDealsSDKManager.java" timestamp="1602037993647" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/network/responses/misc/SelectCardTypeExperiment.java" timestamp="1602039584131" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/CommonLibrary/src/main/java/com/photoaffections/wrenda/commonlibrary/retrofit/ApiClient.java" timestamp="1602040006515">
+        <mark key="[" line="176" column="59" />
+        <mark key="]" line="176" column="60" />
+        <mark key="^" line="176" column="60" />
+        <mark key="." line="176" column="59" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/MDProductFactory.java" timestamp="1602038114301">
+        <mark key="'" line="566" column="31" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/base/MDBasePCUActivity.java" timestamp="1602039657240">
+        <mark key="[" line="95" column="61" />
+        <mark key="]" line="95" column="61" />
+        <mark key="^" line="95" column="61" />
+        <mark key="." line="95" column="60" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/card_checkout/layout/layout_card_checkout_options_giftcard_row.xml" timestamp="1602034088613" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" timestamp="1602032509116">
         <mark key="'" line="251" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/model/InkProduct.java" timestamp="1601443570187">
-        <mark key="'" line="40" column="14" />
+      <file name="/fragment.java" timestamp="1602038161444">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="46" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" />
       <jump line="169" column="40" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/categories/InkCardCategoriesFragment.java" />
       <jump line="262" column="4" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/build.gradle" />
       <jump line="52" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/build.gradle" />
@@ -231,6 +236,7 @@
       <jump line="82" column="29" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/giftcard/GiftCardDetailsFragment.java" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/giftcard/GiftCardDetailsFragment.java" />
       <jump line="590" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/giftcard/GiftCardDetailsFragment.java" />
+      <jump line="566" column="31" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/MDProductFactory.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -253,10 +259,10 @@
         </keys>
       </register>
       <register name="+" type="4">
-        <text encoding="base64">ICsg</text>
+        <text>request.url()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsg</text>
+        <text>request.url()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
