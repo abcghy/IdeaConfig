@@ -93,6 +93,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/ab/ABHelper.java" timestamp="1602127150148" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/CommonLibrary/build.gradle" timestamp="1602133403279">
+        <mark key="[" line="67" column="35" />
+        <mark key="]" line="68" column="68" />
+        <mark key="^" line="68" column="68" />
+        <mark key="." line="68" column="67" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/AddContactAddressForm.java" timestamp="1602124898273">
         <mark key="'" line="164" column="16" />
       </file>
