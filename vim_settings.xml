@@ -27,6 +27,7 @@
         <entry>122</entry>
         <entry>84</entry>
         <entry>147</entry>
+        <entry>118</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -90,6 +91,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/NewManualAddContactFormView.java" timestamp="1602123710113" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/util/InkCacheUtil.java" timestamp="1602061534939">
         <mark key="[" line="42" column="24" />
         <mark key="]" line="42" column="48" />
@@ -100,11 +102,6 @@
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="76" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/AddressCorrectionView.java" timestamp="1602053425314">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="357" column="5" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/MultiAddressSelectView.java" timestamp="1602058793782">
         <mark key="'" line="223" column="52" />
         <mark key="[" line="11" column="0" />
@@ -112,9 +109,7 @@
         <mark key="^" line="137" column="34" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/multi_address_select_view.xml" timestamp="1602053280155">
-        <mark key="'" line="85" column="0" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/contacts/layout/add_manual_contact_main_row_address.xml" timestamp="1602123417886" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardSideView.java" timestamp="1602120424523" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/views/EventLinearLayout.java" timestamp="1602122062802">
         <mark key="[" line="248" column="45" />
@@ -122,7 +117,7 @@
         <mark key="." line="248" column="57" />
         <mark key="^" line="248" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/misc/bus/InkBusClasses.java" timestamp="1602122432096" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/misc/bus/InkBusClasses.java" timestamp="1602122493409" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/CommonLibrary/src/main/java/com/photoaffections/wrenda/commonlibrary/retrofit/FPApiStores.java" timestamp="1602058351633">
         <mark key="[" line="67" column="48" />
         <mark key="]" line="67" column="48" />
@@ -138,6 +133,8 @@
         <mark key="^" line="84" column="24" />
         <mark key="." line="84" column="23" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/NewAddContactFormView.java" timestamp="1602123069457" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/layout_new_add_fragment.xml" timestamp="1602123007213" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/BaseAddContactFragment.java" timestamp="1602058923233">
         <mark key="'" line="879" column="8" />
         <mark key="[" line="804" column="25" />
@@ -311,7 +308,7 @@
         <text encoding="base64">ICAgICAgICAgICAgQWRkcmVzcyBhZGRyZXNzRnJvbVBob25lID0gZ2V0Q29udGFjdHNGcm9tUGhvbmUoZGF0YSk7CiAgICAgICAgICAgIG9uQWRkcmVzc1JlYWR5KGFkZHJlc3NGcm9tUGhvbmUsZmFsc2UsdHJ1ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>147</text>
+        <text>118</text>
       </register>
     </registers>
   </component>
