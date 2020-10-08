@@ -114,7 +114,12 @@
         <mark key="." line="724" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/MD_UPSELL_TYPE.java" timestamp="1602134273748" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/res/layout/contacts/layout/add_contact_main_row_address.xml" timestamp="1602124584758" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/CommonLibrary/src/main/java/com/photoaffections/wrenda/commonlibrary/retrofit/FPApiStores.java" timestamp="1602136031951">
+        <mark key="[" line="64" column="84" />
+        <mark key="]" line="65" column="82" />
+        <mark key="." line="65" column="81" />
+        <mark key="^" line="65" column="82" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/CommonLibrary/src/main/java/com/photoaffections/wrenda/commonlibrary/retrofit/HttpLoggingInterceptor.java" timestamp="1602135340999">
         <mark key="'" line="98" column="36" />
         <mark key="[" line="103" column="0" />
@@ -134,9 +139,14 @@
         <mark key="." line="7" column="50" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/responses/billing/card/Mydeals.java" timestamp="1602135048256" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/responses/billing/card/Mydeals.java" timestamp="1602136168833" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1602125886616" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/base/MDBasePCUActivity.java" timestamp="1602134265347" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/base/MDBasePCUActivity.java" timestamp="1602136138723">
+        <mark key="[" line="91" column="86" />
+        <mark key="]" line="91" column="98" />
+        <mark key="^" line="91" column="98" />
+        <mark key="." line="91" column="97" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/util/graphics/ImageUtils.java" timestamp="1602134401539" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealsDependencies.gradle" timestamp="1602134122783" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/activities/BaseNuxActivity.java" timestamp="1602126176828" />
