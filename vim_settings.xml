@@ -92,14 +92,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardSide.java" timestamp="1602207624722" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/checkout/InkCheckoutFragment.java" timestamp="1602144123808" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkSelectCardTypeView.java" timestamp="1602127140062">
-        <mark key="[" line="444" column="0" />
-        <mark key="]" line="444" column="0" />
-        <mark key="." line="444" column="0" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardSideView.java" timestamp="1602207980922" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/repository/MyDealsRepository.java" timestamp="1602144158851" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/MD_UPSELL_TYPE.java" timestamp="1602134273748" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/CommonLibrary/src/main/java/com/photoaffections/wrenda/commonlibrary/retrofit/FPApiStores.java" timestamp="1602144241266">
         <mark key="[" line="64" column="84" />
         <mark key="]" line="64" column="84" />
@@ -119,22 +115,22 @@
         <mark key="^" line="42" column="42" />
         <mark key="." line="42" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealsDependencies.gradle" timestamp="1602134122783" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/fcuk/src/main/java/com/sincerely/android/ink/dagger/InkModule.java" timestamp="1602143512936">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/ab/ABHelper.java" timestamp="1602127150148" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/CommonLibrary/build.gradle" timestamp="1602134128990">
-        <mark key="[" line="68" column="52" />
-        <mark key="]" line="68" column="55" />
-        <mark key="^" line="68" column="55" />
-        <mark key="." line="68" column="54" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.2.2/2a4ef4d3351ea95eb113458f796c356a37325cac/okhttp-4.2.2-sources.jar!/okhttp3/internal/platform/Platform.kt" timestamp="1602135226327" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UKCardFrontView.java" timestamp="1602208281650" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" timestamp="1602207552010" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/network/ApiClient.java" timestamp="1602143738768">
         <mark key="'" line="89" column="25" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardPhotoSideView.java" timestamp="1602207985380" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkFrontTextView.java" timestamp="1602209085790">
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="26" column="51" />
+        <mark key="^" line="26" column="51" />
+        <mark key="." line="26" column="50" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/CommonLibrary/src/main/java/com/photoaffections/wrenda/commonlibrary/retrofit/HttpLoggingInterceptor.java" timestamp="1602135340999">
         <mark key="'" line="98" column="36" />
@@ -155,7 +151,7 @@
         <mark key="^" line="91" column="98" />
         <mark key="." line="91" column="86" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/util/graphics/ImageUtils.java" timestamp="1602134401539" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" timestamp="1602208415770" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/BaseAddContactFragment.java" timestamp="1602145059237">
         <mark key="'" line="795" column="20" />
         <mark key="[" line="797" column="0" />
