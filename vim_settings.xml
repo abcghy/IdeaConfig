@@ -122,10 +122,16 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/model/InkProductDimens.java" timestamp="1602471673873">
-        <mark key="[" line="74" column="67" />
-        <mark key="]" line="74" column="76" />
-        <mark key="." line="74" column="75" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/model/Style.java" timestamp="1602472512498">
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="35" column="15" />
+        <mark key="." line="35" column="14" />
+        <mark key="^" line="35" column="15" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/model/InkProductDimens.java" timestamp="1602472776550">
+        <mark key="[" line="75" column="29" />
+        <mark key="]" line="75" column="30" />
+        <mark key="." line="75" column="30" />
         <mark key="^" line="74" column="76" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/View.java" timestamp="1602472063889">
@@ -142,13 +148,12 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardSideView.java" timestamp="1602232036148" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/ViewConfiguration.java" timestamp="1602467916132" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/fcuk/src/main/res/layout/uk_layouts/layout/uk_front.xml" timestamp="1602230772701" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/responses/billing/card/Mydeals.java" timestamp="1602464792220" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" timestamp="1602472377677">
-        <mark key="[" line="814" column="63" />
-        <mark key="]" line="814" column="86" />
-        <mark key="." line="814" column="85" />
-        <mark key="^" line="814" column="86" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" timestamp="1602473511712">
+        <mark key="[" line="779" column="43" />
+        <mark key="]" line="779" column="51" />
+        <mark key="." line="779" column="50" />
+        <mark key="^" line="779" column="51" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkPhotoLocation.java" timestamp="1602234432400" />
     </filemarks>
@@ -275,43 +280,43 @@
         </keys>
       </register>
       <register name="+" type="4">
-        <text>isPressed()</text>
+        <text>dragY</text>
       </register>
       <register name="-" type="4">
-        <text>isPressed()</text>
+        <text>dragY</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCByZW1lbWJlclByZXNzZWRTdGF0ZSgpIHsKICAgICAgICAgICAgbU9yaWdpbmFsUHJlc3NlZFN0YXRlID0gaXNQcmVzc2VkKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNQcmVzc2VkID0gZmFsc2U7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtSGFzUGVyZm9ybWVkTG9uZ1ByZXNzID0gZmFsc2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRvIG5vdGhpbmcK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBtSGFzUGVyZm9ybWVkTG9uZ1ByZXNzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGdldCBjdXJyZW50IHBob3RvCiAgICAgICAgICAgICAgICBNdWx0aUltYWdlTW9kZWwgY3VycmVudE11bHRpSW1hZ2VNb2RlbCA9IG51bGw7CiAgICAgICAgICAgICAgICBmb3IgKEVudHJ5PEludGVnZXIsIE11bHRpSW1hZ2VNb2RlbD4gaW50ZWdlck11bHRpSW1hZ2VNb2RlbEVudHJ5IDogbUhhc2hNYXBJbWFnZVZpZXdzLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgICAgICAgICBNdWx0aUltYWdlTW9kZWwgbXVsdGlJbWFnZU1vZGVsID0gaW50ZWdlck11bHRpSW1hZ2VNb2RlbEVudHJ5LmdldFZhbHVlKCk7CiAgICAgICAgICAgICAgICAgICAgVG91Y2hWaWV3TGF5b3V0IHRvdWNoVmlld0xheW91dCA9IG11bHRpSW1hZ2VNb2RlbC5nZXRUb3VjaFZpZXdMYXlvdXQoKTsKICAgICAgICAgICAgICAgICAgICBpZiAoYW5jaG9yWCA+PSB0b3VjaFZpZXdMYXlvdXQuZ2V0WCgpICYmIGFuY2hvclggPD0gKHRvdWNoVmlld0xheW91dC5nZXRYKCkgKyB0b3VjaFZpZXdMYXlvdXQuZ2V0V2lkdGgoKSkgJiYKICAgICAgICAgICAgICAgICAgICBhbmNob3JZID49IHRvdWNoVmlld0xheW91dC5nZXRZKCkgJiYgYW5jaG9yWSA8PSAodG91Y2hWaWV3TGF5b3V0LmdldFkoKSArIHRvdWNoVmlld0xheW91dC5nZXRIZWlnaHQoKSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgY3VycmVudE11bHRpSW1hZ2VNb2RlbCA9IG11bHRpSW1hZ2VNb2RlbDsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoY3VycmVudE11bHRpSW1hZ2VNb2RlbCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaXNQaG90b1N3YXBwaW5nID0gdHJ1ZTsKICAgICAgICAgICAgICAgIGluaXRTd2FwcGluZ0RyYWdJbWFnZShjdXJyZW50TXVsdGlJbWFnZU1vZGVsLmdldFBvc2l0aW9uKCksIGFuY2hvclgsIGFuY2hvclkpOwoKICAgICAgICAgICAgICAgIC8vIG1ha2UgcGhvdG8gYmlnZ2VyIGFuZCBhIGxpdHRsZSBiaXQgdHJhbnNwYXJlbnQKICAgICAgICAgICAgICAgIExvZy5lKCJURVNUVFRGRkYiLCAiaXNQaG90b1N3YXBwaW5nOiBwb3M6ICIgKyBjdXJyZW50TXVsdGlJbWFnZU1vZGVsLmdldFBvc2l0aW9uKCkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjdXJyZW50U3dhcHBpbmdEcmFnSW1hZ2VWaWV3ID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBjdXJyZW50U3dhcHBpbmdEcmFnSW1hZ2VWaWV3ID0gbmV3IEltYWdlVmlldyhnZXRDb250ZXh0KCkpOwogICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBJbWFnZUFwcGVhcmFuY2UgaW1hZ2VBcHBlYXJhbmNlID0KICAgICAgICAgICAgKChJbmtQcm9kdWN0KSBtUHJvZHVjdCkuZ2V0SW1hZ2VBcHBlYXJhbmNlcygpLmdldChpbWFnZVBvc2l0aW9uKTsKICAgICAgICBmaW5hbCBSZWxhdGl2ZUxheW91dC5MYXlvdXRQYXJhbXMgaW1hZ2VWaWV3VGVtcGxhdGVQYXJhbXMgPSBuZXcgUmVsYXRpdmVMYXlvdXQuTGF5b3V0UGFyYW1zKAogICAgICAgICAgICBpbWFnZUFwcGVhcmFuY2UuZ2V0QWRqdXN0ZWRXaWR0aCh0aGlzKSwKICAgICAgICAgICAgaW1hZ2VBcHBlYXJhbmNlLmdldEFkanVzdGVkSGVpZ2h0KHRoaXMpKTsKCiAgICAgICAgaW1hZ2VWaWV3LnNldFkoaW1hZ2VBcHBlYXJhbmNlLmdldEFkanVzdGVkUG9zaXRpb25ZKHRoaXMpKTsKICAgICAgICBpbWFnZVZpZXcuc2V0WChpbWFnZUFwcGVhcmFuY2UuZ2V0QWRqdXN0ZWRQb3NpdGlvblgodGhpcykpOwogICAgICAgIGltYWdlVmlldy5zZXRMYXlvdXQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQgdHJhbnNYID0gZXYuZ2V0WCgpIC0gZHJhZ1g7CiAgICAgICAgICAgIGZsb2F0IHRyYW5zWSA9IGV2LmdldFkoKSAtIGRyYWdZOwogICAgICAgICAgICBMb2cuZSgiVEVTVFRURkZGIiwgInRyYW5zWDogIiArIHRyYW5zWCArICIsIHRyYW5zWTogIiArIHRyYW5zWSk7Ci8vICAgICAgICAgICAgY3VycmVudFN3YXBwaW5nRHJhZ0ltYWdlVmlldy5zZXRUcmFuc2xhdGlvblgodHJhbnNYKTsKLy8gICAgICAgICAgICBjdXJyZW50U3dhcHBpbmdEcmFnSW1hZ2VWaWV3LnNldFRyYW5zbGF0aW9uWSh0cmFuc1kpOwogICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzaXplCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsb2F0IHRyYW5zWCA9IGV2LmdldFgoKSAtIGRyYWdYOwogICAgICAgICAgICAgICAgZmxvYXQgdHJhbnNZID0gZXYuZ2V0WSgpIC0gZHJhZ1k7CiAgICAgICAgICAgICAgICBMb2cuZSgiVEVTVFRURkZGIiwgInRyYW5zWDogIiArIHRyYW5zWCArICIsIHRyYW5zWTogIiArIHRyYW5zWSk7CiAgICAgICAgICAgICAgICBjdXJyZW50U3dhcHBpbmdEcmFnSW1hZ2VWaWV3LnNldFRyYW5zbGF0aW9uWCh0cmFuc1gpOwogICAgICAgICAgICAgICAgY3VycmVudFN3YXBwaW5nRHJhZ0ltYWdlVmlldy5zZXRUcmFuc2xhdGlvblkodHJhbnNZKTsK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IGVsc2UgaWYgKGV2LmdldEFjdGlvbk1hc2tlZCgpID09IE1vdGlvbkV2ZW50LkFDVElPTl9DQU5DRUwpIHsKICAgICAgICAgICAgaXNQcmVzc2VkID0gZmFsc2U7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVtb3ZlCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>1151</text>
