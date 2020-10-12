@@ -109,7 +109,7 @@
         <mark key="." line="105" column="72" />
         <mark key="^" line="105" column="73" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/views/customviews/TouchViewLayout.java" timestamp="1602493124249">
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/views/customviews/TouchViewLayout.java" timestamp="1602493697839">
         <mark key="'" line="269" column="16" />
         <mark key="[" line="111" column="8" />
         <mark key="]" line="111" column="38" />
@@ -144,9 +144,9 @@
         <mark key="]" line="27325" column="9" />
         <mark key="." line="12299" column="49" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/ImageView.java" timestamp="1602483484813" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/ImageView.java" timestamp="1602494042622" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/layout_select_card_type.xml" timestamp="1602486760575" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/graphics/Matrix.java" timestamp="1602483306102" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/graphics/Matrix.java" timestamp="1602494140355" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" timestamp="1602489159606">
         <mark key="'" line="228" column="17" />
       </file>
@@ -156,16 +156,15 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/network/responses/misc/SelectCardTypeExperiment.java" timestamp="1602487343126" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/model/AppSettings.java" timestamp="1602479933559" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" timestamp="1602493138829">
-        <mark key="'" line="1074" column="15" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="74" />
-        <mark key="." line="244" column="0" />
-        <mark key="^" line="253" column="9" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" timestamp="1602494833561">
+        <mark key="'" line="914" column="65" />
+        <mark key="[" line="917" column="87" />
+        <mark key="]" line="917" column="105" />
+        <mark key="." line="917" column="104" />
+        <mark key="^" line="917" column="105" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2603" column="4" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" />
       <jump line="11" column="40" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/res/layout/item_multi_signature.xml" />
       <jump line="132" column="78" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkSelectCardTypeView.java" />
       <jump line="36" column="40" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/res/layout/layout_switch_promo_text.xml" />
@@ -265,6 +264,7 @@
       <jump line="309" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/views/customviews/TouchViewLayout.java" />
       <jump line="143" column="22" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/views/customviews/TouchViewLayout.java" />
       <jump line="265" column="16" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/views/customviews/TouchViewLayout.java" />
+      <jump line="913" column="65" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -286,11 +286,11 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc2hvdWxkIG5vdCB1c2UgcG9zaXRpb24sIGN1eiBpdCdzIGZpbmFsIHRvIHRoZSBvcmlnaW5hbCBwb3MK</text>
+      <register name="+" type="4">
+        <text>getMeasuredHeight</text>
       </register>
       <register name="-" type="4">
-        <text>TouchViewLayout.this</text>
+        <text>getMeasuredHeight</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
@@ -299,31 +299,31 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgdmlld1dpZHRoID0gZ2V0TGF5b3V0UGFyYW1zKCkud2lkdGg7CiAgICAgICAgZmluYWwgaW50IHZpZXdIZWlnaHQgPSBnZXRMYXlvdXRQYXJhbXMoKS5oZWlnaHQ7CgogICAgICAgIGZpbmFsIExheW91dFBhcmFtcyBwYXJhbXMgPSBuZXcgTGF5b3V0UGFyYW1zKHZpZXdXaWR0aCwgdmlld0hlaWdodCk7CiAgICAgICAgbVZpZXdTaHJvdWQuc2V0TGF5b3V0UGFyYW1zKHBhcmFtcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc2hvdWxkIG5vdCB1c2UgcG9zaXRpb24sIGN1eiBpdCdzIGZpbmFsIHRvIHRoZSBvcmlnaW5hbCBwb3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBtSGFzaE1hcEltYWdlVmlld3MuZW50cnlTZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdG91Y2hWaWV3TGF5b3V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmltYXRvclNldC5wbGF5VG9nZXRoZXIoeEFuaW1hdG9yLCB5QW5pbWF0b3IsIHdpZHRoQW5pbWF0b3IsIGhlaWdodEFuaW1hdG9yLCBhbHBoYUFuaW1hdG9yKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBmbG9hdFtdIHZhbHVlcyA9IG5ldyBmbG9hdFs5XTsKLy8gICAgICAgICAgICBtYXRyaXguZ2V0VmFsdWVzKHZhbHVlcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvdmVySW1hZ2VNb2RlbC5nZXRUb3VjaFZpZXdMYXlvdXQoKS5ob3Zlck92ZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IDIwMjAvMTAvMTIgSGFycnkgR2FvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gc2hvdWxkIG5vdCB1c2UgcG9zaXRpb24sIGN1eiBpdCdzIGZpbmFsIHRvIHRoZSBvcmlnaW5hbCBwb3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBtSGFzaE1hcEltYWdlVmlld3MuZW50cnlTZXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtVmlld1Nocm91ZC5nZXRCYWNrZ3JvdW5kKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdG91Y2hWaWV3TGF5b3V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source $MYVIMRC</text>
