@@ -109,7 +109,7 @@
         <mark key="." line="105" column="72" />
         <mark key="^" line="105" column="73" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/views/customviews/TouchViewLayout.java" timestamp="1602492145757">
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/views/customviews/TouchViewLayout.java" timestamp="1602493124249">
         <mark key="'" line="269" column="16" />
         <mark key="[" line="111" column="8" />
         <mark key="]" line="111" column="38" />
@@ -156,11 +156,12 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/network/responses/misc/SelectCardTypeExperiment.java" timestamp="1602487343126" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/model/AppSettings.java" timestamp="1602479933559" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" timestamp="1602492287237">
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" timestamp="1602493138829">
         <mark key="'" line="1074" column="15" />
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="0" />
-        <mark key="." line="254" column="0" />
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="74" />
+        <mark key="." line="244" column="0" />
+        <mark key="^" line="253" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -286,7 +287,7 @@
         </keys>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBtSGFzaE1hcEltYWdlVmlld3MuZW50cnlTZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gc2hvdWxkIG5vdCB1c2UgcG9zaXRpb24sIGN1eiBpdCdzIGZpbmFsIHRvIHRoZSBvcmlnaW5hbCBwb3MK</text>
       </register>
       <register name="-" type="4">
         <text>TouchViewLayout.this</text>
@@ -298,31 +299,31 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgdmlld1dpZHRoID0gZ2V0TGF5b3V0UGFyYW1zKCkud2lkdGg7CiAgICAgICAgZmluYWwgaW50IHZpZXdIZWlnaHQgPSBnZXRMYXlvdXRQYXJhbXMoKS5oZWlnaHQ7CgogICAgICAgIGZpbmFsIExheW91dFBhcmFtcyBwYXJhbXMgPSBuZXcgTGF5b3V0UGFyYW1zKHZpZXdXaWR0aCwgdmlld0hlaWdodCk7CiAgICAgICAgbVZpZXdTaHJvdWQuc2V0TGF5b3V0UGFyYW1zKHBhcmFtcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBtSGFzaE1hcEltYWdlVmlld3MuZW50cnlTZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gc2hvdWxkIG5vdCB1c2UgcG9zaXRpb24sIGN1eiBpdCdzIGZpbmFsIHRvIHRoZSBvcmlnaW5hbCBwb3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdG91Y2hWaWV3TGF5b3V0Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBtSGFzaE1hcEltYWdlVmlld3MuZW50cnlTZXQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdG91Y2hWaWV3TGF5b3V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvdmVySW1hZ2VNb2RlbC5nZXRUb3VjaFZpZXdMYXlvdXQoKS5ob3Zlck92ZXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvdmVySW1hZ2VNb2RlbC5nZXRUb3VjaFZpZXdMYXlvdXQoKS5ob3Zlck92ZXIoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtVmlld1Nocm91ZC5nZXRCYWNrZ3JvdW5kKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtVmlld1Nocm91ZC5zZXRGb3JlZ3JvdW5kVGludExpc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICBtVmlld1Nocm91ZC5nZXRCYWNrZ3JvdW5kKCkK</text>
       </register>
       <register name=":" type="4">
         <text>source $MYVIMRC</text>
