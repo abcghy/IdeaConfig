@@ -96,12 +96,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardSide.java" timestamp="1602471367462">
         <mark key="'" line="227" column="85" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" timestamp="1602557551234">
-        <mark key="'" line="193" column="45" />
-        <mark key="[" line="291" column="40" />
-        <mark key="]" line="291" column="56" />
-        <mark key="." line="291" column="55" />
-        <mark key="^" line="291" column="56" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" timestamp="1602558662122">
+        <mark key="'" line="215" column="74" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="87" column="15" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardView.java" timestamp="1602489167533">
         <mark key="'" line="376" column="49" />
@@ -163,30 +163,15 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/network/responses/misc/SelectCardTypeExperiment.java" timestamp="1602487343126" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/model/AppSettings.java" timestamp="1602554584160" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" timestamp="1602557241943">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="820" column="17" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" timestamp="1602558667342">
+        <mark key="'" line="789" column="79" />
+        <mark key="[" line="805" column="0" />
+        <mark key="]" line="805" column="0" />
+        <mark key="^" line="529" column="46" />
+        <mark key="." line="805" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="26" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/InkOrderHistoryDetailFragment.java" />
-      <jump line="141" column="38" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/BaseFragment.java" />
-      <jump line="117" column="34" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/views/ManualAddContactAddressForm.java" />
-      <jump line="200" column="25" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ReturnAddressFragment.java" />
-      <jump line="1631" column="73" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/checkout/InkCheckoutFragment.java" />
-      <jump line="251" column="45" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" />
-      <jump line="138" column="27" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/ReturnAddressFragment.java" />
-      <jump line="145" column="13" filename="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/screens/contacts/fragments/BaseAddContactFragment.java" />
-      <jump line="101" column="68" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/category/InkCardShelfFragment.java" />
-      <jump line="40" column="14" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/model/InkProduct.java" />
-      <jump line="651" column="31" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/giftcard/GiftCardDetailsFragment.java" />
-      <jump line="82" column="29" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/giftcard/GiftCardDetailsFragment.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/giftcard/GiftCardDetailsFragment.java" />
-      <jump line="590" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/giftcard/GiftCardDetailsFragment.java" />
-      <jump line="566" column="31" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/MDProductFactory.java" />
       <jump line="490" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFragment.java" />
       <jump line="179" column="19" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/EditContactFragment.java" />
       <jump line="59" column="35" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/EventGroupAddContactFragment.java" />
@@ -272,6 +257,21 @@
       <jump line="52" column="20" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" />
       <jump line="272" column="9" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" />
       <jump line="193" column="45" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" />
+      <jump line="177" column="20" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" />
+      <jump line="187" column="24" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" />
+      <jump line="182" column="54" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" />
+      <jump line="200" column="66" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" />
+      <jump line="224" column="8" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" />
+      <jump line="292" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" />
+      <jump line="237" column="19" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" />
+      <jump line="558" column="20" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" />
+      <jump line="155" column="59" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" />
+      <jump line="523" column="8" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" />
+      <jump line="31" column="87" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" />
+      <jump line="522" column="25" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" />
+      <jump line="262" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" />
+      <jump line="789" column="79" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" />
+      <jump line="216" column="74" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -294,43 +294,43 @@
         </keys>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGludGVyY2VwdCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>.postDelayed();</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>photoSwappingCallbackWeakReference</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiB0b3VjaCA9IHBob3RvU3dhcHBpbmdIZWxwZXIub25Ub3VjaE1vdmUoZXYpOwogICAgICAgICAgICBpZiAodG91Y2gpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGludGVyY2VwdCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0RGVsYXllZChtUGVuZGluZ0NoZWNrRm9yTG9uZ1ByZXNzLCBkZWxheSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkltYWdlVmlldy5TY2FsZVR5cGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuQ29sb3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGhvdG9Td2FwcGluZ0hlbHBlci5vblRvdWNoTW92ZSgpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNhbGxvd0ludGVyY2VwdFRvdWNoRXZlbnQgPSBkaXNhbGxvd0ludGVyY2VwdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source $MYVIMRC</text>
