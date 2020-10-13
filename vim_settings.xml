@@ -96,13 +96,7 @@
       <file name="/InkCardFrontView.java" timestamp="1602559263057">
         <mark key="'" line="481" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/checkout/InkCheckoutFragment.java" timestamp="1602577045213">
-        <mark key="'" line="154" column="46" />
-        <mark key="[" line="815" column="58" />
-        <mark key="]" line="815" column="81" />
-        <mark key="." line="815" column="80" />
-        <mark key="^" line="815" column="81" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/checkout/InkCheckoutFragment.java" timestamp="1602579488874" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/util/InkCacheUtil.java" timestamp="1602572783176" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" timestamp="1602567671783">
         <mark key="'" line="341" column="0" />
