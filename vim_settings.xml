@@ -93,91 +93,90 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/views/customviews/TouchViewLayout.java" timestamp="1602640751349">
-        <mark key="'" line="69" column="13" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/CommonLibrary/src/main/java/com/photoaffections/wrenda/commonlibrary/data/AppInfo.java" timestamp="1602583244888" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" timestamp="1602640652207">
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" timestamp="1602660267109">
         <mark key="'" line="341" column="0" />
-        <mark key="[" line="216" column="51" />
-        <mark key="]" line="216" column="51" />
-        <mark key="^" line="216" column="51" />
-        <mark key="." line="216" column="50" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="297" column="54" />
+        <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UKCardFrontView.java" timestamp="1602641025896">
-        <mark key="'" line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/views/customviews/TouchViewLayout.java" timestamp="1602645272844">
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/views/customviews/TouchViewLayout.java" timestamp="1602658537762">
         <mark key="'" line="1096" column="12" />
         <mark key="[" line="755" column="0" />
         <mark key="]" line="755" column="171" />
         <mark key="." line="1101" column="49" />
         <mark key="^" line="1101" column="50" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/model/InkCardModel.java" timestamp="1602652555174" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardPhotoSideView.java" timestamp="1602652487352">
-        <mark key="'" line="111" column="8" />
-        <mark key="[" line="455" column="34" />
-        <mark key="]" line="455" column="36" />
-        <mark key="." line="455" column="35" />
-        <mark key="^" line="455" column="36" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/model/Style.java" timestamp="1602660621171">
+        <mark key="'" line="38" column="6" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/product/mask/view/MaskLiveBannerView.java" timestamp="1602583339018">
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkPhotoLocationList.java" timestamp="1602660016644">
+        <mark key="'" line="140" column="0" />
+        <mark key="[" line="80" column="73" />
+        <mark key="]" line="80" column="94" />
+        <mark key="." line="80" column="93" />
+        <mark key="^" line="80" column="94" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkTouchView.java" timestamp="1602659987997">
+        <mark key="'" line="496" column="52" />
+        <mark key="[" line="191" column="100" />
+        <mark key="]" line="191" column="120" />
+        <mark key="." line="191" column="119" />
+        <mark key="^" line="191" column="120" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1602660614609">
+        <mark key="'" line="1346" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" timestamp="1602653747456" />
+      <file name="/InkCardFrontView.java" timestamp="1602658529106">
+        <mark key="'" line="481" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" timestamp="1602652885711" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1602655274035" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/model/InkCardModel.java" timestamp="1602652555174" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardPhotoSideView.java" timestamp="1602660653598">
+        <mark key="[" line="451" column="54" />
+        <mark key="]" line="451" column="55" />
+        <mark key="." line="451" column="54" />
+        <mark key="^" line="451" column="55" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/cardcustomize/model/Style.java" timestamp="1602659911762">
+        <mark key="[" line="36" column="31" />
+        <mark key="]" line="36" column="31" />
+        <mark key="^" line="36" column="31" />
+        <mark key="." line="36" column="30" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/product/mask/view/MaskLiveBannerView.java" timestamp="1602658261333">
         <mark key="[" line="87" column="99" />
         <mark key="]" line="87" column="161" />
         <mark key="." line="87" column="99" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkPhotoLocationList.java" timestamp="1602645398434">
-        <mark key="'" line="142" column="0" />
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="10" />
-        <mark key="." line="14" column="9" />
-        <mark key="^" line="14" column="10" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkUpdateCardFragment.java" timestamp="1602652672226" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkPhotoLocation.java" timestamp="1602652505756">
-        <mark key="'" line="82" column="41" />
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="37" column="38" />
-        <mark key="." line="37" column="37" />
-        <mark key="^" line="37" column="38" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkPhotoLocation.java" timestamp="1602659994776">
+        <mark key="'" line="83" column="41" />
+        <mark key="[" line="150" column="61" />
+        <mark key="]" line="150" column="82" />
+        <mark key="." line="150" column="81" />
+        <mark key="^" line="150" column="82" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeView.java" timestamp="1602640109417" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/ViewGroup.java" timestamp="1602645249476">
-        <mark key="'" line="3167" column="16" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeView.java" timestamp="1602654388774" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylib/src/main/java/com/sincerely/libcommons/util/anim/AnimationUtil.java" timestamp="1602659760829" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/PhotoSwappingHelper.java" timestamp="1602659497023">
+        <mark key="'" line="218" column="40" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="357" column="27" />
+        <mark key="." line="57" column="0" />
       </file>
-      <file name="/TouchViewLayout.java" timestamp="1602644165714" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkTouchView.java" timestamp="1602652237107">
-        <mark key="'" line="495" column="52" />
-        <mark key="[" line="496" column="36" />
-        <mark key="]" line="496" column="48" />
-        <mark key="." line="496" column="47" />
-        <mark key="^" line="496" column="48" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1602652549025" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/FPlib/src/main/java/com/planetart/fplib/workflow/selectphoto/SelectPhotoBottomView.java" timestamp="1602640121718" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/dagger/InkModule.java" timestamp="1602639323126" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/PhotoSwappingHelper.java" timestamp="1602652454307">
-        <mark key="'" line="163" column="21" />
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="282" column="0" />
-        <mark key="^" line="360" column="27" />
-        <mark key="." line="282" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" timestamp="1602644991430">
-        <mark key="'" line="789" column="79" />
-        <mark key="[" line="795" column="0" />
-        <mark key="]" line="804" column="9" />
-        <mark key="^" line="559" column="81" />
-        <mark key="." line="559" column="80" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" timestamp="1602660622941">
+        <mark key="'" line="808" column="46" />
+        <mark key="[" line="796" column="54" />
+        <mark key="]" line="797" column="55" />
+        <mark key="^" line="797" column="55" />
+        <mark key="." line="797" column="54" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="846" column="33" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardView.java" />
-      <jump line="52" column="34" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/build.gradle" />
-      <jump line="125" column="23" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardView.java" />
-      <jump line="1150" column="21" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardView.java" />
-      <jump line="1151" column="25" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardView.java" />
       <jump line="294" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardPhotoSideView.java" />
       <jump line="355" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkTouchView.java" />
       <jump line="47" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkTouchView.java" />
@@ -273,6 +272,11 @@
       <jump line="3167" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/ViewGroup.java" />
       <jump line="492" column="52" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkTouchView.java" />
       <jump line="142" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkPhotoLocationList.java" />
+      <jump line="949" column="46" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" />
+      <jump line="1346" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" />
+      <jump line="219" column="40" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/PhotoSwappingHelper.java" />
+      <jump line="38" column="6" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/model/Style.java" />
+      <jump line="808" column="46" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,43 +299,48 @@
         </keys>
       </register>
       <register name="+" type="4">
-        <text>中文</text>
+        <text>getPhotoPicker().isPhotoPickerShown()</text>
       </register>
       <register name="-" type="4">
-        <text>中文</text>
+        <text>getPhotoPicker().isPhotoPickerShown()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZG91YmxlIGRpc3RhbmNlID0gTWF0aC5zcXJ0KE1hdGgucG93KGN1cnJlbnRQb2ludC54IC0gbVByZXZpb3VzUG9pbnRlclBvcy54LCAyKSArIE1hdGgucG93KGN1cnJlbnRQb2ludC55IC0gbVByZXZpb3VzUG9pbnRlclBvcy55LCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpZGUgPSBTZXRHbG9iYWxQaG90b1BhdGhzRXZlbnQuU0lERV9GUk9OVDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b3VjaFNsb3AgPSBWaWV3Q29uZmlndXJhdGlvbi5nZXQoY29udGV4dCkuZ2V0U2NhbGVkVG91Y2hTbG9wKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHRvdWNoU2xvcDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBob3RvU3dhcHBpbmdIZWxwZXIucmVtb3ZlQ3VycmVudERyYWdJbWFnZVZpZXcodHJ1ZSk7CiAgICAgICAgICAgICAgICBpZiAocGhvdG9QaWNrZXJQb3NpdGlvbiAhPSBVa1Bob3RvTG9jYXRpb25MaXN0LlVOSU5JVElBTElaRURfU1RBVEUpIHsKICAgICAgICAgICAgICAgICAgICBtUGhvdG9Mb2NhdGlvbnMuZ2V0KHBob3RvUGlja2VyUG9zaXRpb24pLnNob3coKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVWtUb3VjaFZpZXcudGhpcy5yZXF1ZXN0RGlzYWxsb3cK</text>
+      <register name="3" type="4">
+        <text>, new AnimationEndListener() {
+            @Override
+            public void onAnimationEnd() {
+                super.onAnimationEnd();
+            }
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZG91YmxlIGRpc3RhbmNlID0gTWF0aC5zcXJ0KE1hdGgucG93KGN1cnJlbnRQb2ludC54IC0gbVByZXZpb3VzUG9pbnRlclBvcy54LCAyKSArIE1hdGgucG93KGN1cnJlbnRQb2ludC55IC0gbVByZXZpb3VzUG9pbnRlclBvcy55LCAyKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwaG90b1N3YXBwaW5nSGVscGVyLnJlbW92ZUN1cnJlbnREcmFnSW1hZ2VWaWV3KHRydWUpOwogICAgICAgIGlmIChwaG90b1BpY2tlclBvc2l0aW9uICE9IFVrUGhvdG9Mb2NhdGlvbkxpc3QuVU5JTklUSUFMSVpFRF9TVEFURSkgewogICAgICAgICAgICBtUGhvdG9Mb2NhdGlvbnMuZ2V0KHBob3RvUGlja2VyUG9zaXRpb24pLnNob3coKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQocGhvdG9QaWNrZXJQb3NpdGlvbikuZmFkZU91dEJ1dHRvbigpOwogICAgICAgIGdldChwaG90b1BpY2tlclBvc2l0aW9uKS5zZXRJbWFnZShiaXRtYXAsIHBhdGgsIGltYWdlTWF0cml4UG9zaXRpb24pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlbW92ZUN1cnJlbnREcmFnSW1hZ2VWaWV3KHRydWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>source $MYVIMRC</text>
