@@ -107,7 +107,7 @@
         <mark key="^" line="216" column="51" />
         <mark key="." line="216" column="50" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UKCardFrontView.java" timestamp="1602639152835">
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UKCardFrontView.java" timestamp="1602641025896">
         <mark key="'" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/views/customviews/TouchViewLayout.java" timestamp="1602640769455">
@@ -118,13 +118,13 @@
         <mark key="^" line="1101" column="50" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkSelectCardTypeView.java" timestamp="1602582738638" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardPhotoSideView.java" timestamp="1602639912579" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardPhotoSideView.java" timestamp="1602642135594" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/mydealslib/src/main/java/com/planetart/screens/mydeals/upsell/product/mask/view/MaskLiveBannerView.java" timestamp="1602583339018">
         <mark key="[" line="87" column="99" />
         <mark key="]" line="87" column="161" />
         <mark key="." line="87" column="99" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkPhotoLocationList.java" timestamp="1602640300530" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkPhotoLocationList.java" timestamp="1602641893658" />
       <file name="/Dummy.txt" timestamp="1602581834038">
         <mark key="[" line="0" column="0" />
       </file>
@@ -143,12 +143,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1602640019986" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/common_libs_android/FPlib/src/main/java/com/planetart/fplib/workflow/selectphoto/SelectPhotoBottomView.java" timestamp="1602640121718" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/dagger/InkModule.java" timestamp="1602639323126" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/PhotoSwappingHelper.java" timestamp="1602640797294">
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/PhotoSwappingHelper.java" timestamp="1602642160563">
         <mark key="'" line="286" column="40" />
-        <mark key="[" line="332" column="42" />
-        <mark key="]" line="332" column="42" />
-        <mark key="." line="332" column="42" />
-        <mark key="^" line="175" column="27" />
+        <mark key="[" line="29" column="54" />
+        <mark key="]" line="29" column="44" />
+        <mark key="." line="29" column="43" />
+        <mark key="^" line="29" column="44" />
       </file>
     </filemarks>
     <jumps>
