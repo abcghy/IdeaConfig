@@ -135,10 +135,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/activities/InkActivity.java" timestamp="1602655274035" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/model/InkCardModel.java" timestamp="1602652555174" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardPhotoSideView.java" timestamp="1602660653598">
-        <mark key="[" line="451" column="54" />
-        <mark key="]" line="451" column="55" />
-        <mark key="." line="451" column="54" />
-        <mark key="^" line="451" column="55" />
+        <mark key="[" line="447" column="54" />
+        <mark key="]" line="447" column="55" />
+        <mark key="." line="447" column="54" />
+        <mark key="^" line="447" column="55" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/cardcustomize/model/Style.java" timestamp="1602659911762">
         <mark key="[" line="36" column="31" />
@@ -161,19 +161,12 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeView.java" timestamp="1602654388774" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylib/src/main/java/com/sincerely/libcommons/util/anim/AnimationUtil.java" timestamp="1602659760829" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/PhotoSwappingHelper.java" timestamp="1602659497023">
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/PhotoSwappingHelper.java" timestamp="1602661228662">
         <mark key="'" line="218" column="40" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="^" line="357" column="27" />
         <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" timestamp="1602660622941">
-        <mark key="'" line="808" column="46" />
-        <mark key="[" line="796" column="54" />
-        <mark key="]" line="797" column="55" />
-        <mark key="^" line="797" column="55" />
-        <mark key="." line="797" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -298,8 +291,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="+" type="4">
-        <text>getPhotoPicker().isPhotoPickerShown()</text>
+      <register name="+" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zaW5jZGRlcmVseS5saWIudmlld3MuY3VzdG9tdmlld3MuVG91Y2hWaWV3TGF5b3V0Owo=</text>
       </register>
       <register name="-" type="4">
         <text>getPhotoPicker().isPhotoPickerShown()</text>
@@ -311,36 +304,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNpZGUgPSBTZXRHbG9iYWxQaG90b1BhdGhzRXZlbnQuU0lERV9GUk9OVDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zaW5jZGRlcmVseS5saWIudmlld3MuY3VzdG9tdmlld3MuVG91Y2hWaWV3TGF5b3V0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBob3RvU3dhcHBpbmdIZWxwZXIucmVtb3ZlQ3VycmVudERyYWdJbWFnZVZpZXcodHJ1ZSk7CiAgICAgICAgICAgICAgICBpZiAocGhvdG9QaWNrZXJQb3NpdGlvbiAhPSBVa1Bob3RvTG9jYXRpb25MaXN0LlVOSU5JVElBTElaRURfU1RBVEUpIHsKICAgICAgICAgICAgICAgICAgICBtUGhvdG9Mb2NhdGlvbnMuZ2V0KHBob3RvUGlja2VyUG9zaXRpb24pLnNob3coKTsKICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="3" type="4">
-        <text>, new AnimationEndListener() {
-            @Override
-            public void onAnimationEnd() {
-                super.onAnimationEnd();
-            }
-        }</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNsZWFyQml0bWFwKCkgewogICAgICAgIGlmIChtVG91Y2hWaWV3LmdldERyYXdhYmxlKCkgIT0gbnVsbCkgewogICAgICAgICAgICBtVG91Y2hWaWV3LnNldEltYWdlRHJhd2FibGUobnVsbCk7CiAgICAgICAgfQogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobUlzRW5hYmxlZCkgewogICAgICAgICAgICBtQ2FsbGJhY2sub25DbGlja2VkKCk7CiAgICAgICAgfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwaG90b1N3YXBwaW5nSGVscGVyLnJlbW92ZUN1cnJlbnREcmFnSW1hZ2VWaWV3KHRydWUpOwogICAgICAgIGlmIChwaG90b1BpY2tlclBvc2l0aW9uICE9IFVrUGhvdG9Mb2NhdGlvbkxpc3QuVU5JTklUSUFMSVpFRF9TVEFURSkgewogICAgICAgICAgICBtUGhvdG9Mb2NhdGlvbnMuZ2V0KHBob3RvUGlja2VyUG9zaXRpb24pLnNob3coKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChtSXNFbmFibGVkKSB7Ci8vICAgICAgICAgICAgbUNhbGxiYWNrLm9uQ2xpY2tlZCgpOwovLyAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQocGhvdG9QaWNrZXJQb3NpdGlvbikuZmFkZU91dEJ1dHRvbigpOwogICAgICAgIGdldChwaG90b1BpY2tlclBvc2l0aW9uKS5zZXRJbWFnZShiaXRtYXAsIHBhdGgsIGltYWdlTWF0cml4UG9zaXRpb24pOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFVrUGhvdG9Mb2NhdGlvbiBwaG90b0xvY2F0aW9uID0gbVBob3RvTG9jYXRpb25zLmdldChwb3MpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlbW92ZUN1cnJlbnREcmFnSW1hZ2VWaWV3KHRydWUpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zaW5jZXJlbHkubGliY29tbW9ucy51dGlsLmFuaW0uQW5pbWF0aW9uVXRpbC5BbmltYXRpb25FbmRMaXN0ZW5lcjsK</text>
       </register>
       <register name=":" type="4">
         <text>source $MYVIMRC</text>
