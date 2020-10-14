@@ -93,6 +93,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/load/engine/executor/GlideExecutor.java" timestamp="1602666982966" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/PhotoSwappingHelper.java" timestamp="1602660267109">
         <mark key="'" line="341" column="0" />
         <mark key="[" line="60" column="0" />
@@ -104,13 +105,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/Glider.java" timestamp="1602665664667" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/model/Style.java" timestamp="1602660621171">
         <mark key="'" line="38" column="6" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkPhotoLocationList.java" timestamp="1602660016644">
-        <mark key="'" line="140" column="0" />
-        <mark key="[" line="80" column="73" />
-        <mark key="]" line="80" column="94" />
-        <mark key="." line="80" column="93" />
-        <mark key="^" line="80" column="94" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1602660614609">
         <mark key="'" line="1346" column="0" />
@@ -128,14 +122,8 @@
         <mark key="[" line="111" column="2" />
       </file>
       <file name="/ApiClient.java" timestamp="1602665281595" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkPhotoLocation.java" timestamp="1602659994776">
-        <mark key="'" line="83" column="41" />
-        <mark key="[" line="150" column="61" />
-        <mark key="]" line="150" column="82" />
-        <mark key="." line="150" column="81" />
-        <mark key="^" line="150" column="82" />
-      </file>
       <file name="/ApiClientGifts.java" timestamp="1602665377821" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf8f4e3a75033c635e1dab7142baaf4e/glide-4.11.0/jars/classes.jar!/com/bumptech/glide/load/engine/executor/GlideExecutor.class" timestamp="1602667560970" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/build/generated/ap_generated_sources/inkDebug/out/com/sincerely/android/ink/dagger/InkModule_ProvideInkApiServiceFactory.java" timestamp="1602664487957" />
       <file name="$USER_HOME$/AndroidStudioProjects/gift/libraries/sincerelylibGifts/src/main/java/com/sincerely/lib/network/ApiServiceGifts.java" timestamp="1602664863396" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/PhotoSwappingHelper.java" timestamp="1602661228662">
