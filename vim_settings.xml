@@ -93,45 +93,39 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibFCUK/build.gradle" timestamp="1602668138691" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/load/engine/executor/GlideExecutor.java" timestamp="1602666982966" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylib/src/main/java/com/sincerely/libcommons/network/responses/misc/DefaultResponse.java" timestamp="1602665639163" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/Glider.java" timestamp="1602668109950">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/7a15a7db50f86c4b64aa3367424a60e3a325b8f1/okhttp-2.7.5.jar!/com/squareup/okhttp/internal/http/HttpEngine.class" timestamp="1602725921699" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibFCUK/src/main/java/com/sincerely/lib/dagger/Glider.java" timestamp="1602724681504">
         <mark key="[" line="26" column="56" />
         <mark key="]" line="27" column="14" />
         <mark key="." line="27" column="13" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/build.gradle" timestamp="1602668792651">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="33" column="67" />
-        <mark key="^" line="33" column="67" />
-        <mark key="." line="33" column="66" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/src/main/res/layout/activity_main.xml" timestamp="1602668968694">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="17" column="23" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="17" column="22" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/f3908d76273ad2498add8bb89d7fb787f3061b1d/retrofit-1.9.0-sources.jar!/retrofit/RequestInterceptor.java" timestamp="1602724801638" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/f3908d76273ad2498add8bb89d7fb787f3061b1d/retrofit-1.9.0-sources.jar!/retrofit/RestAdapter.java" timestamp="1602724912229" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/2.4.1/20e35db1fd78582ae4dba8cf27c5dbd01810a926/okio-2.4.1-sources.jar!/jvmMain/okio/BufferedSource.kt" timestamp="1602728316578" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/6b16ea4e0a54f9eada97779ae33cb4d3223f5d35/okhttp-2.7.5-sources.jar!/com/squareup/okhttp/ResponseBody.java" timestamp="1602726419990" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/6b16ea4e0a54f9eada97779ae33cb4d3223f5d35/okhttp-2.7.5-sources.jar!/com/squareup/okhttp/Interceptor.java" timestamp="1602725337564" />
+      <file name="$USER_HOME$/AndroidStudioProjects/gift/libraries/sincerelylibGifts/src/main/java/com/sincerely/lib/network/ApiClient.java" timestamp="1602724613810" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/6b16ea4e0a54f9eada97779ae33cb4d3223f5d35/okhttp-2.7.5-sources.jar!/com/squareup/okhttp/internal/http/HttpEngine.java" timestamp="1602725602845" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/dagger/NetworkModule.java" timestamp="1602727246782">
+        <mark key="[" line="36" column="66" />
+        <mark key="]" line="36" column="67" />
+        <mark key="." line="36" column="66" />
+        <mark key="^" line="36" column="67" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/gift/libraries/sincerelylib/src/main/java/com/sincerely/libcommons/network/responses/misc/DefaultResponse.java" timestamp="1602723789020" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/f3908d76273ad2498add8bb89d7fb787f3061b1d/retrofit-1.9.0-sources.jar!/retrofit/converter/GsonConverter.java" timestamp="1602725283309" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/Universal-Image-Loader-master/src/main/java/com/nostra13/universalimageloader/core/ImageLoader.java" timestamp="1602723129120" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" timestamp="1602723214786" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/Glide.java" timestamp="1602665872623">
-        <mark key="[" line="111" column="2" />
-      </file>
-      <file name="/ApiClient.java" timestamp="1602665281595" />
-      <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/build/generated/ap_generated_sources/debug/out/com/bumptech/glide/GeneratedAppGlideModuleImpl.java" timestamp="1602669606054" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/6b16ea4e0a54f9eada97779ae33cb4d3223f5d35/okhttp-2.7.5-sources.jar!/com/squareup/okhttp/Response.java" timestamp="1602725030513" />
       <file name="$USER_HOME$/AndroidStudioProjects/gift/gifts/src/main/java/com/planetart/fpgifts/ww/network/InkApiClient.java" timestamp="1602723616485" />
-      <file name="/ApiClientGifts.java" timestamp="1602665377821" />
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf8f4e3a75033c635e1dab7142baaf4e/glide-4.11.0/jars/classes.jar!/com/bumptech/glide/load/engine/executor/GlideExecutor.class" timestamp="1602667560970" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylib/build.gradle" timestamp="1602722989340" />
-      <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/src/main/java/com/example/glidedemo/ErrorHandlingExtension.java" timestamp="1602669398991">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="14" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ImageUrlInterceptor.java" timestamp="1602728094351">
+        <mark key="'" line="14" column="24" />
+        <mark key="[" line="14" column="65" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="30" />
+        <mark key="^" line="15" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/src/main/java/com/example/glidedemo/MyAppGlideModule.java" timestamp="1602669630162">
         <mark key="[" line="32" column="10" />
@@ -139,19 +133,11 @@
         <mark key="^" line="32" column="11" />
         <mark key="." line="32" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/src/main/java/com/example/glidedemo/MainActivity.java" timestamp="1602669576372">
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="18" column="12" />
-        <mark key="^" line="18" column="12" />
-        <mark key="." line="18" column="11" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/6b16ea4e0a54f9eada97779ae33cb4d3223f5d35/okhttp-2.7.5-sources.jar!/com/squareup/okhttp/OkHttpClient.java" timestamp="1602727190759">
+        <mark key="'" line="59" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/gift/libraries/sincerelylibGifts/src/main/java/com/sincerely/lib/network/ApiService.java" timestamp="1602665481342" />
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkTouchView.java" />
-      <jump line="134" column="8" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkTouchView.java" />
-      <jump line="37" column="40" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardPhotoSideView.java" />
-      <jump line="1114" column="71" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardView.java" />
       <jump line="752" column="13" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" />
       <jump line="227" column="85" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardSide.java" />
       <jump line="195" column="52" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" />
@@ -248,6 +234,10 @@
       <jump line="808" column="46" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" />
       <jump line="272" column="52" filename="$USER_HOME$/AndroidStudioProjects/gift/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardPhotoSideView.java" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/build.gradle" />
+      <jump line="33" column="30" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/dagger/NetworkModule.java" />
+      <jump line="59" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/6b16ea4e0a54f9eada97779ae33cb4d3223f5d35/okhttp-2.7.5-sources.jar!/com/squareup/okhttp/OkHttpClient.java" />
+      <jump line="12" column="32" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ImageUrlInterceptor.java" />
+      <jump line="13" column="24" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ImageUrlInterceptor.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -270,10 +260,10 @@
         </keys>
       </register>
       <register name="+" type="4">
-        <text>GlideApp</text>
+        <text>byteStream()</text>
       </register>
       <register name="-" type="4">
-        <text>GlideApp</text>
+        <text>byteStream()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
@@ -282,31 +272,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNpZGUgPSBTZXRHbG9iYWxQaG90b1BhdGhzRXZlbnQuU0lERV9GUk9OVDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBHbGlkZU1vCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgT2tIdHRwQ2xpZW50LkJ1aWxkZXIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zaW5jZGRlcmVseS5saWIudmlld3MuY3VzdG9tdmlld3MuVG91Y2hWaWV3TGF5b3V0Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNsZWFyQml0bWFwKCkgewogICAgICAgIGlmIChtVG91Y2hWaWV3LmdldERyYXdhYmxlKCkgIT0gbnVsbCkgewogICAgICAgICAgICBtVG91Y2hWaWV3LnNldEltYWdlRHJhd2FibGUobnVsbCk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBHbGlkZU1vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobUlzRW5hYmxlZCkgewogICAgICAgICAgICBtQ2FsbGJhY2sub25DbGlja2VkKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zaW5jZGRlcmVseS5saWIudmlld3MuY3VzdG9tdmlld3MuVG91Y2hWaWV3TGF5b3V0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChtSXNFbmFibGVkKSB7Ci8vICAgICAgICAgICAgbUNhbGxiYWNrLm9uQ2xpY2tlZCgpOwovLyAgICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNsZWFyQml0bWFwKCkgewogICAgICAgIGlmIChtVG91Y2hWaWV3LmdldERyYXdhYmxlKCkgIT0gbnVsbCkgewogICAgICAgICAgICBtVG91Y2hWaWV3LnNldEltYWdlRHJhd2FibGUobnVsbCk7CiAgICAgICAgfQogICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFVrUGhvdG9Mb2NhdGlvbiBwaG90b0xvY2F0aW9uID0gbVBob3RvTG9jYXRpb25zLmdldChwb3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobUlzRW5hYmxlZCkgewogICAgICAgICAgICBtQ2FsbGJhY2sub25DbGlja2VkKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>source $MYVIMRC</text>
