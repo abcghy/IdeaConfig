@@ -109,41 +109,41 @@
         <mark key="^" line="33" column="67" />
         <mark key="." line="33" column="66" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/dagger/InkModule.java" timestamp="1602664492084" />
       <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/src/main/res/layout/activity_main.xml" timestamp="1602668968694">
         <mark key="[" line="16" column="12" />
         <mark key="]" line="17" column="23" />
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/gift/libraries/sincerelylib/src/main/java/com/sincerely/libcommons/network/responses/misc/DefaultResponse.java" timestamp="1602664585211" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/Universal-Image-Loader-master/src/main/java/com/nostra13/universalimageloader/core/ImageLoader.java" timestamp="1602666179055" />
+      <file name="$USER_HOME$/AndroidStudioProjects/gift/libraries/sincerelylib/src/main/java/com/sincerely/libcommons/network/responses/misc/DefaultResponse.java" timestamp="1602723789020" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/common_libs_android/Universal-Image-Loader-master/src/main/java/com/nostra13/universalimageloader/core/ImageLoader.java" timestamp="1602723129120" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" timestamp="1602723214786" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/Glide.java" timestamp="1602665872623">
         <mark key="[" line="111" column="2" />
       </file>
       <file name="/ApiClient.java" timestamp="1602665281595" />
+      <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/build/generated/ap_generated_sources/debug/out/com/bumptech/glide/GeneratedAppGlideModuleImpl.java" timestamp="1602669606054" />
+      <file name="$USER_HOME$/AndroidStudioProjects/gift/gifts/src/main/java/com/planetart/fpgifts/ww/network/InkApiClient.java" timestamp="1602723616485" />
       <file name="/ApiClientGifts.java" timestamp="1602665377821" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf8f4e3a75033c635e1dab7142baaf4e/glide-4.11.0/jars/classes.jar!/com/bumptech/glide/load/engine/executor/GlideExecutor.class" timestamp="1602667560970" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/build/generated/ap_generated_sources/inkDebug/out/com/sincerely/android/ink/dagger/InkModule_ProvideInkApiServiceFactory.java" timestamp="1602664487957" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylib/build.gradle" timestamp="1602668145596" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylib/build.gradle" timestamp="1602722989340" />
       <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/src/main/java/com/example/glidedemo/ErrorHandlingExtension.java" timestamp="1602669398991">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="15" />
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/gift/libraries/sincerelylibGifts/src/main/java/com/sincerely/lib/network/ApiServiceGifts.java" timestamp="1602664863396" />
-      <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/src/main/java/com/example/glidedemo/MyAppGlideModule.java" timestamp="1602669514826">
+      <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/src/main/java/com/example/glidedemo/MyAppGlideModule.java" timestamp="1602669630162">
         <mark key="[" line="32" column="10" />
         <mark key="]" line="32" column="11" />
         <mark key="^" line="32" column="11" />
         <mark key="." line="32" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/src/main/java/com/example/glidedemo/MainActivity.java" timestamp="1602668988676">
-        <mark key="[" line="19" column="22" />
-        <mark key="]" line="19" column="24" />
-        <mark key="^" line="19" column="24" />
-        <mark key="." line="19" column="23" />
+      <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/src/main/java/com/example/glidedemo/MainActivity.java" timestamp="1602669576372">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="18" column="12" />
+        <mark key="^" line="18" column="12" />
+        <mark key="." line="18" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/gift/libraries/sincerelylibGifts/src/main/java/com/sincerely/lib/network/ApiService.java" timestamp="1602665481342" />
     </filemarks>
@@ -270,10 +270,10 @@
         </keys>
       </register>
       <register name="+" type="4">
-        <text>new RequestListe</text>
+        <text>GlideApp</text>
       </register>
       <register name="-" type="4">
-        <text>new RequestListe</text>
+        <text>GlideApp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
