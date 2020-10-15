@@ -120,12 +120,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/6b16ea4e0a54f9eada97779ae33cb4d3223f5d35/okhttp-2.7.5-sources.jar!/com/squareup/okhttp/Response.java" timestamp="1602725030513" />
       <file name="$USER_HOME$/AndroidStudioProjects/gift/gifts/src/main/java/com/planetart/fpgifts/ww/network/InkApiClient.java" timestamp="1602723616485" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylib/build.gradle" timestamp="1602722989340" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ImageUrlInterceptor.java" timestamp="1602728094351">
-        <mark key="'" line="14" column="24" />
-        <mark key="[" line="14" column="65" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="30" />
-        <mark key="^" line="15" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ImageUrlInterceptor.java" timestamp="1602729409844">
+        <mark key="'" line="17" column="41" />
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="18" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/src/main/java/com/example/glidedemo/MyAppGlideModule.java" timestamp="1602669630162">
         <mark key="[" line="32" column="10" />
@@ -138,7 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="752" column="13" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" />
       <jump line="227" column="85" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardSide.java" />
       <jump line="195" column="52" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" />
       <jump line="724" column="10" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" />
@@ -238,6 +237,7 @@
       <jump line="59" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/6b16ea4e0a54f9eada97779ae33cb4d3223f5d35/okhttp-2.7.5-sources.jar!/com/squareup/okhttp/OkHttpClient.java" />
       <jump line="12" column="32" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ImageUrlInterceptor.java" />
       <jump line="13" column="24" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ImageUrlInterceptor.java" />
+      <jump line="16" column="41" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ImageUrlInterceptor.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
