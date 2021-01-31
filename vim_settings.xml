@@ -8,6 +8,7 @@
     <history>
       <history-search>
         <entry encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</entry>
+        <entry>stations</entry>
       </history-search>
       <history-cmd>
         <entry>488</entry>
@@ -82,6 +83,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/a9/Service.java" timestamp="1612067484935" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/im/zuber/android/api/params/room/RoomRentOutParamBuilder.java" timestamp="1612067318584">
+        <mark key="'" line="38" column="18" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/multisig/MultiSignatureViewHolder.java" timestamp="1601013764093">
+        <mark key="[" line="37" column="22" />
+        <mark key="]" line="37" column="33" />
+        <mark key="." line="37" column="32" />
+        <mark key="^" line="37" column="33" />
+      </file>
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/y8/a.java" timestamp="1612067724744" />
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" timestamp="1601013635695">
+        <mark key="'" line="734" column="35" />
+        <mark key="[" line="745" column="58" />
+        <mark key="]" line="745" column="59" />
+        <mark key="^" line="745" column="73" />
+        <mark key="." line="745" column="59" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1601013904598">
+        <mark key="[" line="1329" column="4" />
+        <mark key="]" line="1329" column="4" />
+        <mark key="." line="1329" column="3" />
+        <mark key="^" line="1329" column="4" />
+      </file>
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/fj/s.java" timestamp="1612067950330">
+        <mark key="'" line="149" column="17" />
+      </file>
       <file name="/Dummy.txt" timestamp="1601013182285">
         <mark key="[" line="0" column="0" />
       </file>
@@ -97,44 +125,15 @@
         <mark key="^" line="56" column="49" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/crack/66/dex/11634300/sources/im/zuber/android/api/params/room/RoomRentOutParamBuilder.java" timestamp="1612067004864" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/multisig/MutiSignatureBottomDialog.java" timestamp="1601012259347">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="16" />
-        <mark key="." line="13" column="15" />
-        <mark key="^" line="13" column="16" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/multisig/SignatureScanner.java" timestamp="1601013457056">
         <mark key="[" line="16" column="34" />
         <mark key="]" line="16" column="47" />
         <mark key="." line="16" column="46" />
         <mark key="^" line="16" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/multisig/MultiSignatureViewHolder.java" timestamp="1601013764093">
-        <mark key="[" line="37" column="22" />
-        <mark key="]" line="37" column="33" />
-        <mark key="." line="37" column="32" />
-        <mark key="^" line="37" column="33" />
-      </file>
-      <file name="$USER_HOME$/crack/66/dex/11634300/sources/a9/c.java" timestamp="1612066690601" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" timestamp="1601013635695">
-        <mark key="'" line="734" column="35" />
-        <mark key="[" line="745" column="58" />
-        <mark key="]" line="745" column="59" />
-        <mark key="^" line="745" column="73" />
-        <mark key="." line="745" column="59" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/cardview/UkCardView.java" timestamp="1601013904598">
-        <mark key="[" line="1329" column="4" />
-        <mark key="]" line="1329" column="4" />
-        <mark key="." line="1329" column="3" />
-        <mark key="^" line="1329" column="4" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/util/KeyboardUtils.java" timestamp="1601011811862">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/im/zuber/app/controller/fragments/HomePageFragment.java" timestamp="1612067215565" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/a9/c.java" timestamp="1612067424276">
+        <mark key="[" line="28" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/MultiSignatureAdapter.java" timestamp="1601013773902">
         <mark key="[" line="33" column="20" />
@@ -142,16 +141,12 @@
         <mark key="^" line="33" column="47" />
         <mark key="." line="33" column="46" />
       </file>
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/im/zuber/app/controller/filter/LocationFilterView.java" timestamp="1612067660453" />
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" timestamp="1601013912778">
         <mark key="'" line="74" column="0" />
         <mark key="[" line="73" column="5" />
       </file>
       <file name="$USER_HOME$/crack/66/dex/11634300/sources/im/zuber/app/controller/activitys/roombed/BedQueryActivity.java" timestamp="1612066815079" />
-      <file name="$USER_HOME$/AndroidStudioProjects/fcuk/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/util/device/DeviceUtil.java" timestamp="1601011333867">
-        <mark key="[" line="97" column="32" />
-        <mark key="]" line="97" column="32" />
-        <mark key="." line="97" column="32" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/multisig/MultiSignatureBottomDialog.java" timestamp="1601013561120">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -160,10 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="61" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/screens/contacts/fragments/ContactsFragment.java" />
-      <jump line="1412" column="29" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeFragment.java" />
-      <jump line="482" column="14" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" />
-      <jump line="271" column="8" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" />
       <jump line="297" column="4" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeMessageFragment.java" />
       <jump line="174" column="0" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/InkCardCustomizeMessageFragment.java" />
       <jump line="1254" column="52" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardView.java" />
@@ -260,6 +251,10 @@
       <jump line="139" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/util/KeyboardUtils.java" />
       <jump line="734" column="35" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/screens/ukcustomize/UkCardCustomizeFragment.java" />
       <jump line="74" column="0" filename="$USER_HOME$/AndroidStudioProjects/fcuk/fcuk/src/main/java/com/sincerely/android/ink/views/CardCustomizerView.java" />
+      <jump line="47" column="31" filename="$USER_HOME$/crack/66/dex/11634300/sources/im/zuber/android/api/params/room/RoomRentOutParamBuilder.java" />
+      <jump line="87" column="36" filename="$USER_HOME$/crack/66/dex/11634300/sources/im/zuber/android/api/params/room/RoomRentOutParamBuilder.java" />
+      <jump line="38" column="18" filename="$USER_HOME$/crack/66/dex/11634300/sources/im/zuber/android/api/params/room/RoomRentOutParamBuilder.java" />
+      <jump line="149" column="17" filename="$USER_HOME$/crack/66/dex/11634300/sources/fj/s.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -288,7 +283,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</text>
+        <text>stations</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIG1TZXNzaW9uLnNldFNpZ25hdHVyZUJpdG1hcFBhdGgobVNlc3Npb24uZ2V0U2lnbmF0dXJlQml0bWFwUGF0aCgpKTsKLy8gICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KGNvbnRleHQsIFNpZ25hdHVyZUFjdGl2aXR5LmNsYXNzKTsKLy8gICAgICAgIGNvbnRleHQuc3RhcnRBY3Rpdml0eShpbnRlbnQpOwo=</text>
@@ -327,12 +322,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</last-search>
+      <last-search>stations</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</last-pattern>
+      <last-pattern>stations</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
