@@ -8,29 +8,18 @@
     <history>
       <history-search>
         <entry encoding="base64">XDxVa0luc2lkZVRleHRWaWV3XD4=</entry>
-        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry>stations</entry>
       </history-search>
       <history-cmd>
+        <entry>488</entry>
+        <entry>source $MYVIMRC</entry>
+        <entry>w</entry>
         <entry encoding="base64">JzwsJz4zNDE=</entry>
         <entry>341</entry>
         <entry>171</entry>
         <entry>807</entry>
         <entry>729</entry>
         <entry>276</entry>
-        <entry>w</entry>
-        <entry>447</entry>
-        <entry>43</entry>
-        <entry>86</entry>
-        <entry>96</entry>
-        <entry>378</entry>
-        <entry>122</entry>
-        <entry>84</entry>
-        <entry>147</entry>
-        <entry>118</entry>
-        <entry>167</entry>
-        <entry>246</entry>
-        <entry>1151</entry>
-        <entry>source $MYVIMRC</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -94,22 +83,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibFCUK/build.gradle" timestamp="1602745202024" />
-      <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/build.gradle" timestamp="1602743335155">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="4" />
-        <mark key="]" line="36" column="7" />
-        <mark key="^" line="36" column="7" />
-        <mark key="." line="36" column="6" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/a9/c.java" timestamp="1612067424276">
+        <mark key="[" line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/build.gradle" timestamp="1602744643694">
-        <mark key="'" line="53" column="22" />
-        <mark key="[" line="264" column="54" />
-        <mark key="]" line="265" column="69" />
-        <mark key="." line="265" column="68" />
-        <mark key="^" line="265" column="69" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/network/ApiClient.java" timestamp="1602746026686" />
       <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/dagger/MyInkGliderModule.java" timestamp="1602746051861">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="69" column="0" />
@@ -117,58 +93,49 @@
         <mark key="^" line="73" column="16" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/proguard-rules.pro" timestamp="1602744965525" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/dagger/Glider.java" timestamp="1602742949346">
-        <mark key="[" line="28" column="66" />
-        <mark key="]" line="28" column="66" />
-        <mark key="^" line="28" column="66" />
-        <mark key="." line="28" column="65" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/a9/Service.java" timestamp="1612067484935" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/im/zuber/android/api/params/room/RoomRentOutParamBuilder.java" timestamp="1612067318584">
+        <mark key="'" line="38" column="18" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.11.0/67b893a3db14cd9e9bdc2cc10ae40d25d95821de/annotations-4.11.0-sources.jar!/com/bumptech/glide/annotation/GlideModule.java" timestamp="1602742707716" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylib/build.gradle" timestamp="1602745424531" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/okhttp3-integration/4.11.0/785a6c2e02e265af842ea08ab41aecbcc64bb2c1/okhttp3-integration-4.11.0-sources.jar!/com/bumptech/glide/integration/okhttp3/OkHttpLibraryGlideModule.java" timestamp="1602742362574" />
-      <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/src/main/java/com/example/glidedemo/MyAppGlideModule.java" timestamp="1602743173152">
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="32" column="11" />
-        <mark key="^" line="32" column="11" />
-        <mark key="." line="32" column="10" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/y8/g.java" timestamp="1612072184068" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/m9/o.java" timestamp="1612070793801" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/y8/a.java" timestamp="1612068450332">
+        <mark key="[" line="224" column="56" />
+        <mark key="]" line="225" column="28" />
+        <mark key="^" line="225" column="28" />
+        <mark key="." line="225" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GlideDemo/app/src/main/java/com/example/glidedemo/MainActivity.java" timestamp="1602743486111">
-        <mark key="[" line="35" column="9" />
-        <mark key="]" line="36" column="22" />
-        <mark key="^" line="36" column="22" />
-        <mark key="." line="36" column="21" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/fi/f0.java" timestamp="1612068185695">
+        <mark key="'" line="568" column="17" />
+        <mark key="[" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/module/LibraryGlideModule.java" timestamp="1602743047453" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/module/AppGlideModule.java" timestamp="1602744984366" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/settings.gradle" timestamp="1602742851924">
-        <mark key="[" line="0" column="100" />
-        <mark key="]" line="0" column="100" />
-        <mark key="." line="0" column="100" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/fi/y.java" timestamp="1612071571542" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/fj/s.java" timestamp="1612067950330">
+        <mark key="'" line="147" column="17" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/src/main/java/com/sincerely/lib/dagger/NetworkModule.java" timestamp="1602742157067">
-        <mark key="[" line="36" column="67" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="37" column="0" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/fi/OkHttpClient.java" timestamp="1612068359475">
+        <mark key="[" line="374" column="31" />
+        <mark key="]" line="563" column="17" />
+        <mark key="^" line="563" column="17" />
+        <mark key="." line="563" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/build/generated/ap_generated_sources/debug/out/com/bumptech/glide/GeneratedAppGlideModuleImpl.java" timestamp="1602744933216" />
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/util/MyAppGlideModule.java" timestamp="1602745379368">
-        <mark key="[" line="22" column="43" />
-        <mark key="]" line="36" column="13" />
-        <mark key="^" line="36" column="13" />
-        <mark key="." line="36" column="12" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/y8/c.java" timestamp="1612072344142">
+        <mark key="[" line="153" column="56" />
+        <mark key="]" line="154" column="29" />
+        <mark key="^" line="154" column="29" />
+        <mark key="." line="154" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1602743838345">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/fi/h0.java" timestamp="1612071877196" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/im/zuber/app/controller/fragments/HomePageFragment.java" timestamp="1612067215565" />
+      <file name="$USER_HOME$/code/liuliu/src/main/java/GenerateOAuth.java" timestamp="1612072093379">
+        <mark key="'" line="41" column="31" />
+        <mark key="[" line="12" column="51" />
+        <mark key="]" line="14" column="55" />
+        <mark key="." line="14" column="54" />
+        <mark key="^" line="14" column="55" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/synergy-android/libraries/sincerelylibInk/build.gradle" timestamp="1602745407344">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="54" column="54" />
-        <mark key="]" line="55" column="69" />
-        <mark key="^" line="55" column="69" />
-        <mark key="." line="55" column="68" />
-      </file>
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/im/zuber/app/controller/filter/LocationFilterView.java" timestamp="1612067660453" />
+      <file name="$USER_HOME$/crack/66/dex/11634300/sources/im/zuber/app/controller/activitys/roombed/BedQueryActivity.java" timestamp="1612066815079" />
     </filemarks>
     <jumps>
       <jump line="619" column="9" filename="$USER_HOME$/AndroidStudioProjects/synergy-android/ink/src/main/java/com/sincerely/android/ink/screens/cardcustomize/cardview/InkCardFrontView.java" />
@@ -283,7 +250,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>provide</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -296,7 +263,7 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICBidWlsZGVyLmFkZEdsb2JhbFJlcXVlc3RMaXN0ZW5lcihuZXcgUmVxdWVzdExpc3RlbmVyPE9iamVjdD4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBvbkxvYWRGYWlsZWQoQE51bGxhYmxlIEdsaWRlRXhjZXB0aW9uIGUsIE9iamVjdCBtb2RlbCwgVGFyZ2V0PE9iamVjdD4gdGFyZ2V0LCBib29sZWFuIGlzRmlyc3RSZXNvdXJjZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gb25SZXNvdXJjZVJlYWR5KE9iamVjdCByZXNvdXJjZSwgT2JqZWN0IG1vZGVsLCBUYXJnZXQ8T2JqZWN0PiB0YXJnZXQsIERhdGFTb3VyY2UgZGF0YVNvdXJjZSwgYm9vbGVhbiBpc0ZpcnN0UmVzb3VyY2UpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTs=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
