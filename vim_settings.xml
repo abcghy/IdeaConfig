@@ -85,71 +85,62 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/f/l/b/d/a/j.java" timestamp="1615216193756">
-        <mark key="'" line="37" column="32" />
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/f/l/c/a/a/f2.java" timestamp="1615216212572">
+        <mark key="'" line="954" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1613567963130">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/MNNNetInstance.java" timestamp="1615218892618">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/f/l/c/b/n/c.java" timestamp="1615215735993">
-        <mark key="'" line="32" column="47" />
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/f/e/a/n/n/i.java" timestamp="1615217286478">
+        <mark key="'" line="314" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/ExecutorDemo.java" timestamp="1615046969782">
-        <mark key="'" line="21" column="34" />
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="27" />
-        <mark key="." line="10" column="27" />
-        <mark key="^" line="21" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/UnsafeDemo.java" timestamp="1615695626445">
+        <mark key="'" line="16" column="11" />
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="23" column="43" />
+        <mark key="." line="23" column="42" />
+        <mark key="^" line="23" column="43" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/third_party/thriftpy/_shaded_thriftpy/_compat.py" timestamp="1613567981011">
-        <mark key="[" line="121" column="12" />
-        <mark key="]" line="121" column="13" />
-        <mark key="." line="121" column="12" />
-        <mark key="^" line="121" column="13" />
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/MNNForwardType.java" timestamp="1615218805155">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="14" column="26" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1615695070506">
+        <mark key="'" line="1829" column="4" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java" timestamp="1615695099169" />
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/f/l/c/a/a/z2.java" timestamp="1615216210850">
         <mark key="'" line="436" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/Test.kt" timestamp="1615044694312">
-        <mark key="[" line="62" column="7" />
-        <mark key="]" line="62" column="5" />
-        <mark key="^" line="62" column="5" />
-        <mark key="." line="62" column="4" />
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/Unknown.java" timestamp="1615218898807">
+        <mark key="]" line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/3.9.1/lib/python3.9/calendar.py" timestamp="1613568790493">
-        <mark key="'" line="626" column="9" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/budget/get_holiday_and_workday.py" timestamp="1613571389769">
-        <mark key="'" line="60" column="18" />
-        <mark key="[" line="68" column="20" />
-        <mark key="]" line="68" column="22" />
-        <mark key="." line="68" column="21" />
-        <mark key="^" line="68" column="22" />
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/a.java" timestamp="1615218792615">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="12" />
       </file>
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/f/l/c/a/a/u2.java" timestamp="1615216208424">
         <mark key="'" line="481" column="16" />
       </file>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/e/b/a/l.java" timestamp="1615216198714">
-        <mark key="'" line="37" column="23" />
-      </file>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/f/l/c/a/a/f2.java" timestamp="1615216212572">
-        <mark key="'" line="954" column="15" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/datetime.pyi" timestamp="1613568579980">
-        <mark key="'" line="287" column="8" />
-      </file>
-      <file name="$USER_HOME$/code/chinese_stock/main.py" timestamp="1613562131165">
-        <mark key="'" line="77" column="14" />
-        <mark key="[" line="62" column="25" />
-        <mark key="]" line="62" column="26" />
-        <mark key="." line="62" column="26" />
-        <mark key="^" line="63" column="19" />
-      </file>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/c.java" timestamp="1615215692982">
-        <mark key="'" line="83" column="8" />
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/c.java" timestamp="1615218924134">
+        <mark key="'" line="44" column="12" />
+        <mark key="[" line="5" column="14" />
       </file>
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/f/l/c/a/a/e3.java" timestamp="1615217015781">
         <mark key="'" line="448" column="4" />
+      </file>
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/ai/ll/detector/mnn/MNNNetNative.java" timestamp="1615218613786">
+        <mark key="'" line="45" column="4" />
       </file>
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/o/a/a/a/c/b.java" timestamp="1615216964832">
         <mark key="'" line="592" column="50" />
@@ -158,29 +149,28 @@
         <mark key="^" line="68" column="23" />
         <mark key="." line="68" column="22" />
       </file>
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/MNNNetInstance.java" timestamp="1615219203711">
+        <mark key="'" line="25" column="38" />
+        <mark key="[" line="76" column="23" />
+        <mark key="]" line="76" column="30" />
+        <mark key="." line="76" column="29" />
+        <mark key="^" line="76" column="30" />
+      </file>
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/a.java" timestamp="1615218662178">
+        <mark key="'" line="82" column="33" />
+        <mark key="[" line="8" column="36" />
+      </file>
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/b.java" timestamp="1615218827802">
+        <mark key="'" line="1102" column="28" />
+      </file>
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/o/a/a/a/c/h.java" timestamp="1615216960615">
         <mark key="[" line="124" column="16" />
         <mark key="]" line="124" column="25" />
         <mark key="^" line="124" column="25" />
         <mark key="." line="124" column="24" />
       </file>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/f/l/c/a/a/g2.java" timestamp="1615216191662">
-        <mark key="'" line="26" column="24" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="55" filename="$USER_HOME$/code/mutijumppythonnode/venv/lib/python3.7/site-packages/sqlalchemy/engine/__init__.py" />
-      <jump line="91" column="19" filename="$USER_HOME$/code/mutijumppythonnode/core/core.py" />
-      <jump line="4" column="10" filename="$USER_HOME$/code/mutijumppythonnode/test/dbtest.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/code/mutijumppythonnode/test/dbtest.py" />
-      <jump line="14" column="34" filename="$USER_HOME$/code/mutijumppythonnode/model/task.py" />
-      <jump line="19" column="111" filename="$USER_HOME$/code/mutijumppythonnode/node.log" />
-      <jump line="944" column="18" filename="$USER_HOME$/code/mutijumppythonnode/node.log" />
-      <jump line="15" column="32" filename="$USER_HOME$/code/leetcode2/SuperEggDrop.py" />
-      <jump line="38" column="18" filename="$USER_HOME$/code/leetcode2/SuperEggDrop.py" />
-      <jump line="45" column="18" filename="$USER_HOME$/code/leetcode2/SuperEggDrop.py" />
-      <jump line="40" column="33" filename="$USER_HOME$/code/leetcode2/SuperEggDrop.py" />
-      <jump line="1" column="11" filename="$USER_HOME$/code/leetcode2/ContainerWithMostWater.py" />
       <jump line="27" column="20" filename="$USER_HOME$/code/leetcode2/3sum.py" />
       <jump line="4" column="0" filename="$USER_HOME$/code/leetcode2/3sum.py" />
       <jump line="2" column="8" filename="$USER_HOME$/code/leetcode2/LetterCombinationsofaPhoneNumber.py" />
@@ -269,6 +259,18 @@
       <jump line="116" column="11" filename="$USER_HOME$/com.gkid.crazyrope/sources/o/a/a/a/c/b.java" />
       <jump line="581" column="47" filename="$USER_HOME$/com.gkid.crazyrope/sources/o/a/a/a/c/b.java" />
       <jump line="592" column="50" filename="$USER_HOME$/com.gkid.crazyrope/sources/o/a/a/a/c/b.java" />
+      <jump line="314" column="19" filename="$USER_HOME$/com.gkid.crazyrope/sources/f/e/a/n/n/i.java" />
+      <jump line="45" column="4" filename="$USER_HOME$/com.gkid.crazyrope/sources/ai/ll/detector/mnn/MNNNetNative.java" />
+      <jump line="82" column="33" filename="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/a.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/MNNNetInstance.java" />
+      <jump line="8" column="18" filename="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/MNNNetInstance.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/MNNNetInstance.java" />
+      <jump line="1106" column="28" filename="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/b.java" />
+      <jump line="44" column="12" filename="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/c.java" />
+      <jump line="25" column="38" filename="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/MNNNetInstance.java" />
+      <jump line="1829" column="4" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="7" column="80" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/UnsafeDemo.java" />
+      <jump line="16" column="11" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/UnsafeDemo.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -281,7 +283,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>娱乐</text>
+        <text>old</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -294,7 +296,7 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICBidWlsZGVyLmFkZEdsb2JhbFJlcXVlc3RMaXN0ZW5lcihuZXcgUmVxdWVzdExpc3RlbmVyPE9iamVjdD4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBvbkxvYWRGYWlsZWQoQE51bGxhYmxlIEdsaWRlRXhjZXB0aW9uIGUsIE9iamVjdCBtb2RlbCwgVGFyZ2V0PE9iamVjdD4gdGFyZ2V0LCBib29sZWFuIGlzRmlyc3RSZXNvdXJjZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gb25SZXNvdXJjZVJlYWR5KE9iamVjdCByZXNvdXJjZSwgT2JqZWN0IG1vZGVsLCBUYXJnZXQ8T2JqZWN0PiB0YXJnZXQsIERhdGFTb3VyY2UgZGF0YVNvdXJjZSwgYm9vbGVhbiBpc0ZpcnN0UmVzb3VyY2UpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>娱乐</text>
+        <text>old</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -306,28 +308,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoZicnKQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KGxpbmUuZW5jb2RlKCd1dGYtOCcpKQogICAgICAgICMgcHJpbnQobGluZSkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpbnQoZicnKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">bW9udGhfaG9saWRheSA9IDAKbW9udGhfZmlsbCA9IHN0cihtb250aCkuemZpbGwoMikKZm9yIGxpbmUgaW4gaG9saWRheV9yZXN1bHQuc3BsaXRsaW5lcygpOgogICAgaWYgbGluZS5pc3NwYWNlKCkgb3IgbGluZSA9PSAnJzoKICAgICAgICBjb250aW51ZQogICAgIyBwcmludChsaW5lLmVuY29kZSgndXRmLTgnKSkKICAgICMgcHJpbnQobGluZSkKICAgIGlmIGxpbmUuc3RhcnRzd2l0aChtb250aF9maWxsKToKICAgICAgICBtb250aF9ob2xpZGF5ICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KGxpbmUuZW5jb2RlKCd1dGYtOCcpKQogICAgICAgICMgcHJpbnQobGluZSkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bW9udGhfaG9saWRheSA9IDAKbW9udGhfZmlsbCA9IHN0cihtb250aCkuemZpbGwoMikKZm9yIGxpbmUgaW4gaG9saWRheV9yZXN1bHQuc3BsaXRsaW5lcygpOgogICAgaWYgbGluZS5pc3NwYWNlKCkgb3IgbGluZSA9PSAnJzoKICAgICAgICBjb250aW51ZQogICAgIyBwcmludChsaW5lLmVuY29kZSgndXRmLTgnKSkKICAgICMgcHJpbnQobGluZSkKICAgIGlmIGxpbmUuc3RhcnRzd2l0aChtb250aF9maWxsKToKICAgICAgICBtb250aF9ob2xpZGF5ICs9IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
