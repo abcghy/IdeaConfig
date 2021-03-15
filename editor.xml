@@ -1,7 +1,7 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
-    <option name="FONT_FAMILY" value="Fira Code Retina" />
+    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_FAMILY" value="Sarasa Mono SC" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Courier New" />
   </component>
@@ -16,8 +16,8 @@
     <pattern pattern="\btodo\b.*i18n" />
     <pattern pattern="\btodo\b.*Harry" />
     <filter name="mine">
-      <pattern index="2" />
       <pattern index="4" />
+      <pattern index="2" />
     </filter>
     <filter name="i18n">
       <pattern index="3" />
