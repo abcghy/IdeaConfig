@@ -92,12 +92,15 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/UnsafeDemo.java" timestamp="1615703766000">
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/UnsafeDemo.java" timestamp="1615906291858">
         <mark key="'" line="32" column="29" />
         <mark key="[" line="31" column="43" />
         <mark key="]" line="32" column="33" />
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="33" />
+      </file>
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/f/e/a/n/n/i.java" timestamp="1615217286478">
+        <mark key="'" line="314" column="19" />
       </file>
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/MNNForwardType.java" timestamp="1615218805155">
         <mark key="[" line="14" column="24" />
@@ -110,21 +113,13 @@
         <mark key="[" line="1243" column="19" />
         <mark key="]" line="1243" column="29" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java" timestamp="1615704046679" />
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/MNNNetInstance.java" timestamp="1615219203711">
-        <mark key="'" line="25" column="38" />
-        <mark key="[" line="76" column="23" />
-        <mark key="]" line="76" column="30" />
-        <mark key="." line="76" column="29" />
-        <mark key="^" line="76" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" timestamp="1615909179970">
+        <mark key="'" line="15" column="25" />
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/b.java" timestamp="1615218827802">
-        <mark key="'" line="1102" column="28" />
-      </file>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/f/e/a/n/n/i.java" timestamp="1615217286478">
-        <mark key="'" line="314" column="19" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java" timestamp="1615695099169" />
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/Unknown.java" timestamp="1615218898807">
         <mark key="]" line="9" column="29" />
         <mark key="^" line="9" column="29" />
@@ -149,29 +144,34 @@
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/ai/ll/detector/mnn/MNNNetNative.java" timestamp="1615218613786">
         <mark key="'" line="45" column="4" />
       </file>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/o/a/a/a/c/b.java" timestamp="1615216964832">
-        <mark key="'" line="592" column="50" />
-        <mark key="[" line="68" column="23" />
-        <mark key="]" line="68" column="23" />
-        <mark key="^" line="68" column="23" />
-        <mark key="." line="68" column="22" />
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/MNNNetInstance.java" timestamp="1615219203711">
+        <mark key="'" line="25" column="38" />
+        <mark key="[" line="76" column="23" />
+        <mark key="]" line="76" column="30" />
+        <mark key="." line="76" column="29" />
+        <mark key="^" line="76" column="30" />
       </file>
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/a.java" timestamp="1615218662178">
         <mark key="'" line="82" column="33" />
         <mark key="[" line="8" column="36" />
       </file>
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/b.java" timestamp="1615218827802">
+        <mark key="'" line="1102" column="28" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" timestamp="1615712924257">
         <mark key="'" line="456" column="13" />
       </file>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/o/a/a/a/c/h.java" timestamp="1615216960615">
-        <mark key="[" line="124" column="16" />
-        <mark key="]" line="124" column="25" />
-        <mark key="^" line="124" column="25" />
-        <mark key="." line="124" column="24" />
+      <file name="/fragment.java" timestamp="1615908782103">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/HeapOOM.java" timestamp="1615908549234">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="9" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="5" filename="$USER_HOME$/code/chinese_stock/main.py" />
       <jump line="66" column="11" filename="$USER_HOME$/code/chinese_stock/main.py" />
       <jump line="2" column="18" filename="$USER_HOME$/code/chinese_stock/main.py" />
       <jump line="80" column="2" filename="$USER_HOME$/code/chinese_stock/main.py" />
@@ -271,6 +271,7 @@
       <jump line="1199" column="23" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
       <jump line="2312" column="22" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
       <jump line="1144" column="0" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/sun/misc/Unsafe.java" />
+      <jump line="12" column="25" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -283,7 +284,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>interrupted</text>
+        <text>i=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -296,7 +297,7 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICBidWlsZGVyLmFkZEdsb2JhbFJlcXVlc3RMaXN0ZW5lcihuZXcgUmVxdWVzdExpc3RlbmVyPE9iamVjdD4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBvbkxvYWRGYWlsZWQoQE51bGxhYmxlIEdsaWRlRXhjZXB0aW9uIGUsIE9iamVjdCBtb2RlbCwgVGFyZ2V0PE9iamVjdD4gdGFyZ2V0LCBib29sZWFuIGlzRmlyc3RSZXNvdXJjZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gb25SZXNvdXJjZVJlYWR5KE9iamVjdCByZXNvdXJjZSwgT2JqZWN0IG1vZGVsLCBUYXJnZXQ8T2JqZWN0PiB0YXJnZXQsIERhdGFTb3VyY2UgZGF0YVNvdXJjZSwgYm9vbGVhbiBpc0ZpcnN0UmVzb3VyY2UpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;thread1&quot;</text>
+        <text>i=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -305,28 +306,28 @@
         <text>interrupted</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGkgPSAwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaSsrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoZicnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KGxpbmUuZW5jb2RlKCd1dGYtOCcpKQogICAgICAgICMgcHJpbnQobGluZSkK</text>
+        <text encoding="base64">ICAgICAgICB1bnVzZWQwID0gdW51c2VkMSA9IHVudXNlZDIgPSB1bnVzZWQzID0gMTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9udGhfaG9saWRheSA9IDAKbW9udGhfZmlsbCA9IHN0cihtb250aCkuemZpbGwoMikKZm9yIGxpbmUgaW4gaG9saWRheV9yZXN1bHQuc3BsaXRsaW5lcygpOgogICAgaWYgbGluZS5pc3NwYWNlKCkgb3IgbGluZSA9PSAnJzoKICAgICAgICBjb250aW51ZQogICAgIyBwcmludChsaW5lLmVuY29kZSgndXRmLTgnKSkKICAgICMgcHJpbnQobGluZSkKICAgIGlmIGxpbmUuc3RhcnRzd2l0aChtb250aF9maWxsKToKICAgICAgICBtb250aF9ob2xpZGF5ICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
