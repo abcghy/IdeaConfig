@@ -99,9 +99,6 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/f/e/a/n/n/i.java" timestamp="1615217286478">
-        <mark key="'" line="314" column="19" />
-      </file>
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/MNNForwardType.java" timestamp="1615218805155">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="14" column="27" />
@@ -113,12 +110,12 @@
         <mark key="[" line="1243" column="19" />
         <mark key="]" line="1243" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" timestamp="1615983718176">
-        <mark key="'" line="31" column="15" />
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="31" column="24" />
-        <mark key="." line="31" column="24" />
-        <mark key="^" line="31" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" timestamp="1615985273574">
+        <mark key="'" line="42" column="26" />
+        <mark key="[" line="44" column="115" />
+        <mark key="]" line="45" column="42" />
+        <mark key="." line="45" column="41" />
+        <mark key="^" line="45" column="42" />
       </file>
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/Unknown.java" timestamp="1615218898807">
         <mark key="]" line="9" column="29" />
@@ -134,12 +131,15 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Sort/build.gradle" timestamp="1615984834150">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="18" />
+        <mark key="^" line="23" column="18" />
+        <mark key="." line="23" column="17" />
+      </file>
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/c.java" timestamp="1615218924134">
         <mark key="'" line="44" column="12" />
         <mark key="[" line="5" column="14" />
-      </file>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/f/l/c/a/a/e3.java" timestamp="1615217015781">
-        <mark key="'" line="448" column="4" />
       </file>
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/ai/ll/detector/mnn/MNNNetNative.java" timestamp="1615218613786">
         <mark key="'" line="45" column="4" />
@@ -158,28 +158,27 @@
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/b.java" timestamp="1615218827802">
         <mark key="'" line="1102" column="28" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/Enhancer.java" timestamp="1615985255735">
+        <mark key="'" line="224" column="34" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/MethodProxy.java" timestamp="1615985151622">
+        <mark key="'" line="227" column="27" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" timestamp="1615712924257">
         <mark key="'" line="456" column="13" />
       </file>
       <file name="/fragment.java" timestamp="1615908782103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/HeapOOM.java" timestamp="1615908549234">
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/HeapOOM.java" timestamp="1615984935014">
         <mark key="[" line="9" column="37" />
         <mark key="]" line="9" column="38" />
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="37" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/MethodInterceptor.java" timestamp="1615985125629" />
     </filemarks>
     <jumps>
-      <jump line="2" column="18" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="80" column="2" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="33" column="20" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="58" column="17" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="23" column="4" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="7" column="31" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="8" column="22" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="81" column="11" filename="$USER_HOME$/code/chinese_stock/main.py" />
       <jump line="74" column="18" filename="$USER_HOME$/code/chinese_stock/main.py" />
       <jump line="17" column="13" filename="$USER_HOME$/code/chinese_stock/main.py" />
       <jump line="61" column="4" filename="$USER_HOME$/code/chinese_stock/main.py" />
@@ -272,6 +271,14 @@
       <jump line="1144" column="0" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/sun/misc/Unsafe.java" />
       <jump line="12" column="25" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" />
       <jump line="31" column="15" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" />
+      <jump line="35" column="38" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" />
+      <jump line="172" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/Enhancer.java" />
+      <jump line="70" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/Enhancer.java" />
+      <jump line="43" column="22" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" />
+      <jump line="227" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/MethodProxy.java" />
+      <jump line="44" column="22" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" />
+      <jump line="42" column="26" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" />
+      <jump line="224" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/Enhancer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -284,7 +291,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>null</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -297,7 +304,7 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICBidWlsZGVyLmFkZEdsb2JhbFJlcXVlc3RMaXN0ZW5lcihuZXcgUmVxdWVzdExpc3RlbmVyPE9iamVjdD4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBvbkxvYWRGYWlsZWQoQE51bGxhYmxlIEdsaWRlRXhjZXB0aW9uIGUsIE9iamVjdCBtb2RlbCwgVGFyZ2V0PE9iamVjdD4gdGFyZ2V0LCBib29sZWFuIGlzRmlyc3RSZXNvdXJjZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gb25SZXNvdXJjZVJlYWR5KE9iamVjdCByZXNvdXJjZSwgT2JqZWN0IG1vZGVsLCBUYXJnZXQ8T2JqZWN0PiB0YXJnZXQsIERhdGFTb3VyY2UgZGF0YVNvdXJjZSwgYm9vbGVhbiBpc0ZpcnN0UmVzb3VyY2UpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -305,32 +312,32 @@
       <register name="0" type="4">
         <text>interrupted</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGkgPSAwOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">KE1ldGhvZEludGVyY2VwdG9yKSAob2JqLCBtZXRob2QsIGFyZ3MxLCBwcm94eSkgLT4gewogICAgICAgICAgICBwcm94eS5pbnZva2VTdXBlcihvYmosIGFyZ3MxKTsKICAgICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaSsrOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGkgPSAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaSsrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1bnVzZWQwID0gdW51c2VkMSA9IHVudXNlZDIgPSB1bnVzZWQzID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1bnVzZWQwID0gdW51c2VkMSA9IHVudXNlZDIgPSB1bnVzZWQzID0gMTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
