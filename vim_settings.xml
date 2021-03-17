@@ -85,6 +85,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/DirectMemoryOOM.java" timestamp="1615986153135">
+        <mark key="'" line="8" column="22" />
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="15" />
+      </file>
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/MNNNetInstance.java" timestamp="1615218892618">
         <mark key="'" line="86" column="0" />
         <mark key="[" line="9" column="23" />
@@ -92,6 +99,7 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="35" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/lang/Class.java" timestamp="1615985996676" />
       <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/UnsafeDemo.java" timestamp="1615906291858">
         <mark key="'" line="32" column="29" />
         <mark key="[" line="31" column="43" />
@@ -110,20 +118,24 @@
         <mark key="[" line="1243" column="19" />
         <mark key="]" line="1243" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" timestamp="1615985273574">
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" timestamp="1615985369136">
         <mark key="'" line="42" column="26" />
-        <mark key="[" line="44" column="115" />
-        <mark key="]" line="45" column="42" />
-        <mark key="." line="45" column="41" />
-        <mark key="^" line="45" column="42" />
+        <mark key="[" line="50" column="46" />
+        <mark key="]" line="51" column="44" />
+        <mark key="." line="51" column="43" />
+        <mark key="^" line="51" column="44" />
       </file>
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/Unknown.java" timestamp="1615218898807">
         <mark key="]" line="9" column="29" />
         <mark key="^" line="9" column="29" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/sun/misc/Unsafe.java" timestamp="1615712834299">
+      <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/sun/misc/Unsafe.java" timestamp="1615986133174">
         <mark key="'" line="1144" column="0" />
+        <mark key="[" line="53" column="32" />
+        <mark key="]" line="53" column="40" />
+        <mark key="^" line="86" column="25" />
+        <mark key="." line="86" column="24" />
       </file>
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/a.java" timestamp="1615218792615">
         <mark key="[" line="2" column="13" />
@@ -141,19 +153,12 @@
         <mark key="'" line="44" column="12" />
         <mark key="[" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/ai/ll/detector/mnn/MNNNetNative.java" timestamp="1615218613786">
-        <mark key="'" line="45" column="4" />
-      </file>
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/MNNNetInstance.java" timestamp="1615219203711">
         <mark key="'" line="25" column="38" />
         <mark key="[" line="76" column="23" />
         <mark key="]" line="76" column="30" />
         <mark key="." line="76" column="29" />
         <mark key="^" line="76" column="30" />
-      </file>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/a.java" timestamp="1615218662178">
-        <mark key="'" line="82" column="33" />
-        <mark key="[" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/b.java" timestamp="1615218827802">
         <mark key="'" line="1102" column="28" />
@@ -167,7 +172,7 @@
       <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" timestamp="1615712924257">
         <mark key="'" line="456" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1615908782103">
+      <file name="/fragment.java" timestamp="1615986188874">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/HeapOOM.java" timestamp="1615984935014">
@@ -179,8 +184,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/MethodInterceptor.java" timestamp="1615985125629" />
     </filemarks>
     <jumps>
-      <jump line="74" column="18" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="17" column="13" filename="$USER_HOME$/code/chinese_stock/main.py" />
       <jump line="61" column="4" filename="$USER_HOME$/code/chinese_stock/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/chinese_stock/main.py" />
       <jump line="35" column="84" filename="$USER_HOME$/code/chinese_stock/main.py" />
@@ -279,6 +282,8 @@
       <jump line="44" column="22" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" />
       <jump line="42" column="26" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" />
       <jump line="224" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/Enhancer.java" />
+      <jump line="6" column="28" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/DirectMemoryOOM.java" />
+      <jump line="8" column="22" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/DirectMemoryOOM.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -291,7 +296,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>getUnsafe</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -304,13 +309,13 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICBidWlsZGVyLmFkZEdsb2JhbFJlcXVlc3RMaXN0ZW5lcihuZXcgUmVxdWVzdExpc3RlbmVyPE9iamVjdD4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBvbkxvYWRGYWlsZWQoQE51bGxhYmxlIEdsaWRlRXhjZXB0aW9uIGUsIE9iamVjdCBtb2RlbCwgVGFyZ2V0PE9iamVjdD4gdGFyZ2V0LCBib29sZWFuIGlzRmlyc3RSZXNvdXJjZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gb25SZXNvdXJjZVJlYWR5KE9iamVjdCByZXNvdXJjZSwgT2JqZWN0IG1vZGVsLCBUYXJnZXQ8T2JqZWN0PiB0YXJnZXQsIERhdGFTb3VyY2UgZGF0YVNvdXJjZSwgYm9vbGVhbiBpc0ZpcnN0UmVzb3VyY2UpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>getUnsafe</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>interrupted</text>
+        <text>theUnsafe</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">KE1ldGhvZEludGVyY2VwdG9yKSAob2JqLCBtZXRob2QsIGFyZ3MxLCBwcm94eSkgLT4gewogICAgICAgICAgICBwcm94eS5pbnZva2VTdXBlcihvYmosIGFyZ3MxKTsKICAgICAgICB9</text>
