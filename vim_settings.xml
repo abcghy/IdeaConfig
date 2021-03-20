@@ -38,7 +38,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -85,149 +85,105 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Untitled.ipynb" timestamp="1613322101097">
-        <mark key="'" line="57" column="19" />
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/MNNNetInstance.java" timestamp="1615218892618">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="35" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/UnsafeDemo.java" timestamp="1615906291858">
+        <mark key="'" line="32" column="29" />
+        <mark key="[" line="31" column="43" />
+        <mark key="]" line="32" column="33" />
+        <mark key="." line="32" column="32" />
+        <mark key="^" line="32" column="33" />
+      </file>
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/MNNForwardType.java" timestamp="1615218805155">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="14" column="26" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1615717731890">
+        <mark key="'" line="2312" column="22" />
+        <mark key="[" line="1243" column="19" />
+        <mark key="]" line="1243" column="29" />
+      </file>
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/MNNNetInstance.java" timestamp="1615219203711">
+        <mark key="'" line="25" column="38" />
+        <mark key="[" line="76" column="23" />
+        <mark key="]" line="76" column="30" />
+        <mark key="." line="76" column="29" />
+        <mark key="^" line="76" column="30" />
+      </file>
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/b.java" timestamp="1615218827802">
+        <mark key="'" line="1102" column="28" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/Enhancer.java" timestamp="1615985255735">
+        <mark key="'" line="224" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/FinalizeEscapeGC.java" timestamp="1616070784097">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="36" column="9" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="26" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/HeapOOM.java" timestamp="1615984935014">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="9" column="37" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/DirectMemoryOOM.java" timestamp="1615986153135">
+        <mark key="'" line="8" column="22" />
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="15" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/lang/Class.java" timestamp="1615985996676" />
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" timestamp="1615985369136">
+        <mark key="'" line="42" column="26" />
+        <mark key="[" line="50" column="46" />
+        <mark key="]" line="51" column="44" />
+        <mark key="." line="51" column="43" />
+        <mark key="^" line="51" column="44" />
+      </file>
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/Unknown.java" timestamp="1615218898807">
+        <mark key="]" line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="9" column="28" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/sun/misc/Unsafe.java" timestamp="1615986133174">
+        <mark key="'" line="1144" column="0" />
+        <mark key="[" line="53" column="32" />
+        <mark key="]" line="53" column="40" />
+        <mark key="^" line="86" column="25" />
+        <mark key="." line="86" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Sort/build.gradle" timestamp="1615984834150">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="18" />
+        <mark key="^" line="23" column="18" />
+        <mark key="." line="23" column="17" />
+      </file>
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/c.java" timestamp="1615218924134">
+        <mark key="'" line="44" column="12" />
+        <mark key="[" line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/MethodProxy.java" timestamp="1615985151622">
+        <mark key="'" line="227" column="27" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" timestamp="1615712924257">
+        <mark key="'" line="456" column="13" />
+      </file>
+      <file name="/fragment.java" timestamp="1615986188874">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="11" />
-        <mark key="." line="27" column="11" />
-        <mark key="^" line="36" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1613549403102">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/crack/66/dex/11634300/sources/y8/c.java" timestamp="1612073170048">
-        <mark key="[" line="153" column="56" />
-        <mark key="]" line="154" column="29" />
-        <mark key="^" line="154" column="29" />
-        <mark key="." line="154" column="28" />
-      </file>
-      <file name="/Python Console" timestamp="1613567963130">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/crack/66/dex/11634300/sources/a9/Service.java" timestamp="1612438483666">
-        <mark key="'" line="59" column="8" />
-      </file>
-      <file name="$USER_HOME$/crack/66/dex/11634300/sources/im/zuber/android/api/params/room/RoomRentOutParamBuilder.java" timestamp="1612079719951">
-        <mark key="'" line="46" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/chinese_stock/xirr_test.py" timestamp="1613549536215">
-        <mark key="'" line="11" column="4" />
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="27" column="23" />
-        <mark key="^" line="27" column="39" />
-        <mark key="." line="27" column="23" />
-      </file>
-      <file name="/prisma.Data [omv]" timestamp="1612371420174">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/chinese_stock/main.py" timestamp="1613562131165">
-        <mark key="'" line="77" column="14" />
-        <mark key="[" line="62" column="25" />
-        <mark key="]" line="62" column="26" />
-        <mark key="." line="62" column="26" />
-        <mark key="^" line="63" column="19" />
-      </file>
-      <file name="$USER_HOME$/code/mutijumppythonnode/t4/request.py" timestamp="1616232823192" />
-      <file name="$APPLICATION_HOME_DIR$/helpers/third_party/thriftpy/_shaded_thriftpy/_compat.py" timestamp="1613567981011">
-        <mark key="[" line="121" column="12" />
-        <mark key="]" line="121" column="13" />
-        <mark key="." line="121" column="12" />
-        <mark key="^" line="121" column="13" />
-      </file>
-      <file name="$USER_HOME$/.pyenv/versions/3.9.1/lib/python3.9/calendar.py" timestamp="1613568790493">
-        <mark key="'" line="626" column="9" />
-      </file>
-      <file name="/a.sql" timestamp="1612371374928">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/crack/66/dex/11634300/postman_pre_script.js" timestamp="1612073193811">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="24" column="45" />
-        <mark key="^" line="24" column="45" />
-        <mark key="." line="24" column="44" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/budget/get_holiday_and_workday.py" timestamp="1613571389769">
-        <mark key="'" line="60" column="18" />
-        <mark key="[" line="68" column="20" />
-        <mark key="]" line="68" column="22" />
-        <mark key="." line="68" column="21" />
-        <mark key="^" line="68" column="22" />
-      </file>
-      <file name="$USER_HOME$/code/mutijumppythonnode/core/query.py" timestamp="1616232928646" />
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/chinese-stock-eKqp5S7R-py3.9/lib/python3.9/site-packages/pandas/core/groupby/generic.py" timestamp="1613293198594">
-        <mark key="'" line="994" column="10" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/datetime.pyi" timestamp="1613568579980">
-        <mark key="'" line="287" column="8" />
-      </file>
-      <file name="/dummy.sql" timestamp="1612371422481">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/prisma.Task [omv]" timestamp="1612371421462">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/MethodInterceptor.java" timestamp="1615985125629" />
     </filemarks>
     <jumps>
-      <jump line="1034" column="0" filename="$USER_HOME$/code/mutijumppythonnode/node.log" />
-      <jump line="110" column="13" filename="$USER_HOME$/code/mutijumppythonnode/core/core.py" />
-      <jump line="63" column="39" filename="$USER_HOME$/code/mutijumppythonnode/core/core.py" />
-      <jump line="89" column="47" filename="$USER_HOME$/code/mutijumppythonnode/venv/lib/python3.7/site-packages/github3/api.py" />
-      <jump line="1247" column="189" filename="$USER_HOME$/code/mutijumppythonnode/node.log" />
-      <jump line="60" column="33" filename="$USER_HOME$/code/mutijumppythonnode/core/query.py" />
-      <jump line="8" column="2" filename="$USER_HOME$/code/mutijumppythonnode/README.md" />
-      <jump line="10" column="28" filename="$USER_HOME$/code/mutijumppythonnode/main.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/mutijumppythonnode/main.py" />
-      <jump line="83" column="27" filename="$USER_HOME$/code/mutijumppythonnode/core/core.py" />
-      <jump line="51" column="29" filename="$USER_HOME$/code/mutijumppythonnode/t4/request.py" />
-      <jump line="179" column="4" filename="$USER_HOME$/code/mutijumppythonnode/venv/lib/python3.7/site-packages/sqlalchemy/engine/__init__.py" />
-      <jump line="311" column="39" filename="$USER_HOME$/code/mutijumppythonnode/venv/lib/python3.7/site-packages/sqlalchemy/engine/__init__.py" />
-      <jump line="291" column="48" filename="$USER_HOME$/code/mutijumppythonnode/venv/lib/python3.7/site-packages/sqlalchemy/engine/__init__.py" />
-      <jump line="304" column="39" filename="$USER_HOME$/code/mutijumppythonnode/venv/lib/python3.7/site-packages/sqlalchemy/engine/__init__.py" />
-      <jump line="84" column="4" filename="$USER_HOME$/code/mutijumppythonnode/venv/lib/python3.7/site-packages/sqlalchemy/engine/__init__.py" />
-      <jump line="100" column="55" filename="$USER_HOME$/code/mutijumppythonnode/venv/lib/python3.7/site-packages/sqlalchemy/engine/__init__.py" />
-      <jump line="91" column="19" filename="$USER_HOME$/code/mutijumppythonnode/core/core.py" />
-      <jump line="4" column="10" filename="$USER_HOME$/code/mutijumppythonnode/test/dbtest.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/code/mutijumppythonnode/test/dbtest.py" />
-      <jump line="14" column="34" filename="$USER_HOME$/code/mutijumppythonnode/model/task.py" />
-      <jump line="19" column="111" filename="$USER_HOME$/code/mutijumppythonnode/node.log" />
-      <jump line="944" column="18" filename="$USER_HOME$/code/mutijumppythonnode/node.log" />
-      <jump line="15" column="32" filename="$USER_HOME$/code/leetcode2/SuperEggDrop.py" />
-      <jump line="38" column="18" filename="$USER_HOME$/code/leetcode2/SuperEggDrop.py" />
-      <jump line="45" column="18" filename="$USER_HOME$/code/leetcode2/SuperEggDrop.py" />
-      <jump line="40" column="33" filename="$USER_HOME$/code/leetcode2/SuperEggDrop.py" />
-      <jump line="1" column="11" filename="$USER_HOME$/code/leetcode2/ContainerWithMostWater.py" />
-      <jump line="27" column="20" filename="$USER_HOME$/code/leetcode2/3sum.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/leetcode2/3sum.py" />
-      <jump line="2" column="8" filename="$USER_HOME$/code/leetcode2/LetterCombinationsofaPhoneNumber.py" />
-      <jump line="1126" column="74" filename="$USER_HOME$/code/mutijumppythonnode/node.log" />
-      <jump line="18" column="15" filename="$USER_HOME$/code/mutijumppythonnode/t4/mid.py" />
-      <jump line="73" column="13" filename="$USER_HOME$/code/mutijumppythonnode/utils/encrypt.py" />
-      <jump line="20" column="43" filename="/request.py" />
-      <jump line="0" column="0" filename="/request.py" />
-      <jump line="23" column="2" filename="$USER_HOME$/code/BookMarkBackend/README.md" />
-      <jump line="12" column="12" filename="/Untitled.ipynb" />
-      <jump line="5" column="13" filename="/Untitled.ipynb" />
-      <jump line="22" column="27" filename="/Untitled.ipynb" />
-      <jump line="31" column="14" filename="/Untitled.ipynb" />
-      <jump line="994" column="10" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/chinese-stock-eKqp5S7R-py3.9/lib/python3.9/site-packages/pandas/core/groupby/generic.py" />
-      <jump line="30" column="57" filename="/Untitled.ipynb" />
-      <jump line="43" column="17" filename="/Untitled.ipynb" />
-      <jump line="44" column="21" filename="/Untitled.ipynb" />
-      <jump line="53" column="0" filename="/Untitled.ipynb" />
-      <jump line="9" column="0" filename="/Untitled.ipynb" />
-      <jump line="54" column="19" filename="/Untitled.ipynb" />
-      <jump line="16" column="5" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="66" column="11" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="2" column="18" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="80" column="2" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="33" column="20" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="58" column="17" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="23" column="4" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="7" column="31" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="8" column="22" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="81" column="11" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="74" column="18" filename="$USER_HOME$/code/chinese_stock/main.py" />
-      <jump line="17" column="13" filename="$USER_HOME$/code/chinese_stock/main.py" />
       <jump line="61" column="4" filename="$USER_HOME$/code/chinese_stock/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/chinese_stock/main.py" />
       <jump line="35" column="84" filename="$USER_HOME$/code/chinese_stock/main.py" />
@@ -268,6 +224,66 @@
       <jump line="14" column="30" filename="$USER_HOME$/PycharmProjects/budget/get_holiday_and_workday.py" />
       <jump line="51" column="26" filename="$USER_HOME$/PycharmProjects/budget/get_holiday_and_workday.py" />
       <jump line="60" column="18" filename="$USER_HOME$/PycharmProjects/budget/get_holiday_and_workday.py" />
+      <jump line="83" column="8" filename="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/c.java" />
+      <jump line="32" column="47" filename="$USER_HOME$/com.gkid.crazyrope/sources/f/l/c/b/n/c.java" />
+      <jump line="566" column="33" filename="$USER_HOME$/com.gkid.crazyrope/sources/o/a/a/a/c/b.java" />
+      <jump line="571" column="86" filename="$USER_HOME$/com.gkid.crazyrope/sources/o/a/a/a/c/b.java" />
+      <jump line="346" column="16" filename="$USER_HOME$/com.gkid.crazyrope/sources/f/l/c/a/a/g2.java" />
+      <jump line="26" column="24" filename="$USER_HOME$/com.gkid.crazyrope/sources/f/l/c/a/a/g2.java" />
+      <jump line="37" column="32" filename="$USER_HOME$/com.gkid.crazyrope/sources/f/l/b/d/a/j.java" />
+      <jump line="37" column="23" filename="$USER_HOME$/com.gkid.crazyrope/sources/e/b/a/l.java" />
+      <jump line="481" column="16" filename="$USER_HOME$/com.gkid.crazyrope/sources/f/l/c/a/a/u2.java" />
+      <jump line="436" column="16" filename="$USER_HOME$/com.gkid.crazyrope/sources/f/l/c/a/a/z2.java" />
+      <jump line="954" column="15" filename="$USER_HOME$/com.gkid.crazyrope/sources/f/l/c/a/a/f2.java" />
+      <jump line="448" column="4" filename="$USER_HOME$/com.gkid.crazyrope/sources/f/l/c/a/a/e3.java" />
+      <jump line="583" column="42" filename="$USER_HOME$/com.gkid.crazyrope/sources/o/a/a/a/c/b.java" />
+      <jump line="116" column="11" filename="$USER_HOME$/com.gkid.crazyrope/sources/o/a/a/a/c/b.java" />
+      <jump line="581" column="47" filename="$USER_HOME$/com.gkid.crazyrope/sources/o/a/a/a/c/b.java" />
+      <jump line="592" column="50" filename="$USER_HOME$/com.gkid.crazyrope/sources/o/a/a/a/c/b.java" />
+      <jump line="314" column="19" filename="$USER_HOME$/com.gkid.crazyrope/sources/f/e/a/n/n/i.java" />
+      <jump line="45" column="4" filename="$USER_HOME$/com.gkid.crazyrope/sources/ai/ll/detector/mnn/MNNNetNative.java" />
+      <jump line="82" column="33" filename="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/a.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/MNNNetInstance.java" />
+      <jump line="8" column="18" filename="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/MNNNetInstance.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/MNNNetInstance.java" />
+      <jump line="1106" column="28" filename="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/b.java" />
+      <jump line="44" column="12" filename="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/c.java" />
+      <jump line="25" column="38" filename="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/MNNNetInstance.java" />
+      <jump line="1829" column="4" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="7" column="80" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/UnsafeDemo.java" />
+      <jump line="16" column="11" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/UnsafeDemo.java" />
+      <jump line="3" column="44" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/UnsafeDemo.java" />
+      <jump line="90" column="15" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/sun/misc/Unsafe.java" />
+      <jump line="2266" column="11" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="643" column="31" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="205" column="22" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
+      <jump line="1197" column="22" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="32" column="29" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/UnsafeDemo.java" />
+      <jump line="122" column="22" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
+      <jump line="284" column="13" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
+      <jump line="208" column="19" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
+      <jump line="1198" column="24" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="126" column="60" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
+      <jump line="105" column="38" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
+      <jump line="441" column="20" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
+      <jump line="1246" column="19" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="456" column="13" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
+      <jump line="856" column="18" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="1199" column="23" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="2312" column="22" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="1144" column="0" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/sun/misc/Unsafe.java" />
+      <jump line="12" column="25" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" />
+      <jump line="31" column="15" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" />
+      <jump line="35" column="38" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" />
+      <jump line="172" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/Enhancer.java" />
+      <jump line="70" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/Enhancer.java" />
+      <jump line="43" column="22" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" />
+      <jump line="227" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/MethodProxy.java" />
+      <jump line="44" column="22" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" />
+      <jump line="42" column="26" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" />
+      <jump line="224" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/Enhancer.java" />
+      <jump line="6" column="28" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/DirectMemoryOOM.java" />
+      <jump line="8" column="22" filename="$USER_HOME$/IdeaProjects/Sort/src/main/java/DirectMemoryOOM.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -279,8 +295,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>娱乐</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTQVZFX0hPT0sgPSBudWxsOwogICAgICAgIFN5c3RlbS5nYygpOwoKICAgICAgICBUaHJlYWQuc2xlZXAoNTAwKTsKICAgICAgICBpZiAoU0FWRV9IT09LICE9IG51bGwpIHsKICAgICAgICAgICAgU0FWRV9IT09LLmlzQWxpdmUoKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRlYWQiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -293,40 +309,40 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICBidWlsZGVyLmFkZEdsb2JhbFJlcXVlc3RMaXN0ZW5lcihuZXcgUmVxdWVzdExpc3RlbmVyPE9iamVjdD4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBvbkxvYWRGYWlsZWQoQE51bGxhYmxlIEdsaWRlRXhjZXB0aW9uIGUsIE9iamVjdCBtb2RlbCwgVGFyZ2V0PE9iamVjdD4gdGFyZ2V0LCBib29sZWFuIGlzRmlyc3RSZXNvdXJjZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gb25SZXNvdXJjZVJlYWR5KE9iamVjdCByZXNvdXJjZSwgT2JqZWN0IG1vZGVsLCBUYXJnZXQ8T2JqZWN0PiB0YXJnZXQsIERhdGFTb3VyY2UgZGF0YVNvdXJjZSwgYm9vbGVhbiBpc0ZpcnN0UmVzb3VyY2UpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>娱乐</text>
+        <text>INSTANCE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>大致估算{month}月娱乐预算为: {entertainment_budget}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTQVZFX0hPT0sgPSBudWxsOwogICAgICAgIFN5c3RlbS5nYygpOwoKICAgICAgICBUaHJlYWQuc2xlZXAoNTAwKTsKICAgICAgICBpZiAoU0FWRV9IT09LICE9IG51bGwpIHsKICAgICAgICAgICAgU0FWRV9IT09LLmlzQWxpdmUoKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRlYWQiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoZicnKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">KE1ldGhvZEludGVyY2VwdG9yKSAob2JqLCBtZXRob2QsIGFyZ3MxLCBwcm94eSkgLT4gewogICAgICAgICAgICBwcm94eS5pbnZva2VTdXBlcihvYmosIGFyZ3MxKTsKICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KGxpbmUuZW5jb2RlKCd1dGYtOCcpKQogICAgICAgICMgcHJpbnQobGluZSkK</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGkgPSAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaSsrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bW9udGhfaG9saWRheSA9IDAKbW9udGhfZmlsbCA9IHN0cihtb250aCkuemZpbGwoMikKZm9yIGxpbmUgaW4gaG9saWRheV9yZXN1bHQuc3BsaXRsaW5lcygpOgogICAgaWYgbGluZS5pc3NwYWNlKCkgb3IgbGluZSA9PSAnJzoKICAgICAgICBjb250aW51ZQogICAgIyBwcmludChsaW5lLmVuY29kZSgndXRmLTgnKSkKICAgICMgcHJpbnQobGluZSkKICAgIGlmIGxpbmUuc3RhcnRzd2l0aChtb250aF9maWxsKToKICAgICAgICBtb250aF9ob2xpZGF5ICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICB1bnVzZWQwID0gdW51c2VkMSA9IHVudXNlZDIgPSB1bnVzZWQzID0gMTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
