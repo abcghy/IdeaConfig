@@ -30,67 +30,67 @@
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEY=</text>
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFY=</text>
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEI=</text>
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFI=</text>
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFA=</text>
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE4=</text>
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEs=</text>
+        <text>ctrl pressed K</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEo=</text>
+        <text>ctrl pressed J</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE8=</text>
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEE=</text>
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEk=</text>
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEg=</text>
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEc=</text>
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE0=</text>
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEQ=</text>
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEU=</text>
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFQ=</text>
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/MNNNetInstance.java" timestamp="1615218892618">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="36" />
-        <mark key="^" line="9" column="36" />
-        <mark key="." line="9" column="35" />
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/DirectMemoryOOM.java" timestamp="1615986153135">
+        <mark key="'" line="8" column="22" />
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/UnsafeDemo.java" timestamp="1615906291858">
         <mark key="'" line="32" column="29" />
@@ -99,56 +99,28 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/MNNForwardType.java" timestamp="1615218805155">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="27" />
-        <mark key="^" line="14" column="27" />
-        <mark key="." line="14" column="26" />
+      <file name="$USER_HOME$/code/BookMarkBackend/app/main.py" timestamp="1618118406137">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1615717731890">
         <mark key="'" line="2312" column="22" />
         <mark key="[" line="1243" column="19" />
         <mark key="]" line="1243" column="29" />
       </file>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/MNNNetInstance.java" timestamp="1615219203711">
-        <mark key="'" line="25" column="38" />
-        <mark key="[" line="76" column="23" />
-        <mark key="]" line="76" column="30" />
-        <mark key="." line="76" column="29" />
-        <mark key="^" line="76" column="30" />
-      </file>
-      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/b.java" timestamp="1615218827802">
-        <mark key="'" line="1102" column="28" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/Enhancer.java" timestamp="1615985255735">
-        <mark key="'" line="224" column="34" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/FinalizeEscapeGC.java" timestamp="1616070784097">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="36" column="9" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="26" column="8" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/HeapOOM.java" timestamp="1615984935014">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="38" />
-        <mark key="^" line="9" column="38" />
-        <mark key="." line="9" column="37" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/DirectMemoryOOM.java" timestamp="1615986153135">
-        <mark key="'" line="8" column="22" />
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="10" column="16" />
-        <mark key="^" line="10" column="16" />
-        <mark key="." line="10" column="15" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/lang/Class.java" timestamp="1615985996676" />
       <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/JavaVMStackSOF.java" timestamp="1615985369136">
         <mark key="'" line="42" column="26" />
         <mark key="[" line="50" column="46" />
         <mark key="]" line="51" column="44" />
         <mark key="." line="51" column="43" />
         <mark key="^" line="51" column="44" />
+      </file>
+      <file name="$USER_HOME$/code/BookMarkBackend/pyproject.toml" timestamp="1618118862585">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
       </file>
       <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/Unknown.java" timestamp="1615218898807">
         <mark key="]" line="9" column="29" />
@@ -172,16 +144,37 @@
         <mark key="'" line="44" column="12" />
         <mark key="[" line="5" column="14" />
       </file>
+      <file name="$USER_HOME$/com.gkid.crazyrope/sources/c/a/a/c/MNNNetInstance.java" timestamp="1615219203711">
+        <mark key="'" line="25" column="38" />
+        <mark key="[" line="76" column="23" />
+        <mark key="]" line="76" column="30" />
+        <mark key="." line="76" column="29" />
+        <mark key="^" line="76" column="30" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/Enhancer.java" timestamp="1615985255735">
+        <mark key="'" line="224" column="34" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/MethodProxy.java" timestamp="1615985151622">
         <mark key="'" line="227" column="27" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" timestamp="1615712924257">
         <mark key="'" line="456" column="13" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/FinalizeEscapeGC.java" timestamp="1616070784097">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="36" column="9" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="26" column="8" />
+      </file>
       <file name="/fragment.java" timestamp="1615986188874">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/MethodInterceptor.java" timestamp="1615985125629" />
+      <file name="$USER_HOME$/IdeaProjects/Sort/src/main/java/HeapOOM.java" timestamp="1615984935014">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="9" column="37" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="61" column="4" filename="$USER_HOME$/code/chinese_stock/main.py" />
@@ -359,7 +352,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="true" />
