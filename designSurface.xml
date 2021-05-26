@@ -5,12 +5,14 @@
         <entry key="../../../../layout/compose-model-1603877857023.xml" value="1.0" />
         <entry key="../../../../layout/compose-model-1603878214639.xml" value="1.0" />
         <entry key="../../../../layout/compose-model-1604044975408.xml" value="0.375" />
-        <entry key="../../../../layout/custom_preview.xml" value="0.13385416666666666" />
-        <entry key="CardsLib/src/main/res/layout/card_checkout/layout/layout_new_checkout.xml" value="0.13196555217831812" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.165625" />
+        <entry key="CardsLib/src/main/res/layout/card_checkout/layout/layout_card_checkout_recipient_view.xml" value="0.2640625" />
+        <entry key="CardsLib/src/main/res/layout/card_checkout/layout/layout_new_checkout.xml" value="0.2640625" />
         <entry key="CardsLib/src/main/res/layout/layout_new_bulk_fragment.xml" value="0.31666666666666665" />
         <entry key="CardsLib/src/main/res/layout/layout_post_checkout.xml" value="0.13632246376811594" />
         <entry key="CardsLib/src/main/res/layout/layout_rounded_quantity_picker.xml" value="0.29791666666666666" />
         <entry key="CardsLib/src/main/res/layout/my_cards/layout/fragment_categories.xml" value="0.1534954407294833" />
+        <entry key="CardsLib/src/main/res/layout/view_checkout_shipping_method.xml" value="0.2640625" />
       </map>
     </option>
   </component>
