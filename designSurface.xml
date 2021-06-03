@@ -6,6 +6,7 @@
         <entry key="../../../../layout/compose-model-1603878214639.xml" value="1.0" />
         <entry key="../../../../layout/compose-model-1604044975408.xml" value="0.375" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="CardsLib/src/main/res/layout/adapter_gift_inner_product.xml" value="0.26927083333333335" />
         <entry key="CardsLib/src/main/res/layout/card_checkout/layout/layout_card_checkout_options_row.xml" value="0.32447916666666665" />
         <entry key="CardsLib/src/main/res/layout/card_checkout/layout/layout_card_checkout_options_view.xml" value="0.3026041666666667" />
         <entry key="CardsLib/src/main/res/layout/card_checkout/layout/layout_card_checkout_recipient_view.xml" value="0.3026041666666667" />
@@ -14,6 +15,8 @@
         <entry key="CardsLib/src/main/res/layout/category_structure.xml" value="0.2833333333333333" />
         <entry key="CardsLib/src/main/res/layout/fragment_gift_browse.xml" value="0.2833333333333333" />
         <entry key="CardsLib/src/main/res/layout/fragment_order_history_detail.xml" value="0.2989583333333333" />
+        <entry key="CardsLib/src/main/res/layout/item_home_category.xml" value="0.26927083333333335" />
+        <entry key="CardsLib/src/main/res/layout/item_home_category_top.xml" value="0.26927083333333335" />
         <entry key="CardsLib/src/main/res/layout/item_select_card_type.xml" value="0.2712962962962963" />
         <entry key="CardsLib/src/main/res/layout/layout_adapter_gifts_products_list.xml" value="0.26927083333333335" />
         <entry key="CardsLib/src/main/res/layout/layout_fc_premium_switch_container.xml" value="0.3234375" />
