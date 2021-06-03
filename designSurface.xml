@@ -12,6 +12,7 @@
         <entry key="CardsLib/src/main/res/layout/card_checkout/layout/layout_delivery_dialog.xml" value="0.3026041666666667" />
         <entry key="CardsLib/src/main/res/layout/card_checkout/layout/layout_new_checkout.xml" value="0.3026041666666667" />
         <entry key="CardsLib/src/main/res/layout/fragment_gift_browse.xml" value="0.2712962962962963" />
+        <entry key="CardsLib/src/main/res/layout/fragment_order_history_detail.xml" value="0.2989583333333333" />
         <entry key="CardsLib/src/main/res/layout/item_select_card_type.xml" value="0.2712962962962963" />
         <entry key="CardsLib/src/main/res/layout/layout_fc_premium_switch_container.xml" value="0.3234375" />
         <entry key="CardsLib/src/main/res/layout/layout_new_bulk_fragment.xml" value="0.31666666666666665" />
