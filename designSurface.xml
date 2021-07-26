@@ -46,6 +46,8 @@
         <entry key="CardsLib/src/main/res/xml/debug_menu.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3145833333333333" />
         <entry key="app/src/main/res/xml/setting.xml" value="0.3145833333333333" />
+        <entry key="fcuk/src/main/res/layout/layout_card_customize.xml" value="0.37083333333333335" />
+        <entry key="ink/src/main/res/layout/layout_card_customize.xml" value="0.2078125" />
         <entry key="ink/src/main/res/layout/layout_rounded_quantity_picker.xml" value="0.340625" />
         <entry key="postagram/src/main/res/layout/layout_postagram_customize.xml" value="0.2833333333333333" />
         <entry key="synergy-lib-android/GiftsLib/src/main/res/layout/category_structure.xml" value="0.3734375" />
