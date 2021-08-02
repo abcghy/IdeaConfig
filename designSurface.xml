@@ -13,7 +13,7 @@
         <entry key="CardsLib/src/main/res/layout/card_checkout/layout/layout_card_checkout_billing_row.xml" value="0.2916666666666667" />
         <entry key="CardsLib/src/main/res/layout/card_checkout/layout/layout_card_checkout_options_row.xml" value="0.32447916666666665" />
         <entry key="CardsLib/src/main/res/layout/card_checkout/layout/layout_card_checkout_options_view.xml" value="0.31197916666666664" />
-        <entry key="CardsLib/src/main/res/layout/card_checkout/layout/layout_card_checkout_recipient_row.xml" value="0.2796296296296296" />
+        <entry key="CardsLib/src/main/res/layout/card_checkout/layout/layout_card_checkout_recipient_row.xml" value="0.3359375" />
         <entry key="CardsLib/src/main/res/layout/card_checkout/layout/layout_card_checkout_recipient_view.xml" value="0.33125" />
         <entry key="CardsLib/src/main/res/layout/card_checkout/layout/layout_delivery_dialog.xml" value="0.3026041666666667" />
         <entry key="CardsLib/src/main/res/layout/card_checkout/layout/layout_new_checkout.xml" value="0.35572916666666665" />
