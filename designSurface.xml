@@ -51,6 +51,7 @@
         <entry key="CardsLib/src/main/res/menu/menu_home.xml" value="0.31354166666666666" />
         <entry key="CardsLib/src/main/res/menu/new_debug_menu.xml" value="0.31875" />
         <entry key="CardsLib/src/main/res/xml/debug_menu.xml" value="0.1" />
+        <entry key="CardsLib/src/main/res/xml/search_debug_menu.xml" value="0.3578125" />
         <entry key="app/src/main/res/drawable/ic_ink_cards_logo_registered_white.xml" value="0.3619791666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.346875" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.26927083333333335" />
