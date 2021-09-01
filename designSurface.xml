@@ -71,6 +71,7 @@
         <entry key="ink/src/main/res/layout/layout_rounded_quantity_picker.xml" value="0.340625" />
         <entry key="ink/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
         <entry key="postagram/src/main/res/layout/layout_postagram_customize.xml" value="0.2833333333333333" />
+        <entry key="synergy-lib-android/GiftsLib/src/main/res/layout/activity_gift_debug_menu.xml" value="0.3302083333333333" />
         <entry key="synergy-lib-android/GiftsLib/src/main/res/layout/category_structure.xml" value="0.3734375" />
         <entry key="synergy-lib-android/GiftsLib/src/main/res/layout/fragment_categories_gift.xml" value="0.3734375" />
         <entry key="synergy-lib-android/GiftsLib/src/main/res/layout/fragment_products.xml" value="0.3734375" />
@@ -78,6 +79,7 @@
         <entry key="synergy-lib-android/GiftsLib/src/main/res/layout/item_home_category_top.xml" value="0.359375" />
         <entry key="synergy-lib-android/GiftsLib/src/main/res/layout/search_layout_gift.xml" value="0.359375" />
         <entry key="synergy-lib-android/GiftsLib/src/main/res/menu/contacts.xml" value="0.3302083333333333" />
+        <entry key="synergy-lib-android/GiftsLib/src/main/res/menu/gift_debug_menu.xml" value="0.3302083333333333" />
         <entry key="synergy-lib-android/GiftsLib/src/main/res/menu/menu_main.xml" value="0.3302083333333333" />
         <entry key="synergy-lib-android/Sincerelylib/src/main/res/layout/activity_serverdevelpermode.xml" value="0.31875" />
         <entry key="synergy-lib-android/Sincerelylib/src/main/res/layout/fragment_social_media.xml" value="0.3067708333333333" />
