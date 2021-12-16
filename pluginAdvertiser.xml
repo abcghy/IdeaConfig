@@ -1318,16 +1318,6 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" />
-                    </value>
-                  </entry>
-                  <entry key="AndroidJUnit">
-                    <value>
-                      <FeaturePluginData displayName="Android JUnit" pluginName="Android" pluginId="org.jetbrains.android" />
-                    </value>
-                  </entry>
                   <entry key="AndroidRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Android App" pluginName="Android" pluginId="org.jetbrains.android" />
@@ -1336,11 +1326,6 @@
                   <entry key="AndroidTestRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Android Instrumented Tests" pluginName="Android" pluginId="org.jetbrains.android" />
-                    </value>
-                  </entry>
-                  <entry key="AntRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Ant Target" pluginName="Ant" pluginId="AntSupport" />
                     </value>
                   </entry>
                   <entry key="AppEngineRunConfiguration">
@@ -1398,11 +1383,6 @@
                       <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
-                  <entry key="MavenRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" />
-                    </value>
-                  </entry>
                   <entry key="Remote">
                     <value>
                       <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" />
@@ -1413,19 +1393,9 @@
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
                     </value>
                   </entry>
-                  <entry key="SpaceRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" />
-                    </value>
-                  </entry>
                   <entry key="TestNG">
                     <value>
                       <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" />
-                    </value>
-                  </entry>
-                  <entry key="XSLT">
-                    <value>
-                      <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
                     </value>
                   </entry>
                 </map>
@@ -1496,21 +1466,6 @@
                   <entry key="jar">
                     <value>
                       <FeaturePluginData displayName="JAR" pluginName="Java" pluginId="com.intellij.java" />
-                    </value>
-                  </entry>
-                  <entry key="javafx">
-                    <value>
-                      <FeaturePluginData displayName="JavaFx application" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" />
-                    </value>
-                  </entry>
-                  <entry key="javafx-preloader">
-                    <value>
-                      <FeaturePluginData displayName="JavaFx preloader" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" />
-                    </value>
-                  </entry>
-                  <entry key="jpackage">
-                    <value>
-                      <FeaturePluginData displayName="Platform specific package" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" />
                     </value>
                   </entry>
                   <entry key="plain">
