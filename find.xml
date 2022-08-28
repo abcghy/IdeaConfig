@@ -5,13 +5,14 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*op</mask>
     <mask>build.gradle</mask>
-    <mask>*.kt</mask>
     <mask>*.gradle</mask>
+    <mask>*.java</mask>
+    <mask>*.kt</mask>
+    <mask>*.xml</mask>
+    <mask>AndroidManifest.xml</mask>
   </component>
 </application>
