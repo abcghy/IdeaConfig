@@ -23,6 +23,17 @@
         <target value="Android 12.0" />
         <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-9B151FFAZ00BZ8-yixrne._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Google Pixel 4" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
