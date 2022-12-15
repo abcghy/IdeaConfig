@@ -4,8 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine okhttp" />
-        <option value="package:mine okhttp --&gt; GET https:" />
         <option value="package:mine " />
+        <option value="package:mine okhttp --&gt; GET https:" />
         <option value="package:mine hello" />
         <option value="package:mine appsetting" />
         <option value="package:mine level:ERROR " />
