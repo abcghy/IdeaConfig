@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="okhttp" />
+    <option name="mostRecentlyUsed" value="package:mine TESTTTFFF" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine TESTTTFFF" />
         <option value="okhttp" />
         <option value="package:mine " />
         <option value="package:mine okhttp" />
@@ -11,7 +12,6 @@
         <option value="package:mine level:error " />
         <option value="package:mine level:error TESTTTFFF" />
         <option value="package:mine TooLarge" />
-        <option value="package:mine TESTTTFFF" />
         <option value="package:mine level:ERROR " />
         <option value="package:mine TESTTTFFF " />
         <option value="package:mine okhttp --&gt; https" />
