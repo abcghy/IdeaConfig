@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -10,12 +11,12 @@
     <mask>*op</mask>
     <mask>build.gradle</mask>
     <mask>*.java</mask>
-    <mask>*.kt</mask>
     <mask>AndroidManifest.xml</mask>
     <mask>colors.xml</mask>
     <mask>*Fragment.java</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.pro</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
