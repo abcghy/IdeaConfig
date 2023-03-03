@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
         <option value="package:mine okhttp" />
         <option value="package:mine " />
         <option value="package:mine level:error " />
@@ -22,7 +23,6 @@
         <option value="package:mine x" />
         <option value="package:mine TTTESTTTT" />
         <option value="package:mine okhttp --&gt; GET https:" />
-        <option value="package:mine hello" />
       </list>
     </option>
   </component>
