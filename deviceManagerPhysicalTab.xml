@@ -5,11 +5,22 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="RFCN30H0Y2H" />
+          </Key>
+        </key>
+        <name value="samsung SM-G9810" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="9B151FFAZ00BZ8" />
           </Key>
         </key>
         <name value="Google Pixel 4" />
-        <target value="Android Tiramisu" />
+        <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
