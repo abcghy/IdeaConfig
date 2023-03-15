@@ -1,0 +1,9 @@
+<application>
+  <component name="pref">
+    <option name="items">
+      <list>
+        <option value="asdf" />
+      </list>
+    </option>
+  </component>
+</application>
