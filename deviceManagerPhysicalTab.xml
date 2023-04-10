@@ -5,10 +5,21 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="SKLBSSVSAE9H5H8D" />
+            <value value="9B151FFAZ00BZ8" />
           </Key>
         </key>
-        <name value="Xiaomi 22041211AC" />
+        <name value="Google Pixel 4" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="9B061FFAZ0004U" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
@@ -27,10 +38,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="9B151FFAZ00BZ8" />
+            <value value="SKLBSSVSAE9H5H8D" />
           </Key>
         </key>
-        <name value="Google Pixel 4" />
+        <name value="Xiaomi 22041211AC" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
