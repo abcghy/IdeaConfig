@@ -36,6 +36,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.master.studio.plugin.adb_input">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="org.jetbrains.kotlin">
           <value>
             <PluginData />
