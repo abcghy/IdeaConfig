@@ -4,6 +4,7 @@
       <mapping ext="db" type="AUTO_DETECTED" />
       <mapping pattern="image-classic-false" type="Image" />
       <mapping pattern="image-premium-false" type="Image" />
+      <mapping pattern="image-premium-true" type="Image" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
