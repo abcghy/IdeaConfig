@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine level:error " />
+        <option value="package:mine request" />
         <option value="package:mine " />
         <option value="package:mine TESTTTFFF" />
         <option value="package:mine okhttp" />
