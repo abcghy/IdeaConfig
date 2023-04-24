@@ -78,6 +78,17 @@
         <target value="Android Tiramisu" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-SKLBSSVSAE9H5H8D-xXwEHV._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Xiaomi 22041211AC" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
