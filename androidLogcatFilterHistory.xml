@@ -4,25 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine level:error " />
-        <option value="package:mine okhttp" />
+        <option value="package:mine request" />
         <option value="package:mine " />
-        <option value="package:mine level:error" />
-        <option value="package:mine level:error TESTTTFFF" />
         <option value="package:mine TESTTTFFF" />
-        <option value="okhttp" />
-        <option value="package:mine" />
-        <option value="package:mine TooLarge" />
-        <option value="package:mine level:ERROR " />
-        <option value="package:mine TESTTTFFF " />
-        <option value="package:mine okhttp --&gt; https" />
-        <option value="package:mine x" />
-        <option value="package:mine TTTESTTTT" />
-        <option value="package:mine okhttp --&gt; GET https:" />
-        <option value="package:mine hello" />
-        <option value="package:mine appsetting" />
-        <option value="package:mine okhttp " />
-        <option value="level:ERROR TESTTTFFF" />
-        <option value="level:ERROR " />
+        <option value="package:mine okhttp" />
+        <option value="package:mine new_contact_page_experiment" />
       </list>
     </option>
   </component>
