@@ -3,5 +3,7 @@
     <local-interpreter path="/usr/local/opt/node@16/bin/node">
       <version-cache version="16.17.0" last-modified="1662464482474" />
     </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v18.12.1/bin/node" excluded="true" />
+    <local-interpreter path="/opt/homebrew/bin/node" excluded="true" />
   </component>
 </application>
