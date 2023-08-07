@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine okhttp " />
+    <option name="mostRecentlyUsed" value="package:mine  PasskeyManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  PasskeyManager" />
+        <option value="package:mine  " />
         <option value="package:mine okhttp " />
         <option value="package:mine TESTTTFFF " />
         <option value="package:mine okhttp" />
