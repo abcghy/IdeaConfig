@@ -1,18 +1,27 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine UkInsideTextView" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine UkInsideTextView" />
-        <option value="package:mine TESTTTFFF" />
         <option value="package:mine " />
-        <option value="package:mine level:error " />
         <option value="package:mine okhttp" />
+        <option value="package:mine PasskeyManager" />
+        <option value="package:mine  PasskeyManager" />
+        <option value="package:mine  " />
+        <option value="package:mine okhttp " />
+        <option value="package:mine TESTTTFFF " />
+        <option value="package:mine message~:--&gt;|&lt;--" />
+        <option value="package:mine message~:" />
+        <option value="package:mine --&gt;|&lt;--" />
+        <option value="package:mine --&gt;" />
+        <option value="package:mine (---&gt;)" />
+        <option value="package:mine (\-\-\&gt;|\&lt;\-\-)" />
+        <option value="package:mine level:error " />
+        <option value="package:mine TESTTTFFF" />
+        <option value="okhttp" />
+        <option value="package:mine UkInsideTextView" />
         <option value="package:mine TESTTTTFFF" />
         <option value="package:mine" />
-        <option value="okhttp" />
         <option value="package:mine request" />
-        <option value="package:mine new_contact_page_experiment" />
       </list>
     </option>
   </component>
